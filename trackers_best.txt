@@ -58,8 +58,6 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.harry.lu:80/announce
 
-udp://newtoncity.org:6969/announce
-
 udp://open.demonii.com:1337
 
 udp://open.demonii.si:1337/announce

@@ -14,7 +14,7 @@
 
 *这些列表每天自动更新：*
 
-* 优质列表: (67 个) =>  
+* 优质列表: (66 个) =>  
 https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/trackers_best.txt
 * 完整列表: (231 个) =>  
 https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/trackers_all.txt
