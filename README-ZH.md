@@ -10,13 +10,13 @@
 
 [English explanation see here](https://github.com/XIU2/TrackersListCollection/blob/master/README.md)
 
-### 更新时间：2019-10-03
+### 更新时间：2019-10-04
 
 *这些列表每天自动更新：*
 
-* 优质列表: (XX 个) =>
+* 优质列表: (231 个) =>
 https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/trackers_best.txt
-* 完整列表: (XX 个) =>
+* 完整列表: (67 个) =>
 https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/trackers_all.txt
 
 ****

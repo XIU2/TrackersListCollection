@@ -10,13 +10,13 @@ The project only makes a list of popular public trackers into collections.
 
 [中文说明请看这里](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md)
 
-### Updated: 2019-10-03
+### Updated: 2019-10-04
 
 *These lists are automatically updated every day:*
 
-* Better public tracker list: (XX trackers) =>
+* Better public tracker list: (231 trackers) =>
 https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/trackers_best.txt
-* Complete public tracker list: (XX trackers) =>
+* Complete public tracker list: (67 trackers) =>
 https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/trackers_all.txt
 
 ****
