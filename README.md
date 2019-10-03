@@ -1,7 +1,9 @@
 # XIU2/TrackersListCollection
 
 Update the collection of popular public BitTorrent tracker lists.  
+
 The project only makes a list of popular public trackers into collections.  
+
 [中文说明请看这里](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md)
 
 ### Updated: 2019-10-03
