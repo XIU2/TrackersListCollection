@@ -78,8 +78,6 @@ http://therightsize.net:1337/announce
 
 http://torrent.nwps.ws:80/announce
 
-http://torrentclub.tech:6969/announce
-
 http://torrentsmd.com:8080/announce
 
 http://torrentsmd.eu:8080/announce
@@ -105,6 +103,8 @@ http://tracker.internetwarriors.net:1337/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
+
+http://tracker.noobsubs.net:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -193,6 +193,10 @@ https://opentracker.co:443/announce
 https://opentracker.xyz:443/announce
 
 https://t.quic.ws:443/announce
+
+https://tr.void.vg:443/announce
+
+https://tr.zhina.org:443/announce
 
 https://tracker.fastdownload.xyz:443/announce
 

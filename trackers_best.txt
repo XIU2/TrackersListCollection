@@ -14,6 +14,8 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.noobsubs.net:80/announce
+
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.yoshi210.com:6969/announce
@@ -24,9 +26,15 @@ http://tracker3.itzmx.com:6961/announce
 
 http://www.proxmox.com:6969/announce
 
+https://1337.abcvg.info:443/announce
+
 https://opentracker.xyz:443/announce
 
 https://t.quic.ws:443/announce
+
+https://tr.void.vg:443/announce
+
+https://tr.zhina.org:443/announce
 
 https://tracker.fastdownload.xyz:443/announce
 
@@ -69,8 +77,6 @@ udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337
 
 udp://retracker.akado-ural.ru:80/announce
-
-udp://retracker.baikal-telecom.net:2710/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
