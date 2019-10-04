@@ -4,9 +4,9 @@
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg?style=flat-square)](https://996.icu)
 
-更新流行的公共 BitTorrent 跟踪器列表合集。  
+每天更新流行的公共 BitTorrent 跟踪器列表合集。  
 
-该项目仅将流行的公共跟踪器列表制作成合集方便大家使用。  
+该项目仅将流行的公共跟踪器列表制作成合集方便大家使用，无需再一个个导入了~。  
 
 [English explanation see here](https://github.com/XIU2/TrackersListCollection/blob/master/README.md)
 
