@@ -15,9 +15,9 @@ The project only makes a list of popular public trackers into collections.
 *These lists are automatically updated every day:*
 
 * Better public tracker list: (66 trackers) =>  
-[https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/trackers_best.txt](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/trackers_best.txt)
+[https://xiu2.github.io/TrackersListCollection/trackers_best.txt](https://xiu2.github.io/TrackersListCollection/trackers_best.txt)
 * Complete public tracker list: (231 trackers) =>  
-[https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/trackers_all.txt](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/trackers_all.txt)
+[https://xiu2.github.io/TrackersListCollection/trackers_all.txt](https://xiu2.github.io/TrackersListCollection/trackers_all.txt)
 
 ****
 
