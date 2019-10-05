@@ -32,7 +32,7 @@
 
 ****
 
-### 贡献
+### 帮助项目
 
 * 您知道更多公共追踪器列表吗？(例如: ngosang/trackerslist) => [Open a new issue](https://github.com/XIU2/TrackersListCollection/issues/new)
 
