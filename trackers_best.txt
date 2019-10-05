@@ -14,15 +14,17 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.noobsubs.net:80/announce
-
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.yoshi210.com:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
+http://tracker2.itzmx.com:6961/announce
+
 http://tracker3.itzmx.com:6961/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://www.proxmox.com:6969/announce
 
@@ -37,6 +39,8 @@ https://tr.void.vg:443/announce
 https://tr.zhina.org:443/announce
 
 https://tracker.fastdownload.xyz:443/announce
+
+https://tracker.hama3.net:443/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -100,8 +104,6 @@ udp://tracker.ds.is:6969/announce
 
 udp://tracker.iamhansen.xyz:2000/announce
 
-udp://tracker.internetwarriors.net:1337/announce
-
 udp://tracker.leechers-paradise.org:6969/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -124,7 +126,13 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
+udp://tracker1.itzmx.com:8080/announce
+
+udp://tracker2.itzmx.com:6961/announce
+
 udp://tracker3.itzmx.com:6961/announce
+
+udp://tracker4.itzmx.com:2710/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
 
