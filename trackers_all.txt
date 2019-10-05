@@ -172,11 +172,11 @@ http://tracker.gbitt.info/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.internetwarriors.net:1337/announce
+
 http://tracker.ipv6tracker.ru/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.kamigami.org:2710/announce
 
 http://tracker.lelux.fi:80/announce
 
