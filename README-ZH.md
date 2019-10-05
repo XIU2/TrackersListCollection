@@ -14,7 +14,11 @@
 
 *这些列表每天自动更新：*
 
-* 优质列表: (73 个) =>  
+> 精选列表中的 Trackers 相对更加稳定，少而精。  
+> 完整列表中的 Trackers 数量更多，理论上效果更好，但可能会存在少量死链。  
+> 一般来说，我**推荐使用 完整列表，以使下载速度最大化！**
+
+* 精选列表: (73 个) =>  
 [https://xiu2.github.io/TrackersListCollection/trackers_best.txt](https://xiu2.github.io/TrackersListCollection/trackers_best.txt)
 * 完整列表: (321 个) =>  
 [https://xiu2.github.io/TrackersListCollection/trackers_all.txt](https://xiu2.github.io/TrackersListCollection/trackers_all.txt)
