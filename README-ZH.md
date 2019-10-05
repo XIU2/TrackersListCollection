@@ -27,6 +27,7 @@
 * [https://github.com/ngosang/trackerslist](https://github.com/ngosang/trackerslist)
 * [https://newtrackon.com/list](https://newtrackon.com/list)
 * [https://torrents.io/tracker-list/](https://torrents.io/tracker-list/)
+* [http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt](http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt)
 
 感谢这些项目！
 
