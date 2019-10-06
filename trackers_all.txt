@@ -178,6 +178,8 @@ http://tracker.ipv6tracker.ru/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.kamigami.org:2710/announce
+
 http://tracker.lelux.fi:80/announce
 
 http://tracker.moeking.me:6969/announce
@@ -331,6 +333,8 @@ https://tracker.lelux.fi:443/announce
 https://tracker.nanoha.org/announce
 
 https://tracker.nanoha.org:443/announce
+
+https://tracker.nullrebel.com:443/announce
 
 https://tracker.parrotsec.org/announce
 
@@ -627,6 +631,8 @@ udp://tw.opentracker.ga:36920/announce
 udp://u4.trakx.nibba.trade:1337/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
+
+udp://www.loushao.net:8080/announce
 
 udp://xxxtor.com:2710/announce
 
