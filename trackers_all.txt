@@ -92,6 +92,8 @@ http://opentracker.xyz:80/announce
 
 http://peach.urown.cloud:6969/announce
 
+http://pow7.com:80/announce
+
 http://re-tracker.uz:80/announce
 
 http://retracker.bashtel.ru:80/announce

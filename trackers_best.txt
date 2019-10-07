@@ -48,8 +48,6 @@ https://tracker.vectahosting.eu:2053/announce
 
 https://tracker6.lelux.fi:443/announce
 
-https://trakr.nullrebel.com:443/announce
-
 udp://9.rarbg.com:2710/announce
 
 udp://9.rarbg.me:2710/announce
@@ -89,8 +87,6 @@ udp://retracker.lanta-net.ru:2710/announce
 udp://retracker.netbynet.ru:2710/announce
 
 udp://torrentclub.tech:6969/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0o.is:6969/announce
 
