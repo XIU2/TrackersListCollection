@@ -26,8 +26,6 @@ http://87.110.238.140:6969/announce
 
 http://95.211.168.204:2710/announce
 
-http://acg.rip:6699/announce
-
 http://agusiq-torrents.pl:6969/announce
 
 http://atrack.pow7.com:80/announce
@@ -179,8 +177,6 @@ http://tracker.internetwarriors.net:1337/announce
 http://tracker.ipv6tracker.ru/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.kamigami.org:2710/announce
 
 http://tracker.lelux.fi:80/announce
 

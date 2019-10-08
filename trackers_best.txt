@@ -38,8 +38,6 @@ https://tr.zhina.org:443/announce
 
 https://tracker.fastdownload.xyz:443/announce
 
-https://tracker.hama3.net:443/announce
-
 https://tracker.nanoha.org:443/announce
 
 https://tracker.publictorrent.net:443/announce

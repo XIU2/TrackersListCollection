@@ -10,7 +10,7 @@ The project only makes a list of popular public trackers into collections.
 
 [中文说明请看这里](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md)
 
-### Updated: 2019-10-08
+### Updated: 2019-10-09
 
 *These lists are automatically updated every day:*
 
@@ -18,9 +18,9 @@ The project only makes a list of popular public trackers into collections.
 > Complete public tracker list is more in number and theoretically better. but there may be some invalid trackers.  
 > In general, **I recommend using the complete list to maximize download speed!**
 
-* Better public tracker list: (72 trackers) =>  
+* Better public tracker list: (71 trackers) =>  
 [https://xiu2.github.io/TrackersListCollection/trackers_best.txt](https://xiu2.github.io/TrackersListCollection/trackers_best.txt)
-* Complete public tracker list: (325 trackers) =>  
+* Complete public tracker list: (323 trackers) =>  
 [https://xiu2.github.io/TrackersListCollection/trackers_all.txt](https://xiu2.github.io/TrackersListCollection/trackers_all.txt)
 
 ****
