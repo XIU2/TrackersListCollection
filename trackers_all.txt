@@ -26,6 +26,8 @@ http://87.110.238.140:6969/announce
 
 http://95.211.168.204:2710/announce
 
+http://acg.rip:6699/announce
+
 http://agusiq-torrents.pl:6969/announce
 
 http://atrack.pow7.com:80/announce
@@ -85,8 +87,6 @@ http://open.trackerlist.xyz:80/announce
 http://opentracker.acgnx.se:80/announce
 
 http://opentracker.xyz/announce
-
-http://opentracker.xyz:80/announce
 
 http://peach.urown.cloud:6969/announce
 

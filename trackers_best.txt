@@ -28,8 +28,6 @@ http://www.proxmox.com:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-https://opentracker.xyz:443/announce
-
 https://t.quic.ws:443/announce
 
 https://tr.void.vg:443/announce

@@ -10,7 +10,7 @@
 
 [English explanation see here](https://github.com/XIU2/TrackersListCollection/blob/master/README.md)
 
-### 更新时间：2019-10-09
+### 更新时间：2019-10-10
 
 *这些列表每天自动更新：*
 
@@ -18,7 +18,7 @@
 > 完整列表中的 Trackers 数量更多，理论上效果更好，但可能会存在少量死链。  
 > 一般来说，我**推荐使用 完整列表，以使下载速度最大化！**
 
-* 精选列表: (71 个) =>  
+* 精选列表: (70 个) =>  
 [https://xiu2.github.io/TrackersListCollection/trackers_best.txt](https://xiu2.github.io/TrackersListCollection/trackers_best.txt)
 * 完整列表: (323 个) =>  
 [https://xiu2.github.io/TrackersListCollection/trackers_all.txt](https://xiu2.github.io/TrackersListCollection/trackers_all.txt)
