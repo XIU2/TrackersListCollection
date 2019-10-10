@@ -10,7 +10,7 @@
 
 [English explanation see here](https://github.com/XIU2/TrackersListCollection/blob/master/README.md)
 
-### 更新时间：2019-10-10
+### 更新时间：2019-10-11
 
 *这些列表每天自动更新：*
 

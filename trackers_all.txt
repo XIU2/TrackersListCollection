@@ -88,6 +88,8 @@ http://opentracker.acgnx.se:80/announce
 
 http://opentracker.xyz/announce
 
+http://opentracker.xyz:80/announce
+
 http://peach.urown.cloud:6969/announce
 
 http://pow7.com:80/announce
@@ -625,8 +627,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tw.opentracker.ga:36920/announce
-
-udp://u4.trakx.nibba.trade:1337/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
 
