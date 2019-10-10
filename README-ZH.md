@@ -4,9 +4,9 @@
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg?style=flat-square)](https://996.icu)
 
-每天更新流行的公共 BitTorrent 跟踪器列表合集。  
+每天更新！全网热门公共 BitTorrent Tracker 列表合集。  
 
-该项目仅将流行的公共跟踪器列表制作成合集方便大家使用，无需再一个个导入了~。  
+该项目仅将全网热门的公共 Tracker 列表制作成合集方便大家使用，无需再一个个导入了~。  
 
 [English explanation see here](https://github.com/XIU2/TrackersListCollection/blob/master/README.md)
 
@@ -14,8 +14,8 @@
 
 *这些列表每天自动更新：*
 
-> 精选列表中的 Trackers 相对更加稳定，少而精。  
-> 完整列表中的 Trackers 数量更多，理论上效果更好，但可能会存在少量死链。  
+> 精选列表中的 Tracker 相对更加稳定，少而精。  
+> 完整列表中的 Tracker 数量更多，理论上效果更好，但可能会存在少量死链。  
 > 一般来说，我**推荐使用 完整列表，以使下载速度最大化！**
 
 * 精选列表: (70 个) =>  
@@ -25,7 +25,7 @@
 
 ****
 
-### Trackers来源
+### Tracker来源
 
 该项目汇集了以下公共跟踪器列表：
 * [https://github.com/ngosang/trackerslist](https://github.com/ngosang/trackerslist)
