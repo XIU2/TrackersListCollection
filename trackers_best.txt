@@ -38,10 +38,6 @@ https://1337.abcvg.info:443/announce
 
 https://t.quic.ws:443/announce
 
-https://tr.void.vg:443/announce
-
-https://tr.zhina.org:443/announce
-
 https://tracker.fastdownload.xyz:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -117,8 +113,6 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.msm8916.com:6969/announce
 
 udp://tracker.nextrp.ru:6969/announce
-
-udp://tracker.nibba.trade:1337/announce
 
 udp://tracker.nyaa.uk:6969/announce
 
