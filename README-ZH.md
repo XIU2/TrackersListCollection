@@ -10,6 +10,8 @@
 
 [English explanation see here](https://github.com/XIU2/TrackersListCollection/blob/master/README.md)
 
+****
+
 ### Tracker是什么？
 
 Tracker 是 BT 下载中一个必须的角色。  
