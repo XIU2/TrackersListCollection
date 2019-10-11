@@ -32,6 +32,9 @@ This project brings together the following list of public trackers:
 * [https://newtrackon.com/list](https://newtrackon.com/list)
 * [https://torrents.io/tracker-list/](https://torrents.io/tracker-list/)
 * [http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt](http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt)
+* [https://tinytorrent.net/best-torrent-tracker-list-updated/](https://tinytorrent.net/best-torrent-tracker-list-updated/)
+* [https://torrenttrackerss.com/torrent-tracker-list/](https://torrenttrackerss.com/torrent-tracker-list/)
+* [http://www.torrenttrackerlist.com/torrent-tracker-list](http://www.torrenttrackerlist.com/torrent-tracker-list)
 
 Thanks for these projects!
 
