@@ -1,4 +1,10 @@
+http://asnet.pw:2710/announce
+
 http://h4.trakx.nibba.trade:80/announce
+
+http://pt.lax.mx:80/announce
+
+http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
@@ -11,6 +17,8 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
+
+http://tracker.tfile.co:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
@@ -82,6 +90,8 @@ udp://retracker.lanta-net.ru:2710/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
+udp://thetracker.org:80/announce
+
 udp://torrentclub.tech:6969/announce
 
 udp://tracker.0o.is:6969/announce
@@ -91,6 +101,8 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
+
+udp://tracker.doko.moe:6969/announce
 
 udp://tracker.ds.is:6969/announce
 

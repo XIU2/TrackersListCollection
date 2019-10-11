@@ -18,9 +18,9 @@ The project only makes a list of popular public trackers into collections.
 > Complete public tracker list is more in number and theoretically better. but there may be some invalid trackers.  
 > In general, **I recommend using the complete list to maximize download speed!**
 
-* Better public tracker list: (70 trackers) =>  
+* Better public tracker list: (76 trackers) =>  
 [https://xiu2.github.io/TrackersListCollection/trackers_best.txt](https://xiu2.github.io/TrackersListCollection/trackers_best.txt)
-* Complete public tracker list: (323 trackers) =>  
+* Complete public tracker list: (439 trackers) =>  
 [https://xiu2.github.io/TrackersListCollection/trackers_all.txt](https://xiu2.github.io/TrackersListCollection/trackers_all.txt)
 
 ****
