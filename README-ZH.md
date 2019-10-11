@@ -10,6 +10,22 @@
 
 [English explanation see here](https://github.com/XIU2/TrackersListCollection/blob/master/README.md)
 
+### Tracker是什么？
+
+Tracker 是 BT 下载中一个必须的角色。  
+
+你 BT 下载的时候，下载的文件从哪里来？是别人下载好的文件上传给你，同时你下载好的文件上传给别人。但是如果没人来牵线搭桥 ，大家怎么知道这个文件谁下载的有？而你又要上传给谁？  
+
+Tracker 就起到这个作用，它会追踪有多少人在下载同一个文件，并把这些用户的名单发送给你的 BT下载软件，BT下载软件就会尝试链接这些用户，让已下载该文件的用户上传给你（给你提供下载速度），而你把下载好的上传给正在下载这个文件的人（给别人提供下载速度）。  
+
+**所以，优质的 Tracker，可以有效提高资源解析速度及下载速度。** 同时，**用这些 Tracker 的人越多，大家的下载速度就越快**，所以请多多给身边的朋友推荐！（用的人越多给你提供下载速度的人就越多）  
+
+***下图是使用我整理的 Tracker 列表下载BT的速度（我用的是完整列表）。***
+
+![比特彗星效果图](https://github.com/XIU2/TrackersListCollection/raw/master/img/zh-02.png)
+
+****
+
 ### 更新时间：2019-10-11
 
 *这些列表每天自动更新：*
@@ -45,7 +61,6 @@
 勾选两个选项并在最下方输入框填写 Tracker URL，然后点击 **\[立即更新\]** 按钮后，上面的大输入框就会显示获取的 Tracker 了。（如下图所示）
 
 ![比特彗星订阅 Tracker URL](https://github.com/XIU2/TrackersListCollection/raw/master/img/zh-01.png)
-
 
 ****
 
