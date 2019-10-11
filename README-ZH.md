@@ -37,6 +37,18 @@
 
 ****
 
+### 如何使用
+
+#### 比特彗星(BitComet)
+
+* 步骤：**工具 - 选项 - Tracker**  
+勾选两个选项并在最下方输入框填写 Tracker URL，然后点击 **\[立即更新\]** 按钮后，上面的大输入框就会显示获取的 Tracker 了。（如下图所示）
+
+![比特彗星订阅 Tracker URL](https://github.com/XIU2/TrackersListCollection/raw/master/img/zh-01.png)
+
+
+****
+
 ### 帮助项目
 
 * 您知道更多公共追踪器列表吗？(例如: ngosang/trackerslist) => [Open a new issue](https://github.com/XIU2/TrackersListCollection/issues/new)
