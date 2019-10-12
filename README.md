@@ -20,10 +20,10 @@ The project only makes a list of popular public trackers into collections.
 > Complete public tracker list is more in number and theoretically better. but there may be some invalid trackers.  
 > **The number of Tracker does not affect the operation of the BT software, so I recommend using the full list to maximize the download speed !**
 
-* Better public tracker list: (72 trackers) =>  
-[https://xiu2.github.io/TrackersListCollection/trackers_best.txt](https://xiu2.github.io/TrackersListCollection/trackers_best.txt)
-* Complete public tracker list: (439 trackers) =>  
-[https://xiu2.github.io/TrackersListCollection/trackers_all.txt](https://xiu2.github.io/TrackersListCollection/trackers_all.txt)
+* **Better public tracker list:** (72 trackers)  
+[https://trackerslist.com/trackers_best.txt](https://trackerslist.com/trackers_best.txt)
+* **Complete public tracker list:** (439 trackers)  
+[https://trackerslist.com/trackers_all.txt](https://trackerslist.com/trackers_all.txt)
 
 ****
 
@@ -31,10 +31,10 @@ The project only makes a list of popular public trackers into collections.
 
 To make it easier for people using Aria2 to add Tracker, I made a separate copy in the Aria2 configuration format. The update is consistent.
 
-* Better public tracker list: =>  
-[https://xiu2.github.io/TrackersListCollection/trackers_best_aria2.txt](https://xiu2.github.io/TrackersListCollection/trackers_best_aria2.txt)
-* Complete public tracker list: =>  
-[https://xiu2.github.io/TrackersListCollection/trackers_all_aria2.txt](https://xiu2.github.io/TrackersListCollection/trackers_all_aria2.txt)
+* **Better public tracker list:**  
+[https://trackerslist.com/trackers_best_aria2.txt](https://trackerslist.com/trackers_best_aria2.txt)
+* **Complete public tracker list:**  
+[https://trackerslist.com/trackers_all_aria2.txt](https://trackerslist.com/trackers_all_aria2.txt)
 
 [Aria2 Instructions](https://github.com/XIU2/TrackersListCollection#Aria2)
 
@@ -69,7 +69,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 #### BitComet
 
-![BitComet Tracker](https://github.com/XIU2/TrackersListCollection/raw/master/img/en-01.png)
+![BitComet Tracker](https://github.com/XIU2/TrackersListCollection/raw/master/img/en-02.png)
 
 ### Contribute
 
