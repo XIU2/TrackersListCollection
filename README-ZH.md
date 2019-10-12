@@ -43,6 +43,17 @@ Tracker 就起到这个作用，它会追踪有多少人在下载同一个文件
 
 ****
 
+#### Aria2 Tracker
+
+为了方便使用 Aria2 的人添加 Tracker，我特地按照 Aria2 配置格式单独做了一份，跟随更新。
+
+* 精选列表：=>  
+[https://xiu2.github.io/TrackersListCollection/trackers_best_aria2.txt](https://xiu2.github.io/TrackersListCollection/trackers_best_aria2.txt)
+* 完整列表：=>  
+[https://xiu2.github.io/TrackersListCollection/trackers_all_aria2.txt](https://xiu2.github.io/TrackersListCollection/trackers_all_aria2.txt)
+
+****
+
 ### Tracker来源
 
 该项目汇集了以下公共跟踪器列表：
