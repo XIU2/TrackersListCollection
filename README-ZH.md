@@ -52,6 +52,8 @@ Tracker 就起到这个作用，它会追踪有多少人在下载同一个文件
 * 完整列表：=>  
 [https://xiu2.github.io/TrackersListCollection/trackers_all_aria2.txt](https://xiu2.github.io/TrackersListCollection/trackers_all_aria2.txt)
 
+[Aria2 使用方法](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md#Aria2)
+
 ****
 
 ### Tracker来源？
@@ -70,6 +72,16 @@ Tracker 就起到这个作用，它会追踪有多少人在下载同一个文件
 ****
 
 ### 如何使用？
+
+#### Aria2
+
+复制 Aria2 Tracker 后，粘贴到 `aria2.conf` 配置文件中的 `bt-tracker=` 后面，示例如下：
+```
+bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
+```
+> **注意：** 粘贴前请先删除旧 Tracker 内容，避免格式错误！
+
+****
 
 #### 比特彗星(BitComet)
 
