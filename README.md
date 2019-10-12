@@ -27,6 +27,17 @@ The project only makes a list of popular public trackers into collections.
 
 ****
 
+#### Aria2 Tracker
+
+To make it easier for people using Aria2 to add Tracker, I made a separate copy in the Aria2 configuration format. The update is consistent.
+
+* Better public tracker list: =>  
+[https://xiu2.github.io/TrackersListCollection/trackers_best_aria2.txt](https://xiu2.github.io/TrackersListCollection/trackers_best_aria2.txt)
+* Complete public tracker list: =>  
+[https://xiu2.github.io/TrackersListCollection/trackers_all_aria2.txt](https://xiu2.github.io/TrackersListCollection/trackers_all_aria2.txt)
+
+****
+
 ### Tracker Source
 
 This project brings together the following list of public trackers:
