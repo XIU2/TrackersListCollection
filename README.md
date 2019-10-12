@@ -18,7 +18,7 @@ The project only makes a list of popular public trackers into collections.
 
 > Better public tracker list is relatively more stable, concise.  
 > Complete public tracker list is more in number and theoretically better. but there may be some invalid trackers.  
-> In general, **I recommend using the complete list to maximize download speed!**
+> **The number of Tracker does not affect the operation of the BT software, so I recommend using the full list to maximize the download speed !**
 
 * Better public tracker list: (73 trackers) =>  
 [https://xiu2.github.io/TrackersListCollection/trackers_best.txt](https://xiu2.github.io/TrackersListCollection/trackers_best.txt)
