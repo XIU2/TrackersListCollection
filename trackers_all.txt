@@ -166,8 +166,6 @@ http://mgtracker.org:6969/announce
 
 http://nbz.f3322.net:36006/announce
 
-http://newtoncity.org:6969/announce
-
 http://node.611.to:9000/announce
 
 http://ns349743.ip-91-121-106.eu:80/announce

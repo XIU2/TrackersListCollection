@@ -12,7 +12,7 @@ The project only makes a list of popular public trackers into collections.
 
 ****
 
-### Updated: 2019-10-12
+### Updated: 2019-10-13
 
 *These lists are automatically updated every day:*
 
