@@ -60,7 +60,7 @@ Thanks for these projects!
 #### Aria2
 
 After copying Aria2 Tracker, paste it into the `bt-tracker=` tail in the `aria2.conf` configuration file. Example:
-```
+``` ini
 bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 ```
 > **Note:** Please delete the old Tracker content before pasting to avoid formatting errors!
