@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<title>XIU2/TrackersListCollection</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta name="description" content="Description" />
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+		<link rel="icon" type="image/x-icon" href="img/favicon.ico">
+		<link rel="stylesheet" href="https://cdn.staticfile.org/docsify/4.9.4/themes/vue.css" />
+		<link rel="stylesheet" href="https://unpkg.com/docsify-gifcontrol/dist/docsify-gifcontrol.css"><!--  GIF控制功能样式 -->
+		<style  type="text/css">
+		details {margin-left: 10px;}
+		summary {color: var(--theme-color,#3aa273);cursor: help;}
+		summary, button {outline:none;}
+		.markdown-section table {margin-top: 1.2em;}
+		</style>
+	</head>
+	<body>
+		<style  type="text/css">
+		.docsify-copy-code-button {padding: 0.3em 1.2em;font-size: 13px;}
+		.docsify-tabs--classic .docsify-tabs__tab--active {box-shadow: inset 0 var(--docsifytabs-tab-highlight-px) 0 0 #45af7f;}
+		.docsify-tabs--material .docsify-tabs__tab--active {box-shadow: 0 var(--docsifytabs-tab-highlight-px) 0 0 #45af7f;background: #fbfbfb;}}
+		</style>
+		<div id="app">Load...</div>
+		<script>
+			window.$docsify={
+				name:'TrackersListCollection',
+				repo:'XIU2/TrackersListCollection',
+				loadNavbar:true,
+				auto2top:true,
+				themeColor:'#4B93F1',
+				search:{maxAge:86400000,paths:'auto',placeholder:{'/':'搜索'},noData:{'/':'找不到你说的玩意儿...'},depth:4},
+				copyCode:{buttonText : '复制',errorText  : '复制失败',successText: '已复制'},
+				gifcontrol: {mode: 'hover',loadingWidth: '300px',loadingHeight: '200px',overlayColor: 'rgba(255, 255, 255, 0.6)',iconColor: 'rgb(255, 255, 255',errorText: "加载图片时出错",errorIcon: '<svg t="1568033363003" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2463" width="32" height="32"><path d="M512 0a512 512 0 1 0 512 512A512 512 0 0 0 512 0z m-46.665143 264.850286a47.030857 47.030857 0 1 1 93.878857 0v327.094857a47.030857 47.030857 0 1 1-93.878857 0V264.850286z m47.104 573.001143a64 64 0 1 1 64-64 63.963429 63.963429 0 0 1-64 64z" p-id="2464" fill="#cccccc"></path></svg>',errorTextColor: "rgb(150, 150, 150)",spinnerBarColor: '#42b983',spinnerTrackColor: 'rgba(0, 0, 0, 0.08)'},
+				tabs: {persist: false,sync: true,theme: 'classic',tabComments: true,tabHeadings: true}
+			}
+		</script>
+		<script src="https://cdn.staticfile.org/docsify/4.9.4/docsify.min.js"></script>
+		<script src="https://cdn.staticfile.org/docsify/4.9.4/plugins/search.min.js"></script><!--  搜索功能插件 -->
+		<script src="https://unpkg.com/prismjs/components/prism-bash.min.js"></script><!--  bash代码高亮插件 -->
+		<script src="https://unpkg.com/docsify-copy-code@2"></script><!--  复制代码功能插件 -->
+		<script src="https://unpkg.com/docsify-gifcontrol/dist/docsify-gifcontrol.js"></script><!--  GIF控制功能插件 -->
+		<script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script><!--  选项卡功能插件 -->
+	</body>
+</html>
