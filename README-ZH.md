@@ -36,9 +36,9 @@ Tracker 就起到这个作用，它会追踪有多少人在下载同一个文件
 > 完整列表中的 Tracker 数量更多，理论上效果更好，但可能会存在少量死链。  
 > **Tracker 数量并不会影响 BT 软件运行速度**，所以我更**推荐使用 完整列表，以使下载速度最大化！**
 
-* 精选列表: (73 个) =>  
+* 精选列表：( 73 个) =>  
 [https://xiu2.github.io/TrackersListCollection/trackers_best.txt](https://xiu2.github.io/TrackersListCollection/trackers_best.txt)
-* 完整列表: (439 个) =>  
+* 完整列表：( 439 个) =>  
 [https://xiu2.github.io/TrackersListCollection/trackers_all.txt](https://xiu2.github.io/TrackersListCollection/trackers_all.txt)
 
 ****
