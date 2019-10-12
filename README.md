@@ -36,6 +36,8 @@ To make it easier for people using Aria2 to add Tracker, I made a separate copy 
 * Complete public tracker list: =>  
 [https://xiu2.github.io/TrackersListCollection/trackers_all_aria2.txt](https://xiu2.github.io/TrackersListCollection/trackers_all_aria2.txt)
 
+[Aria2 Instructions](https://github.com/XIU2/TrackersListCollection#Aria2)
+
 ****
 
 ### Tracker Source
@@ -50,6 +52,18 @@ This project brings together the following list of public trackers:
 * [http://www.torrenttrackerlist.com/torrent-tracker-list](http://www.torrenttrackerlist.com/torrent-tracker-list)
 
 Thanks for these projects!
+
+****
+
+### How to use ?
+
+#### Aria2
+
+After copying Aria2 Tracker, paste it into the `bt-tracker=` tail in the `aria2.conf` configuration file. Example:
+```
+bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
+```
+> **Note:** Please delete the old Tracker content before pasting to avoid formatting errors!
 
 ****
 
