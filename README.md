@@ -12,6 +12,20 @@ The project only makes a list of popular public trackers into collections.
 
 ****
 
+### What is Tracker ?
+
+Tracker is a required role in BT downloads.  
+
+High-quality Tracker can effectively improve BT download speed.  
+
+The more people use these Trackers, the faster the BT download speed will be, **so please recommend it to your friends!**
+
+***The figure below shows the BT download speed after using Tracker. (Complete list)***  
+
+![BitComet](https://github.com/XIU2/TrackersListCollection/raw/master/img/en-03.png)
+
+****
+
 ### Updated: 2019-10-13
 
 *These lists are automatically updated every day:*
