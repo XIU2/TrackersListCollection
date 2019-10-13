@@ -36,6 +36,8 @@ http://www.proxmox.com:6969/announce
 
 https://1337.abcvg.info:443/announce
 
+https://opentracker.xyz:443/announce
+
 https://t.quic.ws:443/announce
 
 https://tracker.fastdownload.xyz:443/announce
@@ -69,8 +71,6 @@ udp://ipv6.tracker.harry.lu:80/announce
 udp://open.demonii.com:1337
 
 udp://open.demonii.si:1337/announce
-
-udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
@@ -123,6 +123,8 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.uw0.xyz:6969/announce
+
+udp://tracker01.loveapp.com:6789/announce
 
 udp://tracker1.itzmx.com:8080/announce
 
