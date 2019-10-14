@@ -26,13 +26,12 @@
 		<div id="app">Load...</div>
 		<script>
 			window.$docsify={
-				name:'TrackersListCollection',
 				repo:'XIU2/TrackersListCollection',
 				loadNavbar:true,
-				loadSidebar:true,
 				auto2top:true,
+				fallbackLanguages: ['zh', 'en'],
 				themeColor:'#4B93F1',
-				search:{maxAge:86400000,paths:'auto',placeholder:{'/':'搜索'},noData:{'/':'找不到你说的玩意儿...'},depth:4},
+				search:{maxAge:86400000,paths:'auto',placeholder:{'/':'Search / 搜索'},noData:{'/':'not found... / 找不到你说的玩意儿...'},depth:4},
 				copyCode:{buttonText : '复制',errorText  : '复制失败',successText: '已复制'},
 				gifcontrol: {mode: 'hover',loadingWidth: '300px',loadingHeight: '200px',overlayColor: 'rgba(255, 255, 255, 0.6)',iconColor: 'rgb(255, 255, 255',errorText: "加载图片时出错",errorIcon: '<svg t="1568033363003" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2463" width="32" height="32"><path d="M512 0a512 512 0 1 0 512 512A512 512 0 0 0 512 0z m-46.665143 264.850286a47.030857 47.030857 0 1 1 93.878857 0v327.094857a47.030857 47.030857 0 1 1-93.878857 0V264.850286z m47.104 573.001143a64 64 0 1 1 64-64 63.963429 63.963429 0 0 1-64 64z" p-id="2464" fill="#cccccc"></path></svg>',errorTextColor: "rgb(150, 150, 150)",spinnerBarColor: '#42b983',spinnerTrackColor: 'rgba(0, 0, 0, 0.08)'},
 				tabs: {persist: false,sync: true,theme: 'classic',tabComments: true,tabHeadings: true}
