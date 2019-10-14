@@ -32,7 +32,7 @@ The more people use these Trackers, the faster the BT download speed will be, **
 
 > Better public tracker list is relatively more stable, concise.  
 > Complete public tracker list is more in number and theoretically better. but there may be some invalid trackers.  
-> **The number of Tracker does not affect the operation of the BT software, so I recommend using the full list to maximize the download speed !**
+> **The number of Tracker does not affect the operation of the BT software, so I recommend using the `complete list` to maximize the download speed !**
 
 * **Better public tracker list:** (72 trackers)  
 [https://trackerslist.com/trackers_best.txt](https://trackerslist.com/trackers_best.txt)
