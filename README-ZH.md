@@ -34,7 +34,7 @@ Tracker 就起到这个作用，它会追踪有多少人在下载同一个文件
 
 > 精选列表中的 Tracker 相对更加稳定，少而精。  
 > 完整列表中的 Tracker 数量更多，理论上效果更好，但可能会存在少量死链。  
-> **Tracker 数量并不会影响 BT 软件运行速度，所以我更推荐使用【完整列表】，以使下载速度最大化！**
+> **Tracker 数量并不会影响 BT 软件运行速度（经过测试没感觉出差别，BT 开始时间主要取决于 BT 热门程度），所以我更推荐使用「完整列表」，以使下载速度最大化！**
 
 * **精选列表：**(72 个)  
 [https://trackerslist.com/trackers_best.txt](https://trackerslist.com/trackers_best.txt)
@@ -43,7 +43,7 @@ Tracker 就起到这个作用，它会追踪有多少人在下载同一个文件
 
 ****
 
-#### Aria2 Tracker
+#### Aria2 格式 Tracker 地址：
 
 为了方便使用 Aria2 的人添加 Tracker，我特地按照 Aria2 配置格式单独做了一份，跟随更新。
 
@@ -52,11 +52,11 @@ Tracker 就起到这个作用，它会追踪有多少人在下载同一个文件
 * **完整列表：**  
 [https://trackerslist.com/trackers_all_aria2.txt](https://trackerslist.com/trackers_all_aria2.txt)
 
-[Aria2 使用方法](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md#Aria2)
+[#Aria2 使用方法](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md#Aria2)
 
 ****
 
-### Tracker来源？
+### Tracker来源：
 
 该项目汇集了以下公共跟踪器列表：
 * [https://github.com/ngosang/trackerslist](https://github.com/ngosang/trackerslist)
@@ -73,7 +73,7 @@ Tracker 就起到这个作用，它会追踪有多少人在下载同一个文件
 
 ### 如何使用？
 
-#### Aria2
+#### Aria2：
 
 复制 Aria2 Tracker 后，粘贴到 `aria2.conf` 配置文件中的 `bt-tracker=` 后面，示例如下：
 ``` ini
@@ -83,7 +83,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 ****
 
-#### 比特彗星(BitComet)
+#### 比特彗星(BitComet)：
 
 * 步骤：**工具 - 选项 - Tracker**  
 勾选两个选项并在最下方输入框填写 Tracker URL，然后点击 **\[立即更新\]** 按钮后，上面的大输入框就会显示获取的 Tracker 了。（如下图所示）
