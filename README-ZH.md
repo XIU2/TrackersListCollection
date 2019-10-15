@@ -56,21 +56,6 @@ Tracker 就起到这个作用，它会追踪有多少人在下载同一个文件
 
 ****
 
-### Tracker来源：
-
-该项目汇集了以下公共跟踪器列表：
-* [https://github.com/ngosang/trackerslist](https://github.com/ngosang/trackerslist)
-* [https://newtrackon.com/list](https://newtrackon.com/list)
-* [https://torrents.io/tracker-list/](https://torrents.io/tracker-list/)
-* [http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt](http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt)
-* [https://tinytorrent.net/best-torrent-tracker-list-updated/](https://tinytorrent.net/best-torrent-tracker-list-updated/)
-* [https://torrenttrackerss.com/torrent-tracker-list/](https://torrenttrackerss.com/torrent-tracker-list/)
-* [http://www.torrenttrackerlist.com/torrent-tracker-list](http://www.torrenttrackerlist.com/torrent-tracker-list)
-
-感谢这些项目！
-
-****
-
 ### 如何使用？
 
 #### Aria2：
@@ -89,6 +74,37 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 勾选两个选项并在最下方输入框填写 Tracker URL，然后点击 **\[立即更新\]** 按钮后，上面的大输入框就会显示获取的 Tracker 了。（如下图所示）
 
 ![比特彗星订阅 Tracker URL](https://github.com/XIU2/TrackersListCollection/raw/master/img/zh-03.png)
+
+****
+
+### 为什么下载速度慢？
+
+下载速度取决于资源热度。  
+
+资源热度具体来说就是 **当前下载人数** 以及 **已下载并正在做种(上传)的人数。**  
+
+如果一个资源没人提供上传，你就会完全没有下载速度，下载速度取决于上传的人数。   
+
+> 不仅仅是数量，还有质量，国内绝大部分人都没有公网IP，所以上传速度捉急\[没有公网IP仅影响上传速度不影响下载速度\]，只能依靠少量有公网IP的人来提供主要下载速度，这也是为什么国内BT环境这么差的主要原因，另一方面也是奸商运营商上传不对等，除此之外还老是限制BT。  
+
+除了迅雷这种把下载过的资源缓存到自己服务器上来实现“加速”的 BT软件，其他的 BT 软件都是单纯靠其他用户给你提供下载速度。  
+
+> 除此之外，之所以叫吸血雷，是因为迅雷会获取其他用户提供给你的下载速度，但却只把你上传的数据提供给其他迅雷用户，而不是其他客户端的用户，所以对于其他客户端来说，就是迅雷只进不出，俗称吸血雷。
+
+****
+
+### Tracker来源：
+
+该项目汇集了以下公共跟踪器列表：
+* [https://github.com/ngosang/trackerslist](https://github.com/ngosang/trackerslist)
+* [https://newtrackon.com/list](https://newtrackon.com/list)
+* [https://torrents.io/tracker-list/](https://torrents.io/tracker-list/)
+* [http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt](http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt)
+* [https://tinytorrent.net/best-torrent-tracker-list-updated/](https://tinytorrent.net/best-torrent-tracker-list-updated/)
+* [https://torrenttrackerss.com/torrent-tracker-list/](https://torrenttrackerss.com/torrent-tracker-list/)
+* [http://www.torrenttrackerlist.com/torrent-tracker-list](http://www.torrenttrackerlist.com/torrent-tracker-list)
+
+感谢这些项目！
 
 ****
 
