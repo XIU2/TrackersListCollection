@@ -24,7 +24,7 @@ Tracker 就起到这个作用，它会追踪有多少人在下载同一个文件
 
 ***下图是使用我整理的 Tracker 列表下载BT的速度（我用的是完整列表）。***
 
-![比特彗星效果图](https://github.com/XIU2/TrackersListCollection/raw/master/img/zh-02.png)
+![比特彗星效果图](https://github.com/XIU2/TrackersListCollection/raw/master/img/zh-04.png)
 
 ****
 
