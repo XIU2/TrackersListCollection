@@ -71,7 +71,8 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 #### 比特彗星(BitComet)：
 
 * 步骤：**工具 - 选项 - Tracker**  
-勾选两个选项并在最下方输入框填写 Tracker URL，然后点击 **\[立即更新\]** 按钮后，上面的大输入框就会显示获取的 Tracker 了。（如下图所示）
+**勾选两个选项** 并在最下方输入框填写 Tracker URL，然后点击 **\[立即更新\]** 按钮后，上面的大输入框就会显示获取的 Tracker 了。（如下图所示）  
+> 另外说明一下，比特彗星的 **黄灯 绿灯** 仅仅影响上传速度，不影响下载速度，绿灯的前提条件就是 **公网IP** ，然后设置好 **端口映射(UPnP)** 就行了。  
 
 ![比特彗星订阅 Tracker URL](https://github.com/XIU2/TrackersListCollection/raw/master/img/zh-03.png)
 
