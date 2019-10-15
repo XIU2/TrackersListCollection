@@ -58,6 +58,8 @@ udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
+udp://caramelo.ddns.net:8000/announce
+
 udp://denis.stalker.upeer.me:6969/announce
 
 udp://exodus.desync.com:6969/announce
