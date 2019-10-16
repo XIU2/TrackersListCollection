@@ -78,7 +78,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 ****
 
-### qBittorrent：
+#### qBittorrent：
 
 * 步骤：**选项[齿轮图标] - BitTorrent**  
 **勾选下图红框内的选项** 并复制所有 Tracker 后粘贴到下方输入框中，然后点击 **\[Apply\]** 保存。（如下图所示）  
