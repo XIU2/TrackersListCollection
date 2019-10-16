@@ -85,6 +85,14 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 ![BitComet Tracker](https://github.com/XIU2/TrackersListCollection/raw/master/img/en-02.png)
 
+****
+
+#### qBittorrent
+
+![qBittorrent Tracker](https://github.com/XIU2/TrackersListCollection/raw/master/img/en-04.png)
+
+****
+
 ### Contribute
 
 * Do you know more public trackers list? (E.g: ngosang/trackerslist) => [Open a new issue](https://github.com/XIU2/TrackersListCollection/issues/new)
