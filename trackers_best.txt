@@ -38,8 +38,6 @@ https://1337.abcvg.info:443/announce
 
 https://opentracker.xyz:443/announce
 
-https://t.quic.ws:443/announce
-
 https://tracker.fastdownload.xyz:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -92,6 +90,8 @@ udp://torrentclub.tech:6969/announce
 
 udp://tracker.0o.is:6969/announce
 
+udp://tracker.beeimg.com:6969/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.coppersurfer.tk:6969/announce
@@ -125,8 +125,6 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.uw0.xyz:6969/announce
-
-udp://tracker.yoshi210.com:6969/announce
 
 udp://tracker01.loveapp.com:6789/announce
 
