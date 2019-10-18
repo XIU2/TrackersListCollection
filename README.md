@@ -8,7 +8,7 @@ Updated daily! A list of popular public BitTorrent trackers.
 
 The project only makes a list of popular public trackers into collections.  
 
-[中文说明请看这里](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md)
+[「中文说明请看这里 - Github」](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md)
 
 ****
 
