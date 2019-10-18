@@ -144,6 +144,8 @@ http://bt2.careland.com.cn:6969/announce
 
 http://bts.oiyo.tk:80/announce
 
+http://caramelo.ddns.net:8000/announce
+
 http://carapax.net:6969/announce
 
 http://denis.stalker.upeer.me:6969/announce
@@ -647,6 +649,8 @@ udp://prestige.minimafia.nl:443/announce
 udp://public.popcorn-tracker.org:6969/announce
 
 udp://pubt.in:2710/announce
+
+udp://qg.lorzl.gq:2710/announce
 
 udp://retracker.akado-ural.ru:80/announce
 
