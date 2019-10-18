@@ -120,6 +120,8 @@ udp://tracker.openbittorrent.com:80/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
+udp://tracker.sbsub.com:2710/announce
+
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce

@@ -800,6 +800,8 @@ udp://tracker.qt.is:6969/announce
 
 udp://tracker.sandrotracker.biz:6969/announce
 
+udp://tracker.sbsub.com:2710/announce
+
 udp://tracker.sktorrent.net:6969
 
 udp://tracker.sktorrent.net:6969/announce
