@@ -52,15 +52,13 @@ Tracker 就起到这个作用，它会追踪有多少人在下载同一个文件
 * **完整列表：**  
 [https://trackerslist.com/trackers_all_aria2.txt](https://trackerslist.com/trackers_all_aria2.txt)
 
-[#Aria2 使用方法](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md#Aria2)
-
 ****
 
 ### 如何使用？
 
 #### Aria2：
 
-复制 Aria2 Tracker 后，粘贴到 `aria2.conf` 配置文件中的 `bt-tracker=` 后面，示例如下：
+复制 Aria2 格式的 Tracker 文件中内容后，粘贴到 `aria2.conf` 配置文件中的 `bt-tracker=` 后面，示例如下：
 ``` ini
 bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 ```
@@ -106,7 +104,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 ****
 
-### Tracker来源：
+### Tracker来源
 
 该项目汇集了以下公共跟踪器列表：
 * [https://github.com/ngosang/trackerslist](https://github.com/ngosang/trackerslist)
