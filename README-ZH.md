@@ -28,7 +28,7 @@ Tracker 就起到这个作用，它会追踪有多少人在下载同一个文件
 
 ****
 
-### 更新时间：2019-10-19
+### 更新时间：2019-10-20
 
 *这些列表每天 6:30 自动更新：*
 
@@ -38,7 +38,7 @@ Tracker 就起到这个作用，它会追踪有多少人在下载同一个文件
 
 * **精选列表：**(76 个)  
 [https://trackerslist.com/trackers_best.txt](https://trackerslist.com/trackers_best.txt)
-* **完整列表：**(441 个)  
+* **完整列表：**(440 个)  
 [https://trackerslist.com/trackers_all.txt](https://trackerslist.com/trackers_all.txt)
 
 ****
