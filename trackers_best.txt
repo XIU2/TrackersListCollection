@@ -44,6 +44,8 @@ https://tracker.fastdownload.xyz:443/announce
 
 https://tracker.nanoha.org:443/announce
 
+https://tracker.nyaa.tk:443/announce
+
 https://tracker.publictorrent.net:443/announce
 
 https://tracker.vectahosting.eu:2053/announce
