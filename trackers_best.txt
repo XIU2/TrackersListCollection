@@ -44,6 +44,8 @@ https://tracker.fastdownload.xyz:443/announce
 
 https://tracker.nanoha.org:443/announce
 
+https://tracker.nyaa.tk:443/announce
+
 https://tracker.publictorrent.net:443/announce
 
 https://tracker.vectahosting.eu:2053/announce
@@ -133,8 +135,6 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.uw0.xyz:6969/announce
-
-udp://tracker01.loveapp.com:6789/announce
 
 udp://tracker1.itzmx.com:8080/announce
 
