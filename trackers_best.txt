@@ -50,8 +50,6 @@ https://tracker.publictorrent.net:443/announce
 
 https://tracker.vectahosting.eu:2053/announce
 
-udp://9.rarbg.com:2710/announce
-
 udp://9.rarbg.me:2710/announce
 
 udp://9.rarbg.to:2710/announce
