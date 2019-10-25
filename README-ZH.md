@@ -71,7 +71,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 #### 比特彗星(BitComet)：
 
 *比特彗星全功能豪华解锁版下载地址(已配置 Tracker)：[https://www.lanzous.com/b073c7g4f](https://www.lanzous.com/b073c7g4f)*   
-> ***注意：比特彗星(BitComet)解锁版已经把语言文件简体繁体调换，所以使用繁体时(默认语言)会显示简体，请不要修改软件语言，否则会失去 长效种子、种子市场、电驴插件 等功能！***  
+> ***注意：比特彗星(BitComet)解锁版 请勿修改软件语言，避免解锁功能失效！***  
 
 * **工具 - 选项 - Tracker**  
 **勾选两个选项** 并在最下方输入框填写 Tracker URL，然后点击 **\[立即更新\]** 按钮后，上面的大输入框就会显示获取的 Tracker 了。（如下图所示）  
