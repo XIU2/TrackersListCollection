@@ -35,7 +35,7 @@ Tracker 就起到这个作用，它会追踪下载同一个资源的用户，并
 
 ****
 
-### 更新时间：2019-10-26
+### 更新时间：2019-10-27
 
 *这些列表每天 6:30 自动更新：*
 
@@ -43,7 +43,7 @@ Tracker 就起到这个作用，它会追踪下载同一个资源的用户，并
 > 完整列表中的 Tracker 数量更多，理论上效果更好，但可能会存在少量死链。  
 > **Tracker 数量并不会影响 BT 软件运行速度（经过测试没感觉出差别，BT 开始时间主要取决于 BT 热门程度），所以我更推荐使用「完整列表」，以使下载速度最大化！**
 
-* **精选列表：**(76 个)  
+* **精选列表：**(78 个)  
 [https://trackerslist.com/trackers_best.txt](https://trackerslist.com/trackers_best.txt)
 * **完整列表：**(438 个)  
 [https://trackerslist.com/trackers_all.txt](https://trackerslist.com/trackers_all.txt)

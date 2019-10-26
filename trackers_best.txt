@@ -38,6 +38,8 @@ http://www.proxmox.com:6969/announce
 
 https://1337.abcvg.info:443/announce
 
+https://opentracker.co:443/announce
+
 https://opentracker.xyz:443/announce
 
 https://tracker.fastdownload.xyz:443/announce
@@ -131,6 +133,8 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.uw0.xyz:6969/announce
+
+udp://tracker.yoshi210.com:6969/announce
 
 udp://tracker1.itzmx.com:8080/announce
 
