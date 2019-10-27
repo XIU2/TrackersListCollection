@@ -21,17 +21,17 @@ BT 下载速度取决于 **其他下载同一资源用户的上传速度**，而
 > **Peer：** 在你获得一个有效用户后才会起作用，Peer 会获取该用户客户端里的用户信息。  
 > **DHT：** 相当于 Peer 的进阶，每个人都储存一部分 DHT 网络信息，需要的时候会通过该网络获得用户，然后再从该用户处获得更多的网络和用户，在连不上 Tracker 的时候很有效，但缺点是一开始是没有 DHT 网络的，必须要养一段时间（下载一些热门资源）才行。  
 
-Tracker 是 BT 下载中一个 **几乎必须** 的角色。  
+Peer、DHT 缺点太过明显，而且没办法自定义，但是 Tracker 的话现在的主流 BT 软件都支持自定义了。  
 
 你 BT 下载的时候，下载的文件从哪里来？是别人下载好的文件上传给你，同时你下载好的文件上传给别人。但是如果没人来牵线搭桥 ，大家怎么知道这个文件谁下载的有？而你又要上传给谁？  
 
-Tracker 就起到这个作用，它会追踪下载同一个资源的用户，并把这些用户信息发给你的 BT软件，BT软件就会尝试链接这些用户，让其他用户把文件上传给你（给你提供下载速度），而你又把下载好的文件上传给其他需要的人（给别人提供下载速度）。
+Tracker 就起到这个作用，它会追踪下载同一个资源的用户，并把这些用户信息发给你，帮助你与其他用户建立连接，让其他用户把文件上传给你（给你提供下载速度），而你又把下载好的文件上传给其他需要的人（给别人提供下载速度）。
 
-**所以，优质的 Tracker，可以有效提高资源解析速度及下载速度。** 同时，**用这些 Tracker 的人越多，大家的下载速度就越快**，所以请多多给身边的朋友推荐！（用的人越多给你提供下载速度的人就越多）  
+**所以，Tracker 是 BT 下载中一个几乎必须的角色，优质的 Tracker 可以有效提高资源解析速度及下载速度。** 同时，**用这些 Tracker 的人越多，大家的下载速度就越快**，建议请多多推荐给他人！（用的人越多给你提供下载速度的人就越多）  
 
 ***下图是使用我整理的 Tracker 列表下载BT的速度（我用的是完整列表）。***
 
-![比特彗星效果图](https://github.com/XIU2/TrackersListCollection/raw/master/img/zh-01.png)
+![比特彗星效果图](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/img/zh-01.png)
 
 ****
 
@@ -81,7 +81,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 **勾选两个选项** 并在最下方输入框填写 Tracker URL，然后点击 **\[立即更新\]** 按钮后，上面的大输入框就会显示获取的 Tracker 了。（如下图所示）  
 > 另外说明一下，比特彗星的 **黄灯 绿灯** 仅仅影响上传速度，不影响下载速度，绿灯的前提条件就是 **公网IP** ，然后设置好 **端口映射(UPnP)** 就行了。  
 
-![比特彗星 Tracker](https://github.com/XIU2/TrackersListCollection/raw/master/img/zh-03.png)
+![比特彗星 Tracker](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/img/zh-03.png)
 
 ****
 
@@ -90,7 +90,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 * **选项[齿轮图标] - BitTorrent**  
 **勾选下图红框内的选项** 并复制所有 Tracker 后粘贴到下方输入框中，然后点击 **\[Apply\]** 保存。（如下图所示）  
 
-![qBittorrent Tracker](https://github.com/XIU2/TrackersListCollection/raw/master/img/zh-05.png)
+![qBittorrent Tracker](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/img/zh-05.png)
 
 ****
 
