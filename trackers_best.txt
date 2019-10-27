@@ -48,6 +48,8 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.nyaa.tk:443/announce
 
+https://tracker.opentracker.se:443/announce
+
 https://tracker.publictorrent.net:443/announce
 
 https://tracker.vectahosting.eu:2053/announce
@@ -91,8 +93,6 @@ udp://retracker.lanta-net.ru:2710/announce
 udp://retracker.netbynet.ru:2710/announce
 
 udp://thetracker.org:80/announce
-
-udp://torrentclub.tech:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
