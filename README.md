@@ -24,7 +24,7 @@ The more people use these Trackers, the faster the BT download speed will be, **
 
 ***The figure below shows the BT download speed after using Tracker. (Complete list)***  
 
-![BitComet](https://github.com/XIU2/TrackersListCollection/raw/master/img/en-01.png)
+![BitComet](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/img/en-01.png)
 
 ****
 
@@ -68,13 +68,13 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 #### BitComet:
 
-![BitComet Tracker](https://github.com/XIU2/TrackersListCollection/raw/master/img/en-02.png)
+![BitComet Tracker](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/img/en-02.png)
 
 ****
 
 #### qBittorrent:
 
-![qBittorrent Tracker](https://github.com/XIU2/TrackersListCollection/raw/master/img/en-04.png)
+![qBittorrent Tracker](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/img/en-04.png)
 
 ****
 
