@@ -45,7 +45,7 @@ BT 下载速度取决于 **其他下载同一资源用户的上传速度**，而
 
 * **精选列表：**(77 个)  
 [https://trackerslist.com/trackers_best.txt](https://trackerslist.com/trackers_best.txt)
-* **完整列表：**(434 个)  
+* **完整列表：**(356 个)  
 [https://trackerslist.com/trackers_all.txt](https://trackerslist.com/trackers_all.txt)
 
 ****
