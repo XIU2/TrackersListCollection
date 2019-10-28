@@ -134,8 +134,6 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
-udp://tracker.yoshi210.com:6969/announce
-
 udp://tracker1.itzmx.com:8080/announce
 
 udp://tracker2.itzmx.com:6961/announce
