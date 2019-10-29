@@ -128,8 +128,6 @@ http://bt.pusacg.org:8080/announce
 
 http://bt.xxx-tracker.com:2710/announce
 
-http://bt2.54new.com:8080/announce
-
 http://bt2.careland.com.cn:6969/announce
 
 http://carapax.net:6969/announce
@@ -318,6 +316,8 @@ http://tracker4.itzmx.com:2710/announce
 
 http://vps02.net.orel.ru:80/announce
 
+http://www.loushao.net:8080/announce
+
 http://www.proxmox.com:6969/announce
 
 http://www.wareztorrent.com:80/announce
@@ -482,8 +482,6 @@ udp://bt.xxx-tracker.com:2710/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://bt2.54new.com:8080/announce
-
 udp://bt2.archive.org:6969/announce
 
 udp://carapax.net:6969/announce
@@ -529,8 +527,6 @@ udp://peerfect.org:6969/announce
 udp://public.popcorn-tracker.org:6969/announce
 
 udp://pubt.in:2710/announce
-
-udp://qg.lorzl.gq:2710/announce
 
 udp://retracker.akado-ural.ru:80/announce
 
