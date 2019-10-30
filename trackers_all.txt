@@ -128,6 +128,10 @@ http://bt.pusacg.org:8080/announce
 
 http://bt.xxx-tracker.com:2710/announce
 
+http://bt1.xxxxbt.cc:6969/announce
+
+http://bt2.54new.com:8080/announce
+
 http://bt2.careland.com.cn:6969/announce
 
 http://carapax.net:6969/announce
@@ -271,6 +275,8 @@ http://tracker.moeking.me:6969/announce
 http://tracker.novg.net:6969/announce
 
 http://tracker.nyaa.uk:6969/announce
+
+http://tracker.nyap2p.com:8080/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -482,6 +488,8 @@ udp://bt.xxx-tracker.com:2710/announce
 
 udp://bt1.archive.org:6969/announce
 
+udp://bt2.54new.com:8080/announce
+
 udp://bt2.archive.org:6969/announce
 
 udp://carapax.net:6969/announce
@@ -514,9 +522,13 @@ udp://open.demonii.com:1337
 
 udp://open.demonii.si:1337/announce
 
+udp://open.nyap2p.com:6969/announce
+
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
+
+udp://opentracker.arg.bz:6969/announce
 
 udp://p4p.arenabg.com:1337
 
@@ -527,6 +539,8 @@ udp://peerfect.org:6969/announce
 udp://public.popcorn-tracker.org:6969/announce
 
 udp://pubt.in:2710/announce
+
+udp://qg.lorzl.gq:2710/announce
 
 udp://retracker.akado-ural.ru:80/announce
 
