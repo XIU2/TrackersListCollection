@@ -24,7 +24,7 @@ The more people use these Trackers, the faster the BT download speed will be, **
 
 ***The figure below shows the BT download speed after using Tracker. (Complete list)***  
 
-![BitComet](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/img/en-01.png)
+![BitComet](https://trackerslist.com/img/en-01.png)
 
 ****
 
