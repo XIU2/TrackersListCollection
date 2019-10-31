@@ -37,9 +37,9 @@ The more people use these Trackers, the faster the BT download speed will be, **
 > **The number of Tracker does not affect the operation of the BT software, so I recommend using the `complete list` to maximize the download speed !**
 
 * **Better public tracker list:** (79 trackers)  
-[https://trackerslist.com/trackers_best.txt](https://trackerslist.com/trackers_best.txt)
+[https://trackerslist.com/best.txt](https://trackerslist.com/best.txt)
 * **Complete public tracker list:** (359 trackers)  
-[https://trackerslist.com/trackers_all.txt](https://trackerslist.com/trackers_all.txt)
+[https://trackerslist.com/all.txt](https://trackerslist.com/all.txt)
 
 ****
 
@@ -48,9 +48,9 @@ The more people use these Trackers, the faster the BT download speed will be, **
 To make it easier for people using Aria2 to add Tracker, I made a separate copy in the Aria2 configuration format. The update is consistent.
 
 * **Better public tracker list:**  
-[https://trackerslist.com/trackers_best_aria2.txt](https://trackerslist.com/trackers_best_aria2.txt)
+[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)
 * **Complete public tracker list:**  
-[https://trackerslist.com/trackers_all_aria2.txt](https://trackerslist.com/trackers_all_aria2.txt)
+[https://trackerslist.com/all_aria2.txt](https://trackerslist.com/all_aria2.txt)
 
 ****
 
@@ -68,13 +68,13 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 #### BitComet:
 
-![BitComet Tracker](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/img/en-02.png)
+![BitComet Tracker](https://trackerslist.com/img/en-03.png)
 
 ****
 
 #### qBittorrent:
 
-![qBittorrent Tracker](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/img/en-04.png)
+![qBittorrent Tracker](https://trackerslist.com/img/en-04.png)
 
 ****
 
