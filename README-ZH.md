@@ -44,9 +44,9 @@ BT 下载速度取决于 **其他下载同一资源用户的上传速度**，而
 > **Tracker 数量并不会影响 BT 软件运行速度（经过测试没感觉出差别，BT 开始时间主要取决于 BT 热门程度），所以我更推荐使用 `「完整列表」` ，以使下载速度最大化！**
 
 * **精选列表：**(79 个)  
-[https://trackerslist.com/trackers_best.txt](https://trackerslist.com/trackers_best.txt)
+[https://trackerslist.com/best.txt](https://trackerslist.com/best.txt)
 * **完整列表：**(359 个)  
-[https://trackerslist.com/trackers_all.txt](https://trackerslist.com/trackers_all.txt)
+[https://trackerslist.com/all.txt](https://trackerslist.com/all.txt)
 
 ****
 
@@ -55,9 +55,9 @@ BT 下载速度取决于 **其他下载同一资源用户的上传速度**，而
 为了方便使用 Aria2 的人添加 Tracker，我特地按照 Aria2 配置格式单独做了一份，跟随更新。
 
 * **精选列表：**  
-[https://trackerslist.com/trackers_best_aria2.txt](https://trackerslist.com/trackers_best_aria2.txt)
+[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)
 * **完整列表：**  
-[https://trackerslist.com/trackers_all_aria2.txt](https://trackerslist.com/trackers_all_aria2.txt)
+[https://trackerslist.com/all_aria2.txt](https://trackerslist.com/all_aria2.txt)
 
 ****
 
@@ -81,7 +81,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 **勾选两个选项** 并在最下方输入框填写 Tracker URL，然后点击 **\[立即更新\]** 按钮后，上面的大输入框就会显示获取的 Tracker 了。（如下图所示）  
 > 另外说明一下，比特彗星的 **黄灯 绿灯** 仅仅影响上传速度，不影响下载速度，绿灯的前提条件就是 **公网IP** ，然后设置好 **端口映射(UPnP)** 就行了。  
 
-![比特彗星 Tracker](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/img/zh-03.png)
+![比特彗星 Tracker](https://trackerslist.com/img/zh-04.png)
 
 ****
 
@@ -90,7 +90,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 * **选项[齿轮图标] - BitTorrent**  
 **勾选下图红框内的选项** 并复制所有 Tracker 后粘贴到下方输入框中，然后点击 **\[Apply\]** 保存。（如下图所示）  
 
-![qBittorrent Tracker](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/img/zh-05.png)
+![qBittorrent Tracker](https://trackerslist.com/img/zh-05.png)
 
 ****
 
