@@ -31,7 +31,7 @@ BT 下载速度取决于 **其他下载同一资源用户的上传速度**，而
 
 ***下图是使用我整理的 Tracker 列表下载BT的速度（我用的是完整列表）。***
 
-![比特彗星效果图](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/img/zh-01.png)
+![比特彗星效果图](https://trackerslist.com/img/zh-01.png)
 
 ****
 
