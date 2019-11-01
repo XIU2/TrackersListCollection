@@ -224,6 +224,8 @@ http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.bz:80/announce
+
 http://tracker.calculate.ru:6969/announce
 
 http://tracker.city9x.com:2710/announce
@@ -351,8 +353,6 @@ https://tracker.hama3.net:443/announce
 https://tracker.lelux.fi:443/announce
 
 https://tracker.nanoha.org:443/announce
-
-https://tracker.nyaa.tk:443/announce
 
 https://tracker.opentracker.se:443/announce
 
@@ -494,6 +494,8 @@ udp://carapax.net:6969/announce
 
 udp://chihaya.toss.li:9696/announce
 
+udp://contrata.putasysexo.com:53/announce
+
 udp://denis.stalker.upeer.me:6969/announce
 
 udp://eddie4.nl:6969/announce
@@ -587,6 +589,8 @@ udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
