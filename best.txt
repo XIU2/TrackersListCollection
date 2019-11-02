@@ -16,6 +16,8 @@ http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.corpscorp.online:80/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -55,8 +57,6 @@ https://tracker.vectahosting.eu:2053/announce
 udp://9.rarbg.me:2710/announce
 
 udp://9.rarbg.to:2710/announce
-
-udp://amigacity.xyz:6969/announce
 
 udp://bt.okmp3.ru:2710/announce
 
