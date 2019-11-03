@@ -148,6 +148,8 @@ http://mgtracker.org:2710/announce
 
 http://mgtracker.org:6969/announce
 
+http://newtoncity.org:6969/announce
+
 http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -306,8 +308,6 @@ http://tracker1.itzmx.com:8080/announce
 
 http://tracker1.wasabii.com.tw:6969/announce
 
-http://tracker2.dler.org:80/announce
-
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker2.wasabii.com.tw:6969/announce
@@ -338,8 +338,6 @@ https://opentracker.co:443/announce
 
 https://opentracker.xyz:443/announce
 
-https://t.quic.ws:443/announce
-
 https://tracker.bt-hash.com:443/announce
 
 https://tracker.fastdownload.xyz:443/announce
@@ -354,11 +352,7 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.opentracker.se:443/announce
 
-https://tracker.publictorrent.net:443/announce
-
 https://tracker.vectahosting.eu:2053/announce
-
-https://trakr.nullrebel.com:443/announce
 
 udp://104.238.198.186:8000/announce
 
@@ -470,13 +464,9 @@ udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 udp://[2a04:c44:e00:32e0:4cf:6aff:fe00:aa1]:6969/announce
 
-udp://amigacity.xyz:6969/announce
-
 udp://bigfoot1942.sektori.org:6969/announce
 
 udp://bt.aoeex.com:8000/announce
-
-udp://bt.dy20188.com:80/announce
 
 udp://bt.okmp3.ru:2710/announce
 
@@ -586,6 +576,8 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.ds.is:6969/announce
@@ -635,8 +627,6 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.msm8916.com:6969/announce
 
 udp://tracker.nextrp.ru:6969/announce
-
-udp://tracker.nibba.trade:1337/announce
 
 udp://tracker.novg.net:6969/announce
 
