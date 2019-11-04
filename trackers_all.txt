@@ -504,6 +504,8 @@ udp://mgtracker.org:2710/announce
 
 udp://newtoncity.org:6969/announce
 
+udp://npserver.intranet.pw:4201/announce
+
 udp://open.demonii.com:1337
 
 udp://open.demonii.si:1337/announce
@@ -575,8 +577,6 @@ udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
