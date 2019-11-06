@@ -2,6 +2,8 @@ http://asnet.pw:2710/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
+http://mail2.zelenaya.net:80/announce
+
 http://open.trackerlist.xyz:80/announce
 
 http://pt.lax.mx:80/announce
