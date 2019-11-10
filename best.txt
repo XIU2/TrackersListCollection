@@ -2,8 +2,6 @@ http://asnet.pw:2710/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
-http://mail2.zelenaya.net:80/announce
-
 http://open.trackerlist.xyz:80/announce
 
 http://pt.lax.mx:80/announce
@@ -88,11 +86,11 @@ udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337
 
+udp://p4p.arenabg.com:1337/announce
+
 udp://retracker.akado-ural.ru:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
-
-udp://retracker.lanta-net.ru:2710/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
@@ -129,6 +127,8 @@ udp://tracker.nyaa.uk:6969/announce
 udp://tracker.openbittorrent.com:80/announce
 
 udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.pomf.se:80/announce
 
 udp://tracker.sbsub.com:2710/announce
 
