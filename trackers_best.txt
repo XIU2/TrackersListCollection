@@ -2,6 +2,8 @@ http://asnet.pw:2710/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
+http://mail2.zelenaya.net:80/announce
+
 http://open.trackerlist.xyz:80/announce
 
 http://pt.lax.mx:80/announce
@@ -121,6 +123,8 @@ udp://tracker.iamhansen.xyz:2000/announce
 udp://tracker.leechers-paradise.org:6969/announce
 
 udp://tracker.moeking.me:6969/announce
+
+udp://tracker.nextrp.ru:6969/announce
 
 udp://tracker.nyaa.uk:6969/announce
 
