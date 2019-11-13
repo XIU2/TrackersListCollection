@@ -44,8 +44,6 @@ https://opentracker.co:443/announce
 
 https://opentracker.xyz:443/announce
 
-https://rt.msk-server.ga:443/announce
-
 https://tracker.fastdownload.xyz:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -141,8 +139,6 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.uw0.xyz:6969/announce
-
-udp://tracker.yoshi210.com:6969/announce
 
 udp://tracker.zum.bi:6969/announce
 
