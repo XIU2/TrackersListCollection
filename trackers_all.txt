@@ -224,6 +224,8 @@ http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.bz:80/announce
+
 http://tracker.calculate.ru:6969/announce
 
 http://tracker.city9x.com:2710/announce
@@ -265,8 +267,6 @@ http://tracker.internetwarriors.net:1337/announce
 http://tracker.kicks-ass.net:80/announce
 
 http://tracker.kuroy.me:5944/announce
-
-http://tracker.lelux.fi:80/announce
 
 http://tracker.mg64.net:6881/announce
 
@@ -338,19 +338,13 @@ https://opentracker.co:443/announce
 
 https://opentracker.xyz:443/announce
 
-https://p4p.now.sh:443/announce
-
 https://rt.msk-server.ga:443/announce
-
-https://rt6.msk-server.ga:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
 https://tracker.fastdownload.xyz:443/announce
 
 https://tracker.gbitt.info:443/announce
-
-https://tracker.lelux.fi:443/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -625,8 +619,6 @@ udp://tracker.kicks-ass.net:80/announce
 udp://tracker.kuroy.me:5944/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
-
-udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.mg64.net:2710/announce
 
