@@ -80,7 +80,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 > Based qBittorrent, added many useful features, such as **subscription Tracker URL** , you can easily use with this project.  
 
-**After saving the settings, be sure to restart qBittorrent Enhanced Edition.**
+After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 ![qBittorrent Enhanced Edition Tracker](https://trackerslist.com/img/en-05.png)
 
