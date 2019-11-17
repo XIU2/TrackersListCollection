@@ -73,7 +73,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 ****
 
-#### 比特彗星(BitComet)：
+#### BitComet (比特彗星)：
 
 > ***比特彗星隐藏功能解锁版下载地址(已配置 Tracker)：https://www.lanzous.com/b073c7g4f***  
 
@@ -85,7 +85,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 ****
 
-#### qBittorrent Enhanced Edition(增强版)：
+#### qBittorrent Enhanced Edition (增强版)：
 
 > ***Github：https://github.com/c0re100/qBittorrent-Enhanced-Edition***  
 
