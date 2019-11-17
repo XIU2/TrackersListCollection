@@ -75,7 +75,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 #### 比特彗星(BitComet)：
 
-*比特彗星全功能豪华解锁版下载地址(已配置 Tracker)：[https://www.lanzous.com/b073c7g4f](https://www.lanzous.com/b073c7g4f)*   
+> ***比特彗星隐藏功能解锁版下载地址(已配置 Tracker)：https://www.lanzous.com/b073c7g4f***  
 
 * **工具 - 选项 - Tracker**  
 **勾选两个选项** 并在最下方输入框填写 Tracker URL，然后点击 **\[立即更新\]** 按钮后，上面的大输入框就会显示获取的 Tracker 了。（如下图所示）  
@@ -85,7 +85,22 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 ****
 
+#### qBittorrent Enhanced Edition(增强版)：
+
+> ***Github：https://github.com/c0re100/qBittorrent-Enhanced-Edition***  
+
+> 基于 qBittorrent 制作，增加了很多功能，例如 **订阅 Tracker URL** 功能，可以很方便的配合本项目使用。
+
+* **选项[齿轮图标] - BitTorrent**  
+**勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[Apply\]** 保存，**然后重启 qBittorrentEE 。**（如下图所示）  
+
+![qBittorrent Enhanced Edition Tracker](https://trackerslist.com/img/zh-06.png)
+
+****
+
 #### qBittorrent：
+
+> ***官方网站：https://www.qbittorrent.org/***
 
 * **选项[齿轮图标] - BitTorrent**  
 **勾选下图红框内的选项** 并复制所有 Tracker 后粘贴到下方输入框中，然后点击 **\[Apply\]** 保存。（如下图所示）  
