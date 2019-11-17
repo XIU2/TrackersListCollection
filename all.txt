@@ -126,8 +126,6 @@ http://bt.pusacg.org:8080/announce
 
 http://bt.xxx-tracker.com:2710/announce
 
-http://bt2.54new.com:8080/announce
-
 http://bt2.careland.com.cn:6969/announce
 
 http://carapax.net:6969/announce
@@ -348,8 +346,6 @@ https://tracker.fastdownload.xyz:443/announce
 
 https://tracker.gbitt.info:443/announce
 
-https://tracker.hama3.net:443/announce
-
 https://tracker.lelux.fi:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -480,8 +476,6 @@ udp://bt.xxx-tracker.com:2710/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://bt2.54new.com:8080/announce
-
 udp://bt2.archive.org:6969/announce
 
 udp://carapax.net:6969/announce
@@ -586,6 +580,8 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.ds.is:6969/announce
@@ -623,8 +619,6 @@ udp://tracker.kicks-ass.net:80/announce
 udp://tracker.kuroy.me:5944/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
-
-udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.mg64.net:2710/announce
 
