@@ -332,8 +332,6 @@ https://104.28.17.69/announce
 
 https://1337.abcvg.info:443/announce
 
-https://bt.proxy-for.ga:443/announce
-
 https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
@@ -349,6 +347,8 @@ https://tracker.bt-hash.com:443/announce
 https://tracker.fastdownload.xyz:443/announce
 
 https://tracker.gbitt.info:443/announce
+
+https://tracker.hama3.net:443/announce
 
 https://tracker.lelux.fi:443/announce
 
@@ -645,6 +645,8 @@ udp://tracker.open-internet.nl:6969/announce
 udp://tracker.openbittorrent.com:80/announce
 
 udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.pirateparty.gr:6969/announce
 
 udp://tracker.piratepublic.com:1337/announce
 
