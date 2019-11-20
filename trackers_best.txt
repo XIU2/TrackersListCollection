@@ -124,8 +124,6 @@ udp://tracker.nyaa.uk:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker.pirateparty.gr:6969/announce
-
 udp://tracker.sbsub.com:2710/announce
 
 udp://tracker.tiny-vps.com:6969/announce
