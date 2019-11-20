@@ -10,7 +10,7 @@
 
 该项目仅将全网热门的公共 Tracker 列表制作成合集方便大家使用，无需再一个个导入了~。  
 
-[「English explanation see here - Github」](https://github.com/XIU2/TrackersListCollection/#readme)
+「[English](https://github.com/XIU2/TrackersListCollection/#readme)」(Trackerslist.com visitors, please switch languages in the upper right corner ↗)
 
 ****
 
