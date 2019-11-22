@@ -6,6 +6,8 @@ http://open.trackerlist.xyz:80/announce
 
 http://pt.lax.mx:80/announce
 
+http://retracker.sevstar.net:2710/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
@@ -59,6 +61,8 @@ udp://bt.okmp3.ru:2710/announce
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
+
+udp://contrata.putasysexo.com:53/announce
 
 udp://denis.stalker.upeer.me:6969/announce
 
@@ -115,8 +119,6 @@ udp://tracker.iamhansen.xyz:2000/announce
 udp://tracker.leechers-paradise.org:6969/announce
 
 udp://tracker.moeking.me:6969/announce
-
-udp://tracker.nextrp.ru:6969/announce
 
 udp://tracker.nyaa.uk:6969/announce
 
