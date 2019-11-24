@@ -12,6 +12,8 @@
 
 > 「[English](https://github.com/XIU2/TrackersListCollection/#readme)」(Trackerslist.com visitors, please switch languages in the upper right corner ↗)
 
+> ***注意：为了精简，旧文件名统一删除前缀 [trackers_] ，目前暂时新旧文件名共存，旧文件名将在两个月后取消。***
+
 ****
 
 ### Tracker是什么？
