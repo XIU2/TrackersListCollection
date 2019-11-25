@@ -532,6 +532,8 @@ udp://public.popcorn-tracker.org:6969/announce
 
 udp://pubt.in:2710/announce
 
+udp://qg.lorzl.gq:2710/announce
+
 udp://retracker.akado-ural.ru:80/announce
 
 udp://retracker.baikal-telecom.net:2710/announce
@@ -665,6 +667,8 @@ udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.torrentbay.to:6969/announce
 
 udp://tracker.trackton.ga:7070/announce
 
