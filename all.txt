@@ -44,8 +44,6 @@ http://210.244.71.25:6969/announce
 
 http://210.244.71.26:6969/announce
 
-http://213.159.215.198:6970/announce
-
 http://213.163.67.56:1337/announce
 
 http://37.19.5.139:6969/announce
@@ -347,6 +345,8 @@ https://tracker.bt-hash.com:443/announce
 https://tracker.fastdownload.xyz:443/announce
 
 https://tracker.gbitt.info:443/announce
+
+https://tracker.lelux.fi:443/announce
 
 https://tracker.nanoha.org:443/announce
 
