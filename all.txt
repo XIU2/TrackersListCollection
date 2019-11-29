@@ -330,8 +330,6 @@ https://104.28.17.69/announce
 
 https://1337.abcvg.info:443/announce
 
-https://bt.proxy-for.ga:443/announce
-
 https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
@@ -339,8 +337,6 @@ https://opentracker.acgnx.se:443/announce
 https://opentracker.co:443/announce
 
 https://opentracker.xyz:443/announce
-
-https://rt6.msk-server.ga:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
@@ -582,6 +578,8 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.ds.is:6969/announce
@@ -622,8 +620,6 @@ udp://tracker.kuroy.me:5944/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
-udp://tracker.lelux.fi:6969/announce
-
 udp://tracker.mg64.net:2710/announce
 
 udp://tracker.mg64.net:6969/announce
@@ -655,6 +651,8 @@ udp://tracker.sbsub.com:2710/announce
 udp://tracker.sktorrent.net:6969
 
 udp://tracker.sktorrent.net:6969/announce
+
+udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
