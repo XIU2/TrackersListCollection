@@ -10,7 +10,7 @@
 
 该项目仅将全网热门的公共 Tracker 列表制作成合集方便大家使用，无需再一个个导入了~。  
 
-> 「[English](https://github.com/XIU2/TrackersListCollection/#readme)」(Trackerslist.com visitors, please switch languages in the upper right corner ↗)
+> 「[English](https://github.com/XIU2/TrackersListCollection/#readme)」([trackerslist.com](https://trackerslist.com) visitors, please switch languages in the upper right corner ↗)
 
 > ***注意：为了精简，旧文件名统一删除前缀 [trackers_] ，目前暂时新旧文件名共存，旧文件名将在两个月后取消。***
 
