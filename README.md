@@ -10,7 +10,7 @@ Updated daily! A list of popular public BitTorrent trackers.
 
 The project only makes a list of popular public trackers into collections.  
 
-> 「[简体中文](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md)」(Trackerslist.com 访客，请通过右上角切换语言 ↗)
+> 「[简体中文](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md)」([trackerslist.com](https://trackerslist.com) 访客，请通过右上角切换语言 ↗)
 
 > ***Note: To simplicity, the prefix [trackers_] of the old file name is deleted uniformly. Currently, the old and new file names coexist, but the old file name will be canceled after two months.***
 
