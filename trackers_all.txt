@@ -344,8 +344,6 @@ https://tracker.fastdownload.xyz:443/announce
 
 https://tracker.gbitt.info:443/announce
 
-https://tracker.hama3.net:443/announce
-
 https://tracker.lelux.fi:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -528,6 +526,8 @@ udp://public.popcorn-tracker.org:6969/announce
 
 udp://pubt.in:2710/announce
 
+udp://qg.lorzl.gq:2710/announce
+
 udp://retracker.akado-ural.ru:80/announce
 
 udp://retracker.baikal-telecom.net:2710/announce
@@ -578,8 +578,6 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.ds.is:6969/announce
@@ -619,6 +617,8 @@ udp://tracker.kicks-ass.net:80/announce
 udp://tracker.kuroy.me:5944/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
+
+udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.mg64.net:2710/announce
 
