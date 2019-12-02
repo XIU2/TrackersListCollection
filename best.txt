@@ -1,8 +1,10 @@
 http://asnet.pw:2710/announce
 
-http://pt.lax.mx:80/announce
+http://h4.trakx.nibba.trade:80/announce
 
-http://retracker.sevstar.net:2710/announce
+http://mail2.zelenaya.net:80/announce
+
+http://pt.lax.mx:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -139,8 +141,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://xxxtor.com:2710/announce
 
