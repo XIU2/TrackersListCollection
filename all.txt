@@ -160,8 +160,6 @@ http://open.lolicon.eu:7777/announce
 
 http://open.touki.ru/announce.php
 
-http://open.trackerlist.xyz:80/announce
-
 http://opentracker.acgnx.se:80/announce
 
 http://p4p.arenabg.ch:1337/announce
@@ -290,6 +288,8 @@ http://tracker.tfile.me:80/announce
 
 http://tracker.tiny-vps.com:6969/announce
 
+http://tracker.torrentbay.to:6969/announce
+
 http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.trackerfix.com:80/announce
@@ -334,9 +334,7 @@ https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
 
-https://opentracker.co:443/announce
-
-https://opentracker.xyz:443/announce
+https://t.quic.ws:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
@@ -679,8 +677,6 @@ udp://tracker.vanitycore.co:6969/announce
 udp://tracker.yoshi210.com:6969/announce
 
 udp://tracker.zum.bi:6969/announce
-
-udp://tracker01.loveapp.com:6789/announce
 
 udp://tracker1.itzmx.com:8080/announce
 
