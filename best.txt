@@ -94,8 +94,6 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0o.is:6969/announce
 
-udp://tracker.beeimg.com:6969/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.coppersurfer.tk:6969/announce
