@@ -2,8 +2,6 @@ http://asnet.pw:2710/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
-http://mail2.zelenaya.net:80/announce
-
 http://pt.lax.mx:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -38,9 +36,17 @@ http://vps02.net.orel.ru:80/announce
 
 https://1337.abcvg.info:443/announce
 
+https://tracker.fr.eu.org:8443/announce
+
+https://tracker.heaterdown.eu:443/announce
+
 https://tracker.nanoha.org:443/announce
 
+https://tracker.no-dmca.ninja:2087/announce
+
 https://tracker.opentracker.se:443/announce
+
+https://tracker.sloppyta.co:443/announce
 
 https://tracker.vectahosting.eu:2053/announce
 
@@ -123,6 +129,8 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.torrentbay.to:6969/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
