@@ -130,8 +130,6 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.torrentbay.to:6969/announce
-
 udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.zum.bi:6969/announce
@@ -143,6 +141,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://xxxtor.com:2710/announce
 

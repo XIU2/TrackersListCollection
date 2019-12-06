@@ -110,6 +110,8 @@ http://[2a02:c205:2026:1682::1]:443/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
+http://acg.rip:6699/announce
+
 http://agusiq-torrents.pl:6969/announce
 
 http://asnet.pw:2710/announce
@@ -123,6 +125,8 @@ http://bt.henbt.com:2710/announce
 http://bt.pusacg.org:8080/announce
 
 http://bt.xxx-tracker.com:2710/announce
+
+http://bt1.xxxxbt.cc:6969/announce
 
 http://bt2.54new.com:8080/announce
 
@@ -534,8 +538,6 @@ udp://public.popcorn-tracker.org:6969/announce
 
 udp://pubt.in:2710/announce
 
-udp://qg.lorzl.gq:2710/announce
-
 udp://retracker.akado-ural.ru:80/announce
 
 udp://retracker.baikal-telecom.net:2710/announce
@@ -585,6 +587,8 @@ udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
