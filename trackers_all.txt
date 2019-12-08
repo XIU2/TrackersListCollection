@@ -218,8 +218,6 @@ http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.bz:80/announce
-
 http://tracker.calculate.ru:6969/announce
 
 http://tracker.city9x.com:2710/announce
@@ -586,6 +584,8 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.ds.is:6969/announce
@@ -625,8 +625,6 @@ udp://tracker.kicks-ass.net:80/announce
 udp://tracker.kuroy.me:5944/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
-
-udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.mg64.net:2710/announce
 
