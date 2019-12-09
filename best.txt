@@ -46,6 +46,8 @@ https://tracker.no-dmca.ninja:2087/announce
 
 https://tracker.opentracker.se:443/announce
 
+https://tracker.parrotlinux.org:443/announce
+
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.vectahosting.eu:2053/announce

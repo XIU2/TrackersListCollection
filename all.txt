@@ -218,6 +218,8 @@ http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.bz:80/announce
+
 http://tracker.calculate.ru:6969/announce
 
 http://tracker.city9x.com:2710/announce
@@ -351,6 +353,8 @@ https://tracker.nanoha.org:443/announce
 https://tracker.no-dmca.ninja:2087/announce
 
 https://tracker.opentracker.se:443/announce
+
+https://tracker.parrotlinux.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
