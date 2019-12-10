@@ -126,6 +126,8 @@ http://bt.pusacg.org:8080/announce
 
 http://bt.xxx-tracker.com:2710/announce
 
+http://bt1.xxxxbt.cc:6969/announce
+
 http://bt2.54new.com:8080/announce
 
 http://bt2.careland.com.cn:6969/announce
@@ -346,17 +348,11 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.heaterdown.eu:443/announce
 
-https://tracker.lelux.fi:443/announce
-
 https://tracker.nanoha.org:443/announce
 
 https://tracker.no-dmca.ninja:2087/announce
 
 https://tracker.opentracker.se:443/announce
-
-https://tracker.parrotlinux.org:443/announce
-
-https://tracker.sloppyta.co:443/announce
 
 https://tracker.vectahosting.eu:2053/announce
 
@@ -469,8 +465,6 @@ udp://[2a03:7220:8083:cd00::1]:451/announce
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 udp://[2a04:c44:e00:32e0:4cf:6aff:fe00:aa1]:6969/announce
-
-udp://amigacity.xyz:6969/announce
 
 udp://bigfoot1942.sektori.org:6969/announce
 
@@ -629,6 +623,8 @@ udp://tracker.kicks-ass.net:80/announce
 udp://tracker.kuroy.me:5944/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
+
+udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.mg64.net:2710/announce
 
