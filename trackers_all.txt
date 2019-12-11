@@ -126,8 +126,6 @@ http://bt.pusacg.org:8080/announce
 
 http://bt.xxx-tracker.com:2710/announce
 
-http://bt1.xxxxbt.cc:6969/announce
-
 http://bt2.54new.com:8080/announce
 
 http://bt2.careland.com.cn:6969/announce
@@ -260,8 +258,6 @@ http://tracker.grepler.com:6969/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
-http://tracker.kamigami.org:2710/announce
-
 http://tracker.kicks-ass.net:80/announce
 
 http://tracker.kuroy.me:5944/announce
@@ -279,6 +275,8 @@ http://tracker.nyaa.uk:6969/announce
 http://tracker.nyap2p.com:8080/announce
 
 http://tracker.opentrackr.org:1337/announce
+
+http://tracker.paypp.xyz:2783/announce
 
 http://tracker.port443.xyz:6969/announce
 
@@ -347,6 +345,8 @@ https://tracker.fr.eu.org:8443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.heaterdown.eu:443/announce
+
+https://tracker.lelux.fi:443/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -530,8 +530,6 @@ udp://public.popcorn-tracker.org:6969/announce
 
 udp://pubt.in:2710/announce
 
-udp://qg.lorzl.gq:2710/announce
-
 udp://retracker.akado-ural.ru:80/announce
 
 udp://retracker.baikal-telecom.net:2710/announce
@@ -616,15 +614,11 @@ udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.justseed.it:1337/announce
 
-udp://tracker.kamigami.org:2710/announce
-
 udp://tracker.kicks-ass.net:80/announce
 
 udp://tracker.kuroy.me:5944/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
-
-udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.mg64.net:2710/announce
 
