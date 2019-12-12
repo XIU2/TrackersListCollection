@@ -12,7 +12,7 @@ The project only makes a list of popular public trackers into collections.
 
 > 「[简体中文](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md)」([trackerslist.com](https://trackerslist.com) 访客，请通过右上角切换语言 ↗)
 
-> ***Note: To simplicity, the prefix [trackers_] of the old file name is deleted uniformly. Currently, the old and new file names coexist, but the old file name will be canceled after two months.***
+> ***Note: To simplicity, the prefix `[trackers_]` of the old file name is deleted uniformly. Currently, the old and new file names coexist, but the old file name will be canceled after two months.***
 
 ****
 
@@ -33,7 +33,7 @@ The more people use these Trackers, the faster the BT download speed will be, **
 
 ### Updated: 2019-12-12
 
-*These lists are automatically updated every day at 6:30:*
+*These lists are updated automatically daily:*
 
 > Better public tracker list is relatively more stable, concise.  
 > Complete public tracker list is more in number and theoretically better. but there may be some invalid trackers.  
