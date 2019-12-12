@@ -18,9 +18,9 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.nyap2p.com:8080/announce
+http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.paypp.xyz:2783/announce
+http://tracker.nyap2p.com:8080/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -147,6 +147,8 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://xxxtor.com:2710/announce
+
+udp://zephir.monocul.us:6969/announce
 
 wss://tracker.btorrent.xyz
 
