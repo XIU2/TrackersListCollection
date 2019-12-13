@@ -48,6 +48,8 @@ https://tracker.no-dmca.ninja:2087/announce
 
 https://tracker.opentracker.se:443/announce
 
+https://tracker.sloppyta.co:443/announce
+
 https://tracker.vectahosting.eu:2053/announce
 
 udp://9.rarbg.me:2710/announce
@@ -89,8 +91,6 @@ udp://p4p.arenabg.com:1337
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.akado-ural.ru:80/announce
-
-udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
@@ -146,9 +146,9 @@ udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-udp://xxxtor.com:2710/announce
+udp://valakas.rollo.dnsabr.com:2710/announce
 
-udp://zephir.monocul.us:6969/announce
+udp://xxxtor.com:2710/announce
 
 wss://tracker.btorrent.xyz
 
