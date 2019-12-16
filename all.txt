@@ -260,6 +260,8 @@ http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.kamigami.org:2710/announce
+
 http://tracker.kicks-ass.net:80/announce
 
 http://tracker.kuroy.me:5944/announce
@@ -289,8 +291,6 @@ http://tracker.tfile.me:80/announce
 http://tracker.tiny-vps.com:6969/announce
 
 http://tracker.torrentbay.to:6969/announce
-
-http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
@@ -500,8 +500,6 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.harry.lu:80/announce
 
-udp://jeremylee.sh:6969/announce
-
 udp://mgtracker.org:2710/announce
 
 udp://newtoncity.org:6969/announce
@@ -578,8 +576,6 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.ds.is:6969/announce
@@ -611,6 +607,8 @@ udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.justseed.it:1337/announce
+
+udp://tracker.kamigami.org:2710/announce
 
 udp://tracker.kicks-ass.net:80/announce
 

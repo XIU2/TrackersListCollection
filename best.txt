@@ -70,8 +70,6 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.harry.lu:80/announce
 
-udp://jeremylee.sh:6969/announce
-
 udp://open.demonii.com:1337
 
 udp://open.demonii.si:1337/announce
@@ -141,8 +139,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://xxxtor.com:2710/announce
 
