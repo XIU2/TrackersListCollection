@@ -14,8 +14,6 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.corpscorp.online:80/announce
 
-http://tracker.darli.net:6611/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -45,8 +43,6 @@ https://tracker.nanoha.org:443/announce
 https://tracker.opentracker.se:443/announce
 
 https://tracker.parrotlinux.org:443/announce
-
-https://tracker.sloppyta.co:443/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -105,8 +101,6 @@ udp://tracker.ds.is:6969/announce
 udp://tracker.leechers-paradise.org:6969/announce
 
 udp://tracker.moeking.me:6969/announce
-
-udp://tracker.nextrp.ru:6969/announce
 
 udp://tracker.nyaa.uk:6969/announce
 
