@@ -1,0 +1,10 @@
+# error / 错误(故障)
+udp://ulfbrueggemann.no-ip.org:6969/announce
+udp://caramelo.ddns.net:8000/announce
+http://nbz.f3322.net:36006/announce
+# suspicious / 可疑(恶意)
+http://213.159.215.198:6970/announce
+# repeat / 重复(副本)
+udp://explodie.org:6969
+udp://p4p.arenabg.com:1337
+udp://tracker.sktorrent.net:6969

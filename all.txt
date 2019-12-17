@@ -226,6 +226,8 @@ http://tracker.city9x.com:2710/announce
 
 http://tracker.corpscorp.online:80/announce
 
+http://tracker.darli.net:6611/announce
+
 http://tracker.devil-torrents.pl:80/announce
 
 http://tracker.dler.org:6969/announce
@@ -292,6 +294,8 @@ http://tracker.tiny-vps.com:6969/announce
 
 http://tracker.torrentbay.to:6969/announce
 
+http://tracker.torrentyorg.pl:80/announce
+
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.tvunderground.org.ru:3218/announce
@@ -320,8 +324,6 @@ http://tracker4.itzmx.com:2710/announce
 
 http://vps02.net.orel.ru:80/announce
 
-http://www.loushao.net:8080/announce
-
 http://www.proxmox.com:6969/announce
 
 http://www.wareztorrent.com:80/announce
@@ -348,9 +350,9 @@ https://tracker.opentracker.se:443/announce
 
 https://tracker.parrotlinux.org:443/announce
 
-https://tracker.sloppyta.co:443/announce
-
 https://tracker.vectahosting.eu:2053/announce
+
+https://zqzx.xyz:443/announce
 
 udp://104.238.198.186:8000/announce
 
@@ -488,10 +490,6 @@ udp://eddie4.nl:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://explodie.org:6969
-
-udp://explodie.org:6969/announce
-
 udp://home.penza.com.ru:6969/announce
 
 udp://inferno.demonoid.pw:3418/announce
@@ -502,8 +500,6 @@ udp://ipv6.tracker.harry.lu:80/announce
 
 udp://mgtracker.org:2710/announce
 
-udp://newtoncity.org:6969/announce
-
 udp://open.demonii.com:1337
 
 udp://open.demonii.si:1337/announce
@@ -513,10 +509,6 @@ udp://open.nyap2p.com:6969/announce
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
-
-udp://p4p.arenabg.com:1337
-
-udp://p4p.arenabg.com:1337/announce
 
 udp://peerfect.org:6969/announce
 
@@ -575,6 +567,8 @@ udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
@@ -645,10 +639,6 @@ udp://tracker.pomf.se:80/announce
 udp://tracker.port443.xyz:6969/announce
 
 udp://tracker.sbsub.com:2710/announce
-
-udp://tracker.sktorrent.net:6969
-
-udp://tracker.sktorrent.net:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
 
