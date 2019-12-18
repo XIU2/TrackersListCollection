@@ -29,6 +29,8 @@ The more people use these Trackers, the faster the BT download speed will be, **
 ![BitComet](https://trackerslist.com/img/en-01.png)
 ![qBittorrentEE](https://trackerslist.com/img/en-06.png)
 
+*Those who are interested can download and try **[ubuntu-19.10.torrent](http://releases.ubuntu.com/19.10/ubuntu-19.10-desktop-amd64.iso.torrent)** , this resource has thousands of people worldwide to provide uploads , So most people download fast!*
+
 ****
 
 ### Updated: 2019-12-18
