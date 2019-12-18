@@ -118,15 +118,11 @@ http://asnet.pw:2710/announce
 
 http://bigfoot1942.sektori.org:6969/announce
 
-http://bt-tracker.gamexp.ru:2710/announce
-
 http://bt.henbt.com:2710/announce
 
 http://bt.pusacg.org:8080/announce
 
 http://bt.xxx-tracker.com:2710/announce
-
-http://bt2.54new.com:8080/announce
 
 http://bt2.careland.com.cn:6969/announce
 
@@ -148,8 +144,6 @@ http://mgtracker.org:2710/announce
 
 http://mgtracker.org:6969/announce
 
-http://newtoncity.org:6969/announce
-
 http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -159,8 +153,6 @@ http://open.acgtracker.com:1096/announce
 http://open.lolicon.eu:7777/announce
 
 http://open.touki.ru/announce.php
-
-http://opentracker.acgnx.se:80/announce
 
 http://p4p.arenabg.ch:1337/announce
 
@@ -185,8 +177,6 @@ http://retracker.spark-rostov.ru:80/announce
 http://retracker.telecom.by:80/announce
 
 http://share.camoe.cn:8080/announce
-
-http://sukebei.tracker.wf:8888/announce
 
 http://t.acg.rip:6699/announce
 
@@ -251,8 +241,6 @@ http://tracker.files.fm:6969/announce
 http://tracker.filetracker.pl:8089/announce
 
 http://tracker.flashtorrents.org:6969/announce
-
-http://tracker.frozen-layer.net:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -333,8 +321,6 @@ https://104.28.17.69/announce
 https://1337.abcvg.info:443/announce
 
 https://open.kickasstracker.com:443/announce
-
-https://opentracker.acgnx.se:443/announce
 
 https://t.quic.ws:443/announce
 
