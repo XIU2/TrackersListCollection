@@ -33,6 +33,8 @@ BT 下载速度取决于 **其他下载同一资源用户的上传速度**，而
 ![比特彗星 效果图](https://trackerslist.com/img/zh-01.png)
 ![qBittorrentEE 效果图](https://trackerslist.com/img/zh-07.png)
 
+*有兴趣的可以下载 **[ubuntu-19.10.torrent](http://releases.ubuntu.com/19.10/ubuntu-19.10-desktop-amd64.iso.torrent)** 试试，该资源全球数千人做种上传，因此大部分人下载速度很快！*
+
 ****
 
 ### 更新时间：2019-12-18
