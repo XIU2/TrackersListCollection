@@ -310,6 +310,8 @@ http://tracker4.emce.org:12345/announce
 
 http://tracker4.itzmx.com:2710/announce
 
+http://trun.tom.ru:80/announce
+
 http://vps02.net.orel.ru:80/announce
 
 http://www.proxmox.com:6969/announce
@@ -554,8 +556,6 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.ds.is:6969/announce
@@ -596,8 +596,6 @@ udp://tracker.kuroy.me:5944/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
-udp://tracker.lelux.fi:6969/announce
-
 udp://tracker.mg64.net:2710/announce
 
 udp://tracker.mg64.net:6969/announce
@@ -619,8 +617,6 @@ udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.piratepublic.com:1337/announce
-
-udp://tracker.pomf.se:80/announce
 
 udp://tracker.port443.xyz:6969/announce
 
