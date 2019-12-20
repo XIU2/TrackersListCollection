@@ -216,8 +216,6 @@ http://tracker.city9x.com:2710/announce
 
 http://tracker.corpscorp.online:80/announce
 
-http://tracker.darli.net:6611/announce
-
 http://tracker.devil-torrents.pl:80/announce
 
 http://tracker.dler.org:6969/announce
@@ -255,8 +253,6 @@ http://tracker.kamigami.org:2710/announce
 http://tracker.kicks-ass.net:80/announce
 
 http://tracker.kuroy.me:5944/announce
-
-http://tracker.lelux.fi:80/announce
 
 http://tracker.mg64.net:6881/announce
 
@@ -313,6 +309,8 @@ http://tracker4.itzmx.com:2710/announce
 http://trun.tom.ru:80/announce
 
 http://vps02.net.orel.ru:80/announce
+
+http://www.loushao.net:8080/announce
 
 http://www.proxmox.com:6969/announce
 
@@ -595,6 +593,8 @@ udp://tracker.kicks-ass.net:80/announce
 udp://tracker.kuroy.me:5944/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
+
+udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.mg64.net:2710/announce
 
