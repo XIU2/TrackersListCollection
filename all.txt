@@ -254,6 +254,8 @@ http://tracker.kicks-ass.net:80/announce
 
 http://tracker.kuroy.me:5944/announce
 
+http://tracker.lelux.fi:80/announce
+
 http://tracker.mg64.net:6881/announce
 
 http://tracker.moeking.me:6969/announce
@@ -335,6 +337,8 @@ https://tracker.nanoha.org:443/announce
 https://tracker.opentracker.se:443/announce
 
 https://tracker.parrotlinux.org:443/announce
+
+https://tracker.sloppyta.co:443/announce
 
 https://tracker.vectahosting.eu:2053/announce
 
