@@ -34,8 +34,6 @@ http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
-http://trun.tom.ru:80/announce
-
 http://vps02.net.orel.ru:80/announce
 
 https://1337.abcvg.info:443/announce
@@ -78,6 +76,8 @@ udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
+udp://opentracker.i2p.rocks:6969/announce
+
 udp://retracker.akado-ural.ru:80/announce
 
 udp://retracker.lanta-net.ru:2710/announce
@@ -99,8 +99,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.ds.is:6969/announce
-
-udp://tracker.dyn.im:6969/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 

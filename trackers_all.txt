@@ -154,6 +154,8 @@ http://open.lolicon.eu:7777/announce
 
 http://open.touki.ru/announce.php
 
+http://opentracker.i2p.rocks:6969/announce
+
 http://p4p.arenabg.ch:1337/announce
 
 http://p4p.arenabg.com:1337/announce
@@ -208,8 +210,6 @@ http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.bz:80/announce
-
 http://tracker.calculate.ru:6969/announce
 
 http://tracker.city9x.com:2710/announce
@@ -253,8 +253,6 @@ http://tracker.kamigami.org:2710/announce
 http://tracker.kicks-ass.net:80/announce
 
 http://tracker.kuroy.me:5944/announce
-
-http://tracker.lelux.fi:80/announce
 
 http://tracker.mg64.net:6881/announce
 
@@ -308,8 +306,6 @@ http://tracker4.emce.org:12345/announce
 
 http://tracker4.itzmx.com:2710/announce
 
-http://trun.tom.ru:80/announce
-
 http://vps02.net.orel.ru:80/announce
 
 http://www.loushao.net:8080/announce
@@ -341,8 +337,6 @@ https://tracker.parrotlinux.org:443/announce
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.vectahosting.eu:2053/announce
-
-https://zqzx.xyz:443/announce
 
 udp://104.238.198.186:8000/announce
 
@@ -500,6 +494,8 @@ udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
+udp://opentracker.i2p.rocks:6969/announce
+
 udp://peerfect.org:6969/announce
 
 udp://public.popcorn-tracker.org:6969/announce
@@ -557,6 +553,8 @@ udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
