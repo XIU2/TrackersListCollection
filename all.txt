@@ -1,3 +1,245 @@
+	</head>
+
+	</script>
+
+	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+
+	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600' rel='stylesheet' type='text/css'>
+
+	<link rel="icon" type="image/png" href="https://torrents.io/theme/assets/img/favicon.png">
+
+	<link rel="search" type="application/opensearchdescription+xml" title="Torrents Search" href="/opensearch.xml"/>
+
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+	<meta charset="utf-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Torrent Search</title>
+
+	ga('send', 'event', 'Search', 'search', $(".nav-search-input").val() );
+
+	text-decoration: line-through;
+
+	var ajaxurl = "https://torrents.io/ajax.php";
+
+	var searchUrl = "https://search.torrents.io";
+
+	var siteurl = "https://torrents.io";
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+
+1337x              </a>
+
+<!-- / Yoast SEO plugin. -->
+
+<!-- End Google Analytics -->
+
+<!-- Google Analytics -->
+
+<!-- This site is optimized with the Yoast SEO plugin v11.3 - https://yoast.com/wordpress/plugins/seo/ -->
+
+<!DOCTYPE html>
+
+</body>
+
+</div>
+
+</div><!-- large-3 -->
+
+</div><!-- large-4 -->
+
+</div><!-- row -->
+
+</div><!-- s-form -->
+
+</div><!-- s-option -->
+
+</div><!-- s-sites -->
+
+</div><!-- search-panel -->
+
+</div><!-- target-site -->
+
+</fieldset>
+
+</form>
+
+</html>
+
+</li>
+
+</script>
+
+</ul>
+
+<a href="#" title="" class="scroll-left"><i class="fa fa-angle-right" aria-hidden="true"></i></a>
+
+<a href="#" title="" class="scroll-right"><i class="fa fa-angle-left" aria-hidden="true"></i></a>
+
+<a href="https://search.torrents.io/It s a Wonderful Life:1337x" id="273" title="Search torrents on 1337x"
+
+<a href="https://search.torrents.io/It s a Wonderful Life:limetorrents" id="1099" title="Search torrents on LimeTorrents"
+
+<a href="https://search.torrents.io/It s a Wonderful Life:pirate-bay" id="9" title="Search torrents on Pirate Bay"
+
+<a href="https://search.torrents.io/It s a Wonderful Life:rarbg" id="127" title="Search torrents on RARBG"
+
+<a href="https://search.torrents.io/It s a Wonderful Life:torrent-downloads" id="1301" title="Search torrents on Torrent Downloads"
+
+<a href="https://search.torrents.io/It s a Wonderful Life:torrentseeker" id="2268" title="Search torrents on Torrentseeker"
+
+<a href="https://search.torrents.io/It s a Wonderful Life:torrentz2" id="2530" title="Search torrents on Torrentz2"
+
+<a href="https://search.torrents.io/It s a Wonderful Life:zooqle" id="2548" title="Search torrents on Zooqle"
+
+<a href="https://torrents.io/settings/" rel="nofollow" onclick="ga('send', 'event', 'Feature', 'click', 'Search settings link');">Customize Search Sites</a>
+
+<body>
+
+<button type="reset" class="clear-search-input" style="display:none !important;"><i class="fa fa-times"></i></button><button type="submit" class="btn-submit-search"><i class="fa fa-search"></i></button>
+
+<div class="form-wrap">
+
+<div class="large-4 show-for-large-up columns">
+
+<div class="logo-s"><a href="https://torrents.io"><img src="https://torrents.io/theme/assets/img/logo-s.png" alt="torrents" /></a></div>
+
+<div class="nav-fill">
+
+<div class="nav-right">
+
+<div class="nav-search-field"><input type="text" class="nav-search-input" value="It s a Wonderful Life" /></div>
+
+<div class="nav-search-submit">
+
+<div class="row">
+
+<div class="s-form">
+
+<div class="s-options">
+
+<div class="s-sites">
+
+<div class="scroll-btns invisible" style="float:right">
+
+<div class="search-options">
+
+<div class="search-panel">
+
+<div class="small-12 large-8 columns">
+
+<div class="switch-wrapper">
+
+<div class="target-site">
+
+<fieldset class="switch" tabindex="0">
+
+<form method="POST" action="https://search.torrents.io/It s a Wonderful Life:" class="nav-search-form">
+
+<head>
+
+<html lang="en">
+
+<iframe class="target-site-frame" src="https://torrentseeker.com/search.php?q=It s a Wonderful Life"></iframe>
+
+<input id="toggle-site-proxy" type="checkbox"  onclick="ga('send', 'event', 'Feature', 'click', 'Proxy on-off');">
+
+<label for="toggle-site-proxy"></label>
+
+<li class="add-more-link"><a href="https://torrents.io/settings/" rel="nofollow" onclick="ga('send', 'event', 'Feature', 'click', 'Add torrent sites');">Add torrent sites</a></li>
+
+<li class="search-site ">
+
+<li class="search-site site-selected">
+
+<link rel='dns-prefetch' href='//s.w.org' />
+
+<link rel='stylesheet' id='category-css'  href='https://torrents.io/theme/assets/css/category.css?ver=5.2.4' type='text/css' media='all' />
+
+<link rel='stylesheet' id='das-css'  href='https://torrents.io/theme/assets/css/das.css?ver=5.2.4' type='text/css' media='all' />
+
+<link rel='stylesheet' id='fdn-css'  href='https://torrents.io/theme/assets/css/fdn.css?ver=5.2.4' type='text/css' media='all' />
+
+<link rel='stylesheet' id='frontpage-css'  href='https://torrents.io/theme/assets/css/frontpage.css?ver=5.2.4' type='text/css' media='all' />
+
+<link rel='stylesheet' id='global-css'  href='https://torrents.io/theme/assets/css/global.css?ver=5.2.4' type='text/css' media='all' />
+
+<link rel='stylesheet' id='head-foot-css'  href='https://torrents.io/theme/assets/css/head-foot.css?ver=5.2.4' type='text/css' media='all' />
+
+<link rel='stylesheet' id='normalize-css'  href='https://torrents.io/theme/assets/css/normalize.css?ver=5.2.4' type='text/css' media='all' />
+
+<link rel='stylesheet' id='pages-css'  href='https://torrents.io/theme/assets/css/pages.css?ver=5.2.4' type='text/css' media='all' />
+
+<link rel='stylesheet' id='sbasic-css'  href='https://torrents.io/theme/assets/css/sbasic.css?ver=5.2.4' type='text/css' media='all' />
+
+<link rel='stylesheet' id='search-css'  href='https://torrents.io/theme/assets/css/search.css?ver=5.2.4' type='text/css' media='all' />
+
+<link rel='stylesheet' id='settings-css'  href='https://torrents.io/theme/assets/css/settings.css?ver=5.2.4' type='text/css' media='all' />
+
+<link rel='stylesheet' id='sites-css'  href='https://torrents.io/theme/assets/css/sites.css?ver=5.2.4' type='text/css' media='all' />
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
+
+<script src="https://torrents.io/theme/assets/js/foundation.min.js"></script>
+
+<script src="https://torrents.io/theme/assets/js/foundation.tab.js"></script>
+
+<script src="https://torrents.io/theme/assets/js/jquery-ui.min.js"></script>
+
+<script src="https://torrents.io/theme/assets/js/script.js"></script>
+
+<script type="text/javascript">$(document).foundation();</script>
+
+<script>
+
+<span class="spinner" style="float:left"></span>
+
+<span>Proxy</span>
+
+<style type="text/css">.broken_link, a.broken_link {
+
+<ul class="search-sites">
+
+LimeTorrents              </a>
+
+Pirate Bay              </a>
+
+RARBG              </a>
+
+Torrent Downloads              </a>
+
+Torrentseeker              </a>
+
+Torrentz2              </a>
+
+Zooqle              </a>
+
+data-name="1337x" data-proxy="https://1337x.is" data-url="https://1337x.to" data-search-url="srch?search=@@s@@" rel="nofollow">
+
+data-name="limetorrents" data-proxy="https://limetorrents.unblockit.ca" data-url="https://www.limetorrents.info" data-search-url="search/all/@@s@@/" rel="nofollow">
+
+data-name="pirate-bay" data-proxy="https://pirateproxy.lat" data-url="https://pirateproxy.cam" data-search-url="search/@@s@@" rel="nofollow">
+
+data-name="rarbg" data-proxy="https://rarbgmirror.com" data-url="https://rarbg.to" data-search-url="torrents.php?search=@@s@@" rel="nofollow">
+
+data-name="torrent-downloads" data-proxy="https://torrentdownloads.unblocked.win" data-url="https://torrentdownloads.me" data-search-url="search/?search=@@s@@" rel="nofollow">
+
+data-name="torrentseeker" data-proxy="" data-url="https://torrentseeker.com" data-search-url="search.php?q=@@s@@" rel="nofollow">
+
+data-name="torrentz2" data-proxy="https://torrentz2.is" data-url="https://torrentz2.eu" data-search-url="search?f=@@s@@" rel="nofollow">
+
+data-name="zooqle" data-proxy="https://zooqle.unblocked.win" data-url="https://zooqle.com/" data-search-url="search?q=@@s@@" rel="nofollow">
+
+ga('create', 'UA-137843655-1', 'auto');
+
+ga('create', 'UA-91357-1', 'auto');
+
+ga('send', 'pageview');
+
 http://0d.kebhana.mx:443/announce
 
 http://104.238.198.186:8000/announce
@@ -210,6 +452,8 @@ http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.bz:80/announce
+
 http://tracker.calculate.ru:6969/announce
 
 http://tracker.city9x.com:2710/announce
@@ -253,6 +497,8 @@ http://tracker.kamigami.org:2710/announce
 http://tracker.kicks-ass.net:80/announce
 
 http://tracker.kuroy.me:5944/announce
+
+http://tracker.lelux.fi:80/announce
 
 http://tracker.mg64.net:6881/announce
 
@@ -332,11 +578,13 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.opentracker.se:443/announce
 
-https://tracker.parrotlinux.org:443/announce
-
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.vectahosting.eu:2053/announce
+
+if ( $(".nav-search-input").val() != "" ) {
+
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 
 udp://104.238.198.186:8000/announce
 
@@ -624,8 +872,6 @@ udp://tracker.port443.xyz:6969/announce
 
 udp://tracker.sbsub.com:2710/announce
 
-udp://tracker.skynetcloud.site:6969/announce
-
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.supertracker.net:1337/announce
@@ -681,3 +927,11 @@ wss://tracker.btorrent.xyz
 wss://tracker.fastcast.nz
 
 wss://tracker.openwebtorrent.com
+
+}
+
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+}</style>	<meta name="robots" content="noindex,nofollow">	<script type="text/javascript">
