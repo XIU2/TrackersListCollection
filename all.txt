@@ -310,8 +310,6 @@ http://tracker4.emce.org:12345/announce
 
 http://tracker4.itzmx.com:2710/announce
 
-http://trun.tom.ru:80/announce
-
 http://vps02.net.orel.ru:80/announce
 
 http://www.loushao.net:8080/announce
@@ -333,6 +331,8 @@ https://tracker.bt-hash.com:443/announce
 https://tracker.fastdownload.xyz:443/announce
 
 https://tracker.gbitt.info:443/announce
+
+https://tracker.lelux.fi:443/announce
 
 https://tracker.nanoha.org:443/announce
 
