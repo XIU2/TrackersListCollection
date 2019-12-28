@@ -12,8 +12,6 @@ http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.corpscorp.online:80/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -113,8 +111,6 @@ udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.nyaa.uk:6969/announce
-
-udp://tracker.openbittorrent.com:80/announce
 
 udp://tracker.opentrackr.org:1337/announce
 

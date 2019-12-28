@@ -294,6 +294,8 @@ http://tracker.ygsub.com:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
 
+http://tracker.zerobytes.xyz:1337/announce
+
 http://tracker01.loveapp.com:6789/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -343,8 +345,6 @@ https://tracker.parrotlinux.org:443/announce
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.vectahosting.eu:2053/announce
-
-https://zqzx.xyz:443/announce
 
 udp://104.238.198.186:8000/announce
 
