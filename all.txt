@@ -210,8 +210,6 @@ http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.bz:80/announce
-
 http://tracker.calculate.ru:6969/announce
 
 http://tracker.city9x.com:2710/announce
