@@ -218,6 +218,8 @@ http://tracker.city9x.com:2710/announce
 
 http://tracker.corpscorp.online:80/announce
 
+http://tracker.darli.net:6611/announce
+
 http://tracker.devil-torrents.pl:80/announce
 
 http://tracker.dler.org:6969/announce
