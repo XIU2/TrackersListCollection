@@ -110,6 +110,8 @@ http://[2a02:c205:2026:1682::1]:443/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
+http://acg.rip:6699/announce
+
 http://agusiq-torrents.pl:6969/announce
 
 http://asnet.pw:2710/announce
@@ -455,8 +457,6 @@ udp://[2a04:c44:e00:32e0:4cf:6aff:fe00:aa1]:6969/announce
 udp://bigfoot1942.sektori.org:6969/announce
 
 udp://bt.aoeex.com:8000/announce
-
-udp://bt.hackfront.tk:6969/announce
 
 udp://bt.okmp3.ru:2710/announce
 
