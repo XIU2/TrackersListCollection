@@ -68,8 +68,6 @@ udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
 udp://open.demonii.com:1337
 
-udp://open.demonii.si:1337/announce
-
 udp://open.nyap2p.com:6969/announce
 
 udp://open.stealth.si:80/announce
@@ -117,6 +115,8 @@ udp://tracker.sbsub.com:2710/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.uw0.xyz:6969/announce
+
+udp://tracker.yoshi210.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
