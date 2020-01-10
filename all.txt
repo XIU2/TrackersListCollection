@@ -154,6 +154,8 @@ http://open.lolicon.eu:7777/announce
 
 http://open.touki.ru/announce.php
 
+http://opentracker.i2p.rocks:6969/announce
+
 http://p4p.arenabg.ch:1337/announce
 
 http://p4p.arenabg.com:1337/announce
@@ -307,8 +309,6 @@ http://tracker3.itzmx.com:6961/announce
 http://tracker4.emce.org:12345/announce
 
 http://tracker4.itzmx.com:2710/announce
-
-http://trun.tom.ru:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
