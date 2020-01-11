@@ -110,8 +110,6 @@ http://[2a02:c205:2026:1682::1]:443/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
-http://acg.rip:6699/announce
-
 http://agusiq-torrents.pl:6969/announce
 
 http://asnet.pw:2710/announce
@@ -468,8 +466,6 @@ udp://carapax.net:6969/announce
 
 udp://chihaya.toss.li:9696/announce
 
-udp://contrata.putasysexo.com:53/announce
-
 udp://denis.stalker.upeer.me:6969/announce
 
 udp://eddie4.nl:6969/announce
@@ -669,6 +665,8 @@ udp://tracker4.piratux.com:6969/announce
 udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://wambo.club:1337/announce
+
+udp://xd.dog:1337/announce
 
 udp://xxxtor.com:2710/announce
 
