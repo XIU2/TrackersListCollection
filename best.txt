@@ -32,6 +32,8 @@ http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
+http://trun.tom.ru:80/announce
+
 http://vps02.net.orel.ru:80/announce
 
 https://1337.abcvg.info:443/announce
@@ -41,6 +43,8 @@ https://tracker.nanoha.org:443/announce
 https://tracker.opentracker.se:443/announce
 
 https://tracker.parrotlinux.org:443/announce
+
+https://tracker.sloppyta.co:443/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -98,11 +102,11 @@ udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
+udp://tracker.lelux.fi:6969/announce
+
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.nyaa.uk:6969/announce
-
-udp://tracker.openbittorrent.com:80/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
