@@ -508,8 +508,6 @@ udp://public.popcorn-tracker.org:6969/announce
 
 udp://pubt.in:2710/announce
 
-udp://qg.lorzl.gq:2710/announce
-
 udp://retracker.akado-ural.ru:80/announce
 
 udp://retracker.baikal-telecom.net:2710/announce
@@ -559,8 +557,6 @@ udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
@@ -671,8 +667,6 @@ udp://tracker4.piratux.com:6969/announce
 udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://wambo.club:1337/announce
-
-udp://xd.dog:1337/announce
 
 udp://xxxtor.com:2710/announce
 
