@@ -344,6 +344,8 @@ https://tracker.sloppyta.co:443/announce
 
 https://tracker.vectahosting.eu:2053/announce
 
+https://tracker6.lelux.fi:443/announce
+
 udp://104.238.198.186:8000/announce
 
 udp://107.150.14.110:6969/announce
@@ -508,6 +510,8 @@ udp://public.popcorn-tracker.org:6969/announce
 
 udp://pubt.in:2710/announce
 
+udp://qg.lorzl.gq:2710/announce
+
 udp://retracker.akado-ural.ru:80/announce
 
 udp://retracker.baikal-telecom.net:2710/announce
@@ -540,6 +544,8 @@ udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
 
+udp://tr2.ysagin.top:2710/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0o.is:6969/announce
@@ -557,6 +563,8 @@ udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
