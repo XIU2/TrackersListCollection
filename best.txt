@@ -14,8 +14,6 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 http://tracker.nyap2p.com:8080/announce
 
 http://tracker.tfile.co:80/announce

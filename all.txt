@@ -1,5 +1,3 @@
-http://0d.kebhana.mx:443/announce
-
 http://104.238.198.186:8000/announce
 
 http://104.28.1.30:8080/announce
@@ -38,8 +36,6 @@ http://194.106.216.222/announce
 
 http://195.123.209.37:1337/announce
 
-http://198.177.123.164/announce
-
 http://210.244.71.25:6969/announce
 
 http://210.244.71.26:6969/announce
@@ -52,19 +48,11 @@ http://37.19.5.155:6881/announce
 
 http://46.4.109.148:6969/announce
 
-http://5.2.79.22:6969/announce
-
 http://5.79.249.77:6969/announce
 
 http://5.79.83.193:2710/announce
 
 http://51.254.244.161:6969/announce
-
-http://52.28.76.37:6969/announce
-
-http://52.29.11.73:6969/announce
-
-http://52.58.128.163:6969/announce
 
 http://59.36.96.77:6969/announce
 
@@ -96,17 +84,9 @@ http://93.92.64.5/announce
 
 http://95.211.168.204:2710/announce
 
-http://[2001:19f0:6c01:1b7d:5400:1ff:fefc:3c2a]:6969/announce
-
-http://[2001:1af8:4700:a032:1234::]:6969/announce
-
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
-http://[2001:41d0:305:2100::16a3]:6969/announce
-
 http://[2001:470:1:189:0:1:2:3]:6969/announce
-
-http://[2a02:c205:2026:1682::1]:443/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
@@ -114,19 +94,11 @@ http://agusiq-torrents.pl:6969/announce
 
 http://asnet.pw:2710/announce
 
-http://bigfoot1942.sektori.org:6969/announce
-
 http://bt.henbt.com:2710/announce
 
 http://bt.pusacg.org:8080/announce
 
-http://bt.xxx-tracker.com:2710/announce
-
 http://bt2.careland.com.cn:6969/announce
-
-http://carapax.net:6969/announce
-
-http://denis.stalker.upeer.me:6969/announce
 
 http://explodie.org:6969/announce
 
@@ -184,8 +156,6 @@ http://t.nyaatracker.com:80/announce
 
 http://thetracker.org:80/announce
 
-http://torrentclub.tech:6969/announce
-
 http://torrentsmd.com:8080/announce
 
 http://torrentsmd.eu:8080/announce
@@ -199,8 +169,6 @@ http://tr.kxmp.cf:80/announce
 http://tracker.aletorrenty.pl:2710/announce
 
 http://tracker.baravik.org:6970/announce
-
-http://tracker.beeimg.com:6969/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -230,10 +198,6 @@ http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.ex.ua:80/announce
 
-http://tracker.filemail.com:6969/announce
-
-http://tracker.filepit.to:6969/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.filetracker.pl:8089/announce
@@ -246,8 +210,6 @@ http://tracker.grepler.com:6969/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 http://tracker.kicks-ass.net:80/announce
 
 http://tracker.kuroy.me:5944/announce
@@ -258,15 +220,11 @@ http://tracker.mg64.net:6881/announce
 
 http://tracker.moeking.me:6969/announce
 
-http://tracker.novg.net:6969/announce
-
 http://tracker.nyaa.uk:6969/announce
 
 http://tracker.nyap2p.com:8080/announce
 
 http://tracker.opentrackr.org:1337/announce
-
-http://tracker.port443.xyz:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -303,8 +261,6 @@ http://tracker2.itzmx.com:6961/announce
 http://tracker2.wasabii.com.tw:6969/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-http://tracker4.emce.org:12345/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -364,8 +320,6 @@ udp://178.33.73.26:2710/announce
 
 udp://182.176.139.129:6969/announce
 
-udp://185.225.17.100:1337/announce
-
 udp://185.5.97.139:8089/announce
 
 udp://185.83.215.123:6969/announce
@@ -392,21 +346,13 @@ udp://213.163.67.56:1337/announce
 
 udp://37.19.5.155:2710/announce
 
-udp://45.56.74.11:6969/announce
-
 udp://46.4.109.148:6969/announce
-
-udp://5.2.79.22:6969/announce
 
 udp://5.79.249.77:6969/announce
 
 udp://5.79.83.193:6969/announce
 
 udp://51.254.244.161:6969/announce
-
-udp://52.28.76.37:6969/announce
-
-udp://52.29.11.73:6969/announce
 
 udp://52.58.128.163:6969/announce
 
@@ -440,23 +386,15 @@ udp://94.23.183.33:6969/announce
 
 udp://95.211.168.204:2710/announce
 
-udp://[2001:19f0:6c01:1b7d:5400:1ff:fefc:3c2a]:6969/announce
-
 udp://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
-udp://[2001:41d0:305:2100::16a3]:6969/announce
-
 udp://[2001:470:1:189:0:1:2:3]:6969/announce
-
-udp://[2a03:2c40:10:2163::1]:6969/announce
 
 udp://[2a03:7220:8083:cd00::1]:451/announce
 
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 udp://[2a04:c44:e00:32e0:4cf:6aff:fe00:aa1]:6969/announce
-
-udp://bigfoot1942.sektori.org:6969/announce
 
 udp://bt.aoeex.com:8000/announce
 
@@ -470,8 +408,6 @@ udp://bt2.54new.com:8080/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://carapax.net:6969/announce
-
 udp://chihaya.toss.li:9696/announce
 
 udp://denis.stalker.upeer.me:6969/announce
@@ -479,8 +415,6 @@ udp://denis.stalker.upeer.me:6969/announce
 udp://eddie4.nl:6969/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://home.penza.com.ru:6969/announce
 
 udp://inferno.demonoid.pw:3418/announce
 
@@ -507,8 +441,6 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://peerfect.org:6969/announce
 
 udp://public.popcorn-tracker.org:6969/announce
-
-udp://pubt.in:2710/announce
 
 udp://qg.lorzl.gq:2710/announce
 
@@ -552,8 +484,6 @@ udp://tracker.0o.is:6969/announce
 
 udp://tracker.aletorrenty.pl:2710/announce
 
-udp://tracker.beeimg.com:6969/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
@@ -571,8 +501,6 @@ udp://tracker.doko.moe:6969/announce
 udp://tracker.ds.is:6969/announce
 
 udp://tracker.dutchtracking.com:6969/announce
-
-udp://tracker.dyn.im:6969/announce
 
 udp://tracker.eddie4.nl:6969/announce
 
@@ -616,8 +544,6 @@ udp://tracker.msm8916.com:6969/announce
 
 udp://tracker.nextrp.ru:6969/announce
 
-udp://tracker.novg.net:6969/announce
-
 udp://tracker.nyaa.uk:6969/announce
 
 udp://tracker.open-internet.nl:6969/announce
@@ -628,13 +554,9 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.piratepublic.com:1337/announce
 
-udp://tracker.port443.xyz:6969/announce
-
 udp://tracker.sbsub.com:2710/announce
 
 udp://tracker.skyts.net:6969/announce
-
-udp://tracker.supertracker.net:1337/announce
 
 udp://tracker.swateam.org.uk:2710/announce
 
@@ -643,8 +565,6 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrentbay.to:6969/announce
-
-udp://tracker.trackton.ga:7070/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
 
