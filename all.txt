@@ -278,7 +278,13 @@ https://104.28.17.69/announce
 
 https://1337.abcvg.info:443/announce
 
+https://bt.proxy-for.ga:443/announce
+
 https://open.kickasstracker.com:443/announce
+
+https://rt.msk-server.ga:443/announce
+
+https://rt6.msk-server.ga:443/announce
 
 https://t.quic.ws:443/announce
 
@@ -493,8 +499,6 @@ udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
