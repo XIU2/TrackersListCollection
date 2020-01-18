@@ -154,6 +154,8 @@ http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
 
+http://t.overflow.biz:6969/announce
+
 http://thetracker.org:80/announce
 
 http://torrentsmd.com:8080/announce
@@ -236,8 +238,6 @@ http://tracker.tiny-vps.com:6969/announce
 
 http://tracker.torrentbay.to:6969/announce
 
-http://tracker.torrentyorg.pl:80/announce
-
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.tvunderground.org.ru:3218/announce
@@ -278,13 +278,7 @@ https://104.28.17.69/announce
 
 https://1337.abcvg.info:443/announce
 
-https://bt.proxy-for.ga:443/announce
-
 https://open.kickasstracker.com:443/announce
-
-https://rt.msk-server.ga:443/announce
-
-https://rt6.msk-server.ga:443/announce
 
 https://t.quic.ws:443/announce
 

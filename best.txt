@@ -8,6 +8,8 @@ http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
 
+http://t.overflow.biz:6969/announce
+
 http://tr.cili001.com:8070/announce
 
 http://tracker.files.fm:6969/announce
@@ -37,10 +39,6 @@ http://vps02.net.orel.ru:80/announce
 https://1337.abcvg.info:443/announce
 
 https://bt.proxy-for.ga:443/announce
-
-https://rt.msk-server.ga:443/announce
-
-https://rt6.msk-server.ga:443/announce
 
 https://tracker.nanoha.org:443/announce
 
