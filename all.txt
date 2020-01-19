@@ -228,6 +228,8 @@ http://tracker.nyap2p.com:8080/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.skyts.cn:6969/announce
+
 http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
@@ -237,6 +239,8 @@ http://tracker.tfile.me:80/announce
 http://tracker.tiny-vps.com:6969/announce
 
 http://tracker.torrentbay.to:6969/announce
+
+http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
@@ -255,6 +259,8 @@ http://tracker01.loveapp.com:6789/announce
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker1.wasabii.com.tw:6969/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
