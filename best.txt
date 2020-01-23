@@ -46,8 +46,6 @@ https://tracker.opentracker.se:443/announce
 
 https://tracker.parrotlinux.org:443/announce
 
-https://tracker.sloppyta.co:443/announce
-
 https://tracker6.lelux.fi:443/announce
 
 udp://9.rarbg.me:2710/announce

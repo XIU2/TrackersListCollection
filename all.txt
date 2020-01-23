@@ -186,6 +186,8 @@ http://tracker.city9x.com:2710/announce
 
 http://tracker.corpscorp.online:80/announce
 
+http://tracker.darli.net:6611/announce
+
 http://tracker.devil-torrents.pl:80/announce
 
 http://tracker.dler.org:6969/announce
@@ -299,8 +301,6 @@ https://tracker.nanoha.org:443/announce
 https://tracker.opentracker.se:443/announce
 
 https://tracker.parrotlinux.org:443/announce
-
-https://tracker.sloppyta.co:443/announce
 
 https://tracker.vectahosting.eu:2053/announce
 
