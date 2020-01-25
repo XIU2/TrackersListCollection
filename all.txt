@@ -150,6 +150,8 @@ http://retracker.telecom.by:80/announce
 
 http://share.camoe.cn:8080/announce
 
+http://shareservi.xyz:6960/announce
+
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
