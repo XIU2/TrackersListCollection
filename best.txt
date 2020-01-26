@@ -6,9 +6,9 @@ http://pt.lax.mx:80/announce
 
 http://share.camoe.cn:8080/announce
 
-http://shareservi.xyz:6960/announce
-
 http://t.nyaatracker.com:80/announce
+
+http://t.overflow.biz:6969/announce
 
 http://tr.cili001.com:8070/announce
 
@@ -37,6 +37,8 @@ http://tracker4.itzmx.com:2710/announce
 http://trun.tom.ru:80/announce
 
 http://vps02.net.orel.ru:80/announce
+
+http://vpsgotrette.top:6961/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -102,6 +104,8 @@ udp://tracker.doko.moe:6969/announce
 
 udp://tracker.iamhansen.xyz:2000/announce
 
+udp://tracker.internetwarriors.net:1337/announce
+
 udp://tracker.leechers-paradise.org:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
@@ -135,8 +139,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
-
-udp://xxxtor.com:2710/announce
 
 udp://zephir.monocul.us:6969/announce
 
