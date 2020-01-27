@@ -272,10 +272,6 @@ http://trun.tom.ru:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
-http://vpsgotrette.top:6961/announce
-
-http://www.loushao.net:8080/announce
-
 http://www.proxmox.com:6969/announce
 
 http://www.wareztorrent.com:80/announce
@@ -291,8 +287,6 @@ https://t.quic.ws:443/announce
 https://tracker.bt-hash.com:443/announce
 
 https://tracker.fastdownload.xyz:443/announce
-
-https://tracker.gbitt.info:443/announce
 
 https://tracker.lelux.fi:443/announce
 
@@ -541,8 +535,6 @@ udp://tracker.mg64.net:6969/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.msm8916.com:6969/announce
-
-udp://tracker.nextrp.ru:6969/announce
 
 udp://tracker.nyaa.uk:6969/announce
 
