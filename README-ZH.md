@@ -12,7 +12,7 @@
 
 > 「[English](https://github.com/XIU2/TrackersListCollection/#readme)」([trackerslist.com](https://trackerslist.com) visitors, please switch languages in the upper right corner ↗)
 
-> **注意：** 因中国大陆屏蔽了 Github 的图片链接，导致无法看到图片，所以请访问 [trackerslist.com](https://trackerslist.com)！
+> **注意：** 因中国屏蔽了 Github 图片链接，导致看不到图片，请访问官网 [trackerslist.com](https://trackerslist.com)！
 
 ****
 
