@@ -12,7 +12,7 @@ The project only makes a list of popular public trackers into collections.
 
 > 「[简体中文](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md)」([trackerslist.com](https://trackerslist.com) 访客，请通过右上角切换语言 ↗)
 
-> **注意：** 因中国大陆屏蔽了 Github 的图片链接，导致无法看到图片，所以请访问 [trackerslist.com](https://trackerslist.com)！
+> **注意：** 因中国屏蔽了 Github 图片链接，导致看不到图片，请访问官网 [trackerslist.com](https://trackerslist.com)！
 
 ****
 
