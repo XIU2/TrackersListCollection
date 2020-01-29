@@ -8,8 +8,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://t.overflow.biz:6969/announce
-
 http://tr.cili001.com:8070/announce
 
 http://tracker.files.fm:6969/announce
@@ -110,8 +108,6 @@ udp://tracker.nyaa.uk:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker.sbsub.com:2710/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -131,6 +127,8 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
+
+udp://xxxtor.com:2710/announce
 
 udp://zephir.monocul.us:6969/announce
 
