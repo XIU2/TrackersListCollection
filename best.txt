@@ -1,5 +1,7 @@
 http://asnet.pw:2710/announce
 
+http://defaultro.top:6960/announce
+
 http://h4.trakx.nibba.trade:80/announce
 
 http://pt.lax.mx:80/announce
@@ -39,6 +41,8 @@ https://1337.abcvg.info:443/announce
 https://tracker.nanoha.org:443/announce
 
 https://tracker.opentracker.se:443/announce
+
+https://tracker.sloppyta.co:443/announce
 
 https://tracker6.lelux.fi:443/announce
 
@@ -127,8 +131,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
-
-udp://xxxtor.com:2710/announce
 
 udp://zephir.monocul.us:6969/announce
 
