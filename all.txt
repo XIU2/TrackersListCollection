@@ -104,6 +104,8 @@ http://defaultro.top:6960/announce
 
 http://explodie.org:6969/announce
 
+http://fanciertrack.top:6960/announce
+
 http://fxtt.ru:80/announce
 
 http://grifon.info:80/announce
@@ -177,6 +179,8 @@ http://tracker.birkenwald.de:6969/announce
 http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.bz:80/announce
 
 http://tracker.calculate.ru:6969/announce
 
