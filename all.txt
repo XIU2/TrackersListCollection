@@ -100,11 +100,7 @@ http://bt.pusacg.org:8080/announce
 
 http://bt2.careland.com.cn:6969/announce
 
-http://defaultro.top:6960/announce
-
 http://explodie.org:6969/announce
-
-http://fanciertrack.top:6960/announce
 
 http://fxtt.ru:80/announce
 
@@ -230,8 +226,6 @@ http://tracker.nyap2p.com:8080/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.skyts.cn:6969/announce
-
 http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
@@ -299,8 +293,6 @@ https://tracker.lelux.fi:443/announce
 https://tracker.nanoha.org:443/announce
 
 https://tracker.opentracker.se:443/announce
-
-https://tracker.sloppyta.co:443/announce
 
 https://tracker.vectahosting.eu:2053/announce
 
@@ -498,8 +490,6 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.ds.is:6969/announce
@@ -561,6 +551,8 @@ udp://tracker.sbsub.com:2710/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.swateam.org.uk:2710/announce
+
+udp://tracker.teambelgium.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
