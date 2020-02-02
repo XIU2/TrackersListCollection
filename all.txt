@@ -166,6 +166,8 @@ http://tr.cili001.com:8070/announce
 
 http://tr.kxmp.cf:80/announce
 
+http://tracker.acgnx.se:80/announce
+
 http://tracker.aletorrenty.pl:2710/announce
 
 http://tracker.baravik.org:6970/announce
@@ -206,6 +208,8 @@ http://tracker.flashtorrents.org:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.gcvchp.com:2710/announce
+
 http://tracker.grepler.com:6969/announce
 
 http://tracker.internetwarriors.net:1337/announce
@@ -225,6 +229,8 @@ http://tracker.nyaa.uk:6969/announce
 http://tracker.nyap2p.com:8080/announce
 
 http://tracker.opentrackr.org:1337/announce
+
+http://tracker.skyts.cn:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -278,6 +284,8 @@ https://104.28.17.69/announce
 
 https://1337.abcvg.info:443/announce
 
+https://2.tracker.eu.org:443/announce
+
 https://open.kickasstracker.com:443/announce
 
 https://t.quic.ws:443/announce
@@ -292,9 +300,15 @@ https://tracker.lelux.fi:443/announce
 
 https://tracker.nanoha.org:443/announce
 
+https://tracker.nyaa.tk:443/announce
+
 https://tracker.opentracker.se:443/announce
 
+https://tracker.parrotlinux.org:443/announce
+
 https://tracker.vectahosting.eu:2053/announce
+
+https://tracker.xcloud.zone:1337/announce
 
 https://tracker6.lelux.fi:443/announce
 
@@ -406,6 +420,8 @@ udp://bt2.archive.org:6969/announce
 
 udp://chihaya.toss.li:9696/announce
 
+udp://cx42light.cn:39652/announce
+
 udp://denis.stalker.upeer.me:6969/announce
 
 udp://eddie4.nl:6969/announce
@@ -489,6 +505,8 @@ udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
@@ -589,6 +607,8 @@ udp://tracker4.piratux.com:6969/announce
 udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://wambo.club:1337/announce
+
+udp://www.loushao.net:8080/announce
 
 udp://xxxtor.com:2710/announce
 
