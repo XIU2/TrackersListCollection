@@ -10,6 +10,8 @@ http://t.nyaatracker.com:80/announce
 
 http://tr.cili001.com:8070/announce
 
+http://tracker.bt4g.com:2095/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.nyap2p.com:8080/announce
@@ -37,6 +39,8 @@ https://1337.abcvg.info:443/announce
 https://tracker.nanoha.org:443/announce
 
 https://tracker.opentracker.se:443/announce
+
+https://tracker.parrotlinux.org:443/announce
 
 https://tracker6.lelux.fi:443/announce
 
@@ -88,6 +92,8 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.coppersurfer.tk:6969/announce
 
+udp://tracker.cyberia.is:6969/announce
+
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.iamhansen.xyz:2000/announce
@@ -103,8 +109,6 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
-
-udp://tracker.teambelgium.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
