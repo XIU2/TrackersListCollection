@@ -178,6 +178,8 @@ http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.bz:80/announce
+
 http://tracker.calculate.ru:6969/announce
 
 http://tracker.city9x.com:2710/announce
@@ -299,6 +301,8 @@ https://tracker.gbitt.info:443/announce
 https://tracker.lelux.fi:443/announce
 
 https://tracker.nanoha.org:443/announce
+
+https://tracker.nyaa.tk:443/announce
 
 https://tracker.opentracker.se:443/announce
 
@@ -569,8 +573,6 @@ udp://tracker.sbsub.com:2710/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.swateam.org.uk:2710/announce
-
-udp://tracker.teambelgium.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 

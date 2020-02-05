@@ -130,6 +130,8 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
 
+udp://xxxtor.com:2710/announce
+
 udp://zephir.monocul.us:6969/announce
 
 wss://tracker.btorrent.xyz
