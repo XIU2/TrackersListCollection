@@ -286,8 +286,6 @@ https://104.28.17.69/announce
 
 https://1337.abcvg.info:443/announce
 
-https://2.tracker.eu.org:443/announce
-
 https://open.kickasstracker.com:443/announce
 
 https://t.quic.ws:443/announce
