@@ -106,8 +106,6 @@ http://87.248.186.252:8080/announce
 
 http://87.253.152.137/announce
 
-http://91.207.136.85:80/announce
-
 http://91.216.110.47/announce
 
 http://91.217.91.21:3218/announce
@@ -531,8 +529,6 @@ https://t.quic.ws:443/announce
 https://tk.mabo.ltd:443/announce
 
 https://tp.m-team.cc:443/announce.php
-
-https://tr.bangumi.moe:6969/announce
 
 https://tr.steins-gate.moe:2096/announce
 
