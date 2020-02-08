@@ -24,9 +24,7 @@ http://158.69.146.212:7777/announce
 
 http://173.254.204.71:1096/announce
 
-http://176.113.71.19:6961/announce
-
-http://176.123.5.118:80/announce
+http://176.113.68.66:6961/announce
 
 http://178.175.143.27/announce
 
@@ -70,8 +68,6 @@ http://5.79.249.77:6969/announce
 
 http://5.79.83.193:2710/announce
 
-http://51.15.55.204:1337/announce
-
 http://51.158.23.91:80/announce
 
 http://51.254.244.161:6969/announce
@@ -88,7 +84,7 @@ http://54.39.98.124:80/announce
 
 http://59.36.96.77:6969/announce
 
-http://62.210.202.61:80/announce
+http://62.210.177.88:1096/announce
 
 http://74.82.52.209:6969/announce
 
@@ -570,8 +566,6 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker.vectahosting.eu:2053/announce
 
-https://tracker.xcloud.zone:1337/announce
-
 https://tracker6.lelux.fi:443/announce
 
 https://www.wareztorrent.com:443/announce
@@ -746,6 +740,8 @@ udp://tracker.0o.is:6969/announce
 
 udp://tracker.aletorrenty.pl:2710/announce
 
+udp://tracker.beeimg.com:6969/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
@@ -755,8 +751,6 @@ udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
