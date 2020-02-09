@@ -121,4 +121,3 @@ Thanks for these projects!
 
 ### License
 The GPL-3.0 License.  
-The Anti-996 License.

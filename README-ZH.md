@@ -173,4 +173,3 @@ Tracker 的作用就是更快的找到其他下载同一资源的用户，并帮
 
 ### 许可证
 The GPL-3.0 License.  
-The Anti-996 License.
