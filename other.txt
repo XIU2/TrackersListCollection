@@ -14,6 +14,3 @@ http://tracker.trackerfix.com:80/announce
 udp://open.demonii.com:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://p4p.arenabg.com:1337
-wss://tracker.openwebtorrent.com
-wss://tracker.btorrent.xyz
-wss://tracker.fastcast.nz
