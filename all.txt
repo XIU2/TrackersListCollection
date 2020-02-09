@@ -1,3 +1,7 @@
+#+Copyright+(c)+1993-2009+Microsoft+Corp.
+
+#+localhost+name+resolution+is+handled+within+DNS+itself.
+
 http://104.238.198.186:8000/announce
 
 http://104.28.1.30:8080/announce
@@ -24,7 +28,7 @@ http://158.69.146.212:7777/announce
 
 http://173.254.204.71:1096/announce
 
-http://176.113.68.66:6961/announce
+http://176.123.5.118:80/announce
 
 http://178.175.143.27/announce
 
@@ -33,8 +37,6 @@ http://178.33.73.26:2710/announce
 http://182.150.53.61:8080/announce
 
 http://182.176.139.129:6969/announce
-
-http://184.105.151.164:6969/announce
 
 http://185.5.97.139:8089/announce
 
@@ -83,8 +85,6 @@ http://54.37.157.173:80/announce
 http://54.39.98.124:80/announce
 
 http://59.36.96.77:6969/announce
-
-http://62.210.177.88:1096/announce
 
 http://74.82.52.209:6969/announce
 
@@ -322,8 +322,6 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.btcake.com:80/announce
 
-http://tracker.btsync.gq:233/announce
-
 http://tracker.bz:80/announce
 
 http://tracker.calculate.ru:6969/announce
@@ -404,8 +402,6 @@ http://tracker.publicbt.com:80/announce
 
 http://tracker.publictorrent.net:80/announce
 
-http://tracker.sbsub.com:2710/announce
-
 http://tracker.shuim.net:80/announce.php
 
 http://tracker.skyts.cn:6969/announce
@@ -463,6 +459,8 @@ http://tracker3.itzmx.com:6961/announce
 http://tracker3.torrentino.com:80/announce
 
 http://tracker4.itzmx.com:2710/announce
+
+http://tracker810.xyz:11450/announce
 
 http://tracker9.bol.bg:80/announce.php
 
@@ -551,8 +549,6 @@ https://tracker.nanoha.org:443/announce
 https://tracker.no-dmca.ninja:2087/announce
 
 https://tracker.nullrebel.com:443/announce
-
-https://tracker.nyaa.tk:443/announce
 
 https://tracker.opentracker.se:443/announce
 
@@ -751,6 +747,8 @@ udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 

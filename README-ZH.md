@@ -35,7 +35,7 @@ BT 下载速度取决于 **其他下载同一资源用户的上传速度**，而
 
 ****
 
-### 更新时间：2020-02-09
+### 更新时间：2020-02-10
 
 *这些列表每天自动更新：*
 
@@ -45,7 +45,7 @@ BT 下载速度取决于 **其他下载同一资源用户的上传速度**，而
 
 * **精选列表：**(88 个)  
 [https://trackerslist.com/best.txt](https://trackerslist.com/best.txt)
-* **完整列表：**(433 个)  
+* **完整列表：**(432 个)  
 [https://trackerslist.com/all.txt](https://trackerslist.com/all.txt)
 
 ****
