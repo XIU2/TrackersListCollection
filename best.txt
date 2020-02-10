@@ -1,11 +1,5 @@
 http://104.28.16.69/announce
 
-http://1337.abcvg.info:80/announce
-
-http://87.253.152.137/announce
-
-http://91.216.110.47/announce
-
 http://93.92.64.5/announce
 
 http://anisource.spb.ru:80/announce
@@ -16,29 +10,39 @@ http://bt.dmhy.net/annonuce
 
 http://denis.stalker.h3q.com:80/announce.php
 
-http://fxtt.ru:80/announce
+http://exodus.desync.com:80/announce
+
+http://grifon.info:80/announce
+
+http://gwp2-v19.rinet.ru:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
+http://mail2.zelenaya.net:80/announce
+
 http://open.acgnxtracker.com:80/announce
+
+http://open.trackerlist.xyz:80/announce
 
 http://opentracker.acgnx.se:80/announce
 
 http://pt.lax.mx:80/announce
 
-http://seeders-paradise.org:80/announce
+http://retracker.bashtel.ru:80/announce
 
 http://share.camoe.cn:8080/announce
+
+http://siambit.org:80/announce.php
 
 http://t.nyaatracker.com:80/announce
 
 http://t1.pow7.com:80/announce
 
-http://torrent.nwps.ws:80/announce
-
 http://tr.cili001.com:8070/announce
 
 http://tr.kxmp.cf:80/announce
+
+http://tracker.baka-sub.cf:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -56,8 +60,6 @@ http://tracker.ygsub.com:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-http://tracker1.torrentino.com:80/announce
-
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker2.torrentino.com:80/announce
@@ -70,19 +72,19 @@ http://tracker810.xyz:11450/announce
 
 http://vps02.net.orel.ru:80/announce
 
+http://web4.obit.ru:80/announce
+
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
-https://cernet-tracker.appspot.com:443/announce
+https://tracker.hama3.net:443/announce
 
 https://tracker.nanoha.org:443/announce
 
 https://tracker.opentracker.se:443/announce
 
 https://tracker.parrotlinux.org:443/announce
-
-https://tracker.publictorrent.net:443/announce
 
 https://tracker6.lelux.fi:443/announce
 
@@ -173,3 +175,5 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 udp://xxxtor.com:2710/announce
 
 udp://zephir.monocul.us:6969/announce
+
+udp:/ndrotracker.biz:1337/announce
