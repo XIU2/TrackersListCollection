@@ -10,6 +10,12 @@ udp://tracker.mg64.net:2710/announce
 udp://tracker.mg64.net:6969/announce
 https://uw0.xyz/
 http://thetracker.org.:80/announce
+udp:/ndrotracker.biz:1337/announce
+udp:/ntost12.xyz:6969/announce
+udp:/tracker.org:6969/announce
+http://bt.dmhy.net/annonuce
+http://ipv4.tracker.harry.lu/annouce
+http://share.dmhy.me/annonuce
 # suspicious / 可疑(恶意)
 http://213.159.215.198:6970/announce
 # repeat / 重复(副本)
