@@ -109,6 +109,17 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 ****
 
+#### Xdown：
+
+> ***官方网站：https://xdown.org/***
+
+* **设置 - BitTorrent设置**  
+**勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[确定\]** 保存。（如下图所示） 
+
+![Xdown Tracker](https://trackerslist.com/img/zh-08.png)
+
+****
+
 ### 为什么一些 Tracker 连不上？
 
 这是正常现象。  
