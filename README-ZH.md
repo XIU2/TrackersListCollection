@@ -16,7 +16,7 @@
 
 ****
 
-### Tracker是什么？
+### Tracker是什么?
 
 - ***BT 下载的文件都是其他用户上传给你的。***
 - ***BT 下载速度都来自其他用户的上传速度。*** 
@@ -39,7 +39,7 @@
 
 ****
 
-### 更新时间：2020-02-13
+### 更新时间: 2020-02-13
 
 *这些列表每天自动更新：*
 
@@ -54,7 +54,7 @@
 
 ****
 
-#### Aria2 格式 Tracker 地址：
+#### Aria2 格式 Tracker 地址:
 
 为了方便使用 Aria2 的人添加 Tracker，我特地按照 Aria2 配置格式单独做了一份，跟随更新。
 
@@ -65,9 +65,9 @@
 
 ****
 
-### 如何使用？
+### 如何使用?
 
-#### Aria2：
+#### Aria2:
 
 复制 Aria2 格式的 Tracker 文件中内容后，粘贴到 `aria2.conf` 配置文件中的 `bt-tracker=` 后面，示例如下：
 ``` ini
@@ -77,7 +77,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 ****
 
-#### BitComet (比特彗星)：
+#### BitComet (比特彗星):
 
 > ***比特彗星便携版(已配置 Tracker)：https://www.lanzous.com/b073c7g4f***  
 
@@ -89,7 +89,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 ****
 
-#### qBittorrent Enhanced Edition (增强版)：
+#### qBittorrent Enhanced Edition (增强版):
 
 > ***Github：https://github.com/c0re100/qBittorrent-Enhanced-Edition***  
 
@@ -102,7 +102,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 ****
 
-#### qBittorrent：
+#### qBittorrent:
 
 > ***官方网站：https://www.qbittorrent.org/***
 
@@ -113,7 +113,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 ****
 
-#### Xdown：
+#### Xdown:
 
 > ***官方网站：https://xdown.org/***
 
@@ -124,18 +124,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 ****
 
-#### Xdown：
-
-> ***官方网站：https://xdown.org/***
-
-* **设置 - BitTorrent设置**  
-**勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[确定\]** 保存。（如下图所示） 
-
-![Xdown Tracker](https://trackerslist.com/img/zh-08.png)
-
-****
-
-### 为什么一些 Tracker 连不上？
+### 为什么一些 Tracker 连不上?
 
 这是正常现象。  
 
@@ -152,7 +141,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 ****
 
-### 为什么下载速度慢？
+### 为什么下载速度慢?
 
 BT 下载速度取决于 **其他下载同一资源的用户上传速度。**  
 

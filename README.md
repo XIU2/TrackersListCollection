@@ -14,7 +14,7 @@ The project only makes a list of popular public trackers into collections.
 
 ****
 
-### What is Tracker ?
+### What is Tracker?
 
 Tracker is a required role in BT downloads.  
 
@@ -57,7 +57,7 @@ To make it easier for people using Aria2 to add Tracker, I made a separate copy 
 
 ****
 
-### How to use ?
+### How to use?
 
 #### Aria2:
 
@@ -97,11 +97,11 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 ****
 
-#### Xdown：
+#### Xdown:
 
 > ***https://xdown.org/***
 
-![Xdown Tracker](https://trackerslist.com/img/en-07.png)
+![Xdown Tracker](https://trackerslist.com/img/en-08.png)
 
 ****
 
