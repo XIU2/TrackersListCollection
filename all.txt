@@ -138,6 +138,8 @@ http://retracker.krs-ix.ru:80/announce
 
 http://retracker.mgts.by:80/announce
 
+http://retracker.ohys.net:80/announce
+
 http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
@@ -147,8 +149,6 @@ http://retracker.telecom.by:80/announce
 http://rstracker.ohys.net:80/announce
 
 http://secure.pow7.com:80/announce
-
-http://seeders-paradise.org:80/announce
 
 http://servandroidkino.ru:80/announce
 
@@ -183,6 +183,8 @@ http://tr.kxmp.cf:80/announce
 http://tracker.acgnx.se:80/announce
 
 http://tracker.aletorrenty.pl:2710/announce
+
+http://tracker.anirena.com:80/announce
 
 http://tracker.baravik.org:6970/announce
 
@@ -248,9 +250,9 @@ http://tracker.nyaa.uk:6969/announce
 
 http://tracker.nyap2p.com:8080/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
+
+http://tracker.publicbt.com:80/announce
 
 http://tracker.skyts.cn:6969/announce
 
@@ -300,13 +302,9 @@ http://tracker4.itzmx.com:2710/announce
 
 http://tracker810.xyz:11450/announce
 
-http://tracker9.bol.bg:80/announce.php
-
 http://trun.tom.ru:80/announce
 
 http://vps02.net.orel.ru:80/announce
-
-http://web4.obit.ru:80/announce
 
 http://www.loushao.net:8080/announce
 
@@ -322,8 +320,6 @@ https://2.tracker.eu.org:443/announce
 
 https://3.tracker.eu.org:443/announce
 
-https://cernet-tracker.appspot.com:443/announce
-
 https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
@@ -338,11 +334,15 @@ https://tracker.fastdownload.xyz:443/announce
 
 https://tracker.gbitt.info:443/announce
 
-https://tracker.hama3.net:443/announce
+https://tracker.lelux.fi:443/announce
 
 https://tracker.nanoha.org:443/announce
 
+https://tracker.nyaa.tk:443/announce
+
 https://tracker.opentracker.se:443/announce
+
+https://tracker.parrotlinux.org:443/announce
 
 https://tracker.vectahosting.eu:2053/announce
 
@@ -567,6 +567,8 @@ udp://tracker.kicks-ass.net:80/announce
 udp://tracker.kuroy.me:5944/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
+
+udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
