@@ -47,9 +47,9 @@
 > 完整列表中的 Tracker 数量更多，理论上效果更好，但可能会存在少量死链。  
 > **Tracker 数量并不会影响 BT 软件运行速度，因此我更推荐使用 `「完整列表」` ，以使下载速度最大化！**
 
-* **精选列表：**(81 个)  
+* **精选列表：**(84 个)  
 [https://trackerslist.com/best.txt](https://trackerslist.com/best.txt)
-* **完整列表：**(320 个)  
+* **完整列表：**(323 个)  
 [https://trackerslist.com/all.txt](https://trackerslist.com/all.txt)
 
 ****
