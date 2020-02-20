@@ -82,11 +82,11 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 #### BitComet (比特彗星):
 
-> ***比特彗星便携版(已配置 Tracker)：https://www.lanzous.com/b073c7g4f***  
+> ***便携版：https://www.lanzous.com/b073c7g4f (已配置 Tracker)***  
 
 * **工具 - 选项 - Tracker**  
-**勾选两个选项** 并在最下方输入框填写 Tracker URL，然后点击 **\[立即更新\]** 按钮后，上面的大输入框就会显示获取的 Tracker 了。（如下图所示）  
-> 另外说明一下，比特彗星的 **黄灯 绿灯** 仅仅影响上传速度，不影响下载速度，绿灯的前提条件就是 **公网IP** ，然后设置好 **端口映射(UPnP)** 就行了。  
+**勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[立即更新\]** 上面就会显示获取的 Tracker 了。(如下图所示)  
+> 另外，比特彗星的 **黄灯 绿灯** 对下载速度影响较小，主要影响上传速度，绿灯需要 **公网IP + 端口映射(UPnP)** 。  
 
 ![比特彗星 Tracker](https://trackerslist.com/img/zh-04.png)
 
@@ -95,11 +95,12 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 #### qBittorrent Enhanced Edition (增强版):
 
 > ***Github：https://github.com/c0re100/qBittorrent-Enhanced-Edition***  
+> ***便携版：https://www.lanzous.com/b073dnr7g (已配置 Tracker)***  
 
 > 基于 qBittorrent 制作，增加了很多功能，例如 **订阅 Tracker URL** 功能，可以很方便的配合本项目使用。
 
 * **选项[齿轮图标] - BitTorrent**  
-**勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[Apply\]** 保存，**然后重启 qBittorrentEE 。**（如下图所示）  
+**勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[Apply\]** 保存，**然后重启 qBittorrentEE 。**(如下图所示)  
 
 ![qBittorrent Enhanced Edition Tracker](https://trackerslist.com/img/zh-06.png)
 
@@ -110,7 +111,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 > ***官方网站：https://www.qbittorrent.org/***
 
 * **选项[齿轮图标] - BitTorrent**  
-**勾选下图红框内的选项** 并复制所有 Tracker 后粘贴到下方输入框中，然后点击 **\[Apply\]** 保存。（如下图所示）  
+**勾选下图红框内的选项** 并复制所有 Tracker 后粘贴到下方输入框中，然后点击 **\[Apply\]** 保存。(如下图所示)  
 
 ![qBittorrent Tracker](https://trackerslist.com/img/zh-05.png)
 
@@ -121,7 +122,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 > ***官方网站：https://xdown.org/***
 
 * **设置 - BitTorrent设置**  
-**勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[确定\]** 保存。（如下图所示） 
+**勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[确定\]** 保存。(如下图所示) 
 
 ![Xdown Tracker](https://trackerslist.com/img/zh-08.png)
 
