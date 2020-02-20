@@ -27,7 +27,3 @@ http://tr.bangumi.moe.6969/announce
 http://tr.cili001.com:6666/announce
 http://tracker.anirena.com:80/b16a15d9a238d1f59178d3614b857290/announce
 http://tracker.bittorrent.am:80/announceName
-http://188.190.120.74/announce
-http://54.39.98.124/announce
-http://62.210.202.61/announce
-http://95.107.48.115/announce
