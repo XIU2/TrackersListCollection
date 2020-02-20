@@ -1,9 +1,5 @@
 http://104.238.198.186:8000/announce
 
-http://104.28.1.30:8080/announce
-
-http://104.28.16.69:80/announce
-
 http://107.150.14.110:6969/announce
 
 http://109.121.134.121:1337/announce
@@ -316,8 +312,6 @@ http://www.proxmox.com:6969/announce
 
 http://www.wareztorrent.com:80/announce
 
-https://104.28.17.69/announce
-
 https://1337.abcvg.info:443/announce
 
 https://2.tracker.eu.org:443/announce
@@ -329,8 +323,6 @@ https://open.kickasstracker.com:443/announce
 https://opentracker-milanesi.rhcloud.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
-
-https://share.dmhy.org/
 
 https://t.quic.ws:443/announce
 
@@ -462,7 +454,7 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://mgtracker.org:2710/announce
 
-udp://open.demonii.com:1337
+udp://open.demonii.com:1337/announce
 
 udp://open.demonii.si:1337/announce
 

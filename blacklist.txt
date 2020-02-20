@@ -8,14 +8,18 @@ http://nyaa.tracker.wf7777/announce
 https://tr.bangumi.moe.9696/announce
 udp://tracker.mg64.net:2710/announce
 udp://tracker.mg64.net:6969/announce
-https://uw0.xyz/
+https://uw0.xyz:443/
 http://thetracker.org.:80/announce
 udp:/ndrotracker.biz:1337/announce
 udp:/ntost12.xyz:6969/announce
 udp:/tracker.org:6969/announce
-http://bt.dmhy.net/annonuce
-http://ipv4.tracker.harry.lu/annouce
-http://share.dmhy.me/annonuce
+http://bt.dmhy.net:80/annonuce
+http://ipv4.tracker.harry.lu:80/annouce
+http://share.dmhy.me:80/annonuce
+https://share.dmhy.me:443/annonuce
+http://104.28.1.30:8080/announce
+http://104.28.16.69:80/announce
+https://104.28.17.69/announce
 # suspicious / 可疑(恶意)
 http://213.159.215.198:6970/announce
 # repeat / 重复(副本)
