@@ -42,7 +42,7 @@
 
 ****
 
-### 更新时间: 2020-02-20
+### 更新时间: 2020-02-21
 
 *这些列表每天自动更新：*
 
@@ -52,7 +52,7 @@
 
 * **精选列表：**(84 个)  
 [https://trackerslist.com/best.txt](https://trackerslist.com/best.txt)
-* **完整列表：**(317 个)  
+* **完整列表：**(318 个)  
 [https://trackerslist.com/all.txt](https://trackerslist.com/all.txt)
 
 ****
