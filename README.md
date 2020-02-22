@@ -31,7 +31,7 @@ The more people use these Trackers, the faster the BT download speed will be, **
 
 ****
 
-### Updated: 2020-02-22
+### Updated: 2020-02-23
 
 *These lists are updated automatically daily:*
 
@@ -41,7 +41,7 @@ The more people use these Trackers, the faster the BT download speed will be, **
 
 * **Better public tracker list:** (86 trackers)  
 ***[https://trackerslist.com/best.txt](https://trackerslist.com/best.txt)***
-* **Complete public tracker list:** (320 trackers)  
+* **Complete public tracker list:** (319 trackers)  
 ***[https://trackerslist.com/all.txt](https://trackerslist.com/all.txt)***
 
 ****
