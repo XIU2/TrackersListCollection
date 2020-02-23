@@ -82,7 +82,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 #### BitComet (比特彗星):
 
-> ***官方网站：http://www.bitcomet.com***
+> ***官方网站：http://www.bitcomet.com***  
 > ***便携版：https://www.lanzous.com/b073c7g4f (已配置 Tracker)***  
 
 * **工具 - 选项 - Tracker**  
