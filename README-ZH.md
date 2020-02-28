@@ -10,9 +10,9 @@
 
 > 在无法保证 Tracker 质量的情况下（毕竟大都是国内服务器，除非每天在国内测试），Tracker 数量就是来弥补质量的（数量多 相应寻找到更多用户的几率也会增加），这些全网热门 Tracker 列表项目，基本上满足了大家的需求。
 
-> 「[English](https://github.com/XIU2/TrackersListCollection/#readme)」([trackerslist.com](https://trackerslist.com) visitors, please switch languages in the upper right corner ↗)
+> 「[English](https://github.com/XIU2/TrackersListCollection/#readme)」( *[trackerslist.com](https://trackerslist.com)* visitors, please switch languages in the upper right corner ↗)
 
-> **注意：** 因中国屏蔽了 Github 图片链接，导致看不到图片，请访问官网 [trackerslist.com](https://trackerslist.com)！
+> **注意：** 因中国屏蔽了 Github 图片链接，导致看不到图片，请访问官网 *[trackerslist.com](https://trackerslist.com)* ！
 
 ****
 
