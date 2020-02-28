@@ -51,9 +51,9 @@
 > **Tracker 数量并不会影响 BT 软件运行速度，因此我更推荐使用 `「完整列表」` ，以使下载速度最大化！**
 
 * **精选列表：**(80 个)  
-***[https://trackerslist.com/best.txt](https://trackerslist.com/best.txt)***
+***https://trackerslist.com/best.txt***
 * **完整列表：**(318 个)  
-***[https://trackerslist.com/all.txt](https://trackerslist.com/all.txt)***
+***https://trackerslist.com/all.txt***
 
 ****
 
@@ -62,9 +62,9 @@
 为了方便使用 Aria2 的人添加 Tracker，我特地按照 Aria2 配置格式单独做了一份，跟随更新。
 
 * **精选列表：**  
-***[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)***
+***https://trackerslist.com/best_aria2.txt***
 * **完整列表：**  
-***[https://trackerslist.com/all_aria2.txt](https://trackerslist.com/all_aria2.txt)***
+***https://trackerslist.com/all_aria2.txt***
 
 ****
 
@@ -121,7 +121,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 #### Xdown:
 
-> ***官方网站：https://xdown.org/***
+> ***官方网站：https://xdown.org***
 
 * **设置 - BitTorrent设置**  
 **勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[确定\]** 保存。(如下图所示) 
