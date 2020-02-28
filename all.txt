@@ -104,6 +104,8 @@ http://fxtt.ru:80/announce
 
 http://grifon.info:80/announce
 
+http://gshk.happy-host.com/test:80/announce.php
+
 http://h4.trakx.nibba.trade:80/announce
 
 http://mail2.zelenaya.net:80/announce
@@ -120,13 +122,13 @@ http://open.lolicon.eu:7777/announce
 
 http://open.touki.ru:80/announce.php
 
+http://open.trackerlist.xyz:80/announce
+
 http://opentracker.i2p.rocks:6969/announce
 
 http://p4p.arenabg.ch:1337/announce
 
 http://p4p.arenabg.com:1337/announce
-
-http://peersteers.org:80/announce
 
 http://pow7.com:80/announce
 
@@ -142,6 +144,8 @@ http://retracker.krs-ix.ru:80/announce
 
 http://retracker.mgts.by:80/announce
 
+http://retracker.ohys.net:80/announce
+
 http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
@@ -155,8 +159,6 @@ http://seeders-paradise.org:80/announce
 http://servandroidkino.ru:80/announce
 
 http://share.camoe.cn:8080/announce
-
-http://siambit.org:80/announce.php
 
 http://t.acg.rip:6699/announce
 
@@ -172,8 +174,6 @@ http://thetracker.org:80/announce
 
 http://torrent.gresille.org:80/announce
 
-http://torrent.nwps.ws:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://torrentsmd.eu:8080/announce
@@ -188,7 +188,7 @@ http://tracker.acgnx.se:80/announce
 
 http://tracker.aletorrenty.pl:2710/announce
 
-http://tracker.anirena.com:80/announce
+http://tracker.baka-sub.cf:80/announce
 
 http://tracker.baravik.org:6970/announce
 
@@ -205,6 +205,8 @@ http://tracker.bz:80/announce
 http://tracker.calculate.ru:6969/announce
 
 http://tracker.city9x.com:2710/announce
+
+http://tracker.comicat.org:80/announce
 
 http://tracker.corpscorp.online:80/announce
 
@@ -254,6 +256,8 @@ http://tracker.nyap2p.com:8080/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.publicbt.com:80/announce
+
 http://tracker.skyts.cn:6969/announce
 
 http://tracker.skyts.net:6969/announce
@@ -274,8 +278,6 @@ http://tracker.tvunderground.org.ru:3218/announce
 
 http://tracker.uw0.xyz:6969/announce
 
-http://tracker.vivancos.eu:80/announce
-
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
@@ -291,8 +293,6 @@ http://tracker1.wasabii.com.tw:6969/announce
 http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
-
-http://tracker2.torrentino.com:80/announce
 
 http://tracker2.wasabii.com.tw:6969/announce
 
@@ -320,21 +320,15 @@ https://3.tracker.eu.org:443/announce
 
 https://open.kickasstracker.com:443/announce
 
-https://opentracker-milanesi.rhcloud.com:443/announce
-
 https://opentracker.acgnx.se:443/announce
 
 https://t.quic.ws:443/announce
-
-https://tracker.acgnx.se:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
 https://tracker.fastdownload.xyz:443/announce
 
 https://tracker.gbitt.info:443/announce
-
-https://tracker.hama3.net:443/announce
 
 https://tracker.lelux.fi:443/announce
 
@@ -343,6 +337,10 @@ https://tracker.nanoha.org:443/announce
 https://tracker.nyaa.tk:443/announce
 
 https://tracker.opentracker.se:443/announce
+
+https://tracker.parrotlinux.org:443/announce
+
+https://tracker.sloppyta.co:443/announce
 
 https://tracker.vectahosting.eu:2053/announce
 
@@ -525,8 +523,6 @@ udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
