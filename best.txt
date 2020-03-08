@@ -1,52 +1,38 @@
-
-
 http://178.175.143.27:80/announce
-
-http://62.210.202.61:80/announce
 
 http://93.92.64.5:80/announce
 
-http://95.107.48.115:80/announce
+http://[2001:bc8:4728:7b00::1]:80/announce
 
 http://academic-p2p.carlosdelfino.eti.br:80/announce
 
 http://asnet.pw:2710/announce
 
-http://exodus.desync.com:80/announce
+http://denis.stalker.h3q.com:80/announce
 
-http://gshk.happy-host.com/test:80/announce.php
-
-http://gwp2-v19.rinet.ru:80/announce
+http://denis.stalker.h3q.com:80/announce.php
 
 http://h4.trakx.nibba.trade:80/announce
 
-http://mail2.zelenaya.net:80/announce
-
 http://open.acgnxtracker.com:80/announce
 
-http://opentracker.acgnx.se:80/announce
+http://open.trackerlist.xyz:80/announce
 
 http://pt.lax.mx:80/announce
 
 http://retracker.bashtel.ru:80/announce
 
-http://retracker.ohys.net:80/announce
-
 http://servandroidkino.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
+http://siambit.org:80/announce.php
+
 http://t.nyaatracker.com:80/announce
 
-http://t1.pow7.com:80/announce
+http://theheartofchronic.com:80/announce.php
 
 http://tr.cili001.com:8070/announce
-
-http://tr.kxmp.cf:80/announce
-
-http://tracker.anirena.com:80/announce
-
-http://tracker.blazing.de:80/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -58,7 +44,11 @@ http://tracker.nyap2p.com:8080/announce
 
 http://tracker.openbittorrent.com:80/announce
 
+http://tracker.publicbt.com:80/announce
+
 http://tracker.tfile.co:80/announce
+
+http://tracker.tfile.me:80/announce.php
 
 http://tracker.trackerfix.com:80/announce
 
@@ -76,13 +66,15 @@ http://tracker4.itzmx.com:2710/announce
 
 http://vps02.net.orel.ru:80/announce
 
-http://web4.obit.ru:80/announce
+https://tracker.lelux.fi:443/announce
 
 https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
 https://tracker.parrotlinux.org:443/announce
+
+https://tracker.publictorrent.net:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
@@ -135,8 +127,6 @@ udp://thetracker.org:80/announce
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
