@@ -80,17 +80,17 @@ http://91.218.230.81:6969/announce
 
 http://93.92.64.5:80/announce
 
-http://95.107.48.115:80/announce
-
 http://95.211.168.204:2710/announce
 
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2001:470:1:189:0:1:2:3]:6969/announce
 
-http://[2001:bc8:4728:7b00::1]:80/announce
+http://[2a01:4f8:200:2241::ac15:173]:80/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
+
+http://academic-p2p.carlosdelfino.eti.br:80/announce
 
 http://agusiq-torrents.pl:6969/announce
 
@@ -110,11 +110,13 @@ http://fxtt.ru:80/announce
 
 http://grifon.info:80/announce
 
+http://gshk.happy-host.com/test:80/announce.php
+
+http://gwp2-v19.rinet.ru:80/announce
+
 http://h4.trakx.nibba.trade:80/announce
 
 http://mail2.zelenaya.net:80/announce
-
-http://npupt.com:80/announce.php
 
 http://ns349743.ip-91-121-106.eu:80/announce
 
@@ -125,8 +127,6 @@ http://open.acgtracker.com:1096/announce
 http://open.lolicon.eu:7777/announce
 
 http://open.touki.ru:80/announce.php
-
-http://opentracker.acgnx.se:80/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
@@ -160,8 +160,6 @@ http://share.camoe.cn:8080/announce
 
 http://siambit.org:80/announce.php
 
-http://sndabt.sdo.com:80/announce
-
 http://sugoi.pomf.se:80/announce
 
 http://t.acg.rip:6699/announce
@@ -171,6 +169,8 @@ http://t.nyaatracker.com:80/announce
 http://t1.pow7.com:80/announce
 
 http://t2.pow7.com:80/announce
+
+http://theheartofchronic.com:80/announce.php
 
 http://thetracker.org:80/announce
 
@@ -190,6 +190,8 @@ http://tracker.acgnx.se:80/announce
 
 http://tracker.aletorrenty.pl:2710/announce
 
+http://tracker.anirena.com:80/announce
+
 http://tracker.baravik.org:6970/announce
 
 http://tracker.birkenwald.de:6969/announce
@@ -205,8 +207,6 @@ http://tracker.bz:80/announce
 http://tracker.calculate.ru:6969/announce
 
 http://tracker.city9x.com:2710/announce
-
-http://tracker.comicat.org:80/announce
 
 http://tracker.corpscorp.online:80/announce
 
@@ -292,6 +292,8 @@ http://tracker1.itzmx.com:8080/announce
 
 http://tracker1.wasabii.com.tw:6969/announce
 
+http://tracker114514.top:11450/announce
+
 http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
@@ -322,9 +324,13 @@ https://2.tracker.eu.org:443/announce
 
 https://3.tracker.eu.org:443/announce
 
+https://cernet-tracker.appspot.com:443/announce
+
 https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
+
+https://rt6.msk-server.ga:443/announce
 
 https://t.quic.ws:443/announce
 
@@ -499,8 +505,6 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://peerfect.org:6969/announce
 
 udp://public.popcorn-tracker.org:6969/announce
-
-udp://qg.lorzl.gq:2710/announce
 
 udp://retracker.akado-ural.ru:80/announce
 
