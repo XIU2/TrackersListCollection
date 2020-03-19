@@ -356,6 +356,8 @@ https://tracker.parrotlinux.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
+https://tracker.tamersunion.org:443/announce
+
 https://tracker.vectahosting.eu:2053/announce
 
 https://tracker6.lelux.fi:443/announce
