@@ -88,6 +88,8 @@ http://[2001:470:1:189:0:1:2:3]:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
+http://academic-p2p.carlosdelfino.eti.br:80/announce
+
 http://agusiq-torrents.pl:6969/announce
 
 http://asnet.pw:2710/announce
@@ -106,11 +108,13 @@ http://fxtt.ru:80/announce
 
 http://grifon.info:80/announce
 
-http://gwp2-v19.rinet.ru:80/announce
+http://gshk.happy-host.com/test:80/announce.php
 
 http://h4.trakx.nibba.trade:80/announce
 
 http://mail2.zelenaya.net:80/announce
+
+http://npupt.com:80/announce.php
 
 http://ns349743.ip-91-121-106.eu:80/announce
 
@@ -121,8 +125,6 @@ http://open.acgtracker.com:1096/announce
 http://open.lolicon.eu:7777/announce
 
 http://open.touki.ru:80/announce.php
-
-http://opentracker.acgnx.se:80/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
@@ -146,6 +148,8 @@ http://retracker.krs-ix.ru:80/announce
 
 http://retracker.mgts.by:80/announce
 
+http://retracker.ohys.net:80/announce
+
 http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
@@ -154,9 +158,11 @@ http://retracker.telecom.by:80/announce
 
 http://secure.pow7.com:80/announce
 
+http://servandroidkino.ru:80/announce
+
 http://share.camoe.cn:8080/announce
 
-http://sugoi.pomf.se:80/announce
+http://sndabt.sdo.com:80/announce
 
 http://t.acg.rip:6699/announce
 
@@ -188,8 +194,6 @@ http://tracker.acgnx.se:80/announce
 
 http://tracker.aletorrenty.pl:2710/announce
 
-http://tracker.baka-sub.cf:80/announce
-
 http://tracker.baravik.org:6970/announce
 
 http://tracker.birkenwald.de:6969/announce
@@ -197,6 +201,8 @@ http://tracker.birkenwald.de:6969/announce
 http://tracker.bittor.pw:1337/announce
 
 http://tracker.bittorrent.am:80/announce
+
+http://tracker.blazing.de:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -256,6 +262,10 @@ http://tracker.nyap2p.com:8080/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.prq.to:80/announce.php
+
+http://tracker.publicbt.com:80/announce
+
 http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
@@ -292,17 +302,21 @@ http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
+http://tracker2.torrentino.com:80/announce
+
 http://tracker2.wasabii.com.tw:6969/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://tracker4.itzmx.com:2710/announce
+http://tracker3.torrentino.com:80/announce
 
-http://tracker9.bol.bg:80/announce.php
+http://tracker4.itzmx.com:2710/announce
 
 http://trun.tom.ru:80/announce
 
 http://vps02.net.orel.ru:80/announce
+
+http://web4.obit.ru:80/announce
 
 http://www.loushao.net:8080/announce
 
@@ -318,11 +332,7 @@ https://2.tracker.eu.org:443/announce
 
 https://3.tracker.eu.org:443/announce
 
-https://cernet-tracker.appspot.com:443/announce
-
 https://open.kickasstracker.com:443/announce
-
-https://opentracker-milanesi.rhcloud.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
 
@@ -339,6 +349,8 @@ https://tracker.bt-hash.com:443/announce
 https://tracker.fastdownload.xyz:443/announce
 
 https://tracker.gbitt.info:443/announce
+
+https://tracker.hama3.net:443/announce
 
 https://tracker.lelux.fi:443/announce
 
@@ -615,8 +627,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.piratepublic.com:1337/announce
 
 udp://tracker.sbsub.com:2710/announce
-
-udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
