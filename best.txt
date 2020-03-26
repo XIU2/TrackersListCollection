@@ -1,14 +1,26 @@
-http://91.216.110.47:80/announce
+
+
+http://1337.abcvg.info:80/announce
+
+http://anisource.spb.ru:80/announce
 
 http://asnet.pw:2710/announce
 
+http://denis.stalker.h3q.com:80/announce
+
+http://denis.stalker.h3q.com:80/announce.php
+
+http://gshk.happy-host.com/test:80/announce.php
+
 http://h4.trakx.nibba.trade:80/announce
+
+http://peersteers.org:80/announce
 
 http://pt.lax.mx:80/announce
 
-http://retracker.ohys.net:80/announce
+http://retracker.bashtel.ru:80/announce
 
-http://seeders-paradise.org:80/announce
+http://rstracker.ohys.net:80/announce
 
 http://servandroidkino.ru:80/announce
 
@@ -16,19 +28,13 @@ http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://t1.pow7.com:80/announce
-
-http://t2.pow7.com:80/announce
-
-http://torrent.nwps.ws:80/announce
-
 http://tr.cili001.com:8070/announce
 
 http://tr.kxmp.cf:80/announce
 
-http://tracker.baka-sub.cf:80/announce
+http://tracker.acgnx.se:80/announce
 
-http://tracker.blazing.de:80/announce
+http://tracker.anirena.com:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -38,45 +44,39 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.lelux.fi:80/announce
-
 http://tracker.nyap2p.com:8080/announce
 
-http://tracker.openbittorrent.com:80/announce
+http://tracker.prq.to:80/announce.php
 
 http://tracker.tfile.co:80/announce
 
-http://tracker.trackerfix.com:80/announce
+http://tracker.tfile.me:80/announce
 
-http://tracker.vivancos.eu:80/announce
+http://tracker.trackerfix.com:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.itzmx.com:6961/announce
 
-http://tracker2.torrentino.com:80/announce
-
 http://tracker3.itzmx.com:6961/announce
+
+http://tracker3.torrentino.com:80/announce
 
 http://tracker4.itzmx.com:2710/announce
 
-http://tracker9.bol.bg:80/announce.php
-
 http://vps02.net.orel.ru:80/announce
 
-http://web4.obit.ru:80/announce
+http://www.yqzuji.com:80/announce
+
+https://opentracker-milanesi.rhcloud.com:443/announce
 
 https://t1.leech.ie:443/announce
 
-https://tp.m-team.cc:443/announce.php
-
-https://tracker.hama3.net:443/announce
+https://tracker.acgnx.se:443/announce
 
 https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
-
-https://tracker.opentracker.se:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
