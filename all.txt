@@ -86,6 +86,8 @@ http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2001:470:1:189:0:1:2:3]:6969/announce
 
+http://[2001:bc8:4728:7b00::1]:80/announce
+
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://agusiq-torrents.pl:6969/announce
@@ -96,15 +98,15 @@ http://asnet.pw:2710/announce
 
 http://atrack.pow7.com:80/announce
 
+http://bittracker.ru:80/announce
+
 http://bt.henbt.com:2710/announce
 
 http://bt.pusacg.org:8080/announce
 
 http://bt2.careland.com.cn:6969/announce
 
-http://denis.stalker.h3q.com:80/announce
-
-http://denis.stalker.h3q.com:80/announce.php
+http://exodus.desync.com:80/announce
 
 http://explodie.org:6969/announce
 
@@ -114,9 +116,17 @@ http://grifon.info:80/announce
 
 http://gshk.happy-host.com/test:80/announce.php
 
+http://gwp2-v19.rinet.ru:80/announce
+
 http://h4.trakx.nibba.trade:80/announce
 
+http://highteahop.top:6960/announce
+
 http://mail2.zelenaya.net:80/announce
+
+http://netwarer.xyz:6960/announce
+
+http://npupt.com:80/announce.php
 
 http://ns349743.ip-91-121-106.eu:80/announce
 
@@ -133,8 +143,6 @@ http://opentracker.i2p.rocks:6969/announce
 http://p4p.arenabg.ch:1337/announce
 
 http://p4p.arenabg.com:1337/announce
-
-http://peersteers.org:80/announce
 
 http://pow7.com:80/announce
 
@@ -156,13 +164,13 @@ http://retracker.spark-rostov.ru:80/announce
 
 http://retracker.telecom.by:80/announce
 
-http://rstracker.ohys.net:80/announce
-
 http://secure.pow7.com:80/announce
 
 http://servandroidkino.ru:80/announce
 
 http://share.camoe.cn:8080/announce
+
+http://siambit.org:80/announce.php
 
 http://t.acg.rip:6699/announce
 
@@ -191,8 +199,6 @@ http://tr.kxmp.cf:80/announce
 http://tracker.acgnx.se:80/announce
 
 http://tracker.aletorrenty.pl:2710/announce
-
-http://tracker.anirena.com:80/announce
 
 http://tracker.baravik.org:6970/announce
 
@@ -258,6 +264,8 @@ http://tracker.nyaa.uk:6969/announce
 
 http://tracker.nyap2p.com:8080/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.prq.to:80/announce.php
@@ -267,6 +275,8 @@ http://tracker.skyts.net:6969/announce
 http://tracker.tfile.co:80/announce
 
 http://tracker.tfile.me:80/announce
+
+http://tracker.tfile.me:80/announce.php
 
 http://tracker.tiny-vps.com:6969/announce
 
@@ -296,11 +306,11 @@ http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
+http://tracker2.torrentino.com:80/announce
+
 http://tracker2.wasabii.com.tw:6969/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-http://tracker3.torrentino.com:80/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -314,7 +324,7 @@ http://www.proxmox.com:6969/announce
 
 http://www.wareztorrent.com:80/announce
 
-http://www.yqzuji.com:80/announce
+http://x17.hexapi.xyz:2610/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -322,9 +332,9 @@ https://2.tracker.eu.org:443/announce
 
 https://3.tracker.eu.org:443/announce
 
-https://open.kickasstracker.com:443/announce
+https://evening-badlands-6215.herokuapp.com:443/announce
 
-https://opentracker-milanesi.rhcloud.com:443/announce
+https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
 
@@ -335,8 +345,6 @@ https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
 
 https://t3.leech.ie:443/announce
-
-https://tracker.acgnx.se:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
@@ -355,6 +363,8 @@ https://tracker.nitrix.me:443/announce
 https://tracker.nyaa.tk:443/announce
 
 https://tracker.opentracker.se:443/announce
+
+https://tracker.parrotlinux.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
@@ -507,8 +517,6 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://peerfect.org:6969/announce
 
 udp://public.popcorn-tracker.org:6969/announce
-
-udp://qg.lorzl.gq:2710/announce
 
 udp://retracker.akado-ural.ru:80/announce
 
