@@ -52,6 +52,8 @@ http://5.79.83.193:2710/announce
 
 http://51.254.244.161:6969/announce
 
+http://51.68.122.172:80/announce
+
 http://59.36.96.77:6969/announce
 
 http://62.210.202.61:80/announce
@@ -80,8 +82,6 @@ http://91.218.230.81:6969/announce
 
 http://93.92.64.5:80/announce
 
-http://95.107.48.115:80/announce
-
 http://95.211.168.204:2710/announce
 
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
@@ -94,8 +94,6 @@ http://aaa.army:8866/announce
 
 http://agusiq-torrents.pl:6969/announce
 
-http://anisource.spb.ru:80/announce
-
 http://asnet.pw:2710/announce
 
 http://atrack.pow7.com:80/announce
@@ -106,6 +104,8 @@ http://bt.pusacg.org:8080/announce
 
 http://bt2.careland.com.cn:6969/announce
 
+http://exodus.desync.com:80/announce
+
 http://explodie.org:6969/announce
 
 http://fxtt.ru:80/announce
@@ -114,15 +114,11 @@ http://grifon.info:80/announce
 
 http://gshk.happy-host.com/test:80/announce.php
 
+http://gwp2-v19.rinet.ru:80/announce
+
 http://h4.trakx.nibba.trade:80/announce
 
-http://highteahop.top:6960/announce
-
 http://mail2.zelenaya.net:80/announce
-
-http://netwarer.xyz:6960/announce
-
-http://novaopcj.icu:10325/announce
 
 http://ns349743.ip-91-121-106.eu:80/announce
 
@@ -134,17 +130,23 @@ http://open.lolicon.eu:7777/announce
 
 http://open.touki.ru:80/announce.php
 
+http://opentracker.acgnx.se:80/announce
+
 http://opentracker.i2p.rocks:6969/announce
 
 http://p4p.arenabg.ch:1337/announce
 
 http://p4p.arenabg.com:1337/announce
 
+http://peersteers.org:80/announce
+
 http://pow7.com:80/announce
 
 http://pt.lax.mx:80/announce
 
 http://retracker.bashtel.ru:80/announce
+
+http://retracker.goodline.info:80/announce
 
 http://retracker.gorcomnet.ru:80/announce
 
@@ -160,19 +162,11 @@ http://retracker.spark-rostov.ru:80/announce
 
 http://retracker.telecom.by:80/announce
 
-http://rstracker.ohys.net:80/announce
-
 http://secure.pow7.com:80/announce
-
-http://seeders-paradise.org:80/announce
 
 http://servandroidkino.ru:80/announce
 
 http://share.camoe.cn:8080/announce
-
-http://share.hkg-fansub.info:80/announce.php
-
-http://siambit.org:80/announce.php
 
 http://t.acg.rip:6699/announce
 
@@ -187,8 +181,6 @@ http://t2.pow7.com:80/announce
 http://thetracker.org:80/announce
 
 http://torrent.gresille.org:80/announce
-
-http://torrent.nwps.ws:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -219,6 +211,8 @@ http://tracker.bz:80/announce
 http://tracker.calculate.ru:6969/announce
 
 http://tracker.city9x.com:2710/announce
+
+http://tracker.comicat.org:80/announce
 
 http://tracker.corpscorp.online:80/announce
 
@@ -268,9 +262,11 @@ http://tracker.nyaa.uk:6969/announce
 
 http://tracker.nyap2p.com:8080/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.prq.to:80/announce.php
+http://tracker.publicbt.com:80/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -318,8 +314,6 @@ http://trun.tom.ru:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
-http://web4.obit.ru:80/announce
-
 http://www.loushao.net:8080/announce
 
 http://www.proxmox.com:6969/announce
@@ -334,8 +328,6 @@ https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
 
-https://evening-badlands-6215.herokuapp.com:443/announce
-
 https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
@@ -347,6 +339,8 @@ https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
 
 https://t3.leech.ie:443/announce
+
+https://tk.mabo.ltd:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
@@ -471,6 +465,8 @@ udp://[2a04:c44:e00:32e0:4cf:6aff:fe00:aa1]:6969/announce
 udp://aaa.army:8866/announce
 
 udp://bt.aoeex.com:8000/announce
+
+udp://bt.delbertbeta.cc:19943/announce
 
 udp://bt.okmp3.ru:2710/announce
 
