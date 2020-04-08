@@ -52,8 +52,6 @@ http://5.79.83.193:2710/announce
 
 http://51.254.244.161:6969/announce
 
-http://51.68.122.172:80/announce
-
 http://59.36.96.77:6969/announce
 
 http://62.210.202.61:80/announce
@@ -82,6 +80,8 @@ http://91.218.230.81:6969/announce
 
 http://93.92.64.5:80/announce
 
+http://95.107.48.115:80/announce
+
 http://95.211.168.204:2710/announce
 
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
@@ -106,19 +106,17 @@ http://bt2.careland.com.cn:6969/announce
 
 http://denis.stalker.h3q.com:80/announce
 
-http://denis.stalker.h3q.com:80/announce.php
-
-http://exodus.desync.com:80/announce
-
 http://explodie.org:6969/announce
 
 http://fxtt.ru:80/announce
 
 http://grifon.info:80/announce
 
-http://h4.trakx.nibba.trade:80/announce
+http://gshk.happy-host.com/test:80/announce.php
 
-http://highteahop.top:6960/announce
+http://gwp2-v19.rinet.ru:80/announce
+
+http://h4.trakx.nibba.trade:80/announce
 
 http://mail2.zelenaya.net:80/announce
 
@@ -133,6 +131,8 @@ http://open.acgtracker.com:1096/announce
 http://open.lolicon.eu:7777/announce
 
 http://open.touki.ru:80/announce.php
+
+http://opentracker.acgnx.se:80/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
@@ -154,19 +154,19 @@ http://retracker.krs-ix.ru:80/announce
 
 http://retracker.mgts.by:80/announce
 
-http://retracker.ohys.net:80/announce
-
 http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
 http://retracker.telecom.by:80/announce
 
-http://rstracker.ohys.net:80/announce
-
 http://secure.pow7.com:80/announce
 
+http://seeders-paradise.org:80/announce
+
 http://share.camoe.cn:8080/announce
+
+http://siambit.org:80/announce.php
 
 http://t.acg.rip:6699/announce
 
@@ -174,9 +174,15 @@ http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
+http://t1.leech.ie:80/announce
+
 http://t1.pow7.com:80/announce
 
+http://t2.leech.ie:80/announce
+
 http://t2.pow7.com:80/announce
+
+http://t3.leech.ie:80/announce
 
 http://thetracker.org:80/announce
 
@@ -196,8 +202,6 @@ http://tracker.acgnx.se:80/announce
 
 http://tracker.aletorrenty.pl:2710/announce
 
-http://tracker.baka-sub.cf:80/announce
-
 http://tracker.baravik.org:6970/announce
 
 http://tracker.birkenwald.de:6969/announce
@@ -207,8 +211,6 @@ http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am:80/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.btcake.com:80/announce
 
 http://tracker.bz:80/announce
 
@@ -265,6 +267,8 @@ http://tracker.nyaa.uk:6969/announce
 http://tracker.nyap2p.com:8080/announce
 
 http://tracker.opentrackr.org:1337/announce
+
+http://tracker.publicbt.com:80/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -323,8 +327,6 @@ https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
-
-https://cernet-tracker.appspot.com:443/announce
 
 https://open.kickasstracker.com:443/announce
 
