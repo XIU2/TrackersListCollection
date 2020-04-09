@@ -80,8 +80,6 @@ http://91.218.230.81:6969/announce
 
 http://93.92.64.5:80/announce
 
-http://95.107.48.115:80/announce
-
 http://95.211.168.204:2710/announce
 
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
@@ -104,19 +102,15 @@ http://bt.pusacg.org:8080/announce
 
 http://bt2.careland.com.cn:6969/announce
 
-http://denis.stalker.h3q.com:80/announce
-
 http://explodie.org:6969/announce
 
 http://fxtt.ru:80/announce
 
 http://grifon.info:80/announce
 
-http://gshk.happy-host.com/test:80/announce.php
-
-http://gwp2-v19.rinet.ru:80/announce
-
 http://h4.trakx.nibba.trade:80/announce
+
+http://highteahop.top:6960/announce
 
 http://mail2.zelenaya.net:80/announce
 
@@ -162,11 +156,13 @@ http://retracker.telecom.by:80/announce
 
 http://secure.pow7.com:80/announce
 
-http://seeders-paradise.org:80/announce
+http://servandroidkino.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
-http://siambit.org:80/announce.php
+http://share.hkg-fansub.info:80/announce.php
+
+http://sndabt.sdo.com:80/announce
 
 http://t.acg.rip:6699/announce
 
@@ -187,6 +183,8 @@ http://t3.leech.ie:80/announce
 http://thetracker.org:80/announce
 
 http://torrent.gresille.org:80/announce
+
+http://torrent.nwps.ws:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -210,6 +208,8 @@ http://tracker.bittor.pw:1337/announce
 
 http://tracker.bittorrent.am:80/announce
 
+http://tracker.bittorrent.am:80/announce.php
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.bz:80/announce
@@ -217,6 +217,8 @@ http://tracker.bz:80/announce
 http://tracker.calculate.ru:6969/announce
 
 http://tracker.city9x.com:2710/announce
+
+http://tracker.comicat.org:80/announce
 
 http://tracker.corpscorp.online:80/announce
 
@@ -266,9 +268,11 @@ http://tracker.nyaa.uk:6969/announce
 
 http://tracker.nyap2p.com:8080/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.publicbt.com:80/announce
+http://tracker.pow7.com:80/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -314,6 +318,8 @@ http://trun.tom.ru:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
+http://www.loushao.net:8080/announce
+
 http://www.proxmox.com:6969/announce
 
 http://www.wareztorrent.com:80/announce
@@ -347,8 +353,6 @@ https://tracker.bt-hash.com:443/announce
 https://tracker.fastdownload.xyz:443/announce
 
 https://tracker.gbitt.info:443/announce
-
-https://tracker.hama3.net:443/announce
 
 https://tracker.lelux.fi:443/announce
 
@@ -667,6 +671,8 @@ udp://tracker4.piratux.com:6969/announce
 udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://wambo.club:1337/announce
+
+udp://www.loushao.net:8080/announce
 
 udp://xxxtor.com:2710/announce
 
