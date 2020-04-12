@@ -116,7 +116,11 @@ http://gshk.happy-host.com/test:80/announce.php
 
 http://h4.trakx.nibba.trade:80/announce
 
+http://highteahop.top:6960/announce
+
 http://mail2.zelenaya.net:80/announce
+
+http://netwarer.xyz:6960/announce
 
 http://npupt.com:80/announce.php
 
