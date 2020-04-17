@@ -8,7 +8,7 @@
 
 该项目仅将全网热门的公共 Tracker 列表制作成合集方便大家使用，无需再一个个导入了~。  
 
-> 在无法保证 Tracker 质量的情况下（毕竟大都是国外服务器，稳定性没办法保证），Tracker 数量可以来弥补质量（数量提高，寻找到更多用户的概率也会提高），这些我收集的全网热门 Tracker 列表项目，基本上满足了大家的需求。
+> 在无法保证 Tracker 质量的情况下（毕竟大都是国外服务器，稳定性没办法保证），数量可以来弥补质量（数量越多，寻找到更多用户的概率也越高，但不能无限制的添加，所以我选择的是网上热门的 Tracker，使数量、质量维持平衡），我收集的这些全网热门 Tracker 列表，基本上满足了大家的需求。
 
 > 「[English](https://github.com/XIU2/TrackersListCollection/#readme)」([trackerslist.com](https://trackerslist.com) visitors, please switch languages in the upper right corner ↗)
 
