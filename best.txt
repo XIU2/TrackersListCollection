@@ -1,28 +1,16 @@
-http://178.175.143.27:80/announce
-
-http://51.68.122.172:80/announce
-
-http://87.253.152.137:80/announce
-
-http://91.216.110.47:80/announce
-
-http://93.92.64.5:80/announce
-
-http://academic-p2p.carlosdelfino.eti.br:80/announce
+http://62.210.202.61:80/announce
 
 http://asnet.pw:2710/announce
-
-http://bt.evrl.to:80/announce
 
 http://gshk.happy-host.com/test:80/announce.php
 
 http://h4.trakx.nibba.trade:80/announce
 
-http://mail2.zelenaya.net:80/announce
+http://npupt.com:80/announce.php
 
-http://opentracker.acgnx.se:80/announce
+http://retracker.bashtel.ru:80/announce
 
-http://servandroidkino.ru:80/announce
+http://seeders-paradise.org:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -32,11 +20,17 @@ http://t.nyaatracker.com:80/announce
 
 http://t1.leech.ie:80/announce
 
-http://t1.pow7.com:80/announce
+http://t2.pow7.com:80/announce
 
 http://t3.leech.ie:80/announce
 
+http://theheartofchronic.com:80/announce.php
+
 http://tr.cili001.com:8070/announce
+
+http://tracker.acgnx.se:80/announce
+
+http://tracker.anirena.com:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -46,9 +40,7 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.lelux.fi:80/announce
-
-http://tracker.pow7.com:80/announce
+http://tracker.prq.to:80/announce.php
 
 http://tracker.publicbt.com:80/announce
 
@@ -58,8 +50,6 @@ http://tracker.trackerfix.com:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-http://tracker2.dler.org:80/announce
-
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
@@ -68,9 +58,7 @@ http://tracker4.itzmx.com:2710/announce
 
 http://vps02.net.orel.ru:80/announce
 
-http://www.wareztorrent.com:80/announce
-
-https://opentracker.acgnx.se:443/announce
+http://www.yqzuji.com:80/announce
 
 https://t1.leech.ie:443/announce
 
@@ -116,8 +104,6 @@ udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
-udp://opentracker.i2p.rocks:6969/announce
-
 udp://retracker.akado-ural.ru:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -125,6 +111,8 @@ udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
 
 udp://thetracker.org:80/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0o.is:6969/announce
 
@@ -169,6 +157,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://u.wwwww.wtf:1/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
 

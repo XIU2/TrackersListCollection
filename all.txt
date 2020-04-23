@@ -52,8 +52,6 @@ http://5.79.83.193:2710/announce
 
 http://51.254.244.161:6969/announce
 
-http://51.68.122.172:80/announce
-
 http://59.36.96.77:6969/announce
 
 http://62.210.202.61:80/announce
@@ -92,15 +90,11 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://aaa.army:8866/announce
 
-http://academic-p2p.carlosdelfino.eti.br:80/announce
-
 http://agusiq-torrents.pl:6969/announce
 
 http://asnet.pw:2710/announce
 
 http://atrack.pow7.com:80/announce
-
-http://bt.evrl.to:80/announce
 
 http://bt.pusacg.org:8080/announce
 
@@ -116,6 +110,8 @@ http://h4.trakx.nibba.trade:80/announce
 
 http://mail2.zelenaya.net:80/announce
 
+http://npupt.com:80/announce.php
+
 http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -125,10 +121,6 @@ http://open.acgtracker.com:1096/announce
 http://open.lolicon.eu:7777/announce
 
 http://open.touki.ru:80/announce.php
-
-http://opentracker.acgnx.se:80/announce
-
-http://opentracker.i2p.rocks:6969/announce
 
 http://p4p.arenabg.ch:1337/announce
 
@@ -154,7 +146,7 @@ http://retracker.telecom.by:80/announce
 
 http://secure.pow7.com:80/announce
 
-http://servandroidkino.ru:80/announce
+http://seeders-paradise.org:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -176,6 +168,8 @@ http://t2.pow7.com:80/announce
 
 http://t3.leech.ie:80/announce
 
+http://theheartofchronic.com:80/announce.php
+
 http://thetracker.org:80/announce
 
 http://torrentsmd.com:8080/announce
@@ -189,6 +183,8 @@ http://tr.kxmp.cf:80/announce
 http://tracker.acgnx.se:80/announce
 
 http://tracker.aletorrenty.pl:2710/announce
+
+http://tracker.anirena.com:80/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -232,8 +228,6 @@ http://tracker.kamigami.org:2710/announce
 
 http://tracker.kuroy.me:5944/announce
 
-http://tracker.lelux.fi:80/announce
-
 http://tracker.mg64.net:6881/announce
 
 http://tracker.moeking.me:6969/announce
@@ -242,7 +236,7 @@ http://tracker.nyap2p.com:8080/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.pow7.com:80/announce
+http://tracker.prq.to:80/announce.php
 
 http://tracker.publicbt.com:80/announce
 
@@ -294,6 +288,8 @@ http://www.proxmox.com:6969/announce
 
 http://www.wareztorrent.com:80/announce
 
+http://www.yqzuji.com:80/announce
+
 https://1337.abcvg.info:443/announce
 
 https://2.tracker.eu.org:443/announce
@@ -317,8 +313,6 @@ https://tk.mabo.ltd:443/announce
 https://tracker.bt-hash.com:443/announce
 
 https://tracker.gbitt.info:443/announce
-
-https://tracker.lelux.fi:443/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -462,8 +456,6 @@ udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
-udp://opentracker.i2p.rocks:6969/announce
-
 udp://peerfect.org:6969/announce
 
 udp://public.popcorn-tracker.org:6969/announce
@@ -544,8 +536,6 @@ udp://tracker.kuroy.me:5944/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
-udp://tracker.lelux.fi:6969/announce
-
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.msm8916.com:6969/announce
@@ -593,6 +583,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://u.wwwww.wtf:1/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
 
