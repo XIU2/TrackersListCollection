@@ -6,7 +6,7 @@
 
 每天更新！全网热门公共 BitTorrent Tracker 列表合集。  
 
-该项目仅将全网热门的公共 Tracker 列表制作成合集方便大家使用，无需再一个个导入了~。  
+该项目仅将全网热门的公共 Tracker 列表制作成合集方便大家使用，无需再一个个导入了~  
 
 > 「[English](https://github.com/XIU2/TrackersListCollection/#readme)」([trackerslist.com](https://trackerslist.com) visitors, please switch languages in the upper right corner ↗)
 
@@ -57,7 +57,7 @@
 
 #### Aria2 格式 Tracker 地址:
 
-为了方便使用 Aria2 的人添加 Tracker，特地按照 Aria2 配置格式单独做了一份，每天跟随更新。
+为了方便给 Aria2 添加 Tracker，特地按照 Aria2 配置格式单独做了一份，每天跟随更新。
 
 * **精选列表：**  
 ***https://trackerslist.com/best_aria2.txt***
@@ -184,7 +184,7 @@ Tracker 可以帮你找到更多的用户，并帮助你们之间建立链接，
 
 ### 帮助项目
 
-* 您知道更多公共追踪器列表吗？(例如: ngosang/trackerslist) => [Open a new issue](https://github.com/XIU2/TrackersListCollection/issues/new)
+* 您知道更好的公共追踪器列表？(例如: ngosang/trackerslist) => [Open a new issue](https://github.com/XIU2/TrackersListCollection/issues/new)
 
 ****
 
