@@ -1,24 +1,14 @@
-http://[2001:bc8:4728:7b00::1]:80/announce
-
-http://bittracker.ru:80/announce
-
-http://gshk.happy-host.com/test:80/announce.php
-
 http://h4.trakx.nibba.trade:80/announce
+
+http://open.acgnxtracker.com:80/announce
 
 http://share.camoe.cn:8080/announce
 
-http://share.hkg-fansub.info:80/announce.php
-
-http://t.nyaatracker.com:80/announce
+http://t2.leech.ie:80/announce
 
 http://t3.leech.ie:80/announce
 
-http://torrent.nwps.ws:80/announce
-
 http://tr.cili001.com:8070/announce
-
-http://tracker.blazing.de:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -28,8 +18,6 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.publicbt.com:80/announce
-
 http://tracker.trackerfix.com:80/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -38,11 +26,11 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://tracker4.itzmx.com:2710/announce
+http://trun.tom.ru:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
-https://cernet-tracker.appspot.com:443/announce
+http://www.yqzuji.com:80/announce
 
 https://t1.leech.ie:443/announce
 
@@ -51,6 +39,10 @@ https://t2.leech.ie:443/announce
 https://t3.leech.ie:443/announce
 
 https://tk.mabo.ltd:443/announce
+
+https://tracker.gbitt.info:443/announce
+
+https://tracker.lelux.fi:443/announce
 
 https://tracker.nanoha.org:443/announce
 
