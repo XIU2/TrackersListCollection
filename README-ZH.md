@@ -4,9 +4,9 @@
 [![GitHub Star](https://img.shields.io/github/stars/XIU2/TrackersListCollection.svg?style=flat-square&label=Star)](https://github.com/XIU2/TrackersListCollection/stargazers)
 [![GitHub Fork](https://img.shields.io/github/forks/XIU2/TrackersListCollection.svg?style=flat-square&label=Fork)](https://github.com/XIU2/TrackersListCollection/network/members)
 
-每天更新！全网热门公共 BitTorrent Tracker 列表合集。  
+每天更新！全网热门 BitTorrent Tracker 列表。  
 
-该项目仅将全网热门的公共 Tracker 列表制作成合集方便大家使用，无需再一个个导入了~  
+本项目整合了全网热门 Tracker，经过过滤，最终得到了一个优质的 Tracker 列表合集方便大家使用~  
 
 > 「[English](https://github.com/XIU2/TrackersListCollection/#readme)」([trackerslist.com](https://trackerslist.com) visitors, please switch languages in the upper right corner ↗)
 
