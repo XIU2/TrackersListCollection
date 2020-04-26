@@ -55,9 +55,9 @@
 
 ****
 
-#### Aria2 格式 Tracker 地址:
+#### Aria2 格式 Tracker:
 
-为了方便给 Aria2 添加 Tracker，特地按照 Aria2 配置格式单独做了一份，每天跟随更新。
+为了方便将 Tracker 添加到 Aria2，我还制作了一份 Aria2 配置格式的 Tracker 列表，每天跟随更新。
 
 * **精选列表：**  
 ***https://trackerslist.com/best_aria2.txt***
