@@ -4,9 +4,9 @@
 [![GitHub Star](https://img.shields.io/github/stars/XIU2/TrackersListCollection.svg?style=flat-square&label=Star)](https://github.com/XIU2/TrackersListCollection/stargazers)
 [![GitHub Fork](https://img.shields.io/github/forks/XIU2/TrackersListCollection.svg?style=flat-square&label=Fork)](https://github.com/XIU2/TrackersListCollection/network/members)
 
-Updated daily! A list of popular public BitTorrent trackers.  
+Updated daily! A list of popular BitTorrent Trackers.  
 
-The project only makes a list of popular public trackers into collections.  
+Integrated the popular Tracker, after filtering, finally got a high-quality Tracker list collection ~  
 
 > 「[简体中文](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md)」([trackerslist.com](https://trackerslist.com) 访客，请通过右上角切换语言 ↗)
 
@@ -35,24 +35,24 @@ The more people use these Trackers, the faster the BT download speed will be, **
 
 *These lists are updated automatically daily **[(Update Log)](https://github.com/XIU2/TrackersListCollection/releases)** :*
 
-> Better public tracker list is relatively more stable, concise.  
-> Complete public tracker list is more in number and theoretically better.  
+> BEST Tracker list is relatively more stable, concise.  
+> ALL Tracker list is more in number and theoretically better.  
 > **The number of Tracker does not affect the operation of the BT software, so I recommend using the `complete list` to maximize the download speed !**
 
-* **Better public tracker list:** (79 trackers)  
+* **BEST Tracker list:** (79 trackers)  
 ***https://trackerslist.com/best.txt***
-* **Complete public tracker list:** (227 trackers)  
+* **ALL Tracker list:** (227 trackers)  
 ***https://trackerslist.com/all.txt***
 
 ****
 
 #### Aria2 Format Tracker:
 
-To make it easier for people using Aria2 to add Tracker, I made a separate copy in the Aria2 configuration format. The update is consistent.
+In order to facilitate adding Tracker to Aria2, I also made a Tracker list in Aria2 format. The update is consistent.
 
-* **Better public tracker list:**  
+* **BEST Tracker list:**  
 ***https://trackerslist.com/best_aria2.txt***
-* **Complete public tracker list:**  
+* **ALL Tracker list:**  
 ***https://trackerslist.com/all_aria2.txt***
 
 ****
