@@ -32,8 +32,6 @@ http://open.acgnxtracker.com:80/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
-http://p4p.arenabg.com:1337/announce
-
 http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -47,6 +45,8 @@ http://secure.pow7.com:80/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -70,6 +70,8 @@ http://tr.kxmp.cf:80/announce
 
 http://tracker.acgnx.se:80/announce
 
+http://tracker.anirena.com:80/announce
+
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bittor.pw:1337/announce
@@ -79,6 +81,8 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.bz:80/announce
 
 http://tracker.corpscorp.online:80/announce
+
+http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
 
@@ -104,11 +108,7 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker.uw0.xyz:6969/announce
-
 http://tracker.ygsub.com:6969/announce
-
-http://tracker.yoshi210.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
@@ -127,8 +127,6 @@ http://vps02.net.orel.ru:80/announce
 http://www.loushao.net:8080/announce
 
 http://www.wareztorrent.com:80/announce
-
-http://www.yqzuji.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -276,8 +274,6 @@ udp://eddie4.nl:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://inferno.demonoid.pw:3418/announce
-
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.harry.lu:80/announce
@@ -377,8 +373,6 @@ udp://tracker.kamigami.org:2710/announce
 udp://tracker.kuroy.me:5944/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
-
-udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
