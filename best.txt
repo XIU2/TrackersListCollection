@@ -1,22 +1,16 @@
 http://h4.trakx.nibba.trade:80/announce
 
-http://secure.pow7.com:80/announce
+http://open.acgnxtracker.com:80/announce
 
 http://share.camoe.cn:8080/announce
 
 http://t2.leech.ie:80/announce
 
-http://t3.leech.ie:80/announce
-
 http://tr.cili001.com:8070/announce
-
-http://tracker.acgnx.se:80/announce
-
-http://tracker.anirena.com:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.dutchtracking.nl:80/announce
+http://tracker.corpscorp.online:80/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -32,11 +26,7 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://tracker4.itzmx.com:2710/announce
-
 http://vps02.net.orel.ru:80/announce
-
-http://www.wareztorrent.com:80/announce
 
 https://t1.leech.ie:443/announce
 
@@ -46,7 +36,11 @@ https://t3.leech.ie:443/announce
 
 https://tk.mabo.ltd:443/announce
 
+https://tp.m-team.cc:443/announce.php
+
 https://tracker.gbitt.info:443/announce
+
+https://tracker.imgoingto.icu:443/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -79,6 +73,8 @@ udp://ipv6.tracker.harry.lu:80/announce
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://open.nyap2p.com:6969/announce
 
 udp://open.stealth.si:80/announce
 
