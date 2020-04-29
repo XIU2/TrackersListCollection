@@ -85,6 +85,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 * **工具 - 选项 - 任务设置 - BT下载 - Tracker**  
  **勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[立即更新\]** 上面就会显示获取的 Tracker 了。(如下图所示)  
+ 
 > 比特彗星的 **黄灯 绿灯** 对下载速度影响较小，主要影响上传速度，绿灯需要 **公网IP + 端口映射(UPnP)** 。  
 
 ![比特彗星 Tracker](https://trackerslist.com/img/zh-04.png)
