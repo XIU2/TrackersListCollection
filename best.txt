@@ -1,14 +1,22 @@
 http://h4.trakx.nibba.trade:80/announce
 
-http://open.acgnxtracker.com:80/announce
+http://pow7.com:80/announce
+
+http://secure.pow7.com:80/announce
 
 http://share.camoe.cn:8080/announce
 
-http://t2.leech.ie:80/announce
+http://t.nyaatracker.com:80/announce
+
+http://t1.leech.ie:80/announce
+
+http://t3.leech.ie:80/announce
 
 http://tr.cili001.com:8070/announce
 
-http://tracker.bt4g.com:2095/announce
+http://tracker.acgnx.se:80/announce
+
+http://tracker.anirena.com:80/announce
 
 http://tracker.corpscorp.online:80/announce
 
@@ -18,6 +26,8 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.nyap2p.com:8080/announce
+
 http://tracker.trackerfix.com:80/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -25,6 +35,8 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
+
+http://trun.tom.ru:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -37,10 +49,6 @@ https://t3.leech.ie:443/announce
 https://tk.mabo.ltd:443/announce
 
 https://tp.m-team.cc:443/announce.php
-
-https://tracker.gbitt.info:443/announce
-
-https://tracker.imgoingto.icu:443/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -143,5 +151,7 @@ udp://u.wwwww.wtf:1/announce
 udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://xxxtor.com:2710/announce
+
+udp://z.mercax.com:53/announce
 
 udp://zephir.monocul.us:6969/announce

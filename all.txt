@@ -4,8 +4,6 @@ http://1337.abcvg.info:80/announce
 
 http://178.175.143.27:80/announce
 
-http://78.30.254.12:2710/announce
-
 http://87.110.238.140:6969/announce
 
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
@@ -29,6 +27,8 @@ http://h4.trakx.nibba.trade:80/announce
 http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.touki.ru:80/announce.php
 
 http://opentracker.i2p.rocks:6969/announce
 
@@ -70,6 +70,8 @@ http://tr.kxmp.cf:80/announce
 
 http://tracker.acgnx.se:80/announce
 
+http://tracker.anirena.com:80/announce
+
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bittor.pw:1337/announce
@@ -79,8 +81,6 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.bz:80/announce
 
 http://tracker.corpscorp.online:80/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
 
@@ -100,17 +100,19 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.moeking.me:6969/announce
 
+http://tracker.nyap2p.com:8080/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.skyts.net:6969/announce
-
-http://tracker.tfile.co:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
+
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -119,6 +121,8 @@ http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://trun.tom.ru:80/announce
 
@@ -152,7 +156,7 @@ https://tracker.bt-hash.com:443/announce
 
 https://tracker.gbitt.info:443/announce
 
-https://tracker.imgoingto.icu:443/announce
+https://tracker.hama3.net:443/announce
 
 https://tracker.lelux.fi:443/announce
 
@@ -435,6 +439,8 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 udp://www.loushao.net:8080/announce
 
 udp://xxxtor.com:2710/announce
+
+udp://z.mercax.com:53/announce
 
 udp://zephir.monocul.us:6969/announce
 
