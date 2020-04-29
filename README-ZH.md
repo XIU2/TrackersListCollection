@@ -4,9 +4,9 @@
 [![GitHub Star](https://img.shields.io/github/stars/XIU2/TrackersListCollection.svg?style=flat-square&label=Star)](https://github.com/XIU2/TrackersListCollection/stargazers)
 [![GitHub Fork](https://img.shields.io/github/forks/XIU2/TrackersListCollection.svg?style=flat-square&label=Fork)](https://github.com/XIU2/TrackersListCollection/network/members)
 
-每天更新！全网热门 BitTorrent Tracker 列表。  
+每天更新！全网热门 BitTorrent Tracker 列表！  
 
-本项目整合了全网热门 Tracker，经过过滤，最终得到了一个优质的 Tracker 列表合集方便大家使用~  
+本项目整合了全网热门 Tracker，经过层层过滤，最终得到了一个优质的 Tracker 列表方便大家使用~  
 
 > 「[English](https://github.com/XIU2/TrackersListCollection/#readme)」([trackerslist.com](https://trackerslist.com) visitors, please switch languages in the upper right corner ↗)
 
@@ -83,8 +83,8 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 > ***官方网站：http://www.bitcomet.com***  
 > ***便携版：https://xiu.lanzous.com/b073c7g4f (已配置 Tracker)***  
 
-* **工具 - 选项 - Tracker**  
-**勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[立即更新\]** 上面就会显示获取的 Tracker 了。(如下图所示)  
+* **工具 - 选项 - 任务设置 - BT下载 - Tracker**  
+ **勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[立即更新\]** 上面就会显示获取的 Tracker 了。(如下图所示)  
 > 比特彗星的 **黄灯 绿灯** 对下载速度影响较小，主要影响上传速度，绿灯需要 **公网IP + 端口映射(UPnP)** 。  
 
 ![比特彗星 Tracker](https://trackerslist.com/img/zh-04.png)
@@ -96,10 +96,10 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 > ***Github：https://github.com/c0re100/qBittorrent-Enhanced-Edition***  
 > ***便携版：https://xiu.lanzous.com/b073dnr7g (已配置 Tracker)***  
 
-> 基于 qBittorrent 制作，增加了很多功能，例如 **订阅 Tracker URL** 功能，可以很方便的配合本项目使用。
+> 基于 qBittorrent，增加了很多实用功能，例如 **订阅 Tracker URL** ，可以很方便的配合本项目使用。
 
 * **选项[齿轮图标] - BitTorrent**  
-**勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[Apply\]** 保存，**然后重启 qBittorrentEE 。**(如下图所示)  
+ **勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[Apply\]** 保存，**然后重启 qBittorrentEE 。**(如下图所示)  
 
 ![qBittorrent Enhanced Edition Tracker](https://trackerslist.com/img/zh-06.png)
 
@@ -111,7 +111,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 > ***便携版：https://xiu.lanzous.com/b073jjwta***  
 
 * **选项[齿轮图标] - BitTorrent**  
-**勾选下图红框内的选项** 并复制所有 Tracker 后粘贴到下方输入框中，然后点击 **\[Apply\]** 保存。(如下图所示)  
+ **勾选下图红框内的选项** 并复制所有 Tracker 后粘贴到下方输入框中，然后点击 **\[Apply\]** 保存。(如下图所示)  
 
 ![qBittorrent Tracker](https://trackerslist.com/img/zh-05.png)
 
@@ -122,7 +122,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 > ***官方网站：https://xdown.org***
 
 * **设置 - BitTorrent设置**  
-**勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[确定\]** 保存。(如下图所示) 
+ **勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[确定\]** 保存。(如下图所示) 
 
 ![Xdown Tracker](https://trackerslist.com/img/zh-08.png)
 
