@@ -49,9 +49,9 @@
 > **Tracker 数量并不影响 BT 软件的运行速度，因此我更推荐使用 `「完整列表」` ，以使下载速度最大化！**
 
 * **精选列表：**(74 个)  
-***https://trackerslist.com/best.txt***
+ ***https://trackerslist.com/best.txt***  
 * **完整列表：**(222 个)  
-***https://trackerslist.com/all.txt***
+ ***https://trackerslist.com/all.txt***  
 
 ****
 
@@ -60,9 +60,9 @@
 为了方便将 Tracker 添加到 Aria2，我还制作了一份 Aria2 配置格式的 Tracker 列表，每天跟随更新。
 
 * **精选列表：**  
-***https://trackerslist.com/best_aria2.txt***
+ ***https://trackerslist.com/best_aria2.txt***  
 * **完整列表：**  
-***https://trackerslist.com/all_aria2.txt***
+ ***https://trackerslist.com/all_aria2.txt***  
 
 ****
 
