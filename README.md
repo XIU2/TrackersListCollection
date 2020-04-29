@@ -40,9 +40,9 @@ The more people use these Trackers, the faster the BT download speed will be, **
 > **The number of Tracker does not affect the operation of the BT software, so I recommend using the `complete list` to maximize the download speed !**
 
 * **BEST Tracker list:** (74 trackers)  
-***https://trackerslist.com/best.txt***
+ ***https://trackerslist.com/best.txt***  
 * **ALL Tracker list:** (222 trackers)  
-***https://trackerslist.com/all.txt***
+ ***https://trackerslist.com/all.txt***  
 
 ****
 
@@ -51,9 +51,9 @@ The more people use these Trackers, the faster the BT download speed will be, **
 In order to facilitate adding Tracker to Aria2, I also made a Tracker list in Aria2 format. The update is consistent.
 
 * **BEST Tracker list:**  
-***https://trackerslist.com/best_aria2.txt***
+ ***https://trackerslist.com/best_aria2.txt***  
 * **ALL Tracker list:**  
-***https://trackerslist.com/all_aria2.txt***
+ ***https://trackerslist.com/all_aria2.txt***  
 
 ****
 
