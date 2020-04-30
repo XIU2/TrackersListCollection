@@ -4,6 +4,8 @@ http://1337.abcvg.info:80/announce
 
 http://178.175.143.27:80/announce
 
+http://78.30.254.12:2710/announce
+
 http://87.110.238.140:6969/announce
 
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
@@ -30,6 +32,8 @@ http://open.acgnxtracker.com:80/announce
 
 http://open.touki.ru:80/announce.php
 
+http://opentracker.acgnx.se:80/announce
+
 http://opentracker.i2p.rocks:6969/announce
 
 http://pow7.com:80/announce
@@ -45,8 +49,6 @@ http://secure.pow7.com:80/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -70,8 +72,6 @@ http://tr.kxmp.cf:80/announce
 
 http://tracker.acgnx.se:80/announce
 
-http://tracker.anirena.com:80/announce
-
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bittor.pw:1337/announce
@@ -82,13 +82,13 @@ http://tracker.bz:80/announce
 
 http://tracker.corpscorp.online:80/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
-
-http://tracker.gcvchp.com:2710/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -108,6 +108,8 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker.uw0.xyz:6969/announce
+
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
@@ -122,8 +124,6 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://tracker4.itzmx.com:2710/announce
-
 http://trun.tom.ru:80/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -131,6 +131,8 @@ http://vps02.net.orel.ru:80/announce
 http://www.loushao.net:8080/announce
 
 http://www.wareztorrent.com:80/announce
+
+http://www.yqzuji.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -150,7 +152,7 @@ https://t3.leech.ie:443/announce
 
 https://tk.mabo.ltd:443/announce
 
-https://tp.m-team.cc:443/announce.php
+https://tracker.acgnx.se:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
@@ -164,9 +166,13 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
+https://tracker.parrotsec.org:443/announce
+
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.tamersunion.org:443/announce
+
+https://tracker.vectahosting.eu:8443/announce
 
 https://w.wwwww.wtf:443/announce
 
@@ -353,8 +359,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.ds.is:6969/announce
-
-udp://tracker.e-utp.net:6969/announce
 
 udp://tracker.eddie4.nl:6969/announce
 
