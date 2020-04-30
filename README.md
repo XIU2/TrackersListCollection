@@ -22,7 +22,7 @@ High-quality Tracker can effectively improve BT download speed.
 
 The more people use these Trackers, the faster the BT download speed will be, **so please recommend it to your friends!**
 
-***The figure below shows the BT download speed after using Tracker. (Complete list)***  
+***The figure below shows the BT download speed after using Tracker. (ALL Tracker list)***  
 
 ![BitComet](https://trackerslist.com/img/en-01.png)
 ![qBittorrentEE](https://trackerslist.com/img/en-06.png)
@@ -37,7 +37,7 @@ The more people use these Trackers, the faster the BT download speed will be, **
 
 > BEST Tracker list is relatively more stable, concise.  
 > ALL Tracker list is more in number and theoretically better.  
-> **The number of Tracker does not affect the operation of the BT software, so I recommend using the `complete list` to maximize the download speed !**
+> **The number of Tracker does not affect the operation of the BT software, so I recommend using the `ALL Tracker list` to maximize the download speed !**
 
 * **BEST Tracker list:** (79 trackers)  
  ***https://trackerslist.com/best.txt***  
