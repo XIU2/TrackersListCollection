@@ -1,20 +1,24 @@
 http://h4.trakx.nibba.trade:80/announce
 
-http://opentracker.acgnx.se:80/announce
+http://open.miotracker.com:80/announce
+
+http://pow7.com:80/announce
+
+http://secure.pow7.com:80/announce
 
 http://share.camoe.cn:8080/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
 http://t2.leech.ie:80/announce
 
-http://t3.leech.ie:80/announce
-
-http://torrent.nwps.ws:80/announce
-
 http://tr.cili001.com:8070/announce
 
-http://tracker.anirena.com:80/announce
+http://tracker.acgnx.se:80/announce
+
+http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -30,21 +34,21 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://vps02.net.orel.ru:80/announce
+http://tracker4.itzmx.com:2710/announce
 
-http://www.yqzuji.com:80/announce
+http://trun.tom.ru:80/announce
+
+http://vps02.net.orel.ru:80/announce
 
 https://t1.leech.ie:443/announce
 
-https://t2.leech.ie:443/announce
-
-https://t3.leech.ie:443/announce
-
 https://tk.mabo.ltd:443/announce
 
-https://tp.m-team.cc:443/announce.php
+https://tracker.acgnx.se:443/announce
 
 https://tracker.gbitt.info:443/announce
+
+https://tracker.lelux.fi:443/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -115,6 +119,8 @@ udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.ds.is:6969/announce
+
+udp://tracker.e-utp.net:6969/announce
 
 udp://tracker.fortu.io:6969/announce
 
