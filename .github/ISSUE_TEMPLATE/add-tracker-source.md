@@ -2,7 +2,7 @@
 name: Add Tracker Source
 about: Request to add Tracker Source.
 title: Request to add Tracker Source
-labels: Enhancement, Tracker source
+labels: Tracker source
 assignees: ''
 
 ---

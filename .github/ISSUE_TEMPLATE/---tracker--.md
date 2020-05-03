@@ -2,7 +2,7 @@
 name: 添加 Tracker 源
 about: 请求添加 Tracker 源。
 title: 请求添加 Tracker 源
-labels: Enhancement, Tracker source
+labels: Tracker source
 assignees: ''
 
 ---
