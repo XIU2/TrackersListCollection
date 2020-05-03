@@ -17,13 +17,13 @@ Integrated the popular Tracker, after filtering, finally got a high-quality Trac
 
 ### What is Tracker?
 
-Tracker is a required role in BT downloads.  
+Tracker is a necessary role in BT download, it can effectively improve BT download speed.  
 
-High-quality Tracker can effectively improve BT download speed.  
+> Record user information downloading the same resource to help you establish connections with other users.  
 
-The more people use these Trackers, the faster the BT download speed will be, **so please recommend it to your friends!**
+The more people use Tracker, the faster the BT download speed, **so please recommend it to your friends!**  
 
-***The figure below shows the BT download speed after using Tracker. (ALL Tracker list)***  
+*The figure below shows the BT download speed after using Tracker. (ALL Tracker list)*  
 
 ![BitComet](https://trackerslist.com/img/en-01.png)
 ![qBittorrentEE](https://trackerslist.com/img/en-06.png)
