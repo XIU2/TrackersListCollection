@@ -1,10 +1,10 @@
+http://1337.abcvg.info:80/announce
+
 http://h4.trakx.nibba.trade:80/announce
 
-http://open.miotracker.com:80/announce
+http://prestige.minimafia.nl:443/announce
 
-http://pow7.com:80/announce
-
-http://secure.pow7.com:80/announce
+http://private.minimafia.nl:443/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -12,19 +12,27 @@ http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
+http://t1.leech.ie:80/announce
+
 http://t2.leech.ie:80/announce
+
+http://torrent.nwps.ws:80/announce
 
 http://tr.cili001.com:8070/announce
 
-http://tracker.acgnx.se:80/announce
+http://tracker.anirena.com:80/announce
 
-http://tracker.dutchtracking.nl:80/announce
+http://tracker.bt4g.com:2095/announce
+
+http://tracker.corpscorp.online:80/announce
 
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+http://tracker.publicbt.com:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
@@ -34,27 +42,25 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://tracker4.itzmx.com:2710/announce
-
-http://trun.tom.ru:80/announce
-
 http://vps02.net.orel.ru:80/announce
+
+https://1337.abcvg.info:443/announce
 
 https://t1.leech.ie:443/announce
 
+https://t2.leech.ie:443/announce
+
+https://t3.leech.ie:443/announce
+
 https://tk.mabo.ltd:443/announce
 
-https://tracker.acgnx.se:443/announce
+https://tp.m-team.cc:443/announce.php
 
 https://tracker.gbitt.info:443/announce
-
-https://tracker.lelux.fi:443/announce
 
 https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
-
-https://tracker.parrotsec.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
@@ -145,6 +151,8 @@ udp://tracker.uw0.xyz:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker1.itzmx.com:8080/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
