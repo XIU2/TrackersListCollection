@@ -1,12 +1,32 @@
-http://1337.abcvg.info:80/announce
+http://149.28.95.5:2710/announce
+
+http://176.113.68.67:6961/announce
+
+http://176.113.71.60:6961/announce
+
+http://184.105.151.164:6969/announce
+
+http://51.254.249.186:6969/announce
+
+http://78.30.254.12:2710/announce
+
+http://95.107.48.115:80/announce
+
+http://explodie.org:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
-http://prestige.minimafia.nl:443/announce
+http://milanesitracker.tekcities.com:80/announce
 
-http://private.minimafia.nl:443/announce
+http://nyaa.tracker.wf:7777/announce
+
+http://open.acgnxtracker.com:80/announce
+
+http://secure.pow7.com:80/announce
 
 http://share.camoe.cn:8080/announce
+
+http://sukebei.tracker.wf:8888/announce
 
 http://t.nyaatracker.com:80/announce
 
@@ -14,23 +34,17 @@ http://t.overflow.biz:6969/announce
 
 http://t1.leech.ie:80/announce
 
-http://t2.leech.ie:80/announce
-
 http://torrent.nwps.ws:80/announce
 
 http://tr.cili001.com:8070/announce
-
-http://tracker.anirena.com:80/announce
-
-http://tracker.bt4g.com:2095/announce
-
-http://tracker.corpscorp.online:80/announce
 
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+http://tracker.nyap2p.com:8080/announce
 
 http://tracker.publicbt.com:80/announce
 
@@ -44,23 +58,19 @@ http://tracker3.itzmx.com:6961/announce
 
 http://vps02.net.orel.ru:80/announce
 
-https://1337.abcvg.info:443/announce
-
 https://t1.leech.ie:443/announce
-
-https://t2.leech.ie:443/announce
 
 https://t3.leech.ie:443/announce
 
 https://tk.mabo.ltd:443/announce
-
-https://tp.m-team.cc:443/announce.php
 
 https://tracker.gbitt.info:443/announce
 
 https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
+
+https://tracker.parrotlinux.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
@@ -69,6 +79,8 @@ https://tracker.tamersunion.org:443/announce
 https://tracker.vectahosting.eu:8443/announce
 
 https://w.wwwww.wtf:443/announce
+
+udp://104.238.198.186:8000/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -137,8 +149,6 @@ udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
-
-udp://tracker.sbsub.com:2710/announce
 
 udp://tracker.teambelgium.net:6969/announce
 
