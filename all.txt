@@ -2,23 +2,11 @@ http://104.238.198.186:8000/announce
 
 http://1337.abcvg.info:80/announce
 
-http://149.28.95.5:2710/announce
-
-http://176.113.68.67:6961/announce
-
-http://176.113.71.60:6961/announce
-
 http://178.175.143.27:80/announce
-
-http://184.105.151.164:6969/announce
-
-http://51.254.249.186:6969/announce
 
 http://78.30.254.12:2710/announce
 
 http://87.110.238.140:6969/announce
-
-http://95.107.48.115:80/announce
 
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
@@ -38,19 +26,13 @@ http://grifon.info:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
-http://milanesitracker.tekcities.com:80/announce
-
 http://ns349743.ip-91-121-106.eu:80/announce
-
-http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
 http://open.touki.ru:80/announce.php
 
 http://opentracker.i2p.rocks:6969/announce
-
-http://p4p.arenabg.com:1337/announce
 
 http://pow7.com:80/announce
 
@@ -64,8 +46,6 @@ http://secure.pow7.com:80/announce
 
 http://share.camoe.cn:8080/announce
 
-http://sukebei.tracker.wf:8888/announce
-
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
@@ -76,6 +56,8 @@ http://t1.leech.ie:80/announce
 
 http://t1.pow7.com:80/announce
 
+http://t2.leech.ie:80/announce
+
 http://t2.pow7.com:80/announce
 
 http://torrent.nwps.ws:80/announce
@@ -85,6 +67,10 @@ http://torrentsmd.com:8080/announce
 http://tr.cili001.com:8070/announce
 
 http://tr.kxmp.cf:80/announce
+
+http://tracker.anirena.com:80/announce
+
+http://tracker.anonwebz.xyz:8080/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -124,7 +110,11 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker.uw0.xyz:6969/announce
+
 http://tracker.ygsub.com:6969/announce
+
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -157,6 +147,8 @@ https://aaa.army:8866/announce
 https://opentracker.acgnx.se:443/announce
 
 https://t1.leech.ie:443/announce
+
+https://t2.leech.ie:443/announce
 
 https://t3.leech.ie:443/announce
 
@@ -439,8 +431,6 @@ udp://tracker.zum.bi:6969/announce
 udp://tracker1.itzmx.com:8080/announce
 
 udp://tracker2.christianbro.pw:6969/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://tracker2.indowebster.com:6969/announce
 
