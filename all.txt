@@ -30,6 +30,8 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://open.touki.ru:80/announce.php
 
 http://opentracker.i2p.rocks:6969/announce
@@ -56,9 +58,9 @@ http://t1.leech.ie:80/announce
 
 http://t1.pow7.com:80/announce
 
-http://t2.leech.ie:80/announce
-
 http://t2.pow7.com:80/announce
+
+http://thetracker.org:80/announce
 
 http://torrent.nwps.ws:80/announce
 
@@ -126,8 +128,6 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://tracker4.itzmx.com:2710/announce
-
 http://trun.tom.ru:80/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -150,15 +150,11 @@ https://t1.leech.ie:443/announce
 
 https://t2.leech.ie:443/announce
 
-https://t3.leech.ie:443/announce
-
 https://tk.mabo.ltd:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
 https://tracker.gbitt.info:443/announce
-
-https://tracker.hama3.net:443/announce
 
 https://tracker.lelux.fi:443/announce
 
@@ -168,11 +164,11 @@ https://tracker.nitrix.me:443/announce
 
 https://tracker.parrotlinux.org:443/announce
 
+https://tracker.parrotsec.org:443/announce
+
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.tamersunion.org:443/announce
-
-https://tracker.vectahosting.eu:2053/announce
 
 https://tracker.vectahosting.eu:8443/announce
 
