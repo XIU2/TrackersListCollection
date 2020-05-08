@@ -1,4 +1,4 @@
-http://explodie.org:6969/announce
+http://1337.abcvg.info:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
@@ -6,21 +6,19 @@ http://share.camoe.cn:8080/announce
 
 http://t.overflow.biz:6969/announce
 
-http://t1.leech.ie:80/announce
-
 http://t2.leech.ie:80/announce
-
-http://t3.leech.ie:80/announce
 
 http://torrent.nwps.ws:80/announce
 
-http://tr.cili001.com:8070/announce
+http://torrentsmd.com:8080/announce
 
-http://tracker.anirena.com:80/announce
+http://tr.cili001.com:8070/announce
 
 http://tracker.anonwebz.xyz:8080/announce
 
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.corpscorp.online:80/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -44,11 +42,17 @@ https://1337.abcvg.info:443/announce
 
 https://t1.leech.ie:443/announce
 
+https://t2.leech.ie:443/announce
+
+https://t3.leech.ie:443/announce
+
 https://tk.mabo.ltd:443/announce
 
-https://tracker.gbitt.info:443/announce
+https://tp.m-team.cc:443/announce.php
 
-https://tracker.hama3.net:443/announce
+https://tr.steins-gate.moe:2096/announce
+
+https://tracker.gbitt.info:443/announce
 
 https://tracker.nanoha.org:443/announce
 
