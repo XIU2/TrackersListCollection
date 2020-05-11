@@ -76,8 +76,6 @@ http://tr.cili001.com:8070/announce
 
 http://tr.kxmp.cf:80/announce
 
-http://tracker.anirena.com:80/announce
-
 http://tracker.anonwebz.xyz:8080/announce
 
 http://tracker.birkenwald.de:6969/announce
