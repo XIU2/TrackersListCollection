@@ -42,13 +42,19 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
+http://secure.pow7.com:80/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://t.overflow.biz:6969/announce
 
 http://t1.leech.ie:80/announce
+
+http://t1.pow7.com:80/announce
 
 http://t2.leech.ie:80/announce
 
@@ -100,11 +106,13 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.publicbt.com:80/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.trackerfix.com:80/announce
 
-http://tracker.ygsub.com:6969/announce
+http://tracker.uw0.xyz:6969/announce
 
-http://tracker.zerobytes.xyz:1337/announce
+http://tracker.ygsub.com:6969/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -165,6 +173,8 @@ https://tracker.parrotsec.org:443/announce
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.tamersunion.org:443/announce
+
+https://tracker.vectahosting.eu:2053/announce
 
 https://tracker.vectahosting.eu:8443/announce
 

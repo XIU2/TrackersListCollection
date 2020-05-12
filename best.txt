@@ -1,20 +1,14 @@
-http://1337.abcvg.info:80/announce
-
 http://h4.trakx.nibba.trade:80/announce
 
 http://share.camoe.cn:8080/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://t.overflow.biz:6969/announce
-
-http://t1.leech.ie:80/announce
-
-http://t2.leech.ie:80/announce
 
 http://t3.leech.ie:80/announce
 
 http://torrent.nwps.ws:80/announce
+
+http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
 
@@ -27,8 +21,6 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.nyap2p.com:8080/announce
 
 http://tracker.publicbt.com:80/announce
 
@@ -44,11 +36,13 @@ http://vps02.net.orel.ru:80/announce
 
 https://1337.abcvg.info:443/announce
 
+https://3.tracker.eu.org:443/announce
+
 https://t1.leech.ie:443/announce
 
-https://t2.leech.ie:443/announce
-
 https://t3.leech.ie:443/announce
+
+https://tk.mabo.ltd:443/announce
 
 https://tp.m-team.cc:443/announce.php
 
