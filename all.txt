@@ -8,6 +8,8 @@ http://78.30.254.12:2710/announce
 
 http://87.110.238.140:6969/announce
 
+http://93.92.64.5:80/announce
+
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2001:470:1:189:0:1:2:3]:6969/announce
@@ -15,6 +17,8 @@ http://[2001:470:1:189:0:1:2:3]:6969/announce
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://aaa.army:8866/announce
+
+http://atrack.pow7.com:80/announce
 
 http://bt.pusacg.org:8080/announce
 
@@ -28,15 +32,15 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.touki.ru:80/announce.php
-
 http://opentracker.i2p.rocks:6969/announce
-
-http://p4p.arenabg.com:1337/announce
 
 http://pow7.com:80/announce
 
+http://prestige.minimafia.nl:443/announce
+
 http://retracker.hotplug.ru:2710/announce
+
+http://retracker.krs-ix.ru:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
@@ -57,6 +61,8 @@ http://t1.leech.ie:80/announce
 http://t1.pow7.com:80/announce
 
 http://t2.leech.ie:80/announce
+
+http://t2.pow7.com:80/announce
 
 http://t3.leech.ie:80/announce
 
@@ -106,13 +112,13 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.publicbt.com:80/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.trackerfix.com:80/announce
 
-http://tracker.uw0.xyz:6969/announce
-
 http://tracker.ygsub.com:6969/announce
+
+http://tracker.yoshi210.com:6969/announce
+
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -160,6 +166,8 @@ https://tracker.bt-hash.com:443/announce
 
 https://tracker.gbitt.info:443/announce
 
+https://tracker.hama3.net:443/announce
+
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.lelux.fi:443/announce
@@ -168,15 +176,15 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
-https://tracker.parrotsec.org:443/announce
+https://tracker.parrotlinux.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
-https://tracker.vectahosting.eu:2053/announce
-
 https://tracker.vectahosting.eu:8443/announce
+
+https://tracker6.lelux.fi:443/announce
 
 https://w.wwwww.wtf:443/announce
 
