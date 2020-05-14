@@ -1,6 +1,6 @@
-http://1337.abcvg.info:80/announce
-
 http://h4.trakx.nibba.trade:80/announce
+
+http://omg.wtftrackr.xyz:80/announce
 
 http://prestige.minimafia.nl:443/announce
 
@@ -11,6 +11,8 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://t1.leech.ie:80/announce
+
+http://t2.leech.ie:80/announce
 
 http://torrent.nwps.ws:80/announce
 
@@ -28,6 +30,10 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.noobsubs.net:80/announce
+
+http://tracker.nyap2p.com:8080/announce
+
 http://tracker.publicbt.com:80/announce
 
 http://tracker.trackerfix.com:80/announce
@@ -42,7 +48,11 @@ http://vps02.net.orel.ru:80/announce
 
 https://1337.abcvg.info:443/announce
 
+https://2.tracker.eu.org:443/announce
+
 https://t1.leech.ie:443/announce
+
+https://t3.leech.ie:443/announce
 
 https://tk.mabo.ltd:443/announce
 
@@ -50,13 +60,13 @@ https://tp.m-team.cc:443/announce.php
 
 https://tracker.gbitt.info:443/announce
 
+https://tracker.hama3.net:443/announce
+
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
-
-https://tracker.parrotlinux.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
@@ -157,7 +167,5 @@ udp://u.wwwww.wtf:1/announce
 udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://xxxtor.com:2710/announce
-
-udp://z.mercax.com:53/announce
 
 udp://zephir.monocul.us:6969/announce

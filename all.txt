@@ -30,6 +30,8 @@ http://h4.trakx.nibba.trade:80/announce
 
 http://ns349743.ip-91-121-106.eu:80/announce
 
+http://omg.wtftrackr.xyz:80/announce
+
 http://open.acgnxtracker.com:80/announce
 
 http://opentracker.i2p.rocks:6969/announce
@@ -106,19 +108,21 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.moeking.me:6969/announce
 
+http://tracker.noobsubs.net:80/announce
+
 http://tracker.nyap2p.com:8080/announce
 
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.publicbt.com:80/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.trackerfix.com:80/announce
 
+http://tracker.uw0.xyz:6969/announce
+
 http://tracker.ygsub.com:6969/announce
-
-http://tracker.yoshi210.com:6969/announce
-
-http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -176,8 +180,6 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
-https://tracker.parrotlinux.org:443/announce
-
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -187,6 +189,8 @@ https://tracker.vectahosting.eu:8443/announce
 https://tracker6.lelux.fi:443/announce
 
 https://w.wwwww.wtf:443/announce
+
+https://www.wareztorrent.com:443/announce
 
 udp://104.238.198.186:8000/announce
 
@@ -459,8 +463,6 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 udp://www.loushao.net:8080/announce
 
 udp://xxxtor.com:2710/announce
-
-udp://z.mercax.com:53/announce
 
 udp://zephir.monocul.us:6969/announce
 
