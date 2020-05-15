@@ -38,8 +38,6 @@ http://opentracker.i2p.rocks:6969/announce
 
 http://pow7.com:80/announce
 
-http://prestige.minimafia.nl:443/announce
-
 http://retracker.hotplug.ru:2710/announce
 
 http://retracker.krs-ix.ru:80/announce
@@ -108,15 +106,11 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.moeking.me:6969/announce
 
-http://tracker.noobsubs.net:80/announce
-
 http://tracker.nyap2p.com:8080/announce
 
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.publicbt.com:80/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.trackerfix.com:80/announce
 
@@ -124,7 +118,9 @@ http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
 
-http://tracker.zum.bi:6969/announce
+http://tracker.yoshi210.com:6969/announce
+
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -162,15 +158,11 @@ https://t3.leech.ie:443/announce
 
 https://tk.mabo.ltd:443/announce
 
-https://tp.m-team.cc:443/announce.php
-
 https://tr.ready4.icu:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
 https://tracker.gbitt.info:443/announce
-
-https://tracker.hama3.net:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -180,9 +172,13 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
+https://tracker.parrotsec.org:443/announce
+
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.tamersunion.org:443/announce
+
+https://tracker.vectahosting.eu:2053/announce
 
 https://tracker.vectahosting.eu:8443/announce
 
