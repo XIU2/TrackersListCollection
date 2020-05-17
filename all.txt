@@ -34,9 +34,9 @@ http://omg.wtftrackr.xyz:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://opentracker.i2p.rocks:6969/announce
+http://open.touki.ru:80/announce.php
 
-http://p4p.arenabg.com:1337/announce
+http://opentracker.i2p.rocks:6969/announce
 
 http://pow7.com:80/announce
 
@@ -54,8 +54,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://t.overflow.biz:6969/announce
 
 http://t1.leech.ie:80/announce
@@ -69,8 +67,6 @@ http://t2.pow7.com:80/announce
 http://t3.leech.ie:80/announce
 
 http://thetracker.org:80/announce
-
-http://torrent.nwps.ws:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -89,8 +85,6 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.bz:80/announce
 
 http://tracker.corpscorp.online:80/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
 
@@ -164,6 +158,8 @@ https://tk.mabo.ltd:443/announce
 
 https://tr.ready4.icu:443/announce
 
+https://tracker.anirena.com:80/announce
+
 https://tracker.bt-hash.com:443/announce
 
 https://tracker.gbitt.info:443/announce
@@ -175,10 +171,6 @@ https://tracker.lelux.fi:443/announce
 https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
-
-https://tracker.parrotlinux.org:443/announce
-
-https://tracker.parrotsec.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
@@ -417,6 +409,8 @@ udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.piratepublic.com:1337/announce
+
+udp://tracker.publicbt.com:80/announce
 
 udp://tracker.sbsub.com:2710/announce
 
