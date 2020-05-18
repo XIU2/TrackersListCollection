@@ -6,6 +6,8 @@ http://omg.wtftrackr.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://t.overflow.biz:6969/announce
 
 http://t1.leech.ie:80/announce
@@ -13,6 +15,8 @@ http://t1.leech.ie:80/announce
 http://t2.leech.ie:80/announce
 
 http://t3.leech.ie:80/announce
+
+http://torrent.nwps.ws:80/announce
 
 http://tr.cili001.com:8070/announce
 
@@ -25,6 +29,8 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+http://tracker.nyap2p.com:8080/announce
 
 http://tracker.publicbt.com:80/announce
 
@@ -43,14 +49,6 @@ http://vps02.net.orel.ru:80/announce
 https://1337.abcvg.info:443/announce
 
 https://t1.leech.ie:443/announce
-
-https://t2.leech.ie:443/announce
-
-https://t3.leech.ie:443/announce
-
-https://tracker.anirena.com:80/announce
-
-https://tracker.imgoingto.icu:443/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -124,6 +122,8 @@ udp://tracker.e-utp.net:6969/announce
 
 udp://tracker.fortu.io:6969/announce
 
+udp://tracker.gbitt.info:80/announce
+
 udp://tracker.iamhansen.xyz:2000/announce
 
 udp://tracker.kamigami.org:2710/announce
@@ -157,7 +157,5 @@ udp://tracker4.itzmx.com:2710/announce
 udp://u.wwwww.wtf:1/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
-
-udp://xxxtor.com:2710/announce
 
 udp://zephir.monocul.us:6969/announce
