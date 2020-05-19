@@ -12,8 +12,6 @@ http://t.overflow.biz:6969/announce
 
 http://t1.leech.ie:80/announce
 
-http://t2.leech.ie:80/announce
-
 http://t3.leech.ie:80/announce
 
 http://torrent.nwps.ws:80/announce
@@ -23,6 +21,8 @@ http://tr.cili001.com:8070/announce
 http://tracker.anonwebz.xyz:8080/announce
 
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -41,8 +41,6 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-http://tracker4.itzmx.com:2710/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -122,9 +120,9 @@ udp://tracker.e-utp.net:6969/announce
 
 udp://tracker.fortu.io:6969/announce
 
-udp://tracker.gbitt.info:80/announce
-
 udp://tracker.iamhansen.xyz:2000/announce
+
+udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.kamigami.org:2710/announce
 
