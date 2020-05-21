@@ -40,9 +40,9 @@ The more people use Tracker, the faster the BT download speed, **so please recom
 > ALL Tracker list is more in number and theoretically better.  
 > **The number of Tracker does not affect the operation of the BT software, so I recommend using the `ALL Tracker list` to maximize the download speed !**
 
-* **BEST Tracker list:** (181 trackers)  
+* **BEST Tracker list:** (180 trackers)  
  ***https://trackerslist.com/best.txt***  
-* **ALL Tracker list:** (331 trackers)  
+* **ALL Tracker list:** (337 trackers)  
  ***https://trackerslist.com/all.txt***  
 
 ****

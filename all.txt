@@ -52,6 +52,8 @@ http://omg.wtftrackr.xyz:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://opentracker.i2p.rocks:6969/announce
 
 http://pow7.com:80/announce
@@ -72,6 +74,8 @@ http://t.acg.rip:6699/announce
 
 http://t.jaekr.sh:6969/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://t.overflow.biz:6969/announce
 
 http://t1.leech.ie:80/announce
@@ -85,6 +89,8 @@ http://t2.pow7.com:80/announce
 http://t3.leech.ie:80/announce
 
 http://thetracker.org:80/announce
+
+http://torrent.nwps.ws:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -140,6 +146,8 @@ http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
 
+http://tracker.yoshi210.com:6969/announce
+
 http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -168,6 +176,8 @@ https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
 
+https://open.kickasstracker.com:443/announce
+
 https://opentracker.acgnx.se:443/announce
 
 https://t1.leech.ie:443/announce
@@ -185,6 +195,8 @@ https://tracker.bt-hash.com:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
+
+https://tracker.jae.moe:443/announce
 
 https://tracker.lelux.fi:443/announce
 
@@ -326,8 +338,6 @@ udp://asger.xyz:6969/announce
 
 udp://benouworldtrip.fr:6969/announce
 
-udp://bioquantum.co.za:6969/announce
-
 udp://blokas.io:6969/announce
 
 udp://bms-hosxp.com:6969/announce
@@ -345,8 +355,6 @@ udp://bt2.archive.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 
 udp://c.ns.cluefone.com:6969/announce
-
-udp://camera.lei001.com:6969/announce
 
 udp://cdn-1.gamecoast.org:6969/announce
 
@@ -440,8 +448,6 @@ udp://nagios.tks.sumy.ua:80/announce
 
 udp://node3.burncycl.net:6969/announce
 
-udp://npge.nprotect.com:6969/announce
-
 udp://ns1.epsilonthree.com:6969/announce
 
 udp://ns389251.ovh.net:6969/announce
@@ -451,6 +457,8 @@ udp://open.demonii.com:1337/announce
 udp://open.nyap2p.com:6969/announce
 
 udp://open.stealth.si:80/announce
+
+udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
@@ -560,6 +568,8 @@ udp://tracker.iamhansen.xyz:2000/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
+udp://tracker.jae.moe:6969/announce
+
 udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.kamigami.org:2710/announce
@@ -653,6 +663,8 @@ udp://www.loushao.net:8080/announce
 udp://www.midea123.z-media.com.cn:6969/announce
 
 udp://xxxtor.com:2710/announce
+
+udp://z.mercax.com:53/announce
 
 udp://zephir.monocul.us:6969/announce
 

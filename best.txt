@@ -1,5 +1,3 @@
-http://1337.abcvg.info:80/announce
-
 http://ankeschwarz.net:6969/announce
 
 http://aws1.millegrilles.com:6969/announce
@@ -34,7 +32,11 @@ http://t.overflow.biz:6969/announce
 
 http://t1.leech.ie:80/announce
 
+http://t2.leech.ie:80/announce
+
 http://t3.leech.ie:80/announce
+
+http://torrent.nwps.ws:80/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -45,8 +47,6 @@ http://track.mastheadstudios.com:6969/announce
 http://tracker.anonwebz.xyz:8080/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -64,8 +64,6 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://tracker4.itzmx.com:2710/announce
-
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -73,6 +71,10 @@ http://vps02.net.orel.ru:80/announce
 https://1337.abcvg.info:443/announce
 
 https://t1.leech.ie:443/announce
+
+https://t3.leech.ie:443/announce
+
+https://tk.mabo.ltd:443/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -118,8 +120,6 @@ udp://asger.xyz:6969/announce
 
 udp://benouworldtrip.fr:6969/announce
 
-udp://bioquantum.co.za:6969/announce
-
 udp://blokas.io:6969/announce
 
 udp://bms-hosxp.com:6969/announce
@@ -133,8 +133,6 @@ udp://bt2.archive.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 
 udp://c.ns.cluefone.com:6969/announce
-
-udp://camera.lei001.com:6969/announce
 
 udp://cdn-1.gamecoast.org:6969/announce
 
@@ -219,8 +217,6 @@ udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
 
 udp://node3.burncycl.net:6969/announce
-
-udp://npge.nprotect.com:6969/announce
 
 udp://ns1.epsilonthree.com:6969/announce
 
@@ -357,5 +353,7 @@ udp://wassermann.online:6969/announce
 udp://webmail.wookiespmc.com:6969/announce
 
 udp://www.midea123.z-media.com.cn:6969/announce
+
+udp://z.mercax.com:53/announce
 
 udp://zephir.monocul.us:6969/announce
