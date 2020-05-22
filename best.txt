@@ -1,6 +1,6 @@
-http://ankeschwarz.net:6969/announce
+http://1337.abcvg.info:80/announce
 
-http://aws1.millegrilles.com:6969/announce
+http://ankeschwarz.net:6969/announce
 
 http://bandari.org:6969/announce
 
@@ -10,8 +10,6 @@ http://buny.uk:6969/announce
 
 http://cocaine.ninja:6969/announce
 
-http://dl1.dler.org:6969/announce
-
 http://dn42.smrsh.net:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
@@ -20,19 +18,13 @@ http://ns1.mindcraft.si.eu.org:6969/announce
 
 http://ns3107607.ip-54-36-126.eu:6969/announce
 
-http://omg.wtftrackr.xyz:80/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.jaekr.sh:6969/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://t.overflow.biz:6969/announce
 
 http://t1.leech.ie:80/announce
-
-http://t2.leech.ie:80/announce
 
 http://t3.leech.ie:80/announce
 
@@ -51,6 +43,8 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
+
+http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -72,9 +66,9 @@ https://1337.abcvg.info:443/announce
 
 https://t1.leech.ie:443/announce
 
-https://t3.leech.ie:443/announce
-
 https://tk.mabo.ltd:443/announce
+
+https://tracker.imgoingto.icu:443/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -119,6 +113,8 @@ udp://aruacfilmes.com.br:6969/announce
 udp://asger.xyz:6969/announce
 
 udp://benouworldtrip.fr:6969/announce
+
+udp://bioquantum.co.za:6969/announce
 
 udp://blokas.io:6969/announce
 
@@ -189,6 +185,8 @@ udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
+
+udp://jockesnusk.duckdns.org:6969/announce
 
 udp://josueunhuit.com:6969/announce
 
