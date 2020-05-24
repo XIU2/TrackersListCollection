@@ -1,3 +1,5 @@
+http://0205.uptm.ch:6969/announce
+
 http://104.238.198.186:8000/announce
 
 http://1337.abcvg.info:80/announce
@@ -32,6 +34,8 @@ http://buny.uk:6969/announce
 
 http://cocaine.ninja:6969/announce
 
+http://derpyradio.net:6969/announce
+
 http://dn42.smrsh.net:6969/announce
 
 http://explodie.org:6969/announce
@@ -39,6 +43,10 @@ http://explodie.org:6969/announce
 http://grifon.info:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
+
+http://jabber.esiliati.org:6969/announce
+
+http://magic.felfoldi.net:6969/announce
 
 http://mail2.zelenaya.net:80/announce
 
@@ -49,6 +57,8 @@ http://ns3107607.ip-54-36-126.eu:6969/announce
 http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.touki.ru:80/announce.php
 
 http://opentracker.i2p.rocks:6969/announce
 
@@ -94,8 +104,6 @@ http://tr.cili001.com:8070/announce
 
 http://tr.kxmp.cf:80/announce
 
-http://track.mastheadstudios.com:6969/announce
-
 http://tracker.anonwebz.xyz:8080/announce
 
 http://tracker.birkenwald.de:6969/announce
@@ -139,6 +147,8 @@ http://tracker.trackerfix.com:80/announce
 http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
+
+http://tracker.yoshi210.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
@@ -318,6 +328,8 @@ udp://[2a04:c44:e00:32e0:4cf:6aff:fe00:aa1]:6969/announce
 
 udp://aaa.army:8866/announce
 
+udp://adm.category5.tv:6969/announce
+
 udp://admin.videoenpoche.info:6969/announce
 
 udp://adminion.n-blade.ru:6969/announce
@@ -364,6 +376,8 @@ udp://chihaya.de:6969/announce
 
 udp://chihaya.toss.li:9696/announce
 
+udp://code2chicken.nl:6969/announce
+
 udp://contra.sf.ca.us:6969/announce
 
 udp://cutiegirl.ru:6969/announce
@@ -400,6 +414,8 @@ udp://f68.n5022.z2.binkp.net:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
+udp://forum.m3x.org:6969/announce
+
 udp://frank.cise.ufl.edu:6969/announce
 
 udp://git.vulnix.sh:6969/announce
@@ -409,6 +425,8 @@ udp://gra1.joshkeegan.co.uk:6969/announce
 udp://grohub07.grohub.org:80/announce
 
 udp://handrew.me:6969/announce
+
+udp://home.felfoldi.net:6969/announce
 
 udp://icynet.eu:6969/announce
 
@@ -427,6 +445,8 @@ udp://kanal-4.de:6969/announce
 udp://kanbooru.com:6969/announce
 
 udp://kawaii.social:6969/announce
+
+udp://koli.services:6969/announce
 
 udp://kpax.net:6969/announce
 
@@ -465,6 +485,8 @@ udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://peerfect.org:6969/announce
+
+udp://public.popcorn-tracker.org:6969/announce
 
 udp://qg.lorzl.gq:2710/announce
 
@@ -635,6 +657,8 @@ udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.itzmx.com:8080/announce
 
 udp://tracker2.christianbro.pw:6969/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker2.indowebster.com:6969/announce
 

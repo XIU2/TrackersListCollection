@@ -1,3 +1,5 @@
+http://0205.uptm.ch:6969/announce
+
 http://1337.abcvg.info:80/announce
 
 http://ankeschwarz.net:6969/announce
@@ -10,9 +12,17 @@ http://buny.uk:6969/announce
 
 http://cocaine.ninja:6969/announce
 
+http://derpyradio.net:6969/announce
+
+http://dl1.dler.org:6969/announce
+
 http://dn42.smrsh.net:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
+
+http://jabber.esiliati.org:6969/announce
+
+http://magic.felfoldi.net:6969/announce
 
 http://ns1.mindcraft.si.eu.org:6969/announce
 
@@ -28,6 +38,8 @@ http://t.overflow.biz:6969/announce
 
 http://t1.leech.ie:80/announce
 
+http://t2.leech.ie:80/announce
+
 http://t3.leech.ie:80/announce
 
 http://torrent.nwps.ws:80/announce
@@ -40,11 +52,11 @@ http://tracker.anonwebz.xyz:8080/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.dutchtracking.nl:80/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
-
-http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -63,8 +75,6 @@ http://vpn.flying-datacenter.de:6969/announce
 http://vps02.net.orel.ru:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://2.tracker.eu.org:443/announce
 
 https://t1.leech.ie:443/announce
 
@@ -101,6 +111,8 @@ udp://9.rarbg.me:2710/announce
 udp://9.rarbg.to:2710/announce
 
 udp://aaa.army:8866/announce
+
+udp://adm.category5.tv:6969/announce
 
 udp://admin.videoenpoche.info:6969/announce
 
@@ -140,6 +152,8 @@ udp://cdn-2.gamecoast.org:6969/announce
 
 udp://chanchan.uchuu.co.uk:6969/announce
 
+udp://code2chicken.nl:6969/announce
+
 udp://contra.sf.ca.us:6969/announce
 
 udp://cutiegirl.ru:6969/announce
@@ -172,6 +186,8 @@ udp://f68.n5022.z2.binkp.net:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
+udp://forum.m3x.org:6969/announce
+
 udp://frank.cise.ufl.edu:6969/announce
 
 udp://git.vulnix.sh:6969/announce
@@ -181,6 +197,8 @@ udp://gra1.joshkeegan.co.uk:6969/announce
 udp://grohub07.grohub.org:80/announce
 
 udp://handrew.me:6969/announce
+
+udp://home.felfoldi.net:6969/announce
 
 udp://icynet.eu:6969/announce
 
@@ -199,6 +217,8 @@ udp://kanal-4.de:6969/announce
 udp://kanbooru.com:6969/announce
 
 udp://kawaii.social:6969/announce
+
+udp://koli.services:6969/announce
 
 udp://kpax.net:6969/announce
 
@@ -335,6 +355,8 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.itzmx.com:8080/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
