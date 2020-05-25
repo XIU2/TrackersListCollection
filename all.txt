@@ -58,8 +58,6 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.touki.ru:80/announce.php
-
 http://opentracker.i2p.rocks:6969/announce
 
 http://pow7.com:80/announce
@@ -82,8 +80,6 @@ http://t.jaekr.sh:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://t.overflow.biz:6969/announce
-
 http://t1.leech.ie:80/announce
 
 http://t1.pow7.com:80/announce
@@ -94,6 +90,8 @@ http://t2.pow7.com:80/announce
 
 http://t3.leech.ie:80/announce
 
+http://thetracker.org:80/announce
+
 http://torrent.nwps.ws:80/announce
 
 http://torrentsmd.com:8080/announce
@@ -103,6 +101,8 @@ http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://tr.cili001.com:8070/announce
 
 http://tr.kxmp.cf:80/announce
+
+http://track.mastheadstudios.com:6969/announce
 
 http://tracker.anonwebz.xyz:8080/announce
 
@@ -148,8 +148,6 @@ http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
 
-http://tracker.yoshi210.com:6969/announce
-
 http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -171,6 +169,8 @@ http://vps02.net.orel.ru:80/announce
 http://www.loushao.net:8080/announce
 
 http://www.wareztorrent.com:80/announce
+
+http://zip.files.fm:6969/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -506,6 +506,8 @@ udp://retracker.nts.su:2710/announce
 
 udp://retracker.sevstar.net:2710/announce
 
+udp://retracker01-msk-virt.corbina.net:80/announce
+
 udp://robbmob.com:6969/announce
 
 udp://rutorrent.frontline-mod.com:6969/announce
@@ -655,6 +657,8 @@ udp://tracker.zum.bi:6969/announce
 udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.itzmx.com:8080/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.christianbro.pw:6969/announce
 
