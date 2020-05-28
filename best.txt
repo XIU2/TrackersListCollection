@@ -1,5 +1,7 @@
 http://0205.uptm.ch:6969/announce
 
+http://1337.abcvg.info:80/announce
+
 http://ankeschwarz.net:6969/announce
 
 http://bandari.org:6969/announce
@@ -9,8 +11,6 @@ http://bobbialbano.com:6969/announce
 http://buny.uk:6969/announce
 
 http://cocaine.ninja:6969/announce
-
-http://derpyradio.net:6969/announce
 
 http://dn42.smrsh.net:6969/announce
 
@@ -26,17 +26,11 @@ http://share.camoe.cn:8080/announce
 
 http://t.jaekr.sh:6969/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://t.overflow.biz:6969/announce
 
-http://t1.leech.ie:80/announce
-
-http://t2.leech.ie:80/announce
-
-http://t3.leech.ie:80/announce
-
 http://torrent.nwps.ws:80/announce
+
+http://torrentsmd.com:8080/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -47,6 +41,8 @@ http://track.mastheadstudios.com:6969/announce
 http://tracker.anonwebz.xyz:8080/announce
 
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -94,8 +90,6 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
-https://tracker.parrotsec.org:443/announce
-
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -119,8 +113,6 @@ udp://9.rarbg.me:2710/announce
 udp://9.rarbg.to:2710/announce
 
 udp://aaa.army:8866/announce
-
-udp://abufinzio.monocul.us:6969/announce
 
 udp://adm.category5.tv:6969/announce
 
@@ -246,8 +238,6 @@ udp://nagios.tks.sumy.ua:80/announce
 
 udp://node3.burncycl.net:6969/announce
 
-udp://npge.nprotect.com:6969/announce
-
 udp://ns1.epsilonthree.com:6969/announce
 
 udp://ns389251.ovh.net:6969/announce
@@ -279,6 +269,10 @@ udp://rutorrent.frontline-mod.com:6969/announce
 udp://sd-161673.dedibox.fr:6969/announce
 
 udp://storage.groupees.com:6969/announce
+
+udp://t2.leech.ie:1337/announce
+
+udp://t3.leech.ie:1337/announce
 
 udp://teamspeak.value-wolf.org:6969/announce
 
