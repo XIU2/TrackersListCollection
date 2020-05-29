@@ -16,7 +16,11 @@ http://dn42.smrsh.net:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
+http://jabber.esiliati.org:6969/announce
+
 http://magic.felfoldi.net:6969/announce
+
+http://mail2.zelenaya.net:80/announce
 
 http://ns1.mindcraft.si.eu.org:6969/announce
 
@@ -42,8 +46,6 @@ http://tracker.anonwebz.xyz:8080/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.dutchtracking.nl:80/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -60,8 +62,6 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://tracker4.itzmx.com:2710/announce
-
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -70,11 +70,7 @@ http://zip.files.fm:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-https://t1.leech.ie:443/announce
-
-https://t2.leech.ie:443/announce
-
-https://t3.leech.ie:443/announce
+https://4.tracker.eu.org:443/announce
 
 https://tk.mabo.ltd:443/announce
 
@@ -89,6 +85,8 @@ https://tracker.imgoingto.icu:443/announce
 https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
+
+https://tracker.parrotsec.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
@@ -127,6 +125,8 @@ udp://anonseed.com:6969/announce
 udp://api.bitumconference.ru:6969/announce
 
 udp://aruacfilmes.com.br:6969/announce
+
+udp://asger.xyz:6969/announce
 
 udp://benouworldtrip.fr:6969/announce
 
@@ -187,8 +187,6 @@ udp://f68.n5022.z2.binkp.net:6969/announce
 udp://fe.dealclub.de:6969/announce
 
 udp://forum.m3x.org:6969/announce
-
-udp://frank.cise.ufl.edu:6969/announce
 
 udp://git.vulnix.sh:6969/announce
 
@@ -269,6 +267,8 @@ udp://rutorrent.frontline-mod.com:6969/announce
 udp://sd-161673.dedibox.fr:6969/announce
 
 udp://storage.groupees.com:6969/announce
+
+udp://t1.leech.ie:1337/announce
 
 udp://t2.leech.ie:1337/announce
 
