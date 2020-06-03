@@ -42,7 +42,7 @@
 
 ****
 
-### 更新时间: 2020-06-03
+### 更新时间: 2020-06-04
 
 *以下所有列表每天自动更新 **[(更新日志)](https://github.com/XIU2/TrackersListCollection/releases)** ：*
 
@@ -52,7 +52,7 @@
 
 * **精选列表：**(185 个)  
  ***https://trackerslist.com/best.txt***  
-* **完整列表：**(344 个)  
+* **完整列表：**(341 个)  
  ***https://trackerslist.com/all.txt***  
 
 ****
