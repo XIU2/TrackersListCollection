@@ -10,11 +10,11 @@ http://buny.uk:6969/announce
 
 http://cocaine.ninja:6969/announce
 
-http://dl1.dler.org:6969/announce
-
 http://dn42.smrsh.net:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
+
+http://jabber.esiliati.org:6969/announce
 
 http://magic.felfoldi.net:6969/announce
 
@@ -30,11 +30,9 @@ http://share.camoe.cn:8080/announce
 
 http://t.jaekr.sh:6969/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://t.overflow.biz:6969/announce
-
-http://torrent.nwps.ws:80/announce
-
-http://torrentsmd.com:8080/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -52,7 +50,7 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.nyap2p.com:8080/announce
+http://tracker.publicbt.com:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
@@ -70,8 +68,6 @@ http://zip.files.fm:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-https://2.tracker.eu.org:443/announce
-
 https://tp.m-team.cc:443/announce.php
 
 https://tr.ready4.icu:443/announce
@@ -85,10 +81,6 @@ https://tracker.imgoingto.icu:443/announce
 https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
-
-https://tracker.parrotlinux.org:443/announce
-
-https://tracker.parrotsec.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
@@ -127,6 +119,8 @@ udp://asger.xyz:6969/announce
 udp://benouworldtrip.fr:6969/announce
 
 udp://blokas.io:6969/announce
+
+udp://bms-hosxp.com:6969/announce
 
 udp://brainmusic.pk:6969/announce
 
@@ -213,6 +207,8 @@ udp://line-net.ru:6969/announce
 udp://ln.mtahost.co:6969/announce
 
 udp://mage23.schminkparadies.ch:6969/announce
+
+udp://mail.moneysfast.com:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
 
@@ -302,8 +298,6 @@ udp://tracker.fortu.io:6969/announce
 
 udp://tracker.gbitt.info:80/announce
 
-udp://tracker.internetwarriors.net:1337/announce
-
 udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.kamigami.org:2710/announce
@@ -319,6 +313,8 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.publicbt.com:80/announce
 
 udp://tracker.shkinev.me:6969/announce
+
+udp://tracker.teambelgium.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
@@ -355,8 +351,6 @@ udp://ultra.zt.ua:6969/announce
 udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://vibe.community:6969/announce
-
-udp://wassermann.online:6969/announce
 
 udp://webmail.wookiespmc.com:6969/announce
 

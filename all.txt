@@ -44,6 +44,8 @@ http://grifon.info:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
+http://jabber.esiliati.org:6969/announce
+
 http://magic.felfoldi.net:6969/announce
 
 http://mail2.zelenaya.net:80/announce
@@ -94,8 +96,6 @@ http://t3.leech.ie:80/announce
 
 http://thetracker.org:80/announce
 
-http://torrent.nwps.ws:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
@@ -140,6 +140,8 @@ http://tracker.nyap2p.com:8080/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.publicbt.com:80/announce
+
 http://tracker.skyts.net:6969/announce
 
 http://tracker.trackerfix.com:80/announce
@@ -148,8 +150,6 @@ http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
 
-http://tracker.yoshi210.com:6969/announce
-
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
@@ -157,8 +157,6 @@ http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-http://tracker4.itzmx.com:2710/announce
 
 http://trun.tom.ru:80/announce
 
@@ -208,15 +206,9 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
-https://tracker.parrotlinux.org:443/announce
-
-https://tracker.parrotsec.org:443/announce
-
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.tamersunion.org:443/announce
-
-https://tracker.vectahosting.eu:2053/announce
 
 https://w.wwwww.wtf:443/announce
 
@@ -344,6 +336,8 @@ udp://benouworldtrip.fr:6969/announce
 
 udp://blokas.io:6969/announce
 
+udp://bms-hosxp.com:6969/announce
+
 udp://brainmusic.pk:6969/announce
 
 udp://bt.okmp3.ru:2710/announce
@@ -373,6 +367,8 @@ udp://code2chicken.nl:6969/announce
 udp://contra.sf.ca.us:6969/announce
 
 udp://cutiegirl.ru:6969/announce
+
+udp://cx42light.cn:39652/announce
 
 udp://cyteam.ru:6969/announce
 
@@ -439,6 +435,8 @@ udp://line-net.ru:6969/announce
 udp://ln.mtahost.co:6969/announce
 
 udp://mage23.schminkparadies.ch:6969/announce
+
+udp://mail.moneysfast.com:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
 
@@ -663,8 +661,6 @@ udp://ultra.zt.ua:6969/announce
 udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://vibe.community:6969/announce
-
-udp://wassermann.online:6969/announce
 
 udp://webmail.wookiespmc.com:6969/announce
 
