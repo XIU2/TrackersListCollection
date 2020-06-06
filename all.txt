@@ -36,6 +36,8 @@ http://buny.uk:6969/announce
 
 http://cocaine.ninja:6969/announce
 
+http://dl1.dler.org:6969/announce
+
 http://dn42.smrsh.net:6969/announce
 
 http://explodie.org:6969/announce
@@ -50,8 +52,6 @@ http://magic.felfoldi.net:6969/announce
 
 http://mail2.zelenaya.net:80/announce
 
-http://ns1.mindcraft.si.eu.org:6969/announce
-
 http://ns3107607.ip-54-36-126.eu:6969/announce
 
 http://ns349743.ip-91-121-106.eu:80/announce
@@ -63,6 +63,8 @@ http://open.touki.ru:80/announce.php
 http://opentracker.i2p.rocks:6969/announce
 
 http://pow7.com:80/announce
+
+http://prestige.minimafia.nl:443/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -96,6 +98,8 @@ http://t3.leech.ie:80/announce
 
 http://thetracker.org:80/announce
 
+http://torrent.nwps.ws:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
@@ -118,8 +122,6 @@ http://tracker.bz:80/announce
 
 http://tracker.corpscorp.online:80/announce
 
-http://tracker.dler.org:6969/announce
-
 http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -127,8 +129,6 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.kamigami.org:2710/announce
 
 http://tracker.kuroy.me:5944/announce
 
@@ -142,6 +142,8 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.publicbt.com:80/announce
 
+http://tracker.skyts.cn:6969/announce
+
 http://tracker.skyts.net:6969/announce
 
 http://tracker.trackerfix.com:80/announce
@@ -149,6 +151,8 @@ http://tracker.trackerfix.com:80/announce
 http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
+
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -178,11 +182,7 @@ https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
 
-https://open.kickasstracker.com:443/announce
-
 https://opentracker.acgnx.se:443/announce
-
-https://tk.mabo.ltd:443/announce
 
 https://tp.m-team.cc:443/announce.php
 
@@ -209,6 +209,8 @@ https://tracker.nitrix.me:443/announce
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.tamersunion.org:443/announce
+
+https://tracker.vectahosting.eu:2053/announce
 
 https://w.wwwww.wtf:443/announce
 
@@ -329,8 +331,6 @@ udp://anonseed.com:6969/announce
 udp://api.bitumconference.ru:6969/announce
 
 udp://aruacfilmes.com.br:6969/announce
-
-udp://asger.xyz:6969/announce
 
 udp://benouworldtrip.fr:6969/announce
 
@@ -599,8 +599,6 @@ udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.piratepublic.com:1337/announce
-
-udp://tracker.publicbt.com:80/announce
 
 udp://tracker.sbsub.com:2710/announce
 
