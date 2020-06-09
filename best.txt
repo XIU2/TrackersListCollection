@@ -30,7 +30,7 @@ http://rt.tace.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
-http://t.nyaatracker.com:80/announce
+http://t.jaekr.sh:6969/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -53,8 +53,6 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.noobsubs.net:80/announce
 
 http://tracker.publicbt.com:80/announce
 
@@ -208,8 +206,6 @@ udp://line-net.ru:6969/announce
 
 udp://ln.mtahost.co:6969/announce
 
-udp://mage23.schminkparadies.ch:6969/announce
-
 udp://mail.moneysfast.com:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
@@ -263,6 +259,8 @@ udp://thetracker.org:80/announce
 udp://thetribunes.xyz:6969/announce
 
 udp://threads.run:6969/announce
+
+udp://tr2.ysagin.top:2710/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -339,6 +337,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://tv.axfree.net:6969/announce
 

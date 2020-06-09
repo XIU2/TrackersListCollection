@@ -32,7 +32,7 @@ The more people use Tracker, the faster the BT download speed, **so please recom
 
 ****
 
-### Updated: 2020-06-09
+### Updated: 2020-06-10
 
 *These lists are updated automatically daily **[(Update Log)](https://github.com/XIU2/TrackersListCollection/releases)** :*
 
