@@ -32,6 +32,8 @@ http://share.camoe.cn:8080/announce
 
 http://t.jaekr.sh:6969/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://t.overflow.biz:6969/announce
 
 http://torrent.nwps.ws:80/announce
@@ -67,8 +69,6 @@ http://tracker3.itzmx.com:6961/announce
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
-
-http://zip.files.fm:6969/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -310,8 +310,6 @@ udp://tracker.publicbt.com:80/announce
 
 udp://tracker.shkinev.me:6969/announce
 
-udp://tracker.teambelgium.net:6969/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -337,8 +335,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://tsundere.pw:6969/announce
 
 udp://tv.axfree.net:6969/announce
 

@@ -8,8 +8,6 @@ http://178.175.143.27:80/announce
 
 http://78.30.254.12:2710/announce
 
-http://87.110.238.140:6969/announce
-
 http://91.217.91.21:3218/announce
 
 http://93.92.64.5:80/announce
@@ -124,6 +122,8 @@ http://tracker.bz:80/announce
 
 http://tracker.corpscorp.online:80/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -132,15 +132,11 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.kamigami.org:2710/announce
-
 http://tracker.kuroy.me:5944/announce
 
 http://tracker.lelux.fi:80/announce
 
 http://tracker.moeking.me:6969/announce
-
-http://tracker.noobsubs.net:80/announce
 
 http://tracker.nyap2p.com:8080/announce
 
@@ -152,11 +148,9 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker.uw0.xyz:6969/announce
-
 http://tracker.ygsub.com:6969/announce
 
-http://tracker.zerobytes.xyz:1337/announce
+http://tracker.yoshi210.com:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -166,8 +160,6 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://trun.tom.ru:80/announce
-
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -175,8 +167,6 @@ http://vps02.net.orel.ru:80/announce
 http://www.loushao.net:8080/announce
 
 http://www.wareztorrent.com:80/announce
-
-http://zip.files.fm:6969/announce
 
 https://1337.abcvg.info:443/announce
 
