@@ -14,8 +14,6 @@ http://dn42.smrsh.net:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
-http://jabber.esiliati.org:6969/announce
-
 http://magic.felfoldi.net:6969/announce
 
 http://novaopcj.icu:10325/announce
@@ -32,8 +30,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.jaekr.sh:6969/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://t.overflow.biz:6969/announce
 
 http://torrent.nwps.ws:80/announce
@@ -46,9 +42,7 @@ http://track.mastheadstudios.com:6969/announce
 
 http://tracker.anonwebz.xyz:8080/announce
 
-http://tracker.bt4g.com:2095/announce
-
-http://tracker.corpscorp.online:80/announce
+http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -72,8 +66,6 @@ http://vps02.net.orel.ru:80/announce
 
 https://1337.abcvg.info:443/announce
 
-https://tp.m-team.cc:443/announce.php
-
 https://tr.ready4.icu:443/announce
 
 https://tracker.coalition.space:443/announce
@@ -91,8 +83,6 @@ https://tracker.sloppyta.co:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://w.wwwww.wtf:443/announce
-
-udp://12.rarbg.me:80/announce
 
 udp://202-238-47-212.rev.cloud.instantcloud.io:6969/announce
 
@@ -216,8 +206,6 @@ udp://mts.tvbit.co:6969/announce
 
 udp://nagios.tks.sumy.ua:80/announce
 
-udp://ns1.epsilonthree.com:6969/announce
-
 udp://ns389251.ovh.net:6969/announce
 
 udp://open.demonii.com:1337/announce
@@ -335,6 +323,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://tv.axfree.net:6969/announce
 
