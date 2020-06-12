@@ -30,9 +30,9 @@ http://share.camoe.cn:8080/announce
 
 http://t.jaekr.sh:6969/announce
 
-http://t.overflow.biz:6969/announce
+http://t.nyaatracker.com:80/announce
 
-http://torrent.nwps.ws:80/announce
+http://t.overflow.biz:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -42,7 +42,7 @@ http://track.mastheadstudios.com:6969/announce
 
 http://tracker.anonwebz.xyz:8080/announce
 
-http://tracker.dutchtracking.nl:80/announce
+http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -83,6 +83,8 @@ https://tracker.sloppyta.co:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://w.wwwww.wtf:443/announce
+
+udp://12.rarbg.me:80/announce
 
 udp://202-238-47-212.rev.cloud.instantcloud.io:6969/announce
 
@@ -179,8 +181,6 @@ udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
-
-udp://jockesnusk.duckdns.org:6969/announce
 
 udp://josueunhuit.com:6969/announce
 
@@ -280,7 +280,7 @@ udp://tracker.felfoldi.net:6969/announce
 
 udp://tracker.fortu.io:6969/announce
 
-udp://tracker.gbitt.info:80/announce
+udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.joybomb.tw:6969/announce
 
@@ -323,8 +323,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://tsundere.pw:6969/announce
 
 udp://tv.axfree.net:6969/announce
 
