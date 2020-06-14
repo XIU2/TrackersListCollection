@@ -34,11 +34,17 @@ http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
+http://torrent.nwps.ws:80/announce
+
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tr.cili001.com:8070/announce
 
+http://track.mastheadstudios.com:6969/announce
+
 http://tracker.anonwebz.xyz:8080/announce
+
+http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -80,13 +86,15 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
+https://tracker.parrotsec.org:443/announce
+
+https://tracker.shittyurl.org:443/announce
+
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
 https://w.wwwww.wtf:443/announce
-
-udp://12.rarbg.me:80/announce
 
 udp://202-238-47-212.rev.cloud.instantcloud.io:6969/announce
 

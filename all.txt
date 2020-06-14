@@ -94,6 +94,8 @@ http://t3.leech.ie:80/announce
 
 http://thetracker.org:80/announce
 
+http://torrent.nwps.ws:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
@@ -113,6 +115,8 @@ http://tracker.bittor.pw:1337/announce
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.bz:80/announce
+
+http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
 
@@ -136,15 +140,17 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.publicbt.com:80/announce
 
+http://tracker.shittyurl.org:80/announce
+
 http://tracker.skyts.cn:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker.uw0.xyz:6969/announce
-
 http://tracker.yoshi210.com:6969/announce
+
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -198,6 +204,10 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
+https://tracker.parrotsec.org:443/announce
+
+https://tracker.shittyurl.org:443/announce
+
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -215,8 +225,6 @@ udp://107.150.14.110:6969/announce
 udp://109.121.134.121:1337/announce
 
 udp://114.55.113.60:6969/announce
-
-udp://12.rarbg.me:80/announce
 
 udp://128.199.70.66:5944/announce
 
@@ -442,8 +450,6 @@ udp://peerfect.org:6969/announce
 
 udp://public.popcorn-tracker.org:6969/announce
 
-udp://qg.lorzl.gq:2710/announce
-
 udp://retracker.akado-ural.ru:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -619,6 +625,8 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 udp://vibe.community:6969/announce
 
 udp://webmail.wookiespmc.com:6969/announce
+
+udp://www.loushao.net:8080/announce
 
 udp://z.mercax.com:53/announce
 
