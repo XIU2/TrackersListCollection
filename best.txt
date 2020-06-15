@@ -34,8 +34,6 @@ http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
-http://torrent.nwps.ws:80/announce
-
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tr.cili001.com:8070/announce
@@ -46,15 +44,13 @@ http://tracker.anonwebz.xyz:8080/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.dutchtracking.nl:80/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.publicbt.com:80/announce
-
-http://tracker.skyts.cn:6969/announce
 
 http://tracker.trackerfix.com:80/announce
 
@@ -76,8 +72,6 @@ https://tracker.anirena.com:80/announce
 
 https://tracker.coalition.space:443/announce
 
-https://tracker.gbitt.info:443/announce
-
 https://tracker.hama3.net:443/announce
 
 https://tracker.imgoingto.icu:443/announce
@@ -85,10 +79,6 @@ https://tracker.imgoingto.icu:443/announce
 https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
-
-https://tracker.parrotsec.org:443/announce
-
-https://tracker.shittyurl.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
@@ -216,8 +206,6 @@ udp://mts.tvbit.co:6969/announce
 
 udp://nagios.tks.sumy.ua:80/announce
 
-udp://ns389251.ovh.net:6969/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
@@ -289,8 +277,6 @@ udp://tracker.e-utp.net:6969/announce
 udp://tracker.felfoldi.net:6969/announce
 
 udp://tracker.fortu.io:6969/announce
-
-udp://tracker.gbitt.info:80/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
