@@ -42,11 +42,7 @@ http://grifon.info:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
-http://magic.felfoldi.net:6969/announce
-
 http://mail2.zelenaya.net:80/announce
-
-http://novaopcj.icu:10325/announce
 
 http://ns1.mindcraft.si.eu.org:6969/announce
 
@@ -116,8 +112,6 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.bz:80/announce
 
-http://tracker.dler.org:6969/announce
-
 http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -136,6 +130,8 @@ http://tracker.nyap2p.com:8080/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.publicbt.com:80/announce
+
 http://tracker.shittyurl.org:80/announce
 
 http://tracker.skyts.net:6969/announce
@@ -146,6 +142,8 @@ http://tracker.uw0.xyz:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
 
+http://tracker.zerobytes.xyz:1337/announce
+
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
@@ -153,8 +151,6 @@ http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-http://tracker4.itzmx.com:2710/announce
 
 http://trun.tom.ru:80/announce
 
@@ -174,13 +170,9 @@ https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
 
-https://open.kickasstracker.com:443/announce
-
 https://opentracker.acgnx.se:443/announce
 
 https://tr.ready4.icu:443/announce
-
-https://tracker.anirena.com:80/announce
 
 https://tracker.bt-hash.com:443/announce
 
@@ -221,6 +213,8 @@ udp://107.150.14.110:6969/announce
 udp://109.121.134.121:1337/announce
 
 udp://114.55.113.60:6969/announce
+
+udp://12.rarbg.me:80/announce
 
 udp://128.199.70.66:5944/announce
 
@@ -332,6 +326,8 @@ udp://aruacfilmes.com.br:6969/announce
 
 udp://benouworldtrip.fr:6969/announce
 
+udp://bitsparadise.info:6969/announce
+
 udp://blokas.io:6969/announce
 
 udp://bms-hosxp.com:6969/announce
@@ -419,8 +415,6 @@ udp://koli.services:6969/announce
 udp://line-net.ru:6969/announce
 
 udp://ln.mtahost.co:6969/announce
-
-udp://mail.moneysfast.com:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
 
@@ -533,8 +527,6 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.flashtorrents.org:6969/announce
 
 udp://tracker.fortu.io:6969/announce
-
-udp://tracker.gbitt.info:80/announce
 
 udp://tracker.grepler.com:6969/announce
 
