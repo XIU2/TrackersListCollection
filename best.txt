@@ -1,5 +1,7 @@
 http://0205.uptm.ch:6969/announce
 
+http://1337.abcvg.info:80/announce
+
 http://ankeschwarz.net:6969/announce
 
 http://bandari.org:6969/announce
@@ -26,17 +28,11 @@ http://share.camoe.cn:8080/announce
 
 http://t.jaekr.sh:6969/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://t.overflow.biz:6969/announce
-
-http://torrent.nwps.ws:80/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tr.cili001.com:8070/announce
-
-http://track.mastheadstudios.com:6969/announce
 
 http://tracker.anonwebz.xyz:8080/announce
 
@@ -65,6 +61,8 @@ http://vps02.net.orel.ru:80/announce
 https://1337.abcvg.info:443/announce
 
 https://tr.ready4.icu:443/announce
+
+https://tracker.anirena.com:80/announce
 
 https://tracker.coalition.space:443/announce
 
@@ -271,8 +269,6 @@ udp://tracker.ds.is:6969/announce
 udp://tracker.dyne.org:6969/announce
 
 udp://tracker.e-utp.net:6969/announce
-
-udp://tracker.felfoldi.net:6969/announce
 
 udp://tracker.fortu.io:6969/announce
 

@@ -52,6 +52,8 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://opentracker.i2p.rocks:6969/announce
 
 http://pow7.com:80/announce
@@ -90,8 +92,6 @@ http://t3.leech.ie:80/announce
 
 http://thetracker.org:80/announce
 
-http://torrent.nwps.ws:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
@@ -99,8 +99,6 @@ http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://tr.cili001.com:8070/announce
 
 http://tr.kxmp.cf:80/announce
-
-http://track.mastheadstudios.com:6969/announce
 
 http://tracker.anonwebz.xyz:8080/announce
 
@@ -110,8 +108,6 @@ http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.bz:80/announce
-
 http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -119,6 +115,8 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+http://tracker.kamigami.org:2710/announce
 
 http://tracker.kuroy.me:5944/announce
 
@@ -139,10 +137,6 @@ http://tracker.skyts.net:6969/announce
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.uw0.xyz:6969/announce
-
-http://tracker.yoshi210.com:6969/announce
-
-http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -170,9 +164,13 @@ https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
 
+https://open.kickasstracker.com:443/announce
+
 https://opentracker.acgnx.se:443/announce
 
 https://tr.ready4.icu:443/announce
+
+https://tracker.anirena.com:80/announce
 
 https://tracker.bt-hash.com:443/announce
 
@@ -438,8 +436,6 @@ udp://peerfect.org:6969/announce
 
 udp://public.popcorn-tracker.org:6969/announce
 
-udp://qg.lorzl.gq:2710/announce
-
 udp://retracker.akado-ural.ru:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -519,8 +515,6 @@ udp://tracker.e-utp.net:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 
 udp://tracker.ex.ua:80/announce
-
-udp://tracker.felfoldi.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
