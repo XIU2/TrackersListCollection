@@ -30,8 +30,6 @@ http://bobbialbano.com:6969/announce
 
 http://bt.pusacg.org:8080/announce
 
-http://buny.uk:6969/announce
-
 http://cocaine.ninja:6969/announce
 
 http://dn42.smrsh.net:6969/announce
@@ -53,6 +51,8 @@ http://open.acgnxtracker.com:80/announce
 http://opentracker.i2p.rocks:6969/announce
 
 http://pow7.com:80/announce
+
+http://private.minimafia.nl:443/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -88,8 +88,6 @@ http://t3.leech.ie:80/announce
 
 http://thetracker.org:80/announce
 
-http://torrent.nwps.ws:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
@@ -108,6 +106,8 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.bz:80/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -115,8 +115,6 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.kamigami.org:2710/announce
 
 http://tracker.kuroy.me:5944/announce
 
@@ -127,8 +125,6 @@ http://tracker.moeking.me:6969/announce
 http://tracker.nyap2p.com:8080/announce
 
 http://tracker.opentrackr.org:1337/announce
-
-http://tracker.publicbt.com:80/announce
 
 http://tracker.shittyurl.org:80/announce
 
@@ -178,13 +174,15 @@ https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
 
+https://tp.m-team.cc:443/announce.php
+
 https://tr.ready4.icu:443/announce
+
+https://tracker.anirena.com:80/announce
 
 https://tracker.bt-hash.com:443/announce
 
 https://tracker.coalition.space:443/announce
-
-https://tracker.ecdn.icu:8443/announce
 
 https://tracker.gbitt.info:443/announce
 
@@ -200,6 +198,8 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
+https://tracker.parrotsec.org:443/announce
+
 https://tracker.shittyurl.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
@@ -207,6 +207,8 @@ https://tracker.sloppyta.co:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://tracker.vectahosting.eu:2053/announce
+
+https://tracker6.lelux.fi:443/announce
 
 https://trakx.herokuapp.com:443/announce
 
@@ -221,8 +223,6 @@ udp://107.150.14.110:6969/announce
 udp://109.121.134.121:1337/announce
 
 udp://114.55.113.60:6969/announce
-
-udp://12.rarbg.me:80/announce
 
 udp://128.199.70.66:5944/announce
 
@@ -398,6 +398,8 @@ udp://gra1.joshkeegan.co.uk:6969/announce
 
 udp://handrew.me:6969/announce
 
+udp://inferno.demonoid.is:3391/announce
+
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.harry.lu:80/announce
@@ -455,8 +457,6 @@ udp://retracker.netbynet.ru:2710/announce
 udp://retracker.nts.su:2710/announce
 
 udp://retracker.sevstar.net:2710/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://robbmob.com:6969/announce
 
