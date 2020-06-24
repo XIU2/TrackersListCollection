@@ -14,8 +14,6 @@ http://h4.trakx.nibba.trade:80/announce
 
 http://ns3107607.ip-54-36-126.eu:6969/announce
 
-http://private.minimafia.nl:443/announce
-
 http://retracker.sevstar.net:2710/announce
 
 http://rt.tace.ru:80/announce
@@ -23,8 +21,6 @@ http://rt.tace.ru:80/announce
 http://share.camoe.cn:8080/announce
 
 http://t.jaekr.sh:6969/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -41,6 +37,8 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+http://tracker.publicbt.com:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
@@ -60,8 +58,6 @@ http://vps02.net.orel.ru:80/announce
 
 https://1337.abcvg.info:443/announce
 
-https://tp.m-team.cc:443/announce.php
-
 https://tr.ready4.icu:443/announce
 
 https://tracker.anirena.com:80/announce
@@ -75,8 +71,6 @@ https://tracker.imgoingto.icu:443/announce
 https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
-
-https://tracker.parrotsec.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
@@ -220,8 +214,6 @@ udp://retracker.lanta-net.ru:2710/announce
 
 udp://retracker.local.msn-net.ru:6969/announce
 
-udp://robbmob.com:6969/announce
-
 udp://rutorrent.frontline-mod.com:6969/announce
 
 udp://sd-161673.dedibox.fr:6969/announce
@@ -272,6 +264,8 @@ udp://tracker.e-utp.net:6969/announce
 
 udp://tracker.fortu.io:6969/announce
 
+udp://tracker.gbitt.info:80/announce
+
 udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.kamigami.org:2710/announce
@@ -301,6 +295,8 @@ udp://tracker.vulnix.sh:6969/announce
 udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
+
+udp://tracker.zooki.xyz:6969/announce
 
 udp://tracker0.ufibox.com:6969/announce
 

@@ -52,8 +52,6 @@ http://opentracker.i2p.rocks:6969/announce
 
 http://pow7.com:80/announce
 
-http://private.minimafia.nl:443/announce
-
 http://retracker.hotplug.ru:2710/announce
 
 http://retracker.krs-ix.ru:80/announce
@@ -126,9 +124,9 @@ http://tracker.nyap2p.com:8080/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.shittyurl.org:80/announce
+http://tracker.publicbt.com:80/announce
 
-http://tracker.skyts.net:6969/announce
+http://tracker.shittyurl.org:80/announce
 
 http://tracker.sloppyta.co:80/announce
 
@@ -139,6 +137,8 @@ http://tracker.tyker.xyz:8080/announce
 http://tracker.uw0.xyz:6969/announce
 
 http://tracker.vcke.xyz:8080/announce
+
+http://tracker.ygsub.com:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
 
@@ -151,8 +151,6 @@ http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-http://trun.tom.ru:80/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
@@ -173,8 +171,6 @@ https://aaa.army:8866/announce
 https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
-
-https://tp.m-team.cc:443/announce.php
 
 https://tr.ready4.icu:443/announce
 
@@ -197,8 +193,6 @@ https://tracker.lelux.fi:443/announce
 https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
-
-https://tracker.parrotsec.org:443/announce
 
 https://tracker.shittyurl.org:443/announce
 
@@ -458,8 +452,6 @@ udp://retracker.nts.su:2710/announce
 
 udp://retracker.sevstar.net:2710/announce
 
-udp://robbmob.com:6969/announce
-
 udp://rutorrent.frontline-mod.com:6969/announce
 
 udp://sd-161673.dedibox.fr:6969/announce
@@ -530,6 +522,8 @@ udp://tracker.flashtorrents.org:6969/announce
 
 udp://tracker.fortu.io:6969/announce
 
+udp://tracker.gbitt.info:80/announce
+
 udp://tracker.grepler.com:6969/announce
 
 udp://tracker.halfchub.club:6969/announce
@@ -585,6 +579,8 @@ udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
+
+udp://tracker.zooki.xyz:6969/announce
 
 udp://tracker0.ufibox.com:6969/announce
 
