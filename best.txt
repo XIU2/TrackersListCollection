@@ -14,6 +14,8 @@ http://h4.trakx.nibba.trade:80/announce
 
 http://ns3107607.ip-54-36-126.eu:6969/announce
 
+http://private.minimafia.nl:443/announce
+
 http://retracker.sevstar.net:2710/announce
 
 http://rt.tace.ru:80/announce
@@ -22,15 +24,19 @@ http://share.camoe.cn:8080/announce
 
 http://t.jaekr.sh:6969/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://t.overflow.biz:6969/announce
+
+http://torrent.nwps.ws:80/announce
+
+http://torrentsmd.com:8080/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tr.cili001.com:8070/announce
 
 http://tracker.anonwebz.xyz:8080/announce
-
-http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -59,8 +65,6 @@ http://vps02.net.orel.ru:80/announce
 https://1337.abcvg.info:443/announce
 
 https://tr.ready4.icu:443/announce
-
-https://tracker.anirena.com:80/announce
 
 https://tracker.coalition.space:443/announce
 
@@ -150,15 +154,13 @@ udp://edu.uifr.ru:6969/announce
 
 udp://eliastre100.fr:6969/announce
 
-udp://engplus.ru:6969/announce
-
 udp://exodus.desync.com:6969/announce
 
 udp://exponage-api.com:6969/announce
 
-udp://f68.n5022.z2.binkp.net:6969/announce
-
 udp://fe.dealclub.de:6969/announce
+
+udp://forever-tracker.zooki.xyz:6969/announce
 
 udp://forum.m3x.org:6969/announce
 
@@ -246,8 +248,6 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.blacksparrowmedia.net:6969/announce
-
 udp://tracker.cloudfactory.org:6969/announce
 
 udp://tracker.coppersurfer.tk:6969/announce
@@ -264,8 +264,6 @@ udp://tracker.e-utp.net:6969/announce
 
 udp://tracker.fortu.io:6969/announce
 
-udp://tracker.gbitt.info:80/announce
-
 udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.kamigami.org:2710/announce
@@ -277,8 +275,6 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
-
-udp://tracker.publicbt.com:80/announce
 
 udp://tracker.shkinev.me:6969/announce
 
