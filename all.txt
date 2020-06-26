@@ -52,7 +52,7 @@ http://opentracker.i2p.rocks:6969/announce
 
 http://pow7.com:80/announce
 
-http://private.minimafia.nl:443/announce
+http://prestige.minimafia.nl:443/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -108,15 +108,11 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.bz:80/announce
 
-http://tracker.dler.org:6969/announce
-
 http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
-
-http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -144,13 +140,7 @@ http://tracker.trackerfix.com:80/announce
 
 http://tracker.tyker.xyz:8080/announce
 
-http://tracker.uw0.xyz:6969/announce
-
-http://tracker.vcke.xyz:8080/announce
-
 http://tracker.ygsub.com:6969/announce
-
-http://tracker.yoshi210.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
@@ -209,8 +199,6 @@ https://tracker.shittyurl.org:443/announce
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.tamersunion.org:443/announce
-
-https://tracker.vectahosting.eu:2053/announce
 
 https://tracker6.lelux.fi:443/announce
 
@@ -384,6 +372,8 @@ udp://edu.uifr.ru:6969/announce
 
 udp://eliastre100.fr:6969/announce
 
+udp://engplus.ru:6969/announce
+
 udp://exodus.desync.com:6969/announce
 
 udp://exponage-api.com:6969/announce
@@ -503,6 +493,8 @@ udp://tracker.beeimg.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
+
+udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.cloudfactory.org:6969/announce
 
