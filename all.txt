@@ -52,8 +52,6 @@ http://opentracker.i2p.rocks:6969/announce
 
 http://pow7.com:80/announce
 
-http://prestige.minimafia.nl:443/announce
-
 http://retracker.hotplug.ru:2710/announce
 
 http://retracker.krs-ix.ru:80/announce
@@ -140,7 +138,11 @@ http://tracker.trackerfix.com:80/announce
 
 http://tracker.tyker.xyz:8080/announce
 
+http://tracker.uw0.xyz:6969/announce
+
 http://tracker.ygsub.com:6969/announce
+
+http://tracker.yoshi210.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
@@ -434,8 +436,6 @@ udp://peerfect.org:6969/announce
 
 udp://public.popcorn-tracker.org:6969/announce
 
-udp://qg.lorzl.gq:2710/announce
-
 udp://retracker.akado-ural.ru:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -461,8 +461,6 @@ udp://shadowshq.yi.org:6969/announce
 udp://storage.groupees.com:6969/announce
 
 udp://t1.leech.ie:1337/announce
-
-udp://t2.leech.ie:1337/announce
 
 udp://t3.leech.ie:1337/announce
 
@@ -493,8 +491,6 @@ udp://tracker.beeimg.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
-
-udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.cloudfactory.org:6969/announce
 
@@ -547,6 +543,8 @@ udp://tracker.open-internet.nl:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.piratepublic.com:1337/announce
+
+udp://tracker.publicbt.com:80/announce
 
 udp://tracker.shkinev.me:6969/announce
 
