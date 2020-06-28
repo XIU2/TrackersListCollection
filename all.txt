@@ -50,6 +50,8 @@ http://open.acgnxtracker.com:80/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
+http://p4p.arenabg.com:1337/announce
+
 http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -86,8 +88,6 @@ http://t3.leech.ie:80/announce
 
 http://thetracker.org:80/announce
 
-http://torrent.nwps.ws:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
@@ -106,6 +106,8 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.bz:80/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -113,8 +115,6 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.kamigami.org:2710/announce
 
 http://tracker.kuroy.me:5944/announce
 
@@ -178,6 +178,8 @@ https://opentracker.acgnx.se:443/announce
 
 https://tr.ready4.icu:443/announce
 
+https://tracker.anirena.com:80/announce
+
 https://tracker.bt-hash.com:443/announce
 
 https://tracker.coalition.space:443/announce
@@ -196,11 +198,15 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
+https://tracker.parrotlinux.org:443/announce
+
 https://tracker.shittyurl.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.tamersunion.org:443/announce
+
+https://tracker.vectahosting.eu:2053/announce
 
 https://tracker6.lelux.fi:443/announce
 
@@ -436,6 +442,8 @@ udp://peerfect.org:6969/announce
 
 udp://public.popcorn-tracker.org:6969/announce
 
+udp://qg.lorzl.gq:2710/announce
+
 udp://retracker.akado-ural.ru:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -515,6 +523,8 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.flashtorrents.org:6969/announce
 
 udp://tracker.fortu.io:6969/announce
+
+udp://tracker.gbitt.info:80/announce
 
 udp://tracker.grepler.com:6969/announce
 
