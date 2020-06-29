@@ -24,8 +24,6 @@ http://ankeschwarz.net:6969/announce
 
 http://atrack.pow7.com:80/announce
 
-http://bandari.org:6969/announce
-
 http://bobbialbano.com:6969/announce
 
 http://bt.pusacg.org:8080/announce
@@ -49,8 +47,6 @@ http://ns349743.ip-91-121-106.eu:80/announce
 http://open.acgnxtracker.com:80/announce
 
 http://opentracker.i2p.rocks:6969/announce
-
-http://p4p.arenabg.com:1337/announce
 
 http://pow7.com:80/announce
 
@@ -87,6 +83,8 @@ http://t2.pow7.com:80/announce
 http://t3.leech.ie:80/announce
 
 http://thetracker.org:80/announce
+
+http://torrent.nwps.ws:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -138,11 +136,7 @@ http://tracker.trackerfix.com:80/announce
 
 http://tracker.tyker.xyz:8080/announce
 
-http://tracker.uw0.xyz:6969/announce
-
 http://tracker.ygsub.com:6969/announce
-
-http://tracker.yoshi210.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
@@ -153,6 +147,8 @@ http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://trun.tom.ru:80/announce
 
@@ -172,13 +168,9 @@ https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
 
-https://open.kickasstracker.com:443/announce
-
 https://opentracker.acgnx.se:443/announce
 
 https://tr.ready4.icu:443/announce
-
-https://tracker.anirena.com:80/announce
 
 https://tracker.bt-hash.com:443/announce
 
@@ -198,7 +190,7 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
-https://tracker.parrotlinux.org:443/announce
+https://tracker.parrotsec.org:443/announce
 
 https://tracker.shittyurl.org:443/announce
 
@@ -406,8 +398,6 @@ udp://ipv6.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
-udp://josueunhuit.com:6969/announce
-
 udp://kanal-4.de:6969/announce
 
 udp://kanbooru.com:6969/announce
@@ -470,6 +460,8 @@ udp://storage.groupees.com:6969/announce
 
 udp://t1.leech.ie:1337/announce
 
+udp://t2.leech.ie:1337/announce
+
 udp://t3.leech.ie:1337/announce
 
 udp://teamspeak.value-wolf.org:6969/announce
@@ -512,8 +504,6 @@ udp://tracker.ds.is:6969/announce
 
 udp://tracker.dyne.org:6969/announce
 
-udp://tracker.e-utp.net:6969/announce
-
 udp://tracker.eddie4.nl:6969/announce
 
 udp://tracker.ex.ua:80/announce
@@ -521,10 +511,6 @@ udp://tracker.ex.ua:80/announce
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flashtorrents.org:6969/announce
-
-udp://tracker.fortu.io:6969/announce
-
-udp://tracker.gbitt.info:80/announce
 
 udp://tracker.grepler.com:6969/announce
 
@@ -537,8 +523,6 @@ udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.jae.moe:6969/announce
 
 udp://tracker.joybomb.tw:6969/announce
-
-udp://tracker.kamigami.org:2710/announce
 
 udp://tracker.kuroy.me:5944/announce
 
@@ -553,8 +537,6 @@ udp://tracker.open-internet.nl:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.piratepublic.com:1337/announce
-
-udp://tracker.publicbt.com:80/announce
 
 udp://tracker.shkinev.me:6969/announce
 
