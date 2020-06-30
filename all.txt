@@ -48,6 +48,8 @@ http://open.acgnxtracker.com:80/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
+http://p4p.arenabg.ch:1337/announce
+
 http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -84,8 +86,6 @@ http://t3.leech.ie:80/announce
 
 http://thetracker.org:80/announce
 
-http://torrent.nwps.ws:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
@@ -103,8 +103,6 @@ http://tracker.bittor.pw:1337/announce
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.bz:80/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
 
@@ -148,15 +146,11 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://tracker4.itzmx.com:2710/announce
-
 http://trun.tom.ru:80/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
-
-http://www.loushao.net:8080/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -190,8 +184,6 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
-https://tracker.parrotsec.org:443/announce
-
 https://tracker.shittyurl.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
@@ -215,6 +207,8 @@ udp://107.150.14.110:6969/announce
 udp://109.121.134.121:1337/announce
 
 udp://114.55.113.60:6969/announce
+
+udp://12.rarbg.me:80/announce
 
 udp://128.199.70.66:5944/announce
 
@@ -322,6 +316,8 @@ udp://api.bitumconference.ru:6969/announce
 
 udp://aruacfilmes.com.br:6969/announce
 
+udp://asger.xyz:6969/announce
+
 udp://benouworldtrip.fr:6969/announce
 
 udp://bitsparadise.info:6969/announce
@@ -353,6 +349,8 @@ udp://code2chicken.nl:6969/announce
 udp://contra.sf.ca.us:6969/announce
 
 udp://cutiegirl.ru:6969/announce
+
+udp://cx42light.cn:39652/announce
 
 udp://cyteam.ru:6969/announce
 
@@ -512,6 +510,10 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flashtorrents.org:6969/announce
 
+udp://tracker.fortu.io:6969/announce
+
+udp://tracker.gbitt.info:80/announce
+
 udp://tracker.grepler.com:6969/announce
 
 udp://tracker.halfchub.club:6969/announce
@@ -537,6 +539,8 @@ udp://tracker.open-internet.nl:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.piratepublic.com:1337/announce
+
+udp://tracker.publicbt.com:80/announce
 
 udp://tracker.shkinev.me:6969/announce
 

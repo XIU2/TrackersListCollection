@@ -1,7 +1,5 @@
 http://0205.uptm.ch:6969/announce
 
-http://1337.abcvg.info:80/announce
-
 http://ankeschwarz.net:6969/announce
 
 http://bobbialbano.com:6969/announce
@@ -14,11 +12,11 @@ http://ns3107607.ip-54-36-126.eu:6969/announce
 
 http://share.camoe.cn:8080/announce
 
+http://t.jaekr.sh:6969/announce
+
+http://t.nyaatracker.com:80/announce
+
 http://t.overflow.biz:6969/announce
-
-http://torrent.nwps.ws:80/announce
-
-http://torrentsmd.com:8080/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -26,15 +24,11 @@ http://tr.cili001.com:8070/announce
 
 http://tracker.anonwebz.xyz:8080/announce
 
-http://tracker.bt4g.com:2095/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.nyap2p.com:8080/announce
 
 http://tracker.publicbt.com:80/announce
 
@@ -54,21 +48,17 @@ http://vps02.net.orel.ru:80/announce
 
 https://1337.abcvg.info:443/announce
 
-https://2.tracker.eu.org:443/announce
-
 https://tr.ready4.icu:443/announce
 
 https://tracker.coalition.space:443/announce
 
-https://tracker.gbitt.info:443/announce
+https://tracker.hama3.net:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
-
-https://tracker.parrotsec.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
@@ -79,6 +69,8 @@ https://tracker6.lelux.fi:443/announce
 https://trakx.herokuapp.com:443/announce
 
 https://w.wwwww.wtf:443/announce
+
+udp://12.rarbg.me:80/announce
 
 udp://47.ip-51-68-199.eu:6969/announce
 
@@ -101,6 +93,8 @@ udp://anonseed.com:6969/announce
 udp://api.bitumconference.ru:6969/announce
 
 udp://aruacfilmes.com.br:6969/announce
+
+udp://benouworldtrip.fr:6969/announce
 
 udp://bitsparadise.info:6969/announce
 
@@ -168,6 +162,8 @@ udp://kanbooru.com:6969/announce
 
 udp://kawaii.social:6969/announce
 
+udp://line-net.ru:6969/announce
+
 udp://ln.mtahost.co:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
@@ -234,15 +230,21 @@ udp://tracker.ds.is:6969/announce
 
 udp://tracker.dyne.org:6969/announce
 
+udp://tracker.gbitt.info:80/announce
+
 udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.joybomb.tw:6969/announce
+
+udp://tracker.leechers-paradise.org:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.publicbt.com:80/announce
 
 udp://tracker.shkinev.me:6969/announce
 
@@ -285,3 +287,5 @@ udp://vibe.community:6969/announce
 udp://webmail.wookiespmc.com:6969/announce
 
 udp://z.mercax.com:53/announce
+
+udp://zephir.monocul.us:6969/announce
