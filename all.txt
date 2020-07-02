@@ -50,6 +50,8 @@ http://open.acgnxtracker.com:80/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
+http://p4p.arenabg.com:1337/announce
+
 http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -70,8 +72,6 @@ http://t.acg.rip:6699/announce
 
 http://t.jaekr.sh:6969/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://t.overflow.biz:6969/announce
 
 http://t1.leech.ie:80/announce
@@ -85,6 +85,8 @@ http://t2.pow7.com:80/announce
 http://t3.leech.ie:80/announce
 
 http://thetracker.org:80/announce
+
+http://torrent.nwps.ws:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -124,8 +126,6 @@ http://tracker.nyap2p.com:8080/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.publicbt.com:80/announce
-
 http://tracker.shittyurl.org:80/announce
 
 http://tracker.skyts.net:6969/announce
@@ -136,9 +136,9 @@ http://tracker.trackerfix.com:80/announce
 
 http://tracker.tyker.xyz:8080/announce
 
-http://tracker.ygsub.com:6969/announce
+http://tracker.uw0.xyz:6969/announce
 
-http://tracker.yoshi210.com:6969/announce
+http://tracker.ygsub.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
@@ -149,6 +149,8 @@ http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://trun.tom.ru:80/announce
 
@@ -165,8 +167,6 @@ https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
-
-https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
 
@@ -189,6 +189,8 @@ https://tracker.lelux.fi:443/announce
 https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
+
+https://tracker.parrotlinux.org:443/announce
 
 https://tracker.shittyurl.org:443/announce
 
@@ -213,8 +215,6 @@ udp://107.150.14.110:6969/announce
 udp://109.121.134.121:1337/announce
 
 udp://114.55.113.60:6969/announce
-
-udp://12.rarbg.me:80/announce
 
 udp://128.199.70.66:5944/announce
 
@@ -316,8 +316,6 @@ udp://admin.videoenpoche.info:6969/announce
 
 udp://adminion.n-blade.ru:6969/announce
 
-udp://anonseed.com:6969/announce
-
 udp://api.bitumconference.ru:6969/announce
 
 udp://aruacfilmes.com.br:6969/announce
@@ -354,9 +352,9 @@ udp://code2chicken.nl:6969/announce
 
 udp://contra.sf.ca.us:6969/announce
 
-udp://cutiegirl.ru:6969/announce
+udp://covid-19-tracker.fastmask.shop:6969/announce
 
-udp://cx42light.cn:39652/announce
+udp://cutiegirl.ru:6969/announce
 
 udp://cyteam.ru:6969/announce
 
@@ -438,8 +436,6 @@ udp://peerfect.org:6969/announce
 
 udp://public.popcorn-tracker.org:6969/announce
 
-udp://qg.lorzl.gq:2710/announce
-
 udp://retracker.akado-ural.ru:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -486,8 +482,6 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0o.is:6969/announce
 
-udp://tracker.aletorrenty.pl:2710/announce
-
 udp://tracker.archlinux.org.theoks.net:6969/announce
 
 udp://tracker.army:6969/announce
@@ -519,8 +513,6 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.flashtorrents.org:6969/announce
 
 udp://tracker.fortu.io:6969/announce
-
-udp://tracker.gbitt.info:80/announce
 
 udp://tracker.grepler.com:6969/announce
 
