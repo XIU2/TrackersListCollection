@@ -24,8 +24,6 @@ http://ankeschwarz.net:6969/announce
 
 http://atrack.pow7.com:80/announce
 
-http://aws1.millegrilles.com:6969/announce
-
 http://bobbialbano.com:6969/announce
 
 http://bt.pusacg.org:8080/announce
@@ -42,15 +40,11 @@ http://h4.trakx.nibba.trade:80/announce
 
 http://mail2.zelenaya.net:80/announce
 
-http://milanesitracker.tekcities.com:80/announce
-
 http://ns3107607.ip-54-36-126.eu:6969/announce
 
 http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
@@ -88,6 +82,8 @@ http://t3.leech.ie:80/announce
 
 http://thetracker.org:80/announce
 
+http://torrent.nwps.ws:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
@@ -105,8 +101,6 @@ http://tracker.bittor.pw:1337/announce
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.bz:80/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
 
@@ -141,6 +135,8 @@ http://tracker.tyker.xyz:8080/announce
 http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
+
+http://tracker.yoshi210.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
@@ -188,15 +184,11 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
-https://tracker.parrotsec.org:443/announce
-
 https://tracker.shittyurl.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.tamersunion.org:443/announce
-
-https://tracker.vectahosting.eu:2053/announce
 
 https://tracker6.lelux.fi:443/announce
 
@@ -396,8 +388,6 @@ udp://inferno.demonoid.is:3391/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
-udp://ipv6.tracker.harry.lu:80/announce
-
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
 udp://kanal-4.de:6969/announce
@@ -433,8 +423,6 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://peerfect.org:6969/announce
 
 udp://public.popcorn-tracker.org:6969/announce
-
-udp://qg.lorzl.gq:2710/announce
 
 udp://retracker.akado-ural.ru:80/announce
 
@@ -518,6 +506,8 @@ udp://tracker.flashtorrents.org:6969/announce
 
 udp://tracker.fortu.io:6969/announce
 
+udp://tracker.gbitt.info:80/announce
+
 udp://tracker.grepler.com:6969/announce
 
 udp://tracker.halfchub.club:6969/announce
@@ -525,6 +515,8 @@ udp://tracker.halfchub.club:6969/announce
 udp://tracker.iamhansen.xyz:2000/announce
 
 udp://tracker.internetwarriors.net:1337/announce
+
+udp://tracker.jae.moe:6969/announce
 
 udp://tracker.joybomb.tw:6969/announce
 
@@ -589,6 +581,8 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.dler.org:2710/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://u.wwwww.wtf:1/announce
 
