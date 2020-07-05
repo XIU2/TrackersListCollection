@@ -66,8 +66,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://t.overflow.biz:6969/announce
 
 http://t1.leech.ie:80/announce
@@ -101,6 +99,8 @@ http://tracker.bittor.pw:1337/announce
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.bz:80/announce
+
+http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
 
@@ -136,8 +136,6 @@ http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
 
-http://tracker.yoshi210.com:6969/announce
-
 http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -147,6 +145,8 @@ http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://trun.tom.ru:80/announce
 
@@ -164,6 +164,8 @@ https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
 
+https://open.kickasstracker.com:443/announce
+
 https://opentracker.acgnx.se:443/announce
 
 https://tr.ready4.icu:443/announce
@@ -177,6 +179,8 @@ https://tracker.gbitt.info:443/announce
 https://tracker.hama3.net:443/announce
 
 https://tracker.imgoingto.icu:443/announce
+
+https://tracker.jae.moe:443/announce
 
 https://tracker.lelux.fi:443/announce
 
@@ -424,6 +428,8 @@ udp://peerfect.org:6969/announce
 
 udp://public.popcorn-tracker.org:6969/announce
 
+udp://qg.lorzl.gq:2710/announce
+
 udp://retracker.akado-ural.ru:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -516,8 +522,6 @@ udp://tracker.iamhansen.xyz:2000/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
-udp://tracker.jae.moe:6969/announce
-
 udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.kuroy.me:5944/announce
@@ -529,6 +533,8 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.open-internet.nl:6969/announce
+
+udp://tracker.openbittorrent.com:80/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -591,8 +597,6 @@ udp://ultra.zt.ua:6969/announce
 udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://vibe.community:6969/announce
-
-udp://webmail.wookiespmc.com:6969/announce
 
 udp://www.loushao.net:8080/announce
 
