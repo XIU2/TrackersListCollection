@@ -46,6 +46,8 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://opentracker.i2p.rocks:6969/announce
 
 http://pow7.com:80/announce
@@ -66,17 +68,13 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.overflow.biz:6969/announce
+http://t.nyaatracker.com:80/announce
 
-http://t1.leech.ie:80/announce
+http://t.overflow.biz:6969/announce
 
 http://t1.pow7.com:80/announce
 
-http://t2.leech.ie:80/announce
-
 http://t2.pow7.com:80/announce
-
-http://t3.leech.ie:80/announce
 
 http://thetracker.org:80/announce
 
@@ -132,8 +130,6 @@ http://tracker.trackerfix.com:80/announce
 
 http://tracker.tyker.xyz:8080/announce
 
-http://tracker.uw0.xyz:6969/announce
-
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
@@ -145,10 +141,6 @@ http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-http://tracker4.itzmx.com:2710/announce
-
-http://trun.tom.ru:80/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
@@ -350,6 +342,8 @@ udp://covid-19-tracker.fastmask.shop:6969/announce
 
 udp://cutiegirl.ru:6969/announce
 
+udp://cx42light.cn:39652/announce
+
 udp://cyteam.ru:6969/announce
 
 udp://daveking.com:6969/announce
@@ -373,6 +367,8 @@ udp://engplus.ru:6969/announce
 udp://exodus.desync.com:6969/announce
 
 udp://exponage-api.com:6969/announce
+
+udp://f68.n5022.z2.binkp.net:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
@@ -425,6 +421,8 @@ udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://peerfect.org:6969/announce
+
+udp://pubilic-fucking-tracker-fuckyeah.chedz.net:6969/announce
 
 udp://public.popcorn-tracker.org:6969/announce
 
@@ -488,7 +486,7 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
-udp://tracker.blacksparrowmedia.net:6969/announce
+udp://tracker.casual.run:6969/announce
 
 udp://tracker.cloudfactory.org:6969/announce
 
@@ -521,6 +519,8 @@ udp://tracker.halfchub.club:6969/announce
 udp://tracker.iamhansen.xyz:2000/announce
 
 udp://tracker.internetwarriors.net:1337/announce
+
+udp://tracker.jae.moe:6969/announce
 
 udp://tracker.joybomb.tw:6969/announce
 
