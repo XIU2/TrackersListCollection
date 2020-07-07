@@ -1,3 +1,5 @@
+http://00.mercax.com:443/announce
+
 http://0205.uptm.ch:6969/announce
 
 http://104.238.198.186:8000/announce
@@ -46,8 +48,6 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://opentracker.i2p.rocks:6969/announce
 
 http://pow7.com:80/announce
@@ -67,8 +67,6 @@ http://secure.pow7.com:80/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -106,6 +104,8 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.internetwarriors.net:1337/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.kuroy.me:5944/announce
@@ -130,7 +130,11 @@ http://tracker.trackerfix.com:80/announce
 
 http://tracker.tyker.xyz:8080/announce
 
+http://tracker.uw0.xyz:6969/announce
+
 http://tracker.ygsub.com:6969/announce
+
+http://tracker.yoshi210.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
@@ -155,8 +159,6 @@ https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
-
-https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
 
@@ -185,6 +187,8 @@ https://tracker.shittyurl.org:443/announce
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.tamersunion.org:443/announce
+
+https://tracker.vectahosting.eu:2053/announce
 
 https://tracker6.lelux.fi:443/announce
 
@@ -340,9 +344,9 @@ udp://contra.sf.ca.us:6969/announce
 
 udp://covid-19-tracker.fastmask.shop:6969/announce
 
-udp://cutiegirl.ru:6969/announce
+udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
 
-udp://cx42light.cn:39652/announce
+udp://cutiegirl.ru:6969/announce
 
 udp://cyteam.ru:6969/announce
 
@@ -522,8 +526,6 @@ udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.jae.moe:6969/announce
 
-udp://tracker.joybomb.tw:6969/announce
-
 udp://tracker.kuroy.me:5944/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
@@ -587,8 +589,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.dler.org:2710/announce
-
-udp://tsundere.pw:6969/announce
 
 udp://u.wwwww.wtf:1/announce
 
