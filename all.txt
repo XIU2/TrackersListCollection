@@ -68,6 +68,8 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://t.overflow.biz:6969/announce
 
 http://t1.pow7.com:80/announce
@@ -103,8 +105,6 @@ http://tracker.dutchtracking.nl:80/announce
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
-
-http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -342,8 +342,6 @@ udp://code2chicken.nl:6969/announce
 
 udp://contra.sf.ca.us:6969/announce
 
-udp://covid-19-tracker.fastmask.shop:6969/announce
-
 udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
 
 udp://cutiegirl.ru:6969/announce
@@ -426,11 +424,7 @@ udp://opentracker.i2p.rocks:6969/announce
 
 udp://peerfect.org:6969/announce
 
-udp://pubilic-fucking-tracker-fuckyeah.chedz.net:6969/announce
-
 udp://public.popcorn-tracker.org:6969/announce
-
-udp://qg.lorzl.gq:2710/announce
 
 udp://retracker.akado-ural.ru:80/announce
 
