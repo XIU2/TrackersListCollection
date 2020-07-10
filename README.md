@@ -44,6 +44,8 @@ The more people use Tracker, the faster the BT download speed, **so please recom
  ***https://trackerslist.com/best.txt***  
 * **ALL Tracker list:** (305 trackers)  
  ***https://trackerslist.com/all.txt***  
+* **HTTP(S) Tracker list:** (000 trackers)  
+ ***https://trackerslist.com/http.txt***  
 
 ****
 
@@ -55,6 +57,8 @@ In order to facilitate adding Tracker to Aria2, I also made a Tracker list in Ar
  ***https://trackerslist.com/best_aria2.txt***  
 * **ALL Tracker list:**  
  ***https://trackerslist.com/all_aria2.txt***  
+* **HTTP(S) Tracker list:**  
+ ***https://trackerslist.com/http_aria2.txt***  
 
 ****
 

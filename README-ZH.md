@@ -54,6 +54,8 @@
  ***https://trackerslist.com/best.txt***  
 * **完整列表：**(305 个)  
  ***https://trackerslist.com/all.txt***  
+* **HTTP(S)列表：**(000 个)  
+ ***https://trackerslist.com/http.txt***  
 
 ****
 
@@ -65,6 +67,8 @@
  ***https://trackerslist.com/best_aria2.txt***  
 * **完整列表：**  
  ***https://trackerslist.com/all_aria2.txt***  
+* **HTTP(S)列表：**  
+ ***https://trackerslist.com/http_aria2.txt***  
 
 ****
 
