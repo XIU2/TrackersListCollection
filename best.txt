@@ -2,8 +2,6 @@ http://00.mercax.com:443/announce
 
 http://0205.uptm.ch:6969/announce
 
-http://ankeschwarz.net:6969/announce
-
 http://bobbialbano.com:6969/announce
 
 http://cocaine.ninja:6969/announce
