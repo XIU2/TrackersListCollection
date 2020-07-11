@@ -114,6 +114,8 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.moeking.me:6969/announce
 
+http://tracker.noobsubs.net:80/announce
+
 http://tracker.nyap2p.com:8080/announce
 
 http://tracker.opentrackr.org:1337/announce
@@ -132,8 +134,6 @@ http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
 
-http://tracker.yoshi210.com:6969/announce
-
 http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -143,8 +143,6 @@ http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-http://trun.tom.ru:80/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
@@ -183,8 +181,6 @@ https://tracker.lelux.fi:443/announce
 https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
-
-https://tracker.shittyurl.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
@@ -489,8 +485,6 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.casual.run:6969/announce
-
-udp://tracker.cloudfactory.org:6969/announce
 
 udp://tracker.coppersurfer.tk:6969/announce
 
