@@ -22,9 +22,9 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://aaa.army:8866/announce
 
-http://ankeschwarz.net:6969/announce
-
 http://atrack.pow7.com:80/announce
+
+http://bandari.org:6969/announce
 
 http://bobbialbano.com:6969/announce
 
@@ -68,15 +68,11 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://t.overflow.biz:6969/announce
 
 http://t1.pow7.com:80/announce
 
 http://t2.pow7.com:80/announce
-
-http://thetracker.org:80/announce
 
 http://torrent.nwps.ws:80/announce
 
@@ -114,8 +110,6 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.moeking.me:6969/announce
 
-http://tracker.noobsubs.net:80/announce
-
 http://tracker.nyap2p.com:8080/announce
 
 http://tracker.opentrackr.org:1337/announce
@@ -134,6 +128,8 @@ http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
 
+http://tracker.yoshi210.com:6969/announce
+
 http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -143,6 +139,8 @@ http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
+
+http://trun.tom.ru:80/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
@@ -157,8 +155,6 @@ https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
-
-https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
 
@@ -185,8 +181,6 @@ https://tracker.nitrix.me:443/announce
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.tamersunion.org:443/announce
-
-https://tracker.vectahosting.eu:2053/announce
 
 https://tracker6.lelux.fi:443/announce
 
@@ -344,8 +338,6 @@ udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
 
 udp://cutiegirl.ru:6969/announce
 
-udp://cyteam.ru:6969/announce
-
 udp://daveking.com:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
@@ -389,6 +381,8 @@ udp://inferno.demonoid.is:3391/announce
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
+
+udp://josueunhuit.com:6969/announce
 
 udp://kanal-4.de:6969/announce
 
@@ -537,6 +531,8 @@ udp://tracker.piratepublic.com:1337/announce
 udp://tracker.publicbt.com:80/announce
 
 udp://tracker.shkinev.me:6969/announce
+
+udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
