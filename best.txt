@@ -20,6 +20,8 @@ http://rt.tace.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://t.overflow.biz:6969/announce
 
 http://torrent.nwps.ws:80/announce
@@ -35,6 +37,8 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
+
+http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -206,6 +210,8 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
+udp://publictracker.xyz:6969/announce
+
 udp://retracker.akado-ural.ru:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -267,8 +273,6 @@ udp://tracker.evan.mn:6969/announce
 udp://tracker.fortu.io:6969/announce
 
 udp://tracker.gbitt.info:80/announce
-
-udp://tracker.leechers-paradise.org:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
 
