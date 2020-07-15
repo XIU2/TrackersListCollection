@@ -2,8 +2,6 @@ http://00.mercax.com:443/announce
 
 http://0205.uptm.ch:6969/announce
 
-http://bandari.org:6969/announce
-
 http://bobbialbano.com:6969/announce
 
 http://cocaine.ninja:6969/announce
@@ -53,8 +51,6 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -171,8 +167,6 @@ udp://git.vulnix.sh:6969/announce
 udp://gra1.joshkeegan.co.uk:6969/announce
 
 udp://handrew.me:6969/announce
-
-udp://inferno.demonoid.ch:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
@@ -315,6 +309,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://tv.axfree.net:6969/announce
 
 udp://u.wwwww.wtf:1/announce
 
