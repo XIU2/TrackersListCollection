@@ -8,8 +8,6 @@ http://bobbialbano.com:6969/announce
 
 http://buny.uk:6969/announce
 
-http://cocaine.ninja:6969/announce
-
 http://dn42.smrsh.net:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
@@ -56,8 +54,6 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://tracker4.itzmx.com:2710/announce
-
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -71,8 +67,6 @@ https://tracker.gbitt.info:443/announce
 https://tracker.hama3.net:443/announce
 
 https://tracker.imgoingto.icu:443/announce
-
-https://tracker.jae.moe:443/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -107,8 +101,6 @@ udp://adminion.n-blade.ru:6969/announce
 udp://api.bitumconference.ru:6969/announce
 
 udp://aruacfilmes.com.br:6969/announce
-
-udp://asger.xyz:6969/announce
 
 udp://benouworldtrip.fr:6969/announce
 
@@ -214,8 +206,6 @@ udp://opentracker.i2p.rocks:6969/announce
 
 udp://publictracker.xyz:6969/announce
 
-udp://qg.lorzl.gq:2710/announce
-
 udp://retracker.akado-ural.ru:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -270,13 +260,11 @@ udp://tracker.ds.is:6969/announce
 
 udp://tracker.dyne.org:6969/announce
 
-udp://tracker.evan.mn:6969/announce
-
 udp://tracker.fortu.io:6969/announce
 
 udp://tracker.gbitt.info:80/announce
 
-udp://tracker.internetwarriors.net:1337/announce
+udp://tracker.leechers-paradise.org:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
 
