@@ -20,8 +20,6 @@ http://rt.tace.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://t.overflow.biz:6969/announce
 
 http://torrent.nwps.ws:80/announce
@@ -59,8 +57,6 @@ http://vpn.flying-datacenter.de:6969/announce
 http://vps02.net.orel.ru:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.gbitt.info:443/announce
 
@@ -263,6 +259,8 @@ udp://tracker.dyne.org:6969/announce
 udp://tracker.fortu.io:6969/announce
 
 udp://tracker.gbitt.info:80/announce
+
+udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
