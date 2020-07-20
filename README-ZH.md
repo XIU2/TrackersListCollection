@@ -54,11 +54,7 @@
  ***https://trackerslist.com/best.txt***  
 * **完整列表：**(301 个)  
  ***https://trackerslist.com/all.txt***  
-<<<<<<< HEAD
-* **HTTP(S)列表：**(94 个)  
-=======
 * **HTTP(S)列表：**(100 个)  
->>>>>>> 0fbfb8ab60382178a7f15b54ce8dfaf3cebe61fe
  ***https://trackerslist.com/http.txt***  
 
 ****
