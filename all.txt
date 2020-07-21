@@ -66,6 +66,8 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://t.overflow.biz:6969/announce
 
 http://t1.pow7.com:80/announce
@@ -140,11 +142,13 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://trun.tom.ru:80/announce
+http://tracker4.itzmx.com:2710/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
+
+http://www.loushao.net:8080/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -160,11 +164,11 @@ https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
 
-https://tr.ready4.icu:443/announce
-
 https://tracker.bt-hash.com:443/announce
 
 https://tracker.gbitt.info:443/announce
+
+https://tracker.hama3.net:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -510,6 +514,8 @@ udp://tracker.iamhansen.xyz:2000/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
+udp://tracker.jae.moe:6969/announce
+
 udp://tracker.kuroy.me:5944/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
@@ -585,6 +591,8 @@ udp://ultra.zt.ua:6969/announce
 udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://vibe.community:6969/announce
+
+udp://www.loushao.net:8080/announce
 
 udp://www.midea123.z-media.com.cn:6969/announce
 
