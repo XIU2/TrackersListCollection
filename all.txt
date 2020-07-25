@@ -24,6 +24,8 @@ http://aaa.army:8866/announce
 
 http://atrack.pow7.com:80/announce
 
+http://aws1.millegrilles.com:6969/announce
+
 http://bandari.org:6969/announce
 
 http://bobbialbano.com:6969/announce
@@ -126,11 +128,11 @@ http://tracker.trackerfix.com:80/announce
 
 http://tracker.tyker.xyz:8080/announce
 
+http://tracker.uw0.xyz:6969/announce
+
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
-
-http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -142,9 +144,7 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://tracker4.itzmx.com:2710/announce
-
-http://tracker6.emce.org:12345/announce
+http://trun.tom.ru:80/announce
 
 http://update.cctvqueretaro.com:443/announce
 
@@ -164,9 +164,9 @@ https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
 
-https://open.kickasstracker.com:443/announce
-
 https://opentracker.acgnx.se:443/announce
+
+https://tr.ready4.icu:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
@@ -519,8 +519,6 @@ udp://tracker.halfchub.club:6969/announce
 udp://tracker.iamhansen.xyz:2000/announce
 
 udp://tracker.internetwarriors.net:1337/announce
-
-udp://tracker.jae.moe:6969/announce
 
 udp://tracker.kuroy.me:5944/announce
 
