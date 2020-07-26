@@ -14,13 +14,9 @@ http://h4.trakx.nibba.trade:80/announce
 
 http://ns3107607.ip-54-36-126.eu:6969/announce
 
-http://retracker.sevstar.net:2710/announce
-
 http://rt.tace.ru:80/announce
 
 http://share.camoe.cn:8080/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -56,19 +52,17 @@ http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
-http://update.cctvqueretaro.com:443/announce
-
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
 https://1337.abcvg.info:443/announce
 
+https://opentracker.skynetcloud.site:8443/announce
+
 https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
-
-https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
@@ -134,6 +128,8 @@ udp://daveking.com:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
 
+udp://dns.cctvqueretaro.com:53/announce
+
 udp://dpiui.reedlan.com:6969/announce
 
 udp://drumkitx.com:6969/announce
@@ -149,8 +145,6 @@ udp://engplus.ru:6969/announce
 udp://exodus.desync.com:6969/announce
 
 udp://exponage-api.com:6969/announce
-
-udp://f68.n5022.z2.binkp.net:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
@@ -233,8 +227,6 @@ udp://teamspeak.value-wolf.org:6969/announce
 udp://thetracker.org:80/announce
 
 udp://threads.run:6969/announce
-
-udp://tr2.ysagin.top:2710/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
