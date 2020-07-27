@@ -24,8 +24,6 @@ http://aaa.army:8866/announce
 
 http://atrack.pow7.com:80/announce
 
-http://aws1.millegrilles.com:6969/announce
-
 http://bandari.org:6969/announce
 
 http://bobbialbano.com:6969/announce
@@ -46,13 +44,9 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://open.touki.ru:80/announce.php
 
 http://opentracker.i2p.rocks:6969/announce
-
-http://p4p.arenabg.com:1337/announce
 
 http://pow7.com:80/announce
 
@@ -102,6 +96,8 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.bz:80/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -124,9 +120,13 @@ http://tracker.publicbt.com:80/announce
 
 http://tracker.sloppyta.co:80/announce
 
+http://tracker.tfile.co:80/announce
+
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.tyker.xyz:8080/announce
+
+http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
 
@@ -144,11 +144,11 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
+http://trun.tom.ru:80/announce
+
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
-
-http://www.loushao.net:8080/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -164,8 +164,6 @@ https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
 
-https://opentracker.skynetcloud.site:8443/announce
-
 https://tracker.bt-hash.com:443/announce
 
 https://tracker.gbitt.info:443/announce
@@ -179,6 +177,8 @@ https://tracker.jae.moe:443/announce
 https://tracker.lelux.fi:443/announce
 
 https://tracker.nitrix.me:443/announce
+
+https://tracker.skynetcloud.site:8443/announce
 
 https://tracker.sloppyta.co:443/announce
 

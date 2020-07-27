@@ -2,8 +2,6 @@ http://00.mercax.com:443/announce
 
 http://0205.uptm.ch:6969/announce
 
-http://aws1.millegrilles.com:6969/announce
-
 http://bandari.org:6969/announce
 
 http://bobbialbano.com:6969/announce
@@ -50,21 +48,19 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://tracker4.itzmx.com:2710/announce
-
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
 https://1337.abcvg.info:443/announce
 
-https://opentracker.skynetcloud.site:8443/announce
-
 https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.nitrix.me:443/announce
+
+https://tracker.skynetcloud.site:8443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -93,6 +89,8 @@ udp://adminion.n-blade.ru:6969/announce
 udp://api.bitumconference.ru:6969/announce
 
 udp://aruacfilmes.com.br:6969/announce
+
+udp://asger.xyz:6969/announce
 
 udp://benouworldtrip.fr:6969/announce
 
@@ -242,6 +240,8 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
+udp://tracker.blacksparrowmedia.net:6969/announce
+
 udp://tracker.casual.run:6969/announce
 
 udp://tracker.coppersurfer.tk:6969/announce
@@ -262,8 +262,6 @@ udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
-udp://tracker.lelux.fi:6969/announce
-
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.openbittorrent.com:80/announce
@@ -273,8 +271,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.publicbt.com:80/announce
 
 udp://tracker.shkinev.me:6969/announce
-
-udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
