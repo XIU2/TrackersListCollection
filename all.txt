@@ -120,13 +120,9 @@ http://tracker.publicbt.com:80/announce
 
 http://tracker.sloppyta.co:80/announce
 
-http://tracker.tfile.co:80/announce
-
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.tyker.xyz:8080/announce
-
-http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
 
@@ -163,6 +159,8 @@ https://aaa.army:8866/announce
 https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
+
+https://tr.ready4.icu:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
@@ -300,15 +298,11 @@ udp://api.bitumconference.ru:6969/announce
 
 udp://aruacfilmes.com.br:6969/announce
 
-udp://asger.xyz:6969/announce
-
 udp://benouworldtrip.fr:6969/announce
 
 udp://bitsparadise.info:6969/announce
 
 udp://blokas.io:6969/announce
-
-udp://bms-hosxp.com:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -538,9 +532,9 @@ udp://tracker.piratepublic.com:1337/announce
 
 udp://tracker.publicbt.com:80/announce
 
-udp://tracker.shkinev.me:6969/announce
+udp://tracker.publictracker.xyz:6969/announce
 
-udp://tracker.skynetcloud.site:6969/announce
+udp://tracker.shkinev.me:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 

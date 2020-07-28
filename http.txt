@@ -120,13 +120,9 @@ http://tracker.publicbt.com:80/announce
 
 http://tracker.sloppyta.co:80/announce
 
-http://tracker.tfile.co:80/announce
-
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.tyker.xyz:8080/announce
-
-http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
 
@@ -163,6 +159,8 @@ https://aaa.army:8866/announce
 https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
+
+https://tr.ready4.icu:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
