@@ -108,8 +108,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.kuroy.me:5944/announce
 
-http://tracker.lelux.fi:80/announce
-
 http://tracker.moeking.me:6969/announce
 
 http://tracker.nyap2p.com:8080/announce
@@ -120,9 +118,13 @@ http://tracker.publicbt.com:80/announce
 
 http://tracker.sloppyta.co:80/announce
 
+http://tracker.torrentyorg.pl:80/announce
+
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.tyker.xyz:8080/announce
+
+http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
 
@@ -140,11 +142,11 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://trun.tom.ru:80/announce
-
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
+
+http://www.loushao.net:8080/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -159,8 +161,6 @@ https://aaa.army:8866/announce
 https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
@@ -304,6 +304,8 @@ udp://bitsparadise.info:6969/announce
 
 udp://blokas.io:6969/announce
 
+udp://bms-hosxp.com:6969/announce
+
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.54new.com:8080/announce
@@ -317,8 +319,6 @@ udp://cdn-1.gamecoast.org:6969/announce
 udp://cdn-2.gamecoast.org:6969/announce
 
 udp://chanchan.uchuu.co.uk:6969/announce
-
-udp://chihaya.de:6969/announce
 
 udp://chihaya.toss.li:9696/announce
 
@@ -492,6 +492,8 @@ udp://tracker.ds.is:6969/announce
 
 udp://tracker.dyne.org:6969/announce
 
+udp://tracker.e-utp.net:6969/announce
+
 udp://tracker.eddie4.nl:6969/announce
 
 udp://tracker.ex.ua:80/announce
@@ -518,8 +520,6 @@ udp://tracker.kuroy.me:5944/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
-udp://tracker.lelux.fi:6969/announce
-
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.open-internet.nl:6969/announce
@@ -535,6 +535,8 @@ udp://tracker.publicbt.com:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.shkinev.me:6969/announce
+
+udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
@@ -589,6 +591,8 @@ udp://ultra.zt.ua:6969/announce
 udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://vibe.community:6969/announce
+
+udp://www.loushao.net:8080/announce
 
 udp://www.midea123.z-media.com.cn:6969/announce
 

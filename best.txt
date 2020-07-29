@@ -12,9 +12,13 @@ http://h4.trakx.nibba.trade:80/announce
 
 http://ns3107607.ip-54-36-126.eu:6969/announce
 
+http://retracker.sevstar.net:2710/announce
+
 http://rt.tace.ru:80/announce
 
 http://share.camoe.cn:8080/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -47,6 +51,8 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
@@ -96,6 +102,8 @@ udp://bitsparadise.info:6969/announce
 
 udp://blokas.io:6969/announce
 
+udp://bms-hosxp.com:6969/announce
+
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
@@ -107,8 +115,6 @@ udp://cdn-1.gamecoast.org:6969/announce
 udp://cdn-2.gamecoast.org:6969/announce
 
 udp://chanchan.uchuu.co.uk:6969/announce
-
-udp://chihaya.de:6969/announce
 
 udp://code2chicken.nl:6969/announce
 
@@ -240,8 +246,6 @@ udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.casual.run:6969/announce
 
-udp://tracker.coppersurfer.tk:6969/announce
-
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.org:6969/announce
@@ -249,6 +253,8 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.ds.is:6969/announce
 
 udp://tracker.dyne.org:6969/announce
+
+udp://tracker.e-utp.net:6969/announce
 
 udp://tracker.fortu.io:6969/announce
 

@@ -108,8 +108,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.kuroy.me:5944/announce
 
-http://tracker.lelux.fi:80/announce
-
 http://tracker.moeking.me:6969/announce
 
 http://tracker.nyap2p.com:8080/announce
@@ -120,9 +118,13 @@ http://tracker.publicbt.com:80/announce
 
 http://tracker.sloppyta.co:80/announce
 
+http://tracker.torrentyorg.pl:80/announce
+
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.tyker.xyz:8080/announce
+
+http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
 
@@ -140,11 +142,11 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://trun.tom.ru:80/announce
-
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
+
+http://www.loushao.net:8080/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -159,8 +161,6 @@ https://aaa.army:8866/announce
 https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
