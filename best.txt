@@ -2,8 +2,6 @@ http://00.mercax.com:443/announce
 
 http://0205.uptm.ch:6969/announce
 
-http://bandari.org:6969/announce
-
 http://bobbialbano.com:6969/announce
 
 http://dn42.smrsh.net:6969/announce
@@ -42,6 +40,8 @@ http://tracker.nyap2p.com:8080/announce
 
 http://tracker.publicbt.com:80/announce
 
+http://tracker.tfile.co:80/announce
+
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.tyker.xyz:8080/announce
@@ -51,8 +51,6 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-http://tracker4.itzmx.com:2710/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
@@ -97,8 +95,6 @@ udp://api.bitumconference.ru:6969/announce
 udp://aruacfilmes.com.br:6969/announce
 
 udp://benouworldtrip.fr:6969/announce
-
-udp://bitsparadise.info:6969/announce
 
 udp://blokas.io:6969/announce
 
@@ -245,6 +241,8 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.casual.run:6969/announce
+
+udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
