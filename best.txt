@@ -40,8 +40,6 @@ http://tracker.nyap2p.com:8080/announce
 
 http://tracker.publicbt.com:80/announce
 
-http://tracker.tfile.co:80/announce
-
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.tyker.xyz:8080/announce
@@ -93,6 +91,8 @@ udp://adminion.n-blade.ru:6969/announce
 udp://api.bitumconference.ru:6969/announce
 
 udp://aruacfilmes.com.br:6969/announce
+
+udp://asger.xyz:6969/announce
 
 udp://benouworldtrip.fr:6969/announce
 
@@ -301,6 +301,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://u.wwwww.wtf:1/announce
 
