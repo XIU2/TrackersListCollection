@@ -8,6 +8,8 @@ http://1337.abcvg.info:80/announce
 
 http://178.175.143.27:80/announce
 
+http://62.210.202.61:80/announce
+
 http://78.30.254.12:2710/announce
 
 http://91.217.91.21:3218/announce
@@ -114,8 +116,6 @@ http://tracker.publicbt.com:80/announce
 
 http://tracker.sloppyta.co:80/announce
 
-http://tracker.torrentyorg.pl:80/announce
-
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.tyker.xyz:8080/announce
@@ -125,8 +125,6 @@ http://tracker.uw0.xyz:6969/announce
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
-
-http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -138,9 +136,13 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
+http://trun.tom.ru:80/announce
+
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
+
+http://www.loushao.net:8080/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -368,8 +370,6 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
-udp://josueunhuit.com:6969/announce
-
 udp://kanal-4.de:6969/announce
 
 udp://kanbooru.com:6969/announce
@@ -506,6 +506,8 @@ udp://tracker.iamhansen.xyz:2000/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
+udp://tracker.jae.moe:6969/announce
+
 udp://tracker.kuroy.me:5944/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
@@ -585,6 +587,8 @@ udp://ultra.zt.ua:6969/announce
 udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://vibe.community:6969/announce
+
+udp://www.loushao.net:8080/announce
 
 udp://www.midea123.z-media.com.cn:6969/announce
 

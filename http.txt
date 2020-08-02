@@ -8,6 +8,8 @@ http://1337.abcvg.info:80/announce
 
 http://178.175.143.27:80/announce
 
+http://62.210.202.61:80/announce
+
 http://78.30.254.12:2710/announce
 
 http://91.217.91.21:3218/announce
@@ -114,8 +116,6 @@ http://tracker.publicbt.com:80/announce
 
 http://tracker.sloppyta.co:80/announce
 
-http://tracker.torrentyorg.pl:80/announce
-
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.tyker.xyz:8080/announce
@@ -125,8 +125,6 @@ http://tracker.uw0.xyz:6969/announce
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
-
-http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -138,9 +136,13 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
+http://trun.tom.ru:80/announce
+
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
+
+http://www.loushao.net:8080/announce
 
 http://www.wareztorrent.com:80/announce
 
