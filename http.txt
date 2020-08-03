@@ -8,8 +8,6 @@ http://1337.abcvg.info:80/announce
 
 http://178.175.143.27:80/announce
 
-http://62.210.202.61:80/announce
-
 http://78.30.254.12:2710/announce
 
 http://91.217.91.21:3218/announce
@@ -44,6 +42,8 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://open.touki.ru:80/announce.php
 
 http://opentracker.i2p.rocks:6969/announce
@@ -66,13 +66,13 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://t.overflow.biz:6969/announce
 
 http://t1.pow7.com:80/announce
 
 http://t2.pow7.com:80/announce
-
-http://thetracker.org:80/announce
 
 http://torrent.nwps.ws:80/announce
 
@@ -154,11 +154,11 @@ https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
 
+https://atrack-asia-s1.114913.xyz:443/announce
+
 https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
