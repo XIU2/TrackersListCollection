@@ -14,8 +14,6 @@ http://rt.tace.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://torrent.nwps.ws:80/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
@@ -34,7 +32,7 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.nyap2p.com:8080/announce
 
-http://tracker.publicbt.com:80/announce
+http://tracker.tfile.co:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
@@ -59,8 +57,6 @@ https://tracker.nitrix.me:443/announce
 https://tracker.skynetcloud.site:8443/announce
 
 https://tracker.tamersunion.org:443/announce
-
-https://tracker6.lelux.fi:443/announce
 
 https://trakx.herokuapp.com:443/announce
 
@@ -91,6 +87,8 @@ udp://blokas.io:6969/announce
 udp://bms-hosxp.com:6969/announce
 
 udp://bt1.archive.org:6969/announce
+
+udp://bt2.archive.org:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
@@ -204,6 +202,8 @@ udp://tracker-v6.zooki.xyz:6969/announce
 
 udp://tracker.0o.is:6969/announce
 
+udp://tracker.archlinux.org.theoks.net:6969/announce
+
 udp://tracker.army:6969/announce
 
 udp://tracker.beeimg.com:6969/announce
@@ -224,17 +224,13 @@ udp://tracker.dyne.org:6969/announce
 
 udp://tracker.gbitt.info:80/announce
 
-udp://tracker.internetwarriors.net:1337/announce
-
-udp://tracker.leechers-paradise.org:6969/announce
-
 udp://tracker.moeking.me:6969/announce
+
+udp://tracker.open-internet.nl:6969/announce
 
 udp://tracker.openbittorrent.com:80/announce
 
 udp://tracker.opentrackr.org:1337/announce
-
-udp://tracker.publicbt.com:80/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
