@@ -22,11 +22,17 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://aaa.army:8866/announce
 
+http://ankeschwarz.net:6969/announce
+
 http://atrack.pow7.com:80/announce
+
+http://bandari.org:6969/announce
 
 http://bobbialbano.com:6969/announce
 
 http://bt.pusacg.org:8080/announce
+
+http://derpyradio.net:6969/announce
 
 http://dn42.smrsh.net:6969/announce
 
@@ -64,6 +70,8 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.jaekr.sh:6969/announce
+
 http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
@@ -96,8 +104,6 @@ http://tracker.bz:80/announce
 
 http://tracker.dutchtracking.nl:80/announce
 
-http://tracker.electro-torrent.pl:80/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -110,21 +116,21 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.moeking.me:6969/announce
 
+http://tracker.noobsubs.net:80/announce
+
 http://tracker.nyap2p.com:8080/announce
 
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.sloppyta.co:80/announce
 
-http://tracker.tfile.co:80/announce
+http://tracker.torrent.zond.org:80/announce
 
 http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.tyker.xyz:8080/announce
-
-http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
 
@@ -136,17 +142,15 @@ http://tracker.zum.bi:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-http://tracker2.dler.org:80/announce
-
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://trun.tom.ru:80/announce
-
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
+
+http://vps2.avc.cx:7171/announce
 
 http://www.loushao.net:8080/announce
 
@@ -161,6 +165,8 @@ https://3.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 
 https://atrack-asia-s1.114913.xyz:443/announce
+
+https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
 
@@ -185,8 +191,6 @@ https://tracker.skynetcloud.site:8443/announce
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.tamersunion.org:443/announce
-
-https://tracker6.lelux.fi:443/announce
 
 https://trakx.herokuapp.com:443/announce
 
@@ -294,9 +298,13 @@ udp://[2a04:c44:e00:32e0:4cf:6aff:fe00:aa1]:6969/announce
 
 udp://aaa.army:8866/announce
 
+udp://adm.category5.tv:6969/announce
+
 udp://admin.videoenpoche.info:6969/announce
 
 udp://adminion.n-blade.ru:6969/announce
+
+udp://anidex.moe:6969/announce
 
 udp://api.bitumconference.ru:6969/announce
 
@@ -304,11 +312,19 @@ udp://aruacfilmes.com.br:6969/announce
 
 udp://asger.xyz:6969/announce
 
+udp://bclearning.top:6969/announce
+
 udp://benouworldtrip.fr:6969/announce
+
+udp://bioquantum.co.za:6969/announce
+
+udp://bitsparadise.info:6969/announce
 
 udp://blokas.io:6969/announce
 
 udp://bms-hosxp.com:6969/announce
+
+udp://bt.firebit.org:2710/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -316,7 +332,11 @@ udp://bt2.54new.com:8080/announce
 
 udp://bt2.archive.org:6969/announce
 
+udp://btt.royalquest.ru:2710/announce
+
 udp://bubu.mapfactor.com:6969/announce
+
+udp://camera.lei001.com:6969/announce
 
 udp://cdn-1.gamecoast.org:6969/announce
 
@@ -327,6 +347,8 @@ udp://chanchan.uchuu.co.uk:6969/announce
 udp://chihaya.toss.li:9696/announce
 
 udp://code2chicken.nl:6969/announce
+
+udp://concen.org:6969/announce
 
 udp://contra.sf.ca.us:6969/announce
 
@@ -356,11 +378,15 @@ udp://exodus.desync.com:6969/announce
 
 udp://exponage-api.com:6969/announce
 
+udp://f68.n5022.z2.binkp.net:6969/announce
+
 udp://fe.dealclub.de:6969/announce
 
 udp://forever-tracker.zooki.xyz:6969/announce
 
 udp://forever.publictracker.xyz:6969/announce
+
+udp://free-tracker.zooki.xyz:6969/announce
 
 udp://git.vulnix.sh:6969/announce
 
@@ -373,6 +399,8 @@ udp://inferno.demonoid.is:3391/announce
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
+
+udp://josueunhuit.com:6969/announce
 
 udp://kanal-4.de:6969/announce
 
@@ -396,13 +424,21 @@ udp://mts.tvbit.co:6969/announce
 
 udp://nagios.tks.sumy.ua:80/announce
 
+udp://ns-1.x-fins.com:6969/announce
+
+udp://ns389251.ovh.net:6969/announce
+
 udp://open.demonii.com:1337/announce
+
+udp://open.lolicon.eu:7777/announce
 
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
+
+udp://p4p.arenabg.ch:1337/announce
 
 udp://peerfect.org:6969/announce
 
@@ -464,6 +500,8 @@ udp://tracker-v6.zooki.xyz:6969/announce
 
 udp://tracker.0o.is:6969/announce
 
+udp://tracker.3304399.com:6969/announce
+
 udp://tracker.aletorrenty.pl:2710/announce
 
 udp://tracker.archlinux.org.theoks.net:6969/announce
@@ -477,6 +515,8 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
+
+udp://tracker.burncycl.net:6969/announce
 
 udp://tracker.casual.run:6969/announce
 
@@ -510,7 +550,7 @@ udp://tracker.iamhansen.xyz:2000/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
-udp://tracker.jae.moe:6969/announce
+udp://tracker.kali.org:6969/announce
 
 udp://tracker.kuroy.me:5944/announce
 
@@ -520,8 +560,6 @@ udp://tracker.moeking.me:6969/announce
 
 udp://tracker.open-internet.nl:6969/announce
 
-udp://tracker.openbittorrent.com:80/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.piratepublic.com:1337/announce
@@ -529,8 +567,6 @@ udp://tracker.piratepublic.com:1337/announce
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.shkinev.me:6969/announce
-
-udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
@@ -578,6 +614,8 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.dler.org:2710/announce
 
+udp://tsundere.pw:6969/announce
+
 udp://u.wwwww.wtf:1/announce
 
 udp://ultra.zt.ua:6969/announce
@@ -585,6 +623,10 @@ udp://ultra.zt.ua:6969/announce
 udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://vibe.community:6969/announce
+
+udp://vps2.avc.cx:7171/announce
+
+udp://wassermann.online:6969/announce
 
 udp://www.loushao.net:8080/announce
 
