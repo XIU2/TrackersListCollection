@@ -14,6 +14,8 @@ http://rt.tace.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://torrent.nwps.ws:80/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
@@ -31,8 +33,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.nyap2p.com:8080/announce
-
-http://tracker.tfile.co:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
@@ -83,10 +83,6 @@ udp://benouworldtrip.fr:6969/announce
 udp://blokas.io:6969/announce
 
 udp://bms-hosxp.com:6969/announce
-
-udp://bt1.archive.org:6969/announce
-
-udp://bt2.archive.org:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
@@ -210,8 +206,6 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.casual.run:6969/announce
-
 udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
@@ -222,7 +216,11 @@ udp://tracker.ds.is:6969/announce
 
 udp://tracker.dyne.org:6969/announce
 
+udp://tracker.fileparadise.in:1337/announce
+
 udp://tracker.gbitt.info:80/announce
+
+udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
