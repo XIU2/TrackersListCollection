@@ -30,8 +30,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.nyap2p.com:8080/announce
 
-http://tracker.tfile.co:80/announce
-
 http://tracker.trackerfix.com:80/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -180,8 +178,6 @@ udp://retracker.lanta-net.ru:2710/announce
 
 udp://retracker.local.msn-net.ru:6969/announce
 
-udp://rutorrent.frontline-mod.com:6969/announce
-
 udp://sd-161673.dedibox.fr:6969/announce
 
 udp://storage.groupees.com:6969/announce
@@ -233,8 +229,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.shkinev.me:6969/announce
-
-udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
