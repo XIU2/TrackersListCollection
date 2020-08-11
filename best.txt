@@ -14,8 +14,6 @@ http://t.nyaatracker.com:80/announce
 
 http://torrent.nwps.ws:80/announce
 
-http://torrenttracker.nwc.acsalaska.net:6969/announce
-
 http://tr.cili001.com:8070/announce
 
 http://tracker.anonwebz.xyz:8080/announce
@@ -211,8 +209,6 @@ udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.ds.is:6969/announce
-
-udp://tracker.dyne.org:6969/announce
 
 udp://tracker.fileparadise.in:1337/announce
 
