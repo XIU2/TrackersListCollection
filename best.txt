@@ -28,6 +28,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.nyap2p.com:8080/announce
 
+http://tracker.tfile.co:80/announce
+
 http://tracker.trackerfix.com:80/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -226,6 +228,8 @@ udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.shkinev.me:6969/announce
 
+udp://tracker.skynetcloud.site:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.uw0.xyz:6969/announce
@@ -239,6 +243,8 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.zooki.xyz:6969/announce
+
+udp://tracker.zum.bi:6969/announce
 
 udp://tracker0.ufibox.com:6969/announce
 
@@ -259,7 +265,5 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 udp://vibe.community:6969/announce
 
 udp://vps2.avc.cx:7171/announce
-
-udp://z.mercax.com:53/announce
 
 udp://zephir.monocul.us:6969/announce
