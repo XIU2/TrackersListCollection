@@ -68,8 +68,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.jaekr.sh:6969/announce
-
 http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
@@ -166,8 +164,6 @@ https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
 
-https://open.kickasstracker.com:443/announce
-
 https://opentracker.acgnx.se:443/announce
 
 https://publictracker.pp.ua:443/announce
@@ -179,8 +175,6 @@ https://tracker.gbitt.info:443/announce
 https://tracker.hama3.net:443/announce
 
 https://tracker.imgoingto.icu:443/announce
-
-https://tracker.jae.moe:443/announce
 
 https://tracker.lelux.fi:443/announce
 
