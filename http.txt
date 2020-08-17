@@ -46,7 +46,11 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.touki.ru:80/announce.php
+
 http://opentracker.i2p.rocks:6969/announce
+
+http://p4p.arenabg.com:1337/announce
 
 http://pow7.com:80/announce
 
@@ -55,8 +59,6 @@ http://retracker.hotplug.ru:2710/announce
 http://retracker.krs-ix.ru:80/announce
 
 http://retracker.sevstar.net:2710/announce
-
-http://retracker.spark-rostov.ru:80/announce
 
 http://rt.tace.ru:80/announce
 
@@ -120,17 +122,13 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.sloppyta.co:80/announce
 
-http://tracker.tfile.co:80/announce
-
-http://tracker.torrentyorg.pl:80/announce
-
 http://tracker.trackerfix.com:80/announce
-
-http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
+
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -142,15 +140,11 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://trun.tom.ru:80/announce
-
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
 http://vps2.avc.cx:7171/announce
-
-http://www.loushao.net:8080/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -162,15 +156,19 @@ https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
 
+https://atrack-asia-e2.120181311.xyz:443/announce
+
+https://atrack-asia-s1.120181311.xyz:443/announce
+
 https://atrack-eu-w1.120181311.xyz:443/announce
+
+https://atrack-us-c1.120181311.xyz:443/announce
 
 https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
 
 https://publictracker.pp.ua:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.bt-hash.com:443/announce
 

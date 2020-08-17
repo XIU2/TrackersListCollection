@@ -46,7 +46,11 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.touki.ru:80/announce.php
+
 http://opentracker.i2p.rocks:6969/announce
+
+http://p4p.arenabg.com:1337/announce
 
 http://pow7.com:80/announce
 
@@ -55,8 +59,6 @@ http://retracker.hotplug.ru:2710/announce
 http://retracker.krs-ix.ru:80/announce
 
 http://retracker.sevstar.net:2710/announce
-
-http://retracker.spark-rostov.ru:80/announce
 
 http://rt.tace.ru:80/announce
 
@@ -120,17 +122,13 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.sloppyta.co:80/announce
 
-http://tracker.tfile.co:80/announce
-
-http://tracker.torrentyorg.pl:80/announce
-
 http://tracker.trackerfix.com:80/announce
-
-http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
+
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -142,15 +140,11 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://trun.tom.ru:80/announce
-
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
 http://vps2.avc.cx:7171/announce
-
-http://www.loushao.net:8080/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -162,15 +156,19 @@ https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
 
+https://atrack-asia-e2.120181311.xyz:443/announce
+
+https://atrack-asia-s1.120181311.xyz:443/announce
+
 https://atrack-eu-w1.120181311.xyz:443/announce
+
+https://atrack-us-c1.120181311.xyz:443/announce
 
 https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
 
 https://publictracker.pp.ua:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
@@ -352,6 +350,8 @@ udp://concen.org:6969/announce
 
 udp://contra.sf.ca.us:6969/announce
 
+udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
+
 udp://cutiegirl.ru:6969/announce
 
 udp://daveking.com:6969/announce
@@ -398,8 +398,6 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
-udp://josueunhuit.com:6969/announce
-
 udp://kanal-4.de:6969/announce
 
 udp://kawaii.social:6969/announce
@@ -436,11 +434,11 @@ udp://opentracker.arg.bz:6969/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
+udp://p4p.arenabg.ch:1337/announce
+
 udp://peerfect.org:6969/announce
 
 udp://public-tracker.zooki.xyz:6969/announce
-
-udp://public.popcorn-tracker.org:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
@@ -526,8 +524,6 @@ udp://tracker.gbitt.info:80/announce
 
 udp://tracker.grepler.com:6969/announce
 
-udp://tracker.halfchub.club:6969/announce
-
 udp://tracker.iamhansen.xyz:2000/announce
 
 udp://tracker.internetwarriors.net:1337/announce
@@ -545,8 +541,6 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.open-internet.nl:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
-
-udp://tracker.piratepublic.com:1337/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
@@ -600,8 +594,6 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.dler.org:2710/announce
 
-udp://tsundere.pw:6969/announce
-
 udp://u.wwwww.wtf:1/announce
 
 udp://ultra.zt.ua:6969/announce
@@ -614,6 +606,8 @@ udp://vps2.avc.cx:7171/announce
 
 udp://wassermann.online:6969/announce
 
+udp://wood.goandplay.fun:25824/announce
+
 udp://www.midea123.z-media.com.cn:6969/announce
 
 udp://z.mercax.com:53/announce
@@ -621,5 +615,3 @@ udp://z.mercax.com:53/announce
 udp://zephir.monocul.us:6969/announce
 
 udp://zer0day.ch:1337/announce
-
-udp://zer0day.to:1337/announce
