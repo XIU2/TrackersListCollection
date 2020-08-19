@@ -6,6 +6,10 @@ http://h4.trakx.nibba.trade:80/announce
 
 http://ipv6-publictracker.zooki.xyz:6969/announce
 
+http://retracker.sevstar.net:2710/announce
+
+http://rt.tace.ru:80/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
@@ -136,6 +140,8 @@ udp://forever-tracker.zooki.xyz:6969/announce
 
 udp://forever.publictracker.xyz:6969/announce
 
+udp://free1.mchost.cc:26137/announce
+
 udp://git.vulnix.sh:6969/announce
 
 udp://gra1.joshkeegan.co.uk:6969/announce
@@ -151,6 +157,8 @@ udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://kanal-4.de:6969/announce
 
 udp://kawaii.social:6969/announce
+
+udp://koli.services:6969/announce
 
 udp://line-net.ru:6969/announce
 
@@ -182,7 +190,13 @@ udp://publictracker.xyz:6969/announce
 
 udp://retracker.akado-ural.ru:80/announce
 
+udp://retracker.hotplug.ru:2710/announce
+
+udp://retracker.lanta-net.ru:2710/announce
+
 udp://retracker.local.msn-net.ru:6969/announce
+
+udp://rutorrent.frontline-mod.com:6969/announce
 
 udp://sd-161673.dedibox.fr:6969/announce
 
@@ -212,13 +226,19 @@ udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.ds.is:6969/announce
+
+udp://tracker.dyne.org:6969/announce
 
 udp://tracker.fileparadise.in:1337/announce
 
 udp://tracker.gbitt.info:80/announce
 
 udp://tracker.internetwarriors.net:1337/announce
+
+udp://tracker.leechers-paradise.org:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 

@@ -24,8 +24,6 @@ http://ankeschwarz.net:6969/announce
 
 http://atrack.pow7.com:80/announce
 
-http://bandari.org:6969/announce
-
 http://bobbialbano.com:6969/announce
 
 http://bt.pusacg.org:8080/announce
@@ -68,8 +66,6 @@ http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://t.overflow.biz:6969/announce
-
 http://t1.pow7.com:80/announce
 
 http://t2.pow7.com:80/announce
@@ -81,6 +77,8 @@ http://torrentsmd.com:8080/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tr.cili001.com:8070/announce
+
+http://tr.kxmp.cf:80/announce
 
 http://tracker.anonwebz.xyz:8080/announce
 
@@ -118,13 +116,15 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.sloppyta.co:80/announce
 
-http://tracker.tfile.co:80/announce
-
 http://tracker.trackerfix.com:80/announce
+
+http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
+
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -136,7 +136,7 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://trun.tom.ru:80/announce
+http://tracker4.itzmx.com:2710/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
@@ -145,8 +145,6 @@ http://vps02.net.orel.ru:80/announce
 http://vps2.avc.cx:7171/announce
 
 http://www.loushao.net:8080/announce
-
-http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -172,8 +170,6 @@ https://opentracker.acgnx.se:443/announce
 
 https://publictracker.pp.ua:443/announce
 
-https://tr.ready4.icu:443/announce
-
 https://tracker.bt-hash.com:443/announce
 
 https://tracker.gbitt.info:443/announce
@@ -186,8 +182,6 @@ https://tracker.lelux.fi:443/announce
 
 https://tracker.nitrix.me:443/announce
 
-https://tracker.skynetcloud.site:8443/announce
-
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -195,5 +189,3 @@ https://tracker.tamersunion.org:443/announce
 https://trakx.herokuapp.com:443/announce
 
 https://w.wwwww.wtf:443/announce
-
-https://www.wareztorrent.com:443/announce
