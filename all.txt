@@ -6,6 +6,8 @@ http://1337.abcvg.info:80/announce
 
 http://178.175.143.27:80/announce
 
+http://62.210.202.61:80/announce
+
 http://78.30.254.12:2710/announce
 
 http://91.217.91.21:3218/announce
@@ -44,10 +46,6 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
-
-http://open.touki.ru:80/announce.php
-
 http://opentracker.i2p.rocks:6969/announce
 
 http://pow7.com:80/announce
@@ -82,6 +80,8 @@ http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tr.cili001.com:8070/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tracker.anonwebz.xyz:8080/announce
 
 http://tracker.birkenwald.de:6969/announce
@@ -95,8 +95,6 @@ http://tracker.bz:80/announce
 http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
-
-http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -120,9 +118,11 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.sloppyta.co:80/announce
 
-http://tracker.torrentyorg.pl:80/announce
+http://tracker.tfile.co:80/announce
 
 http://tracker.trackerfix.com:80/announce
+
+http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
 
@@ -140,8 +140,6 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://trun.tom.ru:80/announce
-
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -158,13 +156,13 @@ https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
 
+https://atrack-asia-s1.114913.xyz:443/announce
+
 https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
 
 https://publictracker.pp.ua:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
@@ -374,11 +372,7 @@ udp://forever.publictracker.xyz:6969/announce
 
 udp://free-tracker.zooki.xyz:6969/announce
 
-udp://free1.mchost.cc:26137/announce
-
 udp://git.vulnix.sh:6969/announce
-
-udp://gra1.joshkeegan.co.uk:6969/announce
 
 udp://handrew.me:6969/announce
 
@@ -435,6 +429,8 @@ udp://public.popcorn-tracker.org:6969/announce
 udp://public.publictracker.xyz:6969/announce
 
 udp://publictracker.xyz:6969/announce
+
+udp://qg.lorzl.gq:2710/announce
 
 udp://retracker.akado-ural.ru:80/announce
 
