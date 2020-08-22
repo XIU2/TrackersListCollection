@@ -8,8 +8,6 @@ http://ipv6-publictracker.zooki.xyz:6969/announce
 
 http://share.camoe.cn:8080/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://tr.cili001.com:8070/announce
 
 http://tracker.anonwebz.xyz:8080/announce
@@ -31,8 +29,6 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-http://tracker4.itzmx.com:2710/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
