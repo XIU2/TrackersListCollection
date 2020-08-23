@@ -8,6 +8,8 @@ http://ipv6-publictracker.zooki.xyz:6969/announce
 
 http://share.camoe.cn:8080/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://tr.cili001.com:8070/announce
 
 http://tracker.anonwebz.xyz:8080/announce
@@ -65,8 +67,6 @@ udp://9.rarbg.to:2710/announce
 udp://aaa.army:8866/announce
 
 udp://adm.category5.tv:6969/announce
-
-udp://admin.videoenpoche.info:6969/announce
 
 udp://adminion.n-blade.ru:6969/announce
 
