@@ -1,5 +1,7 @@
 http://0205.uptm.ch:6969/announce
 
+http://104.238.198.186:8000/announce
+
 http://1337.abcvg.info:80/announce
 
 http://178.175.143.27:80/announce
@@ -42,7 +44,7 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.touki.ru:80/announce.php
+http://open.acgtracker.com:1096/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
@@ -63,6 +65,10 @@ http://secure.pow7.com:80/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
+
+http://t.overflow.biz:6969/announce
 
 http://t1.pow7.com:80/announce
 
@@ -96,6 +102,8 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.kamigami.org:2710/announce
+
 http://tracker.kuroy.me:5944/announce
 
 http://tracker.lelux.fi:80/announce
@@ -114,11 +122,11 @@ http://tracker.sloppyta.co:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker.uw0.xyz:6969/announce
+
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
-
-http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -130,13 +138,13 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://trun.tom.ru:80/announce
-
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
 http://vps2.avc.cx:7171/announce
+
+http://www.loushao.net:8080/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -148,13 +156,13 @@ https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
 
-https://atrack-asia-s1.114913.xyz:443/announce
-
 https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
 
 https://publictracker.pp.ua:443/announce
+
+https://tr.ready4.icu:443/announce
 
 https://tracker.bt-hash.com:443/announce
 

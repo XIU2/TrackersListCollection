@@ -1,7 +1,5 @@
 http://0205.uptm.ch:6969/announce
 
-http://dn42.smrsh.net:6969/announce
-
 http://h4.trakx.nibba.trade:80/announce
 
 http://ipv6-publictracker.zooki.xyz:6969/announce
@@ -31,6 +29,8 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
@@ -80,6 +80,8 @@ udp://blokas.io:6969/announce
 
 udp://bms-hosxp.com:6969/announce
 
+udp://bt1.archive.org:6969/announce
+
 udp://bt2.archive.org:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
@@ -119,6 +121,8 @@ udp://fe.dealclub.de:6969/announce
 udp://forever-tracker.zooki.xyz:6969/announce
 
 udp://forever.publictracker.xyz:6969/announce
+
+udp://free-tracker.zooki.xyz:6969/announce
 
 udp://git.vulnix.sh:6969/announce
 
@@ -162,6 +166,8 @@ udp://publictracker.xyz:6969/announce
 
 udp://retracker.akado-ural.ru:80/announce
 
+udp://retracker.hotplug.ru:2710/announce
+
 udp://retracker.lanta-net.ru:2710/announce
 
 udp://retracker.local.msn-net.ru:6969/announce
@@ -200,9 +206,9 @@ udp://tracker.fileparadise.in:1337/announce
 
 udp://tracker.gbitt.info:80/announce
 
-udp://tracker.internetwarriors.net:1337/announce
-
 udp://tracker.leechers-paradise.org:6969/announce
+
+udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
