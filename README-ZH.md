@@ -42,7 +42,7 @@
 
 ****
 
-### 更新时间: 2020-08-26
+### 更新时间: 2020-08-27
 
 *以下所有列表每天自动更新 **[(更新日志)](https://github.com/XIU2/TrackersListCollection/releases)** ：*
 
@@ -50,9 +50,9 @@
 > 完整列表中的 Tracker 数量多，效果更好，但不可避免的会存在少量死链。  
 > **Tracker 数量并不影响 BT 软件的运行速度，因此我更推荐使用 `「完整列表」` ，以使下载速度最大化！**
 
-* **精选列表：**(131 个)  
+* **精选列表：**(129 个)  
  ***https://trackerslist.com/best.txt***  
-* **完整列表：**(304 个)  
+* **完整列表：**(303 个)  
  ***https://trackerslist.com/all.txt***  
 * **HTTP(S)列表：**(91 个)  
  ***https://trackerslist.com/http.txt***  

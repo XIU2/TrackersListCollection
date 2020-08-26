@@ -4,8 +4,6 @@ http://h4.trakx.nibba.trade:80/announce
 
 http://ipv6-publictracker.zooki.xyz:6969/announce
 
-http://p4p.arenabg.com:1337/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
@@ -202,10 +200,6 @@ udp://tracker.fileparadise.in:1337/announce
 
 udp://tracker.gbitt.info:80/announce
 
-udp://tracker.leechers-paradise.org:6969/announce
-
-udp://tracker.lelux.fi:6969/announce
-
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -255,6 +249,8 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 udp://vibe.community:6969/announce
 
 udp://vps2.avc.cx:7171/announce
+
+udp://wassermann.online:6969/announce
 
 udp://z.mercax.com:53/announce
 
