@@ -32,7 +32,7 @@ The more people use Tracker, the faster the BT download speed, **so please recom
 
 ****
 
-### Updated: 2020-08-30
+### Updated: 2020-08-31
 
 *These lists are updated automatically daily **[(Update Log)](https://github.com/XIU2/TrackersListCollection/releases)** :*
 
@@ -40,11 +40,11 @@ The more people use Tracker, the faster the BT download speed, **so please recom
 > ALL Tracker list is more in number and theoretically better.  
 > **The number of Tracker does not affect the operation of the BT software, so I recommend using the `ALL Tracker list` to maximize the download speed !**
 
-* **BEST Tracker list:** (128 trackers)  
+* **BEST Tracker list:** (126 trackers)  
  ***https://trackerslist.com/best.txt***  
-* **ALL Tracker list:** (297 trackers)  
+* **ALL Tracker list:** (305 trackers)  
  ***https://trackerslist.com/all.txt***  
-* **HTTP(S) Tracker list:** (87 trackers)  
+* **HTTP(S) Tracker list:** (93 trackers)  
  ***https://trackerslist.com/http.txt***  
 
 ****
