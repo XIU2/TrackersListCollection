@@ -34,8 +34,6 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://tracker4.itzmx.com:2710/announce
-
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -195,6 +193,8 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.ds.is:6969/announce
+
+udp://tracker.dyne.org:6969/announce
 
 udp://tracker.fileparadise.in:1337/announce
 
