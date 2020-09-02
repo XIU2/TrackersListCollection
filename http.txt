@@ -1,10 +1,12 @@
 http://00.mercax.com:443/announce
 
-http://0205.uptm.ch:6969/announce
+http://104.238.198.186:8000/announce
 
 http://1337.abcvg.info:80/announce
 
 http://178.175.143.27:80/announce
+
+http://62.210.202.61:80/announce
 
 http://78.30.254.12:2710/announce
 
@@ -40,6 +42,8 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.touki.ru:80/announce.php
+
 http://opentracker.i2p.rocks:6969/announce
 
 http://pow7.com:80/announce
@@ -74,8 +78,6 @@ http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tr.cili001.com:8070/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tracker.anonwebz.xyz:8080/announce
 
 http://tracker.birkenwald.de:6969/announce
@@ -89,8 +91,6 @@ http://tracker.bz:80/announce
 http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
-
-http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -116,9 +116,13 @@ http://tracker.sloppyta.co:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker.uw0.xyz:6969/announce
+
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
+
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -157,6 +161,8 @@ https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 
 https://publictracker.pp.ua:443/announce
+
+https://tr.ready4.icu:443/announce
 
 https://tracker.bt-hash.com:443/announce
 

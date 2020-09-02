@@ -1,12 +1,8 @@
 http://00.mercax.com:443/announce
 
-http://0205.uptm.ch:6969/announce
-
 http://h4.trakx.nibba.trade:80/announce
 
 http://ipv6-publictracker.zooki.xyz:6969/announce
-
-http://p4p.arenabg.com:1337/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -25,6 +21,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.noobsubs.net:80/announce
+
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.trackerfix.com:80/announce
 
@@ -176,6 +174,8 @@ udp://teamspeak.value-wolf.org:6969/announce
 
 udp://thetracker.org:80/announce
 
+udp://torrent.tdjs.tech:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker-v6.zooki.xyz:6969/announce
@@ -195,8 +195,6 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.ds.is:6969/announce
 
 udp://tracker.dyne.org:6969/announce
-
-udp://tracker.fileparadise.in:1337/announce
 
 udp://tracker.gbitt.info:80/announce
 
@@ -253,6 +251,8 @@ udp://vibe.community:6969/announce
 udp://vps2.avc.cx:7171/announce
 
 udp://wassermann.online:6969/announce
+
+udp://www.loushao.net:8080/announce
 
 udp://z.mercax.com:53/announce
 
