@@ -1,5 +1,3 @@
-http://00.mercax.com:443/announce
-
 http://h4.trakx.nibba.trade:80/announce
 
 http://ipv6-publictracker.zooki.xyz:6969/announce
@@ -21,8 +19,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.noobsubs.net:80/announce
-
-http://tracker.opentrackr.org:1337/announce
 
 http://tracker.trackerfix.com:80/announce
 
@@ -251,8 +247,6 @@ udp://vibe.community:6969/announce
 udp://vps2.avc.cx:7171/announce
 
 udp://wassermann.online:6969/announce
-
-udp://www.loushao.net:8080/announce
 
 udp://z.mercax.com:53/announce
 
