@@ -102,6 +102,14 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 ****
 
+#### Motrix:
+
+> ***https://motrix.app***
+
+![Motrix Tracker](https://trackerslist.com/img/en-10.png)
+
+****
+
 #### Xdown:
 
 > ***https://xdown.org***

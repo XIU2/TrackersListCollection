@@ -124,6 +124,17 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 ****
 
+#### Motrix:
+
+> ***官方网站：https://motrix.app***
+
+* **选项(左下角) - 进阶设置 - Tracker 服务器 - ﹀**  
+ **勾选任意一个选项（如 all.txt）** ，然后点击 **\[保存并应用\]** 保存。(如下图所示)  
+
+![Motrix Tracker](https://trackerslist.com/img/zh-10.png)
+
+****
+
 #### Xdown:
 
 > ***官方网站：https://xdown.org***
