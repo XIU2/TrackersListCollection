@@ -2,6 +2,8 @@ http://h4.trakx.nibba.trade:80/announce
 
 http://ipv6-publictracker.zooki.xyz:6969/announce
 
+http://publictracker.ch:6969/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
@@ -16,8 +18,6 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 http://tracker.noobsubs.net:80/announce
 
 http://tracker.trackerfix.com:80/announce
@@ -27,8 +27,6 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-http://tracker4.itzmx.com:2710/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
@@ -177,6 +175,8 @@ udp://torrent.tdjs.tech:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker-v6.zooki.xyz:6969/announce
+
+udp://tracker.0x.tf:6969/announce
 
 udp://tracker.army:6969/announce
 
