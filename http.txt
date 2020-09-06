@@ -6,8 +6,6 @@ http://1337.abcvg.info:80/announce
 
 http://178.175.143.27:80/announce
 
-http://62.210.202.61:80/announce
-
 http://78.30.254.12:2710/announce
 
 http://91.217.91.21:3218/announce
@@ -90,8 +88,6 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
 
-http://tracker.electro-torrent.pl:80/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -101,8 +97,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.kamigami.org:2710/announce
 
 http://tracker.kuroy.me:5944/announce
-
-http://tracker.lelux.fi:80/announce
 
 http://tracker.moeking.me:6969/announce
 
@@ -128,13 +122,13 @@ http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
+http://tracker1.itzmx.com:8080/announce
+
 http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-http://trun.tom.ru:80/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
@@ -152,6 +146,8 @@ https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
 
+https://open.kickasstracker.com:443/announce
+
 https://opentracker.acgnx.se:443/announce
 
 https://publictracker.pp.ua:443/announce
@@ -165,8 +161,6 @@ https://tracker.gbitt.info:443/announce
 https://tracker.hama3.net:443/announce
 
 https://tracker.imgoingto.icu:443/announce
-
-https://tracker.lelux.fi:443/announce
 
 https://tracker.nitrix.me:443/announce
 
