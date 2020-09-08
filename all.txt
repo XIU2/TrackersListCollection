@@ -6,8 +6,6 @@ http://1337.abcvg.info:80/announce
 
 http://178.175.143.27:80/announce
 
-http://62.210.202.61:80/announce
-
 http://78.30.254.12:2710/announce
 
 http://91.217.91.21:3218/announce
@@ -19,8 +17,6 @@ http://[2001:470:1:189:0:1:2:3]:6969/announce
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://aaa.army:8866/announce
-
-http://ankeschwarz.net:6969/announce
 
 http://atrack.pow7.com:80/announce
 
@@ -104,6 +100,8 @@ http://tracker.kamigami.org:2710/announce
 
 http://tracker.kuroy.me:5944/announce
 
+http://tracker.lelux.fi:80/announce
+
 http://tracker.moeking.me:6969/announce
 
 http://tracker.noobsubs.net:80/announce
@@ -115,8 +113,6 @@ http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
 
 http://tracker.sloppyta.co:80/announce
-
-http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
@@ -392,6 +388,8 @@ udp://mts.tvbit.co:6969/announce
 
 udp://nagios.tks.sumy.ua:80/announce
 
+udp://ns-1.x-fins.com:6969/announce
+
 udp://ns389251.ovh.net:6969/announce
 
 udp://open.demonii.com:1337/announce
@@ -417,8 +415,6 @@ udp://public.popcorn-tracker.org:6969/announce
 udp://public.publictracker.xyz:6969/announce
 
 udp://publictracker.xyz:6969/announce
-
-udp://qg.lorzl.gq:2710/announce
 
 udp://retracker.akado-ural.ru:80/announce
 
