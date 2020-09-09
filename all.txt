@@ -1,10 +1,8 @@
-http://00.mercax.com:443/announce
-
-http://104.238.198.186:8000/announce
-
 http://1337.abcvg.info:80/announce
 
 http://178.175.143.27:80/announce
+
+http://62.210.202.61:80/announce
 
 http://78.30.254.12:2710/announce
 
@@ -17,6 +15,8 @@ http://[2001:470:1:189:0:1:2:3]:6969/announce
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://aaa.army:8866/announce
+
+http://ankeschwarz.net:6969/announce
 
 http://atrack.pow7.com:80/announce
 
@@ -36,8 +36,6 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://open.touki.ru:80/announce.php
 
 http://opentracker.i2p.rocks:6969/announce
@@ -49,8 +47,6 @@ http://publictracker.ch:6969/announce
 http://retracker.hotplug.ru:2710/announce
 
 http://retracker.sevstar.net:2710/announce
-
-http://retracker.spark-rostov.ru:80/announce
 
 http://rt.tace.ru:80/announce
 
@@ -68,11 +64,11 @@ http://t1.pow7.com:80/announce
 
 http://t2.pow7.com:80/announce
 
-http://thetracker.org:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
+
+http://tr.kxmp.cf:80/announce
 
 http://tracker.anonwebz.xyz:8080/announce
 
@@ -87,8 +83,6 @@ http://tracker.bz:80/announce
 http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
-
-http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -116,9 +110,13 @@ http://tracker.sloppyta.co:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker.uw0.xyz:6969/announce
+
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
+
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -415,6 +413,8 @@ udp://public.popcorn-tracker.org:6969/announce
 udp://public.publictracker.xyz:6969/announce
 
 udp://publictracker.xyz:6969/announce
+
+udp://qg.lorzl.gq:2710/announce
 
 udp://retracker.akado-ural.ru:80/announce
 
