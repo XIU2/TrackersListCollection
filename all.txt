@@ -1,3 +1,5 @@
+http://104.238.198.186:8000/announce
+
 http://1337.abcvg.info:80/announce
 
 http://178.175.143.27:80/announce
@@ -13,8 +15,6 @@ http://[2001:470:1:189:0:1:2:3]:6969/announce
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://aaa.army:8866/announce
-
-http://ankeschwarz.net:6969/announce
 
 http://atrack.pow7.com:80/announce
 
@@ -37,6 +37,8 @@ http://open.touki.ru:80/announce.php
 http://opentracker.i2p.rocks:6969/announce
 
 http://pow7.com:80/announce
+
+http://publictracker.ch:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -76,8 +78,6 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
 
-http://tracker.electro-torrent.pl:80/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -103,8 +103,6 @@ http://tracker.skyts.net:6969/announce
 http://tracker.sloppyta.co:80/announce
 
 http://tracker.trackerfix.com:80/announce
-
-http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
 
@@ -316,8 +314,6 @@ udp://code2chicken.nl:6969/announce
 
 udp://concen.org:6969/announce
 
-udp://contra.sf.ca.us:6969/announce
-
 udp://cutiegirl.ru:6969/announce
 
 udp://daveking.com:6969/announce
@@ -390,6 +386,8 @@ udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
+udp://opentracker.arg.bz:6969/announce
+
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://p4p.arenabg.ch:1337/announce
@@ -453,6 +451,8 @@ udp://tracker-v6.zooki.xyz:6969/announce
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.aletorrenty.pl:2710/announce
+
+udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.army:6969/announce
 
@@ -569,8 +569,6 @@ udp://us-tracker.publictracker.xyz:6969/announce
 udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://vibe.community:6969/announce
-
-udp://vps2.avc.cx:7171/announce
 
 udp://wassermann.online:6969/announce
 

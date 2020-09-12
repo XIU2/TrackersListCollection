@@ -6,6 +6,8 @@ http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
 
+http://t.overflow.biz:6969/announce
+
 http://tr.cili001.com:8070/announce
 
 http://tracker.anonwebz.xyz:8080/announce
@@ -172,6 +174,8 @@ udp://tracker-v6.zooki.xyz:6969/announce
 
 udp://tracker.0x.tf:6969/announce
 
+udp://tracker.altrosky.nl:6969/announce
+
 udp://tracker.army:6969/announce
 
 udp://tracker.beeimg.com:6969/announce
@@ -182,11 +186,15 @@ udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.ds.is:6969/announce
 
 udp://tracker.dyne.org:6969/announce
 
 udp://tracker.gbitt.info:80/announce
+
+udp://tracker.kamigami.org:2710/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -195,8 +203,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.shkinev.me:6969/announce
-
-udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
