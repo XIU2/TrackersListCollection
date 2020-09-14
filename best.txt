@@ -12,8 +12,6 @@ http://t.overflow.biz:6969/announce
 
 http://tr.cili001.com:8070/announce
 
-http://tracker.anonwebz.xyz:8080/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
@@ -183,8 +181,6 @@ udp://tracker.army:6969/announce
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
