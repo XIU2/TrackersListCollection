@@ -1,5 +1,7 @@
 http://h4.trakx.nibba.trade:80/announce
 
+http://jsb.by:8000/announce
+
 http://publictracker.ch:6969/announce
 
 http://rt.tace.ru:80/announce
@@ -20,6 +22,8 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.noobsubs.net:80/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 http://tracker.trackerfix.com:80/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -27,8 +31,6 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -96,8 +98,6 @@ udp://discord.heihachi.pw:6969/announce
 
 udp://dpiui.reedlan.com:6969/announce
 
-udp://edu.uifr.ru:6969/announce
-
 udp://eliastre100.fr:6969/announce
 
 udp://engplus.ru:6969/announce
@@ -140,8 +140,6 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
-udp://p4p.arenabg.ch:1337/announce
-
 udp://publictracker.xyz:6969/announce
 
 udp://retracker.akado-ural.ru:80/announce
@@ -155,8 +153,6 @@ udp://retracker.local.msn-net.ru:6969/announce
 udp://sd-161673.dedibox.fr:6969/announce
 
 udp://storage.groupees.com:6969/announce
-
-udp://t1.leech.ie:1337/announce
 
 udp://t2.leech.ie:1337/announce
 
@@ -175,8 +171,6 @@ udp://tracker-v6.zooki.xyz:6969/announce
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
-
-udp://tracker.army:6969/announce
 
 udp://tracker.beeimg.com:6969/announce
 
