@@ -92,7 +92,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
  
 > 比特彗星的 **黄灯 绿灯** 对下载速度影响较小，主要影响上传速度，绿灯需要 **公网IP + 端口映射(UPnP)** 。  
 
-![比特彗星 Tracker](https://trackerslist.com/img/zh-04.png)
+<img src="https://trackerslist.com/img/zh-12.png" width="75%">
 
 ****
 
@@ -106,7 +106,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 * **选项[齿轮图标] - BitTorrent**  
  **勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[Apply\]** 保存，**然后重启 qBittorrentEE 。**(如下图所示)  
 
-![qBittorrent Enhanced Edition Tracker](https://trackerslist.com/img/zh-06.png)
+<img src="https://trackerslist.com/img/zh-06.png" width="75%">
 
 ****
 
@@ -118,7 +118,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 * **选项[齿轮图标] - BitTorrent**  
  **勾选下图红框内的选项** 并复制所有 Tracker 后粘贴到下方输入框中，然后点击 **\[Apply\]** 保存。(如下图所示)  
 
-![qBittorrent Tracker](https://trackerslist.com/img/zh-05.png)
+<img src="https://trackerslist.com/img/zh-05.png" width="75%">
 
 ****
 
@@ -129,7 +129,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 * **选项(左下角) - 进阶设置 - Tracker 服务器 - ﹀**  
  **勾选任意一个选项（如 all.txt）** ，然后点击 **\[保存并应用\]** 保存。(如下图所示)  
 
-![Motrix Tracker](https://trackerslist.com/img/zh-10.png)
+<img src="https://trackerslist.com/img/zh-10.png" width="75%">
 
 ****
 
@@ -140,7 +140,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 * **设置 - BitTorrent设置**  
  **勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[确定\]** 保存。(如下图所示) 
 
-![Xdown Tracker](https://trackerslist.com/img/zh-08.png)
+<img src="https://trackerslist.com/img/zh-08.png" width="75%">
 
 ****
 

@@ -76,7 +76,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 > ***http://www.bitcomet.com***
 
-![BitComet Tracker](https://trackerslist.com/img/en-03.png)  
+<img src="https://trackerslist.com/img/en-12.png" width="75%">
 
 ****
 
@@ -88,7 +88,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
-![qBittorrent Enhanced Edition Tracker](https://trackerslist.com/img/en-05.png)
+<img src="https://trackerslist.com/img/en-05.png" width="75%">
 
 ****
 
@@ -96,7 +96,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > ***https://www.qbittorrent.org***
 
-![qBittorrent Tracker](https://trackerslist.com/img/en-04.png)
+<img src="https://trackerslist.com/img/en-04.png" width="75%">
 
 ****
 
@@ -104,7 +104,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > ***https://motrix.app***
 
-![Motrix Tracker](https://trackerslist.com/img/en-10.png)
+<img src="https://trackerslist.com/img/en-10.png" width="75%">
 
 ****
 
@@ -112,7 +112,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > ***https://xdown.org***
 
-![Xdown Tracker](https://trackerslist.com/img/en-08.png)
+<img src="https://trackerslist.com/img/en-08.png" width="75%">
 
 ****
 
