@@ -9,9 +9,7 @@ Updated daily! A list of popular BitTorrent Trackers.
 
 Integrated the popular Tracker, after filtering, finally got a high-quality Tracker list collection ~  
 
-> 「[简体中文](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md)」([trackerslist.com](https://trackerslist.com) 访客，请通过右上角切换语言 ↗)
-
-> **注意：** 因中国屏蔽了 Github 部分图片域名，如果看不到图片，请访问 [trackerslist.com](https://trackerslist.com)！
+> 「[简体中文](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md)」([trackerslist.com](https://trackerslist.com) 访客，请通过右上角切换语言 ↗)  
 
 ****
 
@@ -25,9 +23,8 @@ The more people use Tracker, the faster the BT download speed, **so please recom
 
 *The figure below shows the BT download speed after using Tracker. (ALL Tracker list)*  
 
-![BitComet](https://trackerslist.com/img/en-01.png)
-![qBittorrentEE](https://trackerslist.com/img/en-06.png)
-![Motrix](https://trackerslist.com/img/en-11.png)
+![BitComet](https://trackerslist.com/img/en-02.png)
+![qBittorrentEE](https://trackerslist.com/img/en-07.png)
 
 *Those who are interested can download and try **[ubuntu-20.04.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.04.1-desktop-amd64.iso.torrent)** , this resource has thousands of people worldwide to provide uploads , So most people download fast!*
 

@@ -9,9 +9,7 @@
 
 本项目整合了全网热门 Tracker，经过层层过滤，最终得到了一个优质的 Tracker 列表方便大家使用~  
 
-> 「[English](https://github.com/XIU2/TrackersListCollection/#readme)」([trackerslist.com](https://trackerslist.com) visitors, please switch languages in the upper right corner ↗)
-
-> **注意：** 因中国屏蔽了 Github 部分图片域名，如果看不到图片，请访问 [trackerslist.com](https://trackerslist.com)！
+> 「[English](https://github.com/XIU2/TrackersListCollection/#readme)」([trackerslist.com](https://trackerslist.com) visitors, please switch languages in the upper right corner ↗)  
 
 ****
 
@@ -35,9 +33,8 @@
 
 *下图是使用我整理的 Tracker 列表下载BT的速度（完整列表）。*
 
-![比特彗星 效果图](https://trackerslist.com/img/zh-01.png)
-![qBittorrentEE 效果图](https://trackerslist.com/img/zh-07.png)
-![Motrix 效果图](https://trackerslist.com/img/zh-11.png)
+![BitComet](https://trackerslist.com/img/zh-02.png)
+![qBittorrentEE](https://trackerslist.com/img/zh-03.png)
 
 *有兴趣的可以下载 **[ubuntu-20.04.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.04.1-desktop-amd64.iso.torrent)** 试试，该资源全球数千人做种上传，因此大部分人下载速度很快！*
 
