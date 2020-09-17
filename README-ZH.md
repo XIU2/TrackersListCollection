@@ -106,7 +106,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 * **选项[齿轮图标] - BitTorrent**  
  **勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[Apply\]** 保存，**然后重启 qBittorrentEE 。**(如下图所示)  
 
-<img src="https://trackerslist.com/img/zh-06.png" width="75%">
+<img src="https://trackerslist.com/img/zh-13.png" width="75%">
 
 ****
 

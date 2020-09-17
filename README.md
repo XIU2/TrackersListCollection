@@ -88,7 +88,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
-<img src="https://trackerslist.com/img/en-05.png" width="75%">
+<img src="https://trackerslist.com/img/en-13.png" width="75%">
 
 ****
 
