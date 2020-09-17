@@ -10,8 +10,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://t.overflow.biz:6969/announce
-
 http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -21,8 +19,6 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.noobsubs.net:80/announce
-
-http://tracker.opentrackr.org:1337/announce
 
 http://tracker.trackerfix.com:80/announce
 
@@ -110,15 +106,11 @@ udp://forever-tracker.zooki.xyz:6969/announce
 
 udp://free-tracker.zooki.xyz:6969/announce
 
-udp://handrew.me:6969/announce
-
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
 udp://kanal-4.de:6969/announce
-
-udp://koli.services:6969/announce
 
 udp://line-net.ru:6969/announce
 
@@ -149,6 +141,8 @@ udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
 
 udp://retracker.local.msn-net.ru:6969/announce
+
+udp://rutorrent.frontline-mod.com:6969/announce
 
 udp://sd-161673.dedibox.fr:6969/announce
 
@@ -189,6 +183,8 @@ udp://tracker.dyne.org:6969/announce
 udp://tracker.gbitt.info:80/announce
 
 udp://tracker.kamigami.org:2710/announce
+
+udp://tracker.leechers-paradise.org:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 

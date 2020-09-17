@@ -1,5 +1,3 @@
-http://104.238.198.186:8000/announce
-
 http://1337.abcvg.info:80/announce
 
 http://178.175.143.27:80/announce
@@ -34,6 +32,8 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://open.touki.ru:80/announce.php
 
 http://opentracker.i2p.rocks:6969/announce
@@ -67,8 +67,6 @@ http://thetracker.org:80/announce
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
-
-http://tr.kxmp.cf:80/announce
 
 http://tracker.anonwebz.xyz:8080/announce
 
@@ -106,6 +104,8 @@ http://tracker.noobsubs.net:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.skyts.cn:6969/announce
+
 http://tracker.skyts.net:6969/announce
 
 http://tracker.sloppyta.co:80/announce
@@ -130,8 +130,6 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://tracker4.itzmx.com:2710/announce
-
 http://trun.tom.ru:80/announce
 
 http://vpn.flying-datacenter.de:6969/announce
@@ -145,6 +143,8 @@ https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
+
+https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
 
