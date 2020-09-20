@@ -1,5 +1,3 @@
-http://104.238.198.186:8000/announce
-
 http://1337.abcvg.info:80/announce
 
 http://178.175.143.27:80/announce
@@ -29,8 +27,6 @@ http://explodie.org:6969/announce
 http://grifon.info:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
-
-http://jsb.by:8000/announce
 
 http://ns349743.ip-91-121-106.eu:80/announce
 
@@ -86,6 +82,8 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
 
+http://tracker.electro-torrent.pl:80/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -120,8 +118,6 @@ http://tracker.ygsub.com:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
 
-http://tracker.zerobytes.xyz:1337/announce
-
 http://tracker.zum.bi:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -131,6 +127,8 @@ http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
@@ -143,8 +141,6 @@ https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
-
-https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
 
@@ -362,8 +358,6 @@ udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
 udp://josueunhuit.com:6969/announce
 
-udp://jsb.by:8000/announce
-
 udp://kanal-4.de:6969/announce
 
 udp://koli.services:6969/announce
@@ -468,6 +462,8 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
+udp://tracker.blacksparrowmedia.net:6969/announce
+
 udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
@@ -562,6 +558,8 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.dler.org:2710/announce
 
+udp://tsundere.pw:6969/announce
+
 udp://u.wwwww.wtf:1/announce
 
 udp://ultra.zt.ua:6969/announce
@@ -575,8 +573,6 @@ udp://vibe.community:6969/announce
 udp://wassermann.online:6969/announce
 
 udp://www.midea123.z-media.com.cn:6969/announce
-
-udp://z.mercax.com:53/announce
 
 udp://zephir.monocul.us:6969/announce
 
