@@ -55,6 +55,8 @@
 * **HTTP(S)列表：**(85 个)  
  ***https://trackerslist.com/http.txt***  
 
+> **备用：** 将 `trackerslist.com` 替换为 `cdn.jsdelivr.net/gh/XIU2/TrackersListCollection` ！  
+
 ****
 
 #### Aria2 格式 Tracker:
