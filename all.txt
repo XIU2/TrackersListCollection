@@ -1,6 +1,10 @@
+http://104.238.198.186:8000/announce
+
 http://1337.abcvg.info:80/announce
 
 http://178.175.143.27:80/announce
+
+http://62.210.202.61:80/announce
 
 http://78.30.254.12:2710/announce
 
@@ -82,8 +86,6 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
 
-http://tracker.electro-torrent.pl:80/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -108,8 +110,6 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.sloppyta.co:80/announce
 
-http://tracker.torrentyorg.pl:80/announce
-
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.uw0.xyz:6969/announce
@@ -117,6 +117,8 @@ http://tracker.uw0.xyz:6969/announce
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
+
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -129,6 +131,8 @@ http://tracker2.itzmx.com:6961/announce
 http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
+
+http://trun.tom.ru:80/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
@@ -145,8 +149,6 @@ https://aaa.army:8866/announce
 https://opentracker.acgnx.se:443/announce
 
 https://publictracker.pp.ua:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
@@ -306,6 +308,8 @@ udp://btt.royalquest.ru:2710/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
+udp://camera.lei001.com:6969/announce
+
 udp://cdn-1.gamecoast.org:6969/announce
 
 udp://cdn-2.gamecoast.org:6969/announce
@@ -387,8 +391,6 @@ udp://open.lolicon.eu:7777/announce
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
-
-udp://opentracker.arg.bz:6969/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 

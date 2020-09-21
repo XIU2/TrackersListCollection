@@ -26,8 +26,6 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://tracker4.itzmx.com:2710/announce
-
 http://vps02.net.orel.ru:80/announce
 
 https://1337.abcvg.info:443/announce
