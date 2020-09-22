@@ -32,6 +32,8 @@ http://grifon.info:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
+http://jsb.by:8000/announce
+
 http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -86,6 +88,8 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
 
+http://tracker.electro-torrent.pl:80/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -114,8 +118,6 @@ http://tracker.trackerfix.com:80/announce
 
 http://tracker.uw0.xyz:6969/announce
 
-http://tracker.ygsub.com:6969/announce
-
 http://tracker.yoshi210.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
@@ -129,10 +131,6 @@ http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-http://tracker4.itzmx.com:2710/announce
-
-http://trun.tom.ru:80/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
@@ -362,6 +360,8 @@ udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
 udp://josueunhuit.com:6969/announce
 
+udp://jsb.by:8000/announce
+
 udp://kanal-4.de:6969/announce
 
 udp://koli.services:6969/announce
@@ -392,6 +392,8 @@ udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
+udp://opentracker.arg.bz:6969/announce
+
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://peerfect.org:6969/announce
@@ -403,8 +405,6 @@ udp://public.popcorn-tracker.org:6969/announce
 udp://public.publictracker.xyz:6969/announce
 
 udp://publictracker.xyz:6969/announce
-
-udp://qg.lorzl.gq:2710/announce
 
 udp://retracker.akado-ural.ru:80/announce
 
@@ -559,8 +559,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.dler.org:2710/announce
-
-udp://tsundere.pw:6969/announce
 
 udp://u.wwwww.wtf:1/announce
 
