@@ -2,7 +2,7 @@
 name: Add TrackersList(Source)
 about: Request to add TrackersList(Source).
 title: Request to add TrackersList(Source)
-labels: Tracker source
+labels: TrackersList Source
 assignees: ''
 
 ---

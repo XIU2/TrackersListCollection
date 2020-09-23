@@ -2,7 +2,7 @@
 name: 添加 TrackersList(源)
 about: 请求添加 TrackersList(源)。
 title: 请求添加 TrackersList(源)
-labels: Tracker source
+labels: TrackersList Source
 assignees: ''
 
 ---
