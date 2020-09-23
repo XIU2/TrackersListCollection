@@ -4,8 +4,6 @@ http://1337.abcvg.info:80/announce
 
 http://178.175.143.27:80/announce
 
-http://62.210.202.61:80/announce
-
 http://78.30.254.12:2710/announce
 
 http://91.217.91.21:3218/announce
@@ -23,8 +21,6 @@ http://atrack.pow7.com:80/announce
 http://bobbialbano.com:6969/announce
 
 http://bt.pusacg.org:8080/announce
-
-http://derpyradio.net:6969/announce
 
 http://explodie.org:6969/announce
 
@@ -88,8 +84,6 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
 
-http://tracker.electro-torrent.pl:80/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -120,8 +114,6 @@ http://tracker.uw0.xyz:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
 
-http://tracker.zerobytes.xyz:1337/announce
-
 http://tracker.zum.bi:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -132,9 +124,13 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
+http://trun.tom.ru:80/announce
+
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
+
+http://www.loushao.net:8080/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -147,6 +143,8 @@ https://aaa.army:8866/announce
 https://opentracker.acgnx.se:443/announce
 
 https://publictracker.pp.ua:443/announce
+
+https://tr.ready4.icu:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
@@ -322,6 +320,8 @@ udp://concen.org:6969/announce
 
 udp://cutiegirl.ru:6969/announce
 
+udp://cx42light.cn:39652/announce
+
 udp://daveking.com:6969/announce
 
 udp://denis.stalker.upeer.me:6969/announce
@@ -392,8 +392,6 @@ udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
-udp://opentracker.arg.bz:6969/announce
-
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://peerfect.org:6969/announce
@@ -405,6 +403,8 @@ udp://public.popcorn-tracker.org:6969/announce
 udp://public.publictracker.xyz:6969/announce
 
 udp://publictracker.xyz:6969/announce
+
+udp://qg.lorzl.gq:2710/announce
 
 udp://retracker.akado-ural.ru:80/announce
 
@@ -560,6 +560,8 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.dler.org:2710/announce
 
+udp://tsundere.pw:6969/announce
+
 udp://u.wwwww.wtf:1/announce
 
 udp://ultra.zt.ua:6969/announce
@@ -571,6 +573,8 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 udp://vibe.community:6969/announce
 
 udp://wassermann.online:6969/announce
+
+udp://www.loushao.net:8080/announce
 
 udp://www.midea123.z-media.com.cn:6969/announce
 
