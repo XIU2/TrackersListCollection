@@ -22,6 +22,8 @@ http://bobbialbano.com:6969/announce
 
 http://bt.pusacg.org:8080/announce
 
+http://derpyradio.net:6969/announce
+
 http://explodie.org:6969/announce
 
 http://grifon.info:80/announce
@@ -74,8 +76,6 @@ http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bittor.pw:1337/announce
 
-http://tracker.bittorrent.am:80/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.bz:80/announce
@@ -114,8 +114,6 @@ http://tracker.uw0.xyz:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
 
-http://tracker.zum.bi:6969/announce
-
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
@@ -124,13 +122,9 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://trun.tom.ru:80/announce
-
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
-
-http://www.loushao.net:8080/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -320,8 +314,6 @@ udp://concen.org:6969/announce
 
 udp://cutiegirl.ru:6969/announce
 
-udp://cx42light.cn:39652/announce
-
 udp://daveking.com:6969/announce
 
 udp://denis.stalker.upeer.me:6969/announce
@@ -403,8 +395,6 @@ udp://public.popcorn-tracker.org:6969/announce
 udp://public.publictracker.xyz:6969/announce
 
 udp://publictracker.xyz:6969/announce
-
-udp://qg.lorzl.gq:2710/announce
 
 udp://retracker.akado-ural.ru:80/announce
 
@@ -560,8 +550,6 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.dler.org:2710/announce
 
-udp://tsundere.pw:6969/announce
-
 udp://u.wwwww.wtf:1/announce
 
 udp://ultra.zt.ua:6969/announce
@@ -573,8 +561,6 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 udp://vibe.community:6969/announce
 
 udp://wassermann.online:6969/announce
-
-udp://www.loushao.net:8080/announce
 
 udp://www.midea123.z-media.com.cn:6969/announce
 
