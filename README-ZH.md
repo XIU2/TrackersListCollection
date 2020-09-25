@@ -40,7 +40,7 @@
 
 ****
 
-### 更新时间: 2020-09-25
+### 更新时间: 2020-09-26
 
 *以下所有列表每天自动更新 **[(更新日志)](https://github.com/XIU2/TrackersListCollection/releases)** ：*
 
@@ -50,9 +50,9 @@
 
 * **精选列表：**(115 个)  
  ***https://trackerslist.com/best.txt***  
-* **完整列表：**(286 个)  
+* **完整列表：**(293 个)  
  ***https://trackerslist.com/all.txt***  
-* **HTTP(S)列表：**(81 个)  
+* **HTTP(S)列表：**(85 个)  
  ***https://trackerslist.com/http.txt***  
 
 > **备用：** 将 `trackerslist.com` 替换为 `cdn.jsdelivr.net/gh/XIU2/TrackersListCollection` ！  

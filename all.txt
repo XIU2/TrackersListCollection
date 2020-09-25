@@ -68,6 +68,8 @@ http://thetracker.org:80/announce
 
 http://torrentsmd.com:8080/announce
 
+http://torrenttracker.nwc.acsalaska.net:6969/announce
+
 http://tr.cili001.com:8070/announce
 
 http://tracker.anonwebz.xyz:8080/announce
@@ -75,6 +77,8 @@ http://tracker.anonwebz.xyz:8080/announce
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bittor.pw:1337/announce
+
+http://tracker.bittorrent.am:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -110,9 +114,11 @@ http://tracker.sloppyta.co:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker.uw0.xyz:6969/announce
-
 http://tracker.yoshi210.com:6969/announce
+
+http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker.zum.bi:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -126,6 +132,10 @@ http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
+http://www.loushao.net:8080/announce
+
+http://www.wareztorrent.com:80/announce
+
 https://1337.abcvg.info:443/announce
 
 https://2.tracker.eu.org:443/announce
@@ -137,8 +147,6 @@ https://aaa.army:8866/announce
 https://opentracker.acgnx.se:443/announce
 
 https://publictracker.pp.ua:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
@@ -290,8 +298,6 @@ udp://bt.firebit.org:2710/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://bt2.54new.com:8080/announce
-
 udp://bt2.archive.org:6969/announce
 
 udp://btt.royalquest.ru:2710/announce
@@ -384,6 +390,8 @@ udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
+udp://opentracker.arg.bz:6969/announce
+
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://peerfect.org:6969/announce
@@ -395,6 +403,8 @@ udp://public.popcorn-tracker.org:6969/announce
 udp://public.publictracker.xyz:6969/announce
 
 udp://publictracker.xyz:6969/announce
+
+udp://qg.lorzl.gq:2710/announce
 
 udp://retracker.akado-ural.ru:80/announce
 
@@ -550,6 +560,8 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.dler.org:2710/announce
 
+udp://tsundere.pw:6969/announce
+
 udp://u.wwwww.wtf:1/announce
 
 udp://ultra.zt.ua:6969/announce
@@ -561,6 +573,8 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 udp://vibe.community:6969/announce
 
 udp://wassermann.online:6969/announce
+
+udp://www.loushao.net:8080/announce
 
 udp://www.midea123.z-media.com.cn:6969/announce
 
