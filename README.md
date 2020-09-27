@@ -23,8 +23,8 @@ The more people use Tracker, the faster the BT download speed, **so please recom
 
 *The figure below shows the BT download speed after using Tracker. (ALL Tracker list)*  
 
-![BitComet](https://trackerslist.com/img/en-02.png)
-![qBittorrentEE](https://trackerslist.com/img/en-07.png)
+![BitComet](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-02.png)
+![qBittorrentEE](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-07.png)
 
 *Those who are interested can download and try **[ubuntu-20.04.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.04.1-desktop-amd64.iso.torrent)** , this resource has thousands of people worldwide to provide uploads , So most people download fast!*
 
@@ -78,7 +78,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 > ***http://www.bitcomet.com***
 
-<img src="https://trackerslist.com/img/en-12.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-12.png" width="75%">
 
 ****
 
@@ -90,7 +90,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
-<img src="https://trackerslist.com/img/en-13.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-13.png" width="75%">
 
 ****
 
@@ -98,7 +98,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > ***https://www.qbittorrent.org***
 
-<img src="https://trackerslist.com/img/en-04.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-04.png" width="75%">
 
 ****
 
@@ -106,7 +106,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > ***https://motrix.app***
 
-<img src="https://trackerslist.com/img/en-10.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-10.png" width="75%">
 
 ****
 
@@ -114,7 +114,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > ***https://xdown.org***
 
-<img src="https://trackerslist.com/img/en-08.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-08.png" width="75%">
 
 ****
 

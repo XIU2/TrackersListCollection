@@ -33,8 +33,8 @@
 
 *下图是使用我整理的 Tracker 列表下载BT的速度（完整列表）。*
 
-![BitComet](https://trackerslist.com/img/zh-02.png)
-![qBittorrentEE](https://trackerslist.com/img/zh-03.png)
+![BitComet](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-02.png)
+![qBittorrentEE](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-03.png)
 
 *有兴趣的可以下载 **[ubuntu-20.04.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.04.1-desktop-amd64.iso.torrent)** 试试，该资源全球数千人做种上传，因此大部分人下载速度很快！*
 
@@ -94,7 +94,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
  
 > 比特彗星的 **黄灯 绿灯** 对下载速度影响较小，主要影响上传速度，绿灯需要 **公网IP + 端口映射(UPnP)** 。  
 
-<img src="https://trackerslist.com/img/zh-12.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-12.png" width="75%">
 
 ****
 
@@ -108,7 +108,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 * **选项[齿轮图标] - BitTorrent**  
  **勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[Apply\]** 保存，**然后重启 qBittorrentEE 。**(如下图所示)  
 
-<img src="https://trackerslist.com/img/zh-13.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-13.png" width="75%">
 
 ****
 
@@ -120,7 +120,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 * **选项[齿轮图标] - BitTorrent**  
  **勾选下图红框内的选项** 并复制所有 Tracker 后粘贴到下方输入框中，然后点击 **\[Apply\]** 保存。(如下图所示)  
 
-<img src="https://trackerslist.com/img/zh-05.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-05.png" width="75%">
 
 ****
 
@@ -131,7 +131,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 * **选项(左下角) - 进阶设置 - Tracker 服务器 - ﹀**  
  **勾选任意一个选项（如 all.txt）** ，然后点击 **\[保存并应用\]** 保存。(如下图所示)  
 
-<img src="https://trackerslist.com/img/zh-10.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-10.png" width="75%">
 
 ****
 
@@ -142,7 +142,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 * **设置 - BitTorrent设置**  
  **勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[确定\]** 保存。(如下图所示) 
 
-<img src="https://trackerslist.com/img/zh-08.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-08.png" width="75%">
 
 ****
 
@@ -177,7 +177,7 @@ Tracker 可以帮你找到更多的用户，并帮助你们之间建立链接，
 
 > 迅雷之所以叫吸血雷，是因为 **迅雷在享受其他 BT 软件用户上传提供的速度时，自身却只把上传的速度提供给其他迅雷用户，而不会提供给其他 BT 软件用户** ，所以对于其他客户端来说，迅雷只进不出，俗称吸血雷。  
 
-![Xunlei](https://trackerslist.com/img/zh-09.png)
+![Xunlei](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-09.png)
 > 呐，刚才我做种时截的图，迅雷用户一直吸我提供的上传，而下载进度永远为 0.0%
 
 ***更详细的请看这篇文章：[https://zhuanlan.zhihu.com/p/87193566](https://zhuanlan.zhihu.com/p/87193566)***
