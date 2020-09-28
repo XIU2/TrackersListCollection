@@ -1,4 +1,10 @@
+http://bt.3kb.xyz:80/announce
+
+http://explodie.org:6969/announce
+
 http://h4.trakx.nibba.trade:80/announce
+
+http://open.acgnxtracker.com:80/announce
 
 http://publictracker.ch:6969/announce
 
@@ -72,8 +78,6 @@ udp://blokas.io:6969/announce
 
 udp://bms-hosxp.com:6969/announce
 
-udp://bt1.archive.org:6969/announce
-
 udp://bt2.archive.org:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
@@ -93,6 +97,8 @@ udp://daveking.com:6969/announce
 udp://discord.heihachi.pw:6969/announce
 
 udp://dpiui.reedlan.com:6969/announce
+
+udp://edu.uifr.ru:6969/announce
 
 udp://eliastre100.fr:6969/announce
 
@@ -168,6 +174,8 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
+udp://tracker.coppersurfer.tk:6969/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.org:6969/announce
@@ -225,7 +233,5 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 udp://vibe.community:6969/announce
 
 udp://wassermann.online:6969/announce
-
-udp://www.midea123.z-media.com.cn:6969/announce
 
 udp://zephir.monocul.us:6969/announce
