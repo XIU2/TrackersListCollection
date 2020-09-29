@@ -1,7 +1,5 @@
 http://bt.3kb.xyz:80/announce
 
-http://explodie.org:6969/announce
-
 http://h4.trakx.nibba.trade:80/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -124,8 +122,6 @@ udp://ln.mtahost.co:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
 
-udp://movies.zsw.ca:6969/announce
-
 udp://mts.tvbit.co:6969/announce
 
 udp://nagios.tks.sumy.ua:80/announce
@@ -185,6 +181,8 @@ udp://tracker.ds.is:6969/announce
 udp://tracker.dyne.org:6969/announce
 
 udp://tracker.gbitt.info:80/announce
+
+udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.kamigami.org:2710/announce
 

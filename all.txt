@@ -4,6 +4,8 @@ http://178.175.143.27:80/announce
 
 http://78.30.254.12:2710/announce
 
+http://91.217.91.21:3218/announce
+
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2001:470:1:189:0:1:2:3]:6969/announce
@@ -84,8 +86,6 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.bz:80/announce
 
-http://tracker.darli.net:5181/announce
-
 http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
@@ -112,13 +112,13 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.sloppyta.co:80/announce
 
+http://tracker.torrentyorg.pl:80/announce
+
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.uw0.xyz:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
-
-http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -138,8 +138,6 @@ http://vps02.net.orel.ru:80/announce
 
 http://vps2.avc.cx:7171/announce
 
-http://www.loushao.net:8080/announce
-
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
@@ -153,10 +151,6 @@ https://aaa.army:8866/announce
 https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
-
-https://publictracker.pp.ua:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
@@ -404,8 +398,6 @@ udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
-udp://opentracker.arg.bz:6969/announce
-
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://peerfect.org:6969/announce
@@ -481,8 +473,6 @@ udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
-
-udp://tracker.darli.net:5181/announce
 
 udp://tracker.dler.org:6969/announce
 
@@ -574,6 +564,8 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.dler.org:2710/announce
 
+udp://tsundere.pw:6969/announce
+
 udp://u.wwwww.wtf:1/announce
 
 udp://ultra.zt.ua:6969/announce
@@ -587,8 +579,6 @@ udp://vibe.community:6969/announce
 udp://vps2.avc.cx:7171/announce
 
 udp://wassermann.online:6969/announce
-
-udp://www.loushao.net:8080/announce
 
 udp://www.midea123.z-media.com.cn:6969/announce
 
