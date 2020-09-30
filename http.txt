@@ -42,6 +42,8 @@ http://open.touki.ru:80/announce.php
 
 http://opentracker.i2p.rocks:6969/announce
 
+http://opentracker.xyz:80/announce
+
 http://pow7.com:80/announce
 
 http://publictracker.ch:6969/announce
@@ -60,8 +62,6 @@ http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://t.overflow.biz:6969/announce
-
 http://t1.pow7.com:80/announce
 
 http://t2.pow7.com:80/announce
@@ -69,8 +69,6 @@ http://t2.pow7.com:80/announce
 http://thetracker.org:80/announce
 
 http://torrentsmd.com:8080/announce
-
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tr.cili001.com:8070/announce
 
@@ -94,6 +92,8 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.internetwarriors.net:1337/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.kamigami.org:2710/announce
@@ -112,15 +112,13 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.sloppyta.co:80/announce
 
-http://tracker.torrentyorg.pl:80/announce
-
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.uw0.xyz:6969/announce
 
-http://tracker.yoshi210.com:6969/announce
+http://tracker.ygsub.com:6969/announce
 
-http://tracker.zum.bi:6969/announce
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -148,9 +146,9 @@ https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
 
-https://open.kickasstracker.com:443/announce
-
 https://opentracker.acgnx.se:443/announce
+
+https://tr.ready4.icu:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
@@ -165,6 +163,8 @@ https://tracker.lelux.fi:443/announce
 https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
+
+https://tracker.parrotsec.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
