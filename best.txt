@@ -1,10 +1,8 @@
 http://1337.abcvg.info:80/announce
 
-http://bt.3kb.xyz:80/announce
-
-http://explodie.org:6969/announce
-
 http://h4.trakx.nibba.trade:80/announce
+
+http://novaopcj.icu:10325/announce
 
 http://open.acgnxtracker.com:80/announce
 
@@ -60,8 +58,6 @@ https://trakx.herokuapp.com:443/announce
 
 https://w.wwwww.wtf:443/announce
 
-udp://3rt.tace.ru:60889/announce
-
 udp://47.ip-51-68-199.eu:6969/announce
 
 udp://61626c.net:6969/announce
@@ -105,8 +101,6 @@ udp://daveking.com:6969/announce
 udp://discord.heihachi.pw:6969/announce
 
 udp://dpiui.reedlan.com:6969/announce
-
-udp://edu.uifr.ru:6969/announce
 
 udp://eliastre100.fr:6969/announce
 
@@ -191,6 +185,8 @@ udp://tracker.ds.is:6969/announce
 udp://tracker.dyne.org:6969/announce
 
 udp://tracker.fortu.io:6969/announce
+
+udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.kamigami.org:2710/announce
 
