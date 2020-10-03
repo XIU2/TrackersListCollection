@@ -2,6 +2,8 @@ http://1337.abcvg.info:80/announce
 
 http://178.175.143.27:80/announce
 
+http://5rt.tace.ru:60889/announce
+
 http://78.30.254.12:2710/announce
 
 http://91.217.91.21:3218/announce
@@ -62,6 +64,8 @@ http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
 
+http://t.overflow.biz:6969/announce
+
 http://t1.pow7.com:80/announce
 
 http://t2.pow7.com:80/announce
@@ -90,6 +94,8 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
 
+http://tracker.electro-torrent.pl:80/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -112,8 +118,6 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.sloppyta.co:80/announce
 
-http://tracker.torrentyorg.pl:80/announce
-
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.uw0.xyz:6969/announce
@@ -131,8 +135,6 @@ http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-http://tracker4.itzmx.com:2710/announce
 
 http://trun.tom.ru:80/announce
 
@@ -153,8 +155,6 @@ https://3.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 
 https://opentracker.acgnx.se:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
