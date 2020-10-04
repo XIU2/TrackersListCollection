@@ -4,9 +4,9 @@ http://178.175.143.27:80/announce
 
 http://5rt.tace.ru:60889/announce
 
-http://78.30.254.12:2710/announce
+http://62.210.202.61:80/announce
 
-http://91.217.91.21:3218/announce
+http://78.30.254.12:2710/announce
 
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
@@ -100,6 +100,8 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.internetwarriors.net:1337/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.kamigami.org:2710/announce
@@ -154,9 +156,15 @@ https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
 
+https://open.kickasstracker.com:443/announce
+
 https://opentracker.acgnx.se:443/announce
 
+https://tr.ready4.icu:443/announce
+
 https://tracker.bt-hash.com:443/announce
+
+https://tracker.cyber-hub.net:443/announce
 
 https://tracker.gbitt.info:443/announce
 
