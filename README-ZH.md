@@ -55,7 +55,7 @@
 * **HTTP(S)列表：**(92 个)  
  ***https://trackerslist.com/http.txt***  
 
-> **备用：** 将 `trackerslist.com` 替换为 `cdn.jsdelivr.net/gh/XIU2/TrackersListCollection` ！  
+> **备用：** 将列表地址中的 `trackerslist.com` 替换为 `cdn.jsdelivr.net/gh/XIU2/TrackersListCollection` ！  
 
 ****
 
