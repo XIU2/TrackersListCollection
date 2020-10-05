@@ -1,6 +1,6 @@
 http://1337.abcvg.info:80/announce
 
-http://explodie.org:6969/announce
+http://5rt.tace.ru:60889/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
@@ -43,8 +43,6 @@ http://vps02.net.orel.ru:80/announce
 https://tracker.cyber-hub.net:443/announce
 
 https://tracker.gbitt.info:443/announce
-
-https://tracker.hama3.net:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -172,6 +170,8 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
+udp://tracker.coppersurfer.tk:6969/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.org:6969/announce
@@ -227,8 +227,6 @@ udp://u.wwwww.wtf:1/announce
 udp://ultra.zt.ua:6969/announce
 
 udp://us-tracker.publictracker.xyz:6969/announce
-
-udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://vibe.community:6969/announce
 
