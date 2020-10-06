@@ -26,8 +26,6 @@ http://bt.pusacg.org:8080/announce
 
 http://derpyradio.net:6969/announce
 
-http://explodie.org:6969/announce
-
 http://grifon.info:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
@@ -94,6 +92,8 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
 
+http://tracker.electro-torrent.pl:80/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -118,7 +118,11 @@ http://tracker.sloppyta.co:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker.uw0.xyz:6969/announce
+
 http://tracker.ygsub.com:6969/announce
+
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -129,8 +133,6 @@ http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-http://tracker4.itzmx.com:2710/announce
 
 http://trun.tom.ru:80/announce
 

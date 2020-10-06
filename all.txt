@@ -26,8 +26,6 @@ http://bt.pusacg.org:8080/announce
 
 http://derpyradio.net:6969/announce
 
-http://explodie.org:6969/announce
-
 http://grifon.info:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
@@ -94,6 +92,8 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
 
+http://tracker.electro-torrent.pl:80/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -118,7 +118,11 @@ http://tracker.sloppyta.co:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker.uw0.xyz:6969/announce
+
 http://tracker.ygsub.com:6969/announce
+
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -129,8 +133,6 @@ http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-http://tracker4.itzmx.com:2710/announce
 
 http://trun.tom.ru:80/announce
 
@@ -302,8 +304,6 @@ udp://bclearning.top:6969/announce
 
 udp://benouworldtrip.fr:6969/announce
 
-udp://bioquantum.co.za:6969/announce
-
 udp://bitsparadise.info:6969/announce
 
 udp://blokas.io:6969/announce
@@ -404,6 +404,8 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
+udp://peerfect.org:6969/announce
+
 udp://public-tracker.zooki.xyz:6969/announce
 
 udp://public.popcorn-tracker.org:6969/announce
@@ -452,7 +454,7 @@ udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
 
-udp://tracker-udp.gbitt.info:80/announce
+udp://tr2.ysagin.top:2710/announce
 
 udp://tracker-v6.zooki.xyz:6969/announce
 
