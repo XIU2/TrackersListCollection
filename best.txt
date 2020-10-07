@@ -30,7 +30,11 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.noobsubs.net:80/announce
 
+http://tracker.sakurato.xyz:23333/announce
+
 http://tracker.trackerfix.com:80/announce
+
+http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -44,13 +48,13 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
+https://tracker.lilithraws.cf:443/announce
+
 https://tracker.nitrix.me:443/announce
 
 https://tracker.parrotsec.org:443/announce
 
 https://tracker.tamersunion.org:443/announce
-
-https://tracker6.lelux.fi:443/announce
 
 https://trakx.herokuapp.com:443/announce
 
@@ -122,6 +126,8 @@ udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
 udp://kanal-4.de:6969/announce
 
+udp://koli.services:6969/announce
+
 udp://line-net.ru:6969/announce
 
 udp://ln.mtahost.co:6969/announce
@@ -170,9 +176,13 @@ udp://tracker-v6.zooki.xyz:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
+udp://tracker.army:6969/announce
+
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
+
+udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
