@@ -154,8 +154,6 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
-udp://retracker.local.msn-net.ru:6969/announce
-
 udp://rutorrent.frontline-mod.com:6969/announce
 
 udp://sd-161673.dedibox.fr:6969/announce
@@ -176,13 +174,9 @@ udp://tracker-v6.zooki.xyz:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
-udp://tracker.army:6969/announce
-
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
