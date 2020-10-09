@@ -2,6 +2,8 @@ http://1337.abcvg.info:80/announce
 
 http://5rt.tace.ru:60889/announce
 
+http://explodie.org:6969/announce
+
 http://h4.trakx.nibba.trade:80/announce
 
 http://novaopcj.icu:10325/announce
@@ -41,8 +43,6 @@ http://tracker2.itzmx.com:6961/announce
 http://tracker3.itzmx.com:6961/announce
 
 http://vps02.net.orel.ru:80/announce
-
-https://tracker.cyber-hub.net:443/announce
 
 https://tracker.gbitt.info:443/announce
 
@@ -160,6 +160,8 @@ udp://sd-161673.dedibox.fr:6969/announce
 
 udp://storage.groupees.com:6969/announce
 
+udp://t1.leech.ie:1337/announce
+
 udp://t2.leech.ie:1337/announce
 
 udp://t3.leech.ie:1337/announce
@@ -178,6 +180,8 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
+udp://tracker.coppersurfer.tk:6969/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.org:6969/announce
@@ -185,6 +189,8 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.ds.is:6969/announce
 
 udp://tracker.dyne.org:6969/announce
+
+udp://tracker.e-utp.net:6969/announce
 
 udp://tracker.fortu.io:6969/announce
 
@@ -217,8 +223,6 @@ udp://tracker.vulnix.sh:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.zum.bi:6969/announce
-
-udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.itzmx.com:8080/announce
 
