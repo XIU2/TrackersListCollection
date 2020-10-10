@@ -4,8 +4,6 @@ http://178.175.143.27:80/announce
 
 http://5rt.tace.ru:60889/announce
 
-http://78.30.254.12:2710/announce
-
 http://91.217.91.21:3218/announce
 
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
@@ -40,6 +38,8 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://open.touki.ru:80/announce.php
 
 http://opentracker.i2p.rocks:6969/announce
@@ -63,8 +63,6 @@ http://share.camoe.cn:8080/announce
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
-
-http://t.overflow.biz:6969/announce
 
 http://t1.pow7.com:80/announce
 
@@ -98,8 +96,6 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.internetwarriors.net:1337/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.kamigami.org:2710/announce
@@ -128,6 +124,8 @@ http://tracker.ygsub.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
+http://tracker.zum.bi:6969/announce
+
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
@@ -135,8 +133,6 @@ http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-http://trun.tom.ru:80/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
@@ -406,8 +402,6 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
-udp://peerfect.org:6969/announce
-
 udp://public-tracker.zooki.xyz:6969/announce
 
 udp://public.popcorn-tracker.org:6969/announce
@@ -455,8 +449,6 @@ udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
 
 udp://tr2.ysagin.top:2710/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker-v6.zooki.xyz:6969/announce
 
@@ -529,6 +521,8 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.swateam.org.uk:2710/announce
+
+udp://tracker.teambelgium.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 

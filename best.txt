@@ -2,7 +2,7 @@ http://1337.abcvg.info:80/announce
 
 http://5rt.tace.ru:60889/announce
 
-http://explodie.org:6969/announce
+http://bt.3kb.xyz:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
@@ -96,8 +96,6 @@ udp://cdn-2.gamecoast.org:6969/announce
 
 udp://chanchan.uchuu.co.uk:6969/announce
 
-udp://code2chicken.nl:6969/announce
-
 udp://cutiegirl.ru:6969/announce
 
 udp://daveking.com:6969/announce
@@ -180,8 +178,6 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.coppersurfer.tk:6969/announce
-
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.org:6969/announce
@@ -231,8 +227,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://u.wwwww.wtf:1/announce
 
 udp://ultra.zt.ua:6969/announce
 
