@@ -2,7 +2,7 @@ http://1337.abcvg.info:80/announce
 
 http://5rt.tace.ru:60889/announce
 
-http://bt.3kb.xyz:80/announce
+http://explodie.org:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
@@ -174,6 +174,8 @@ udp://tracker-v6.zooki.xyz:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
+udp://tracker.army:6969/announce
+
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -187,8 +189,6 @@ udp://tracker.ds.is:6969/announce
 udp://tracker.dyne.org:6969/announce
 
 udp://tracker.e-utp.net:6969/announce
-
-udp://tracker.fortu.io:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
