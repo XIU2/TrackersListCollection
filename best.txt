@@ -2,8 +2,6 @@ http://1337.abcvg.info:80/announce
 
 http://5rt.tace.ru:60889/announce
 
-http://explodie.org:6969/announce
-
 http://h4.trakx.nibba.trade:80/announce
 
 http://novaopcj.icu:10325/announce
@@ -31,6 +29,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.noobsubs.net:80/announce
+
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.sakurato.xyz:23333/announce
 
@@ -170,6 +170,8 @@ udp://thetracker.org:80/announce
 
 udp://torrent.tdjs.tech:6969/announce
 
+udp://torrentclub.online:54123/announce
+
 udp://tracker-v6.zooki.xyz:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -189,8 +191,6 @@ udp://tracker.ds.is:6969/announce
 udp://tracker.dyne.org:6969/announce
 
 udp://tracker.e-utp.net:6969/announce
-
-udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.kamigami.org:2710/announce
 
@@ -214,13 +214,15 @@ udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.v6speed.org:6969/announce
 
-udp://tracker.vulnix.sh:6969/announce
-
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.zum.bi:6969/announce
 
+udp://tracker1.bt.moack.co.kr:80/announce
+
 udp://tracker1.itzmx.com:8080/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
