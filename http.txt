@@ -98,6 +98,8 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.internetwarriors.net:1337/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.kamigami.org:2710/announce
@@ -118,7 +120,11 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.sloppyta.co:80/announce
 
+http://tracker.torrentyorg.pl:80/announce
+
 http://tracker.trackerfix.com:80/announce
+
+http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
 
@@ -153,8 +159,6 @@ https://aaa.army:8866/announce
 https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
