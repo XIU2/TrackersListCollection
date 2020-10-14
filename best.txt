@@ -2,15 +2,11 @@ http://1337.abcvg.info:80/announce
 
 http://5rt.tace.ru:60889/announce
 
-http://explodie.org:6969/announce
-
 http://h4.trakx.nibba.trade:80/announce
 
 http://novaopcj.icu:10325/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://opentracker.xyz:80/announce
 
 http://rt.tace.ru:80/announce
 
@@ -41,6 +37,8 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -176,9 +174,13 @@ udp://tracker-v6.zooki.xyz:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
+udp://tracker.army:6969/announce
+
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
+
+udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 

@@ -30,8 +30,6 @@ http://grifon.info:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
-http://jsb.by:8000/announce
-
 http://novaopcj.icu:10325/announce
 
 http://ns349743.ip-91-121-106.eu:80/announce
@@ -41,8 +39,6 @@ http://open.acgnxtracker.com:80/announce
 http://open.touki.ru:80/announce.php
 
 http://opentracker.i2p.rocks:6969/announce
-
-http://opentracker.xyz:80/announce
 
 http://pow7.com:80/announce
 
@@ -61,8 +57,6 @@ http://share.camoe.cn:8080/announce
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
-
-http://t.overflow.biz:6969/announce
 
 http://t1.pow7.com:80/announce
 
@@ -94,11 +88,11 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
 
+http://tracker.edoardocolombo.eu:6969/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
-
-http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -120,15 +114,11 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.sloppyta.co:80/announce
 
-http://tracker.torrentyorg.pl:80/announce
-
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
-
-http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -159,6 +149,8 @@ https://aaa.army:8866/announce
 https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
+
+https://tr.ready4.icu:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
@@ -372,8 +364,6 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
-udp://jsb.by:8000/announce
-
 udp://kanal-4.de:6969/announce
 
 udp://koli.services:6969/announce
@@ -405,8 +395,6 @@ udp://open.stealth.si:80/announce
 udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
-
-udp://peerfect.org:6969/announce
 
 udp://public-tracker.zooki.xyz:6969/announce
 
