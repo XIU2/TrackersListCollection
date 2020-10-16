@@ -4,6 +4,8 @@ http://178.175.143.27:80/announce
 
 http://5rt.tace.ru:60889/announce
 
+http://62.210.202.61:80/announce
+
 http://78.30.254.12:2710/announce
 
 http://91.217.91.21:3218/announce
@@ -126,15 +128,9 @@ http://tracker.uw0.xyz:6969/announce
 
 http://tracker.ygsub.com:6969/announce
 
-http://tracker.zerobytes.xyz:1337/announce
-
-http://tracker.zum.bi:6969/announce
-
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
-
-http://trun.tom.ru:80/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
@@ -152,9 +148,11 @@ https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
 
+https://open.kickasstracker.com:443/announce
+
 https://opentracker.acgnx.se:443/announce
 
-https://tr.ready4.icu:443/announce
+https://publictracker.pp.ua:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
@@ -248,6 +246,8 @@ udp://62.138.0.158:6969/announce
 
 udp://62.212.85.66:2710/announce
 
+udp://6rt.tace.ru:80/announce
+
 udp://74.82.52.209:6969/announce
 
 udp://78.30.254.12:2710/announce
@@ -340,6 +340,8 @@ udp://concen.org:6969/announce
 
 udp://cutiegirl.ru:6969/announce
 
+udp://cx42light.cn:39652/announce
+
 udp://daveking.com:6969/announce
 
 udp://denis.stalker.upeer.me:6969/announce
@@ -349,8 +351,6 @@ udp://discord.heihachi.pw:6969/announce
 udp://dpiui.reedlan.com:6969/announce
 
 udp://drumkitx.com:6969/announce
-
-udp://ec2-15-161-63-165.eu-south-1.compute.amazonaws.com:6969/announce
 
 udp://eddie4.nl:6969/announce
 
@@ -391,6 +391,8 @@ udp://movies.zsw.ca:6969/announce
 udp://mts.tvbit.co:6969/announce
 
 udp://nagios.tks.sumy.ua:80/announce
+
+udp://ns-1.x-fins.com:6969/announce
 
 udp://ns389251.ovh.net:6969/announce
 
@@ -569,6 +571,8 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.dler.org:2710/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://u.wwwww.wtf:1/announce
 
