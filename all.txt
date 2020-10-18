@@ -26,13 +26,13 @@ http://bt.pusacg.org:8080/announce
 
 http://derpyradio.net:6969/announce
 
+http://explodie.org:6969/announce
+
 http://grifon.info:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
 http://jsb.by:8000/announce
-
-http://novaopcj.icu:10325/announce
 
 http://ns349743.ip-91-121-106.eu:80/announce
 
@@ -82,6 +82,8 @@ http://tracker.anonwebz.xyz:8080/announce
 
 http://tracker.birkenwald.de:6969/announce
 
+http://tracker.bittor.pw:1337/announce
+
 http://tracker.bittorrent.am:80/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -93,8 +95,6 @@ http://tracker.dler.org:6969/announce
 http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.edoardocolombo.eu:6969/announce
-
-http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -120,11 +120,9 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.sloppyta.co:80/announce
 
+http://tracker.torrentyorg.pl:80/announce
+
 http://tracker.trackerfix.com:80/announce
-
-http://tracker.uw0.xyz:6969/announce
-
-http://tracker.ygsub.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
@@ -138,9 +136,15 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
+http://tracker4.itzmx.com:2710/announce
+
+http://trun.tom.ru:80/announce
+
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
+
+http://www.loushao.net:8080/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -326,8 +330,6 @@ udp://bt.okmp3.ru:2710/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://bt2.3kb.xyz:6969/announce
-
 udp://bt2.54new.com:8080/announce
 
 udp://bt2.archive.org:6969/announce
@@ -414,6 +416,8 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
+udp://peerfect.org:6969/announce
+
 udp://public-tracker.zooki.xyz:6969/announce
 
 udp://public.popcorn-tracker.org:6969/announce
@@ -473,8 +477,6 @@ udp://tracker.aletorrenty.pl:2710/announce
 udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.army:6969/announce
-
-udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -576,6 +578,8 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.dler.org:2710/announce
 
+udp://tsundere.pw:6969/announce
+
 udp://u.wwwww.wtf:1/announce
 
 udp://ultra.zt.ua:6969/announce
@@ -587,6 +591,8 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 udp://vibe.community:6969/announce
 
 udp://wassermann.online:6969/announce
+
+udp://www.loushao.net:8080/announce
 
 udp://www.midea123.z-media.com.cn:6969/announce
 
