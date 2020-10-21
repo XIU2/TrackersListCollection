@@ -6,7 +6,11 @@ http://178.175.143.27:80/announce
 
 http://5rt.tace.ru:60889/announce
 
+http://62.210.202.61:80/announce
+
 http://78.30.254.12:2710/announce
+
+http://91.217.91.21:3218/announce
 
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
@@ -38,8 +42,6 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://open.touki.ru:80/announce.php
 
 http://opentracker.i2p.rocks:6969/announce
@@ -51,6 +53,8 @@ http://publictracker.ch:6969/announce
 http://retracker.hotplug.ru:2710/announce
 
 http://retracker.sevstar.net:2710/announce
+
+http://retracker.spark-rostov.ru:80/announce
 
 http://rt.tace.ru:80/announce
 
@@ -78,6 +82,8 @@ http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tr.cili001.com:8070/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tracker.anonwebz.xyz:8080/announce
 
 http://tracker.birkenwald.de:6969/announce
@@ -96,11 +102,11 @@ http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.edoardocolombo.eu:6969/announce
 
+http://tracker.electro-torrent.pl:80/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
-
-http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -125,6 +131,8 @@ http://tracker.sloppyta.co:80/announce
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.uw0.xyz:6969/announce
+
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -372,8 +380,6 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
-udp://jsb.by:8000/announce
-
 udp://kanal-4.de:6969/announce
 
 udp://koli.services:6969/announce
@@ -404,9 +410,9 @@ udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
-udp://opentracker.arg.bz:6969/announce
-
 udp://opentracker.i2p.rocks:6969/announce
+
+udp://peerfect.org:6969/announce
 
 udp://public-tracker.zooki.xyz:6969/announce
 
@@ -570,8 +576,6 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.dler.org:2710/announce
 
-udp://tsundere.pw:6969/announce
-
 udp://u.wwwww.wtf:1/announce
 
 udp://ultra.zt.ua:6969/announce
@@ -583,6 +587,8 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 udp://vibe.community:6969/announce
 
 udp://wassermann.online:6969/announce
+
+udp://www.loushao.net:8080/announce
 
 udp://www.midea123.z-media.com.cn:6969/announce
 
