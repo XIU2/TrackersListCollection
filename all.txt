@@ -6,8 +6,6 @@ http://178.175.143.27:80/announce
 
 http://5rt.tace.ru:60889/announce
 
-http://62.210.202.61:80/announce
-
 http://78.30.254.12:2710/announce
 
 http://91.217.91.21:3218/announce
@@ -19,6 +17,8 @@ http://[2001:470:1:189:0:1:2:3]:6969/announce
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://aaa.army:8866/announce
+
+http://agusiq-torrents.pl:6969/announce
 
 http://atrack.pow7.com:80/announce
 
@@ -102,11 +102,11 @@ http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.edoardocolombo.eu:6969/announce
 
-http://tracker.electro-torrent.pl:80/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
+
+http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -128,11 +128,11 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.sloppyta.co:80/announce
 
+http://tracker.torrentyorg.pl:80/announce
+
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.uw0.xyz:6969/announce
-
-http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -158,9 +158,13 @@ https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
 
+https://open.kickasstracker.com:443/announce
+
 https://opentracker.acgnx.se:443/announce
 
 https://publictracker.pp.ua:443/announce
+
+https://tr.ready4.icu:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
@@ -327,6 +331,8 @@ udp://bt.firebit.org:2710/announce
 udp://bt.okmp3.ru:2710/announce
 
 udp://bt1.archive.org:6969/announce
+
+udp://bt2.3kb.xyz:6969/announce
 
 udp://bt2.54new.com:8080/announce
 
