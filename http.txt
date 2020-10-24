@@ -6,8 +6,6 @@ http://178.175.143.27:80/announce
 
 http://5rt.tace.ru:60889/announce
 
-http://78.30.254.12:2710/announce
-
 http://91.217.91.21:3218/announce
 
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
@@ -47,8 +45,6 @@ http://open.touki.ru:80/announce.php
 http://opentracker.i2p.rocks:6969/announce
 
 http://pow7.com:80/announce
-
-http://publictracker.ch:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -102,6 +98,8 @@ http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.edoardocolombo.eu:6969/announce
 
+http://tracker.electro-torrent.pl:80/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -124,15 +122,11 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.sakurato.xyz:23333/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.sloppyta.co:80/announce
 
 http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.trackerfix.com:80/announce
-
-http://tracker.uw0.xyz:6969/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -143,6 +137,8 @@ http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
@@ -162,9 +158,7 @@ https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
 
-https://publictracker.pp.ua:443/announce
-
-https://tr.ready4.icu:443/announce
+https://tp.m-team.cc:443/announce.php
 
 https://tracker.bt-hash.com:443/announce
 
@@ -184,7 +178,7 @@ https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nitrix.me:443/announce
 
-https://tracker.parrotsec.org:443/announce
+https://tracker.parrotlinux.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
 

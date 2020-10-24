@@ -12,8 +12,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://torrentsmd.com:8080/announce
-
 http://tr.cili001.com:8070/announce
 
 http://tracker.anonwebz.xyz:8080/announce
@@ -40,6 +38,10 @@ http://tracker3.itzmx.com:6961/announce
 
 http://vps02.net.orel.ru:80/announce
 
+http://www.wareztorrent.com:80/announce
+
+https://tp.m-team.cc:443/announce.php
+
 https://tracker.cyber-hub.net:443/announce
 
 https://tracker.foreverpirates.co:443/announce
@@ -52,13 +54,15 @@ https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nitrix.me:443/announce
 
-https://tracker.parrotsec.org:443/announce
+https://tracker.parrotlinux.org:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
 https://trakx.herokuapp.com:443/announce
 
-https://w.wwwww.wtf:443/announce
+udp://10.rarbg.me:80/announce
+
+udp://12.rarbg.me:80/announce
 
 udp://3rt.tace.ru:60889/announce
 
@@ -148,8 +152,6 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
-udp://publictracker.xyz:6969/announce
-
 udp://retracker.akado-ural.ru:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -182,8 +184,6 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.coppersurfer.tk:6969/announce
-
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.org:6969/announce
@@ -194,9 +194,15 @@ udp://tracker.dyne.org:6969/announce
 
 udp://tracker.e-utp.net:6969/announce
 
+udp://tracker.gbitt.info:80/announce
+
+udp://tracker.internetwarriors.net:1337/announce
+
 udp://tracker.kamigami.org:2710/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
+
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
