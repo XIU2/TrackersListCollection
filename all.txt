@@ -6,6 +6,8 @@ http://178.175.143.27:80/announce
 
 http://5rt.tace.ru:60889/announce
 
+http://78.30.254.12:2710/announce
+
 http://91.217.91.21:3218/announce
 
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
@@ -26,6 +28,8 @@ http://bt.3kb.xyz:80/announce
 
 http://bt.pusacg.org:8080/announce
 
+http://btracker.top:11451/announce
+
 http://derpyradio.net:6969/announce
 
 http://explodie.org:6969/announce
@@ -39,6 +43,8 @@ http://jsb.by:8000/announce
 http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://open.touki.ru:80/announce.php
 
@@ -124,11 +130,11 @@ http://tracker.sakurato.xyz:23333/announce
 
 http://tracker.sloppyta.co:80/announce
 
-http://tracker.torrentyorg.pl:80/announce
-
 http://tracker.trackerfix.com:80/announce
 
-http://tracker.zum.bi:6969/announce
+http://tracker.uw0.xyz:6969/announce
+
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 

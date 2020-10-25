@@ -2,6 +2,8 @@ http://1337.abcvg.info:80/announce
 
 http://5rt.tace.ru:60889/announce
 
+http://btracker.top:11451/announce
+
 http://h4.trakx.nibba.trade:80/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -130,8 +132,6 @@ udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
 udp://kanal-4.de:6969/announce
 
-udp://koli.services:6969/announce
-
 udp://line-net.ru:6969/announce
 
 udp://ln.mtahost.co:6969/announce
@@ -175,6 +175,8 @@ udp://torrent.tdjs.tech:6969/announce
 udp://torrentclub.online:54123/announce
 
 udp://tracker-v6.zooki.xyz:6969/announce
+
+udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
