@@ -45,7 +45,7 @@ The more people use Tracker, the faster the BT download speed, **so please recom
 * **HTTP(S) Tracker list:** (99 trackers)  
  ***https://trackerslist.com/http.txt***  
 
-> **Alternate:** Replace `trackerslist.com` in the URL with `cdn.jsdelivr.net/gh/XIU2/TrackersListCollection` !  
+> **Alternate:** Replace `trackerslist.com` in the URL with `cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master` !  
 
 ****
 
