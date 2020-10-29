@@ -2,6 +2,8 @@ http://1337.abcvg.info:80/announce
 
 http://5rt.tace.ru:60889/announce
 
+http://btracker.top:11451/announce
+
 http://explodie.org:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
@@ -58,6 +60,8 @@ https://tracker.nitrix.me:443/announce
 
 https://tracker.parrotlinux.org:443/announce
 
+https://tracker.sloppyta.co:443/announce
+
 https://tracker.tamersunion.org:443/announce
 
 https://trakx.herokuapp.com:443/announce
@@ -94,6 +98,8 @@ udp://blokas.io:6969/announce
 
 udp://bms-hosxp.com:6969/announce
 
+udp://bt.okmp3.ru:2710/announce
+
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.3kb.xyz:6969/announce
@@ -113,8 +119,6 @@ udp://daveking.com:6969/announce
 udp://discord.heihachi.pw:6969/announce
 
 udp://dpiui.reedlan.com:6969/announce
-
-udp://edu.uifr.ru:6969/announce
 
 udp://engplus.ru:6969/announce
 
@@ -207,6 +211,8 @@ udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.kamigami.org:2710/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
+
+udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
