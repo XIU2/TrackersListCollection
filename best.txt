@@ -64,6 +64,8 @@ https://tracker.sloppyta.co:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
+https://tracker6.lelux.fi:443/announce
+
 https://trakx.herokuapp.com:443/announce
 
 udp://10.rarbg.me:80/announce
@@ -192,8 +194,6 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.coppersurfer.tk:6969/announce
-
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.org:6969/announce
@@ -211,8 +211,6 @@ udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.kamigami.org:2710/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
-
-udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
