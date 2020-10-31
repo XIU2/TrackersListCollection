@@ -114,6 +114,8 @@ udp://cdn-2.gamecoast.org:6969/announce
 
 udp://chanchan.uchuu.co.uk:6969/announce
 
+udp://code2chicken.nl:6969/announce
+
 udp://cutiegirl.ru:6969/announce
 
 udp://daveking.com:6969/announce
@@ -194,6 +196,8 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
+udp://tracker.coppersurfer.tk:6969/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.org:6969/announce
@@ -233,6 +237,8 @@ udp://tracker.v6speed.org:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.zum.bi:6969/announce
+
+udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 

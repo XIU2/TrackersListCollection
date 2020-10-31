@@ -10,8 +10,6 @@ http://62.210.202.61:80/announce
 
 http://78.30.254.12:2710/announce
 
-http://91.217.91.21:3218/announce
-
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2001:470:1:189:0:1:2:3]:6969/announce
@@ -23,8 +21,6 @@ http://aaa.army:8866/announce
 http://atrack.pow7.com:80/announce
 
 http://bobbialbano.com:6969/announce
-
-http://bt.3kb.xyz:80/announce
 
 http://bt.pusacg.org:8080/announce
 
@@ -98,6 +94,8 @@ http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.edoardocolombo.eu:6969/announce
 
+http://tracker.electro-torrent.pl:80/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -138,8 +136,6 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://tracker4.itzmx.com:2710/announce
-
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -159,6 +155,8 @@ https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 
 https://tp.m-team.cc:443/announce.php
+
+https://tr.ready4.icu:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
@@ -326,15 +324,11 @@ udp://blokas.io:6969/announce
 
 udp://bms-hosxp.com:6969/announce
 
-udp://bt.firebit.org:2710/announce
-
 udp://bt.okmp3.ru:2710/announce
 
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.3kb.xyz:6969/announce
-
-udp://bt2.54new.com:8080/announce
 
 udp://bt2.archive.org:6969/announce
 
@@ -414,11 +408,7 @@ udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
-udp://opentracker.arg.bz:6969/announce
-
 udp://opentracker.i2p.rocks:6969/announce
-
-udp://peerfect.org:6969/announce
 
 udp://public-tracker.zooki.xyz:6969/announce
 
@@ -597,8 +587,6 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 udp://vibe.community:6969/announce
 
 udp://wassermann.online:6969/announce
-
-udp://www.loushao.net:8080/announce
 
 udp://www.midea123.z-media.com.cn:6969/announce
 
