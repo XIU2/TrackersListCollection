@@ -92,6 +92,8 @@ udp://adminion.n-blade.ru:6969/announce
 
 udp://api.bitumconference.ru:6969/announce
 
+udp://app.icon256.com:8000/announce
+
 udp://aruacfilmes.com.br:6969/announce
 
 udp://benouworldtrip.fr:6969/announce
@@ -147,6 +149,8 @@ udp://line-net.ru:6969/announce
 udp://ln.mtahost.co:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
+
+udp://matsurifubuki.xyz:8826/announce
 
 udp://movies.zsw.ca:6969/announce
 
