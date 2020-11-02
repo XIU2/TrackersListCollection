@@ -6,8 +6,6 @@ http://178.175.143.27:80/announce
 
 http://5rt.tace.ru:60889/announce
 
-http://62.210.202.61:80/announce
-
 http://78.30.254.12:2710/announce
 
 http://91.217.91.21:3218/announce
@@ -41,6 +39,8 @@ http://jsb.by:8000/announce
 http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://open.touki.ru:80/announce.php
 
@@ -96,9 +96,13 @@ http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.edoardocolombo.eu:6969/announce
 
+http://tracker.electro-torrent.pl:80/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
+
+http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -136,8 +140,6 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://tracker4.itzmx.com:2710/announce
-
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -153,6 +155,8 @@ https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
+
+https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
 
@@ -318,8 +322,6 @@ udp://bclearning.top:6969/announce
 
 udp://benouworldtrip.fr:6969/announce
 
-udp://bioquantum.co.za:6969/announce
-
 udp://bitsparadise.info:6969/announce
 
 udp://blokas.io:6969/announce
@@ -349,6 +351,8 @@ udp://cdn-2.gamecoast.org:6969/announce
 udp://chanchan.uchuu.co.uk:6969/announce
 
 udp://chihaya.toss.li:9696/announce
+
+udp://cloud.matsurifubuki.xyz:8826/announce
 
 udp://code2chicken.nl:6969/announce
 
@@ -396,8 +400,6 @@ udp://ln.mtahost.co:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
 
-udp://matsurifubuki.xyz:8826/announce
-
 udp://mgtracker.org:2710/announce
 
 udp://movies.zsw.ca:6969/announce
@@ -419,6 +421,8 @@ udp://open.stealth.si:80/announce
 udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
+
+udp://peerfect.org:6969/announce
 
 udp://public-tracker.zooki.xyz:6969/announce
 

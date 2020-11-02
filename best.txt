@@ -4,8 +4,6 @@ http://5rt.tace.ru:60889/announce
 
 http://btracker.top:11451/announce
 
-http://explodie.org:6969/announce
-
 http://h4.trakx.nibba.trade:80/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -116,6 +114,8 @@ udp://cdn-2.gamecoast.org:6969/announce
 
 udp://chanchan.uchuu.co.uk:6969/announce
 
+udp://cloud.matsurifubuki.xyz:8826/announce
+
 udp://code2chicken.nl:6969/announce
 
 udp://cutiegirl.ru:6969/announce
@@ -149,8 +149,6 @@ udp://line-net.ru:6969/announce
 udp://ln.mtahost.co:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
-
-udp://matsurifubuki.xyz:8826/announce
 
 udp://movies.zsw.ca:6969/announce
 
