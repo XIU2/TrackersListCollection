@@ -30,8 +30,6 @@ http://derpyradio.net:6969/announce
 
 http://explodie.org:6969/announce
 
-http://grifon.info:80/announce
-
 http://h4.trakx.nibba.trade:80/announce
 
 http://jsb.by:8000/announce
@@ -39,8 +37,6 @@ http://jsb.by:8000/announce
 http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://open.touki.ru:80/announce.php
 
@@ -96,8 +92,6 @@ http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.edoardocolombo.eu:6969/announce
 
-http://tracker.electro-torrent.pl:80/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -121,6 +115,8 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.sakurato.xyz:23333/announce
 
 http://tracker.sloppyta.co:80/announce
+
+http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.trackerfix.com:80/announce
 

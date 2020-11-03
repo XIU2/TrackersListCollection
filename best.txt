@@ -84,8 +84,6 @@ udp://9.rarbg.to:2710/announce
 
 udp://aaa.army:8866/announce
 
-udp://adm.category5.tv:6969/announce
-
 udp://adminion.n-blade.ru:6969/announce
 
 udp://api.bitumconference.ru:6969/announce
@@ -99,8 +97,6 @@ udp://benouworldtrip.fr:6969/announce
 udp://blokas.io:6969/announce
 
 udp://bms-hosxp.com:6969/announce
-
-udp://bt.okmp3.ru:2710/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -141,6 +137,8 @@ udp://inferno.demonoid.is:3391/announce
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
+
+udp://johnrosen1.com:6969/announce
 
 udp://kanal-4.de:6969/announce
 
@@ -197,8 +195,6 @@ udp://tracker.army:6969/announce
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -261,8 +257,6 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 udp://vibe.community:6969/announce
 
 udp://wassermann.online:6969/announce
-
-udp://www.torrent.eu.org:451/announce
 
 udp://z.mercax.com:53/announce
 
