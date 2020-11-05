@@ -4,6 +4,8 @@ http://5rt.tace.ru:60889/announce
 
 http://btracker.top:11451/announce
 
+http://derpyradio.net:6969/announce
+
 http://h4.trakx.nibba.trade:80/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -27,6 +29,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.noobsubs.net:80/announce
+
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.sakurato.xyz:23333/announce
 
@@ -88,8 +92,6 @@ udp://adm.category5.tv:6969/announce
 
 udp://adminion.n-blade.ru:6969/announce
 
-udp://app.icon256.com:8000/announce
-
 udp://aruacfilmes.com.br:6969/announce
 
 udp://benouworldtrip.fr:6969/announce
@@ -139,8 +141,6 @@ udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://johnrosen1.com:6969/announce
 
 udp://kanal-4.de:6969/announce
-
-udp://line-net.ru:6969/announce
 
 udp://ln.mtahost.co:6969/announce
 
