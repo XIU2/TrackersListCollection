@@ -30,10 +30,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.opentrackr.org:1337/announce
-
-http://tracker.sakurato.xyz:23333/announce
-
 http://tracker.trackerfix.com:80/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -87,8 +83,6 @@ udp://9.rarbg.me:2710/announce
 udp://9.rarbg.to:2710/announce
 
 udp://aaa.army:8866/announce
-
-udp://adm.category5.tv:6969/announce
 
 udp://adminion.n-blade.ru:6969/announce
 

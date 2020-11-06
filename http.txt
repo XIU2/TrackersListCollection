@@ -94,8 +94,6 @@ http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.edoardocolombo.eu:6969/announce
 
-http://tracker.electro-torrent.pl:80/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -113,8 +111,6 @@ http://tracker.moeking.me:6969/announce
 http://tracker.noobsubs.net:80/announce
 
 http://tracker.opentrackr.org:1337/announce
-
-http://tracker.sakurato.xyz:23333/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -142,6 +138,8 @@ http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
+http://www.loushao.net:8080/announce
+
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
@@ -152,13 +150,9 @@ https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
 
-https://open.kickasstracker.com:443/announce
-
 https://opentracker.acgnx.se:443/announce
 
 https://tp.m-team.cc:443/announce.php
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
