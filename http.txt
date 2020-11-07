@@ -6,8 +6,6 @@ http://178.175.143.27:80/announce
 
 http://5rt.tace.ru:60889/announce
 
-http://62.210.202.61:80/announce
-
 http://78.30.254.12:2710/announce
 
 http://91.217.91.21:3218/announce
@@ -33,8 +31,6 @@ http://derpyradio.net:6969/announce
 http://explodie.org:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
-
-http://jsb.by:8000/announce
 
 http://ns349743.ip-91-121-106.eu:80/announce
 
@@ -94,6 +90,8 @@ http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.edoardocolombo.eu:6969/announce
 
+http://tracker.electro-torrent.pl:80/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -104,23 +102,19 @@ http://tracker.kamigami.org:2710/announce
 
 http://tracker.kuroy.me:5944/announce
 
-http://tracker.lelux.fi:80/announce
-
 http://tracker.moeking.me:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.sakurato.xyz:23333/announce
+
 http://tracker.skyts.net:6969/announce
 
 http://tracker.sloppyta.co:80/announce
 
 http://tracker.trackerfix.com:80/announce
-
-http://tracker.uw0.xyz:6969/announce
-
-http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -166,9 +160,9 @@ https://tracker.hama3.net:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-https://tracker.lelux.fi:443/announce
-
 https://tracker.lilithraws.cf:443/announce
+
+https://tracker.magnetoo.io:443/announce
 
 https://tracker.nitrix.me:443/announce
 

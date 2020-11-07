@@ -30,6 +30,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.noobsubs.net:80/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 http://tracker.trackerfix.com:80/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -54,6 +56,8 @@ https://tracker.imgoingto.icu:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
+https://tracker.magnetoo.io:443/announce
+
 https://tracker.nitrix.me:443/announce
 
 https://tracker.parrotlinux.org:443/announce
@@ -61,8 +65,6 @@ https://tracker.parrotlinux.org:443/announce
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.tamersunion.org:443/announce
-
-https://tracker6.lelux.fi:443/announce
 
 https://trakx.herokuapp.com:443/announce
 
@@ -178,6 +180,8 @@ udp://torrent.tdjs.tech:6969/announce
 
 udp://torrentclub.online:54123/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -197,8 +201,6 @@ udp://tracker.ds.is:6969/announce
 udp://tracker.dyne.org:6969/announce
 
 udp://tracker.gbitt.info:80/announce
-
-udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.kamigami.org:2710/announce
 
