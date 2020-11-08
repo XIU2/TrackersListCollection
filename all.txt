@@ -48,6 +48,8 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
+http://rt.optizone.ru:80/announce
+
 http://rt.tace.ru:80/announce
 
 http://secure.pow7.com:80/announce
@@ -90,11 +92,11 @@ http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.edoardocolombo.eu:6969/announce
 
-http://tracker.electro-torrent.pl:80/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
+
+http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -113,6 +115,8 @@ http://tracker.sakurato.xyz:23333/announce
 http://tracker.skyts.net:6969/announce
 
 http://tracker.sloppyta.co:80/announce
+
+http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
@@ -160,13 +164,11 @@ https://tracker.hama3.net:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
+https://tracker.lelux.fi:443/announce
+
 https://tracker.lilithraws.cf:443/announce
 
-https://tracker.magnetoo.io:443/announce
-
 https://tracker.nitrix.me:443/announce
-
-https://tracker.parrotlinux.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
@@ -174,13 +176,9 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker6.lelux.fi:443/announce
 
-https://trakx.herokuapp.com:443/announce
-
 https://w.wwwww.wtf:443/announce
 
 https://www.wareztorrent.com:443/announce
-
-udp://10.rarbg.me:80/announce
 
 udp://104.238.198.186:8000/announce
 
@@ -189,8 +187,6 @@ udp://107.150.14.110:6969/announce
 udp://109.121.134.121:1337/announce
 
 udp://114.55.113.60:6969/announce
-
-udp://12.rarbg.me:80/announce
 
 udp://128.199.70.66:5944/announce
 
@@ -302,8 +298,6 @@ udp://app.icon256.com:8000/announce
 
 udp://aruacfilmes.com.br:6969/announce
 
-udp://asger.xyz:6969/announce
-
 udp://bclearning.top:6969/announce
 
 udp://benouworldtrip.fr:6969/announce
@@ -407,8 +401,6 @@ udp://open.stealth.si:80/announce
 udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
-
-udp://peerfect.org:6969/announce
 
 udp://public-tracker.zooki.xyz:6969/announce
 
