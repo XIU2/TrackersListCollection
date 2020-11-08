@@ -21,29 +21,29 @@ Tracker is a necessary role in BT download, it can effectively improve BT downlo
 
 The more people use Tracker, the faster the BT download speed, **so please recommend it to your friends!**  
 
-*The figure below shows the BT download speed after using Tracker. (ALL Tracker list)*  
+_The figure below shows the BT download speed after using Tracker. (ALL Tracker list)_  
 
 ![BitComet](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-02.png)
 ![qBittorrentEE](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-07.png)
 
-*Those who are interested can download and try **[ubuntu-20.04.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.04.1-desktop-amd64.iso.torrent)** , this resource has thousands of people worldwide to provide uploads , So most people download fast!*
+_Those who are interested can download and try **[ubuntu-20.04.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.04.1-desktop-amd64.iso.torrent)** , this resource has thousands of people worldwide to provide uploads , So most people download fast!_
 
 ****
 
 ### Updated: 2020-11-08
 
-*These lists are updated automatically daily **[(Update Log)](https://github.com/XIU2/TrackersListCollection/releases)** :*
+_These lists are updated automatically daily **[(Update Log)](https://github.com/XIU2/TrackersListCollection/releases)** :_
 
 > BEST Tracker list is relatively more stable, concise.  
 > ALL Tracker list is more in number and theoretically better.  
 > **The number of Tracker does not affect the operation of the BT software, so I recommend using the `ALL Tracker list` to maximize the download speed !**
 
 * **BEST Tracker list:** (128 trackers)  
- ***https://trackerslist.com/best.txt***  
+ _**https://trackerslist.com/best.txt**_  
 * **ALL Tracker list:** (295 trackers)  
- ***https://trackerslist.com/all.txt***  
+ _**https://trackerslist.com/all.txt**_  
 * **HTTP(S) Tracker list:** (91 trackers)  
- ***https://trackerslist.com/http.txt***  
+ _**https://trackerslist.com/http.txt**_  
 
 > **Alternate:** Replace `trackerslist.com` with `cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master` !  
 
@@ -54,11 +54,11 @@ The more people use Tracker, the faster the BT download speed, **so please recom
 In order to facilitate adding Tracker to Aria2, I also made a Tracker list in Aria2 format. The update is consistent.
 
 * **BEST Tracker list:**  
- ***https://trackerslist.com/best_aria2.txt***  
+ _**https://trackerslist.com/best_aria2.txt**_  
 * **ALL Tracker list:**  
- ***https://trackerslist.com/all_aria2.txt***  
+ _**https://trackerslist.com/all_aria2.txt**_  
 * **HTTP(S) Tracker list:**  
- ***https://trackerslist.com/http_aria2.txt***  
+ _**https://trackerslist.com/http_aria2.txt**_  
 
 ****
 
@@ -76,7 +76,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 #### BitComet:  
 
-> ***http://www.bitcomet.com***
+> _**http://www.bitcomet.com**_
 
 <img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-12.png" width="75%">
 
@@ -84,7 +84,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 #### qBittorrent Enhanced Edition:
 
-> ***Github: https://github.com/c0re100/qBittorrent-Enhanced-Edition***  
+> _**Github: https://github.com/c0re100/qBittorrent-Enhanced-Edition**_  
 
 > Based qBittorrent, added many useful features, such as **Subscribing to Tracker URL** , you can easily use with this project.  
 
@@ -96,7 +96,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 #### qBittorrent:
 
-> ***https://www.qbittorrent.org***
+> _**https://www.qbittorrent.org**_
 
 <img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-04.png" width="75%">
 
@@ -104,7 +104,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 #### Motrix:
 
-> ***https://motrix.app***
+> _**https://motrix.app**_
 
 <img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-10.png" width="75%">
 
@@ -112,7 +112,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 #### Xdown:
 
-> ***https://xdown.org***
+> _**https://xdown.org**_
 
 <img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-08.png" width="75%">
 

@@ -15,8 +15,8 @@
 
 ### Tracker是什么?
 
-- ***BT 下载的文件都是其他用户上传给你的。***
-- ***BT 下载速度都来自其他用户的上传速度。*** 
+- _**BT 下载的文件都是其他用户上传给你的。**_
+- _**BT 下载速度都来自其他用户的上传速度。**_ 
 
 做种上传的用户越多，你的下载速度就越快，而用户靠 **Peer、DHT、Tracker** 获得。  
 
@@ -25,35 +25,35 @@
 > **DHT：** 分布式储存用户信息，获得一个用户后，会通过该用户获得更多的用户信息。缺点是需要养（下载热门资源）。  
 > ——  
 > **Tracker：** 记录下载同一个资源的用户信息并提供给你，帮助你与其他用户建立连接。  
-> ***以上三者的优缺点是互补的，不存在谁替代谁，一起用效果最好！***   
+> _**以上三者的优缺点是互补的，不存在谁替代谁，一起用效果最好！**_   
 
 **使用 Tracker 可以帮你获取到更多的用户，用户数量增加了，相应的也会提高下载速度。**  
 
-> *使用这些 Tracker 的人越多，用户数量就越多，大家的下载速度就越快，所以建议多多推荐给他人！*  
+> _使用这些 Tracker 的人越多，用户数量就越多，大家的下载速度就越快，所以建议多多推荐给他人！_  
 
-*下图是使用我整理的 Tracker 列表下载BT的速度（完整列表）。*
+_下图是使用我整理的 Tracker 列表下载BT的速度（完整列表）。_
 
 ![BitComet](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-02.png)
 ![qBittorrentEE](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-03.png)
 
-*有兴趣的可以下载 **[ubuntu-20.04.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.04.1-desktop-amd64.iso.torrent)** 试试，该资源全球数千人做种上传，因此大部分人下载速度很快！*
+_有兴趣的可以下载 **[ubuntu-20.04.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.04.1-desktop-amd64.iso.torrent)** 试试，该资源全球数千人做种上传，因此大部分人下载速度很快！_
 
 ****
 
 ### 更新时间: 2020-11-08
 
-*以下所有列表每天自动更新 **[(更新日志)](https://github.com/XIU2/TrackersListCollection/releases)** ：*
+_以下所有列表每天自动更新 **[(更新日志)](https://github.com/XIU2/TrackersListCollection/releases)** ：_
 
 > 精选列表中的 Tracker 数量少，优质稳定，但可能无法最大化下载速度。  
 > 完整列表中的 Tracker 数量多，效果更好，但不可避免的会存在少量死链。  
 > **Tracker 数量并不影响 BT 软件的运行速度，因此我更推荐使用 `「完整列表」` ，以使下载速度最大化！**
 
 * **精选列表：**(128 个)  
- ***https://trackerslist.com/best.txt***  
+ _**https://trackerslist.com/best.txt**_  
 * **完整列表：**(295 个)  
- ***https://trackerslist.com/all.txt***  
+ _**https://trackerslist.com/all.txt**_  
 * **HTTP(S)列表：**(91 个)  
- ***https://trackerslist.com/http.txt***  
+ _**https://trackerslist.com/http.txt**_  
 
 > **备用：** 将地址中 `trackerslist.com` 替换为 `cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master` ！  
 
@@ -64,11 +64,11 @@
 为了方便将 Tracker 添加到 Aria2，我还制作了一份 Aria2 配置格式的 Tracker 列表，每天跟随更新。
 
 * **精选列表：**  
- ***https://trackerslist.com/best_aria2.txt***  
+ _**https://trackerslist.com/best_aria2.txt**_  
 * **完整列表：**  
- ***https://trackerslist.com/all_aria2.txt***  
+ _**https://trackerslist.com/all_aria2.txt**_  
 * **HTTP(S)列表：**  
- ***https://trackerslist.com/http_aria2.txt***  
+ _**https://trackerslist.com/http_aria2.txt**_  
 
 ****
 
@@ -86,8 +86,8 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 #### BitComet (比特彗星):
 
-> ***官方网站：http://www.bitcomet.com***  
-> ***便携版：https://xiu.lanzoux.com/b073c7g4f (已配置 Tracker)***  
+> _**官方网站：http://www.bitcomet.com**_  
+> _**便携版：https://xiu.lanzoux.com/b073c7g4f (已配置 Tracker，如打开白屏则是广告屏蔽扩展问题)**_  
 
 * **工具 - 选项 - 任务设置 - BT下载 - Tracker**  
  **勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[立即更新\]** 上面就会显示获取的 Tracker 了。(如下图所示)  
@@ -100,8 +100,8 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 #### qBittorrent Enhanced Edition (增强版):
 
-> ***Github：https://github.com/c0re100/qBittorrent-Enhanced-Edition***  
-> ***便携版：https://xiu.lanzoux.com/b073dnr7g (已配置 Tracker，[开源自动化制作脚本](https://shell.xiu2.xyz/#/md/qbee_p))***  
+> _**Github：https://github.com/c0re100/qBittorrent-Enhanced-Edition**_  
+> _**便携版：https://xiu.lanzoux.com/b073dnr7g (已配置 Tracker，[开源自动化制作脚本](https://shell.xiu2.xyz/#/md/qbee_p)，打开白屏则是广告屏蔽扩展问题)**_  
 
 > 基于 qBittorrent，增加了很多实用功能，例如 **订阅 Tracker URL** ，可以很方便的配合本项目使用。
 
@@ -114,8 +114,8 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 #### qBittorrent:
 
-> ***官方网站：https://www.qbittorrent.org***  
-> ***便携版：https://xiu.lanzoux.com/b073jjwta ([开源自动化制作脚本](https://shell.xiu2.xyz/#/md/qb_p))***  
+> _**官方网站：https://www.qbittorrent.org**_  
+> _**便携版：https://xiu.lanzoux.com/b073jjwta ([开源自动化制作脚本](https://shell.xiu2.xyz/#/md/qb_p)，如打开白屏则是广告屏蔽扩展问题)**_  
 
 * **选项[齿轮图标] - BitTorrent**  
  **勾选下图红框内的选项** 并复制所有 Tracker 后粘贴到下方输入框中，然后点击 **\[Apply\]** 保存。(如下图所示)  
@@ -126,7 +126,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 #### Motrix:
 
-> ***官方网站：https://motrix.app***
+> _**官方网站：https://motrix.app**_
 
 * **选项(左下角) - 进阶设置 - Tracker 服务器 - ﹀**  
  **勾选任意一个选项（如 all.txt）** ，然后点击 **\[保存并应用\]** 保存。(如下图所示)  
@@ -137,7 +137,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 #### Xdown:
 
-> ***官方网站：https://xdown.org***
+> _**官方网站：https://xdown.org**_
 
 * **设置 - BitTorrent设置**  
  **勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[确定\]** 保存。(如下图所示) 
@@ -180,7 +180,7 @@ Tracker 可以帮你找到更多的用户，并帮助你们之间建立链接，
 ![Xunlei](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-09.png)
 > 呐，刚才我做种时截的图，迅雷用户一直吸我提供的上传，而下载进度永远为 0.0%
 
-***更详细的请看这篇文章：[https://zhuanlan.zhihu.com/p/87193566](https://zhuanlan.zhihu.com/p/87193566)***
+_**更详细、完整的请看这篇文章：[https://zhuanlan.zhihu.com/p/87193566](https://zhuanlan.zhihu.com/p/87193566)**_
 
 ****
 
