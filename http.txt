@@ -24,13 +24,13 @@ http://bobbialbano.com:6969/announce
 
 http://bt.pusacg.org:8080/announce
 
-http://btracker.top:11451/announce
-
 http://derpyradio.net:6969/announce
 
 http://explodie.org:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
+
+http://jsb.by:8000/announce
 
 http://ns349743.ip-91-121-106.eu:80/announce
 
@@ -59,8 +59,6 @@ http://share.camoe.cn:8080/announce
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
-
-http://t.overflow.biz:6969/announce
 
 http://t1.pow7.com:80/announce
 
@@ -92,6 +90,8 @@ http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.edoardocolombo.eu:6969/announce
 
+http://tracker.electro-torrent.pl:80/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -104,21 +104,19 @@ http://tracker.kamigami.org:2710/announce
 
 http://tracker.kuroy.me:5944/announce
 
+http://tracker.lelux.fi:80/announce
+
 http://tracker.moeking.me:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.sakurato.xyz:23333/announce
-
-http://tracker.skyts.net:6969/announce
-
 http://tracker.sloppyta.co:80/announce
 
-http://tracker.torrentyorg.pl:80/announce
-
 http://tracker.trackerfix.com:80/announce
+
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -152,6 +150,8 @@ https://opentracker.acgnx.se:443/announce
 
 https://tp.m-team.cc:443/announce.php
 
+https://tr.ready4.icu:443/announce
+
 https://tracker.bt-hash.com:443/announce
 
 https://tracker.cyber-hub.net:443/announce
@@ -164,8 +164,6 @@ https://tracker.hama3.net:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-https://tracker.lelux.fi:443/announce
-
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nitrix.me:443/announce
@@ -175,6 +173,8 @@ https://tracker.sloppyta.co:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://tracker6.lelux.fi:443/announce
+
+https://trakx.herokuapp.com:443/announce
 
 https://w.wwwww.wtf:443/announce
 
