@@ -6,6 +6,8 @@ http://bt.3kb.xyz:80/announce
 
 http://derpyradio.net:6969/announce
 
+http://explodie.org:6969/announce
+
 http://h4.trakx.nibba.trade:80/announce
 
 http://milanesitracker.tekcities.com:80/announce
@@ -37,6 +39,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.noobsubs.net:80/announce
+
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.sakurato.xyz:23333/announce
 
@@ -118,11 +122,11 @@ udp://cdn-2.gamecoast.org:6969/announce
 
 udp://chanchan.uchuu.co.uk:6969/announce
 
-udp://cloud.matsurifubuki.xyz:8826/announce
-
 udp://code2chicken.nl:6969/announce
 
 udp://cutiegirl.ru:6969/announce
+
+udp://cyteam.ru:6969/announce
 
 udp://daveking.com:6969/announce
 
@@ -190,6 +194,8 @@ udp://torrent.tdjs.tech:6969/announce
 
 udp://torrentclub.online:54123/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -205,8 +211,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.ds.is:6969/announce
-
-udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.kamigami.org:2710/announce
 
