@@ -189,7 +189,6 @@ _**更详细、完整的请看这篇文章：[https://zhuanlan.zhihu.com/p/87193
 该项目汇集了以下公共跟踪器列表：
 * [https://github.com/ngosang/trackerslist](https://github.com/ngosang/trackerslist)
 * [https://newtrackon.com/list](https://newtrackon.com/list)
-* [https://torrents.io/tracker-list/](https://torrents.io/tracker-list/)
 * [http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt](http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt)
 * [https://tinytorrent.net/best-torrent-tracker-list-updated/](https://tinytorrent.net/best-torrent-tracker-list-updated/)
 * [http://www.torrenttrackerlist.com/torrent-tracker-list](http://www.torrenttrackerlist.com/torrent-tracker-list)
