@@ -34,8 +34,6 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 http://tracker.noobsubs.net:80/announce
 
 http://tracker.sakurato.xyz:23333/announce
@@ -53,8 +51,6 @@ http://vps02.net.orel.ru:80/announce
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://bitstorm.azukachan.com:443/announce
 
 https://tp.m-team.cc:443/announce.php
 
@@ -169,6 +165,8 @@ udp://open.stealth.si:80/announce
 udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
+
+udp://p4p.arenabg.ch:1337/announce
 
 udp://publictracker.xyz:6969/announce
 

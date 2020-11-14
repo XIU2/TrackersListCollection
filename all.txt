@@ -26,6 +26,8 @@ http://bt.pusacg.org:8080/announce
 
 http://derpyradio.net:6969/announce
 
+http://explodie.org:6969/announce
+
 http://h4.trakx.nibba.trade:80/announce
 
 http://jsb.by:8000/announce
@@ -40,8 +42,6 @@ http://open.touki.ru:80/announce.php
 
 http://opentracker.i2p.rocks:6969/announce
 
-http://p4p.arenabg.com:1337/announce
-
 http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -49,6 +49,8 @@ http://retracker.hotplug.ru:2710/announce
 http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
+
+http://rt.optizone.ru:80/announce
 
 http://rt.tace.ru:80/announce
 
@@ -92,15 +94,17 @@ http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.edoardocolombo.eu:6969/announce
 
+http://tracker.electro-torrent.pl:80/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 http://tracker.kamigami.org:2710/announce
 
 http://tracker.kuroy.me:5944/announce
+
+http://tracker.lelux.fi:80/announce
 
 http://tracker.moeking.me:6969/announce
 
@@ -118,7 +122,7 @@ http://tracker.trackerfix.com:80/announce
 
 http://tracker.uw0.xyz:6969/announce
 
-http://tracker.zum.bi:6969/announce
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
@@ -129,6 +133,8 @@ http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
@@ -146,13 +152,13 @@ https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
 
-https://bitstorm.azukachan.com:443/announce
-
 https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
 
 https://tp.m-team.cc:443/announce.php
+
+https://tr.ready4.icu:443/announce
 
 https://tr.steins-gate.moe:2096/announce
 
@@ -408,6 +414,8 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
+udp://p4p.arenabg.ch:1337/announce
+
 udp://public-tracker.zooki.xyz:6969/announce
 
 udp://public.popcorn-tracker.org:6969/announce
@@ -557,6 +565,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://u.wwwww.wtf:1/announce
 
