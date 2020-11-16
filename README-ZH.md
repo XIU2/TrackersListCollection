@@ -42,7 +42,7 @@ _有兴趣的可以下载 **[ubuntu-20.04.torrent](https://releases.ubuntu.com/2
 
 ****
 
-### 更新时间: 2020-11-16
+### 更新时间: 2020-11-17
 
 _以下所有列表每天自动更新 **[(更新日志)](https://github.com/XIU2/TrackersListCollection/releases)** ：_
 
@@ -52,9 +52,9 @@ _以下所有列表每天自动更新 **[(更新日志)](https://github.com/XIU2
 
 * **精选列表：**(131 个)  
  _**https://trackerslist.com/best.txt**_  
-* **完整列表：**(296 个)  
+* **完整列表：**(297 个)  
  _**https://trackerslist.com/all.txt**_  
-* **HTTP(S)列表：**(97 个)  
+* **HTTP(S)列表：**(96 个)  
  _**https://trackerslist.com/http.txt**_  
 
 > **备用：** 将地址中 `trackerslist.com` 替换为 `cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master` ！  

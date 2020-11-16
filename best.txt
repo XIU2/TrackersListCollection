@@ -6,9 +6,15 @@ http://bt.3kb.xyz:80/announce
 
 http://derpyradio.net:6969/announce
 
+http://explodie.org:6969/announce
+
+http://h4.trakx.nibba.trade:80/announce
+
 http://milanesitracker.tekcities.com:80/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://p4p.arenabg.com:1337/announce
 
 http://rt.tace.ru:80/announce
 
@@ -42,6 +48,8 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
+http://tracker4.itzmx.com:2710/announce
+
 http://vps02.net.orel.ru:80/announce
 
 http://www.wareztorrent.com:80/announce
@@ -74,11 +82,7 @@ https://trakx.herokuapp.com:443/announce
 
 https://w.wwwww.wtf:443/announce
 
-udp://3rt.tace.ru:60889/announce
-
 udp://47.ip-51-68-199.eu:6969/announce
-
-udp://61626c.net:6969/announce
 
 udp://6rt.tace.ru:80/announce
 
@@ -116,8 +120,6 @@ udp://code2chicken.nl:6969/announce
 
 udp://cutiegirl.ru:6969/announce
 
-udp://cyteam.ru:6969/announce
-
 udp://daveking.com:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
@@ -140,8 +142,6 @@ udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
 udp://johnrosen1.com:6969/announce
 
-udp://kanal-4.de:6969/announce
-
 udp://line-net.ru:6969/announce
 
 udp://ln.mtahost.co:6969/announce
@@ -161,6 +161,8 @@ udp://open.stealth.si:80/announce
 udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
+
+udp://p4p.arenabg.ch:1337/announce
 
 udp://publictracker.xyz:6969/announce
 
@@ -189,8 +191,6 @@ udp://thetracker.org:80/announce
 udp://torrent.tdjs.tech:6969/announce
 
 udp://torrentclub.online:54123/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x.tf:6969/announce
 
