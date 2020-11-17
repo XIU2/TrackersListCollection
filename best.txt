@@ -6,8 +6,6 @@ http://bt.3kb.xyz:80/announce
 
 http://derpyradio.net:6969/announce
 
-http://explodie.org:6969/announce
-
 http://h4.trakx.nibba.trade:80/announce
 
 http://milanesitracker.tekcities.com:80/announce
@@ -47,8 +45,6 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-http://tracker4.itzmx.com:2710/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -165,8 +161,6 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://p4p.arenabg.ch:1337/announce
 
 udp://publictracker.xyz:6969/announce
-
-udp://retracker.akado-ural.ru:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
