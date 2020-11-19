@@ -50,14 +50,14 @@ _以下所有列表每天自动更新 **[(更新日志)](https://github.com/XIU2
 > 完整列表中的 Tracker 数量多，效果更好，但不可避免的会存在少量死链。  
 > **Tracker 数量并不影响 BT 软件的运行速度，因此我更推荐使用 `「完整列表」` ，以使下载速度最大化！**
 
-* **精选列表：**(128 个)  
+- **精选列表：**(128 个)  
  _**https://trackerslist.com/best.txt**_  
-* **完整列表：**(296 个)  
+- **完整列表：**(296 个)  
  _**https://trackerslist.com/all.txt**_  
-* **HTTP(S)列表：**(94 个)  
+- **HTTP(S)列表：**(94 个)  
  _**https://trackerslist.com/http.txt**_  
 
-> **备用：** 将地址中 `trackerslist.com` 替换为 `cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master` ！  
+> **备用：** 将地址中 `trackerslist.com` 替换为 `cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master`  
 
 ****
 
@@ -65,12 +65,12 @@ _以下所有列表每天自动更新 **[(更新日志)](https://github.com/XIU2
 
 为了方便将 Tracker 添加到 Aria2，我还制作了一份 Aria2 配置格式的 Tracker 列表，每天跟随更新。
 
-* **精选列表：**  
- **_https://trackerslist.com/best_aria2.txt_**  
-* **完整列表：**  
- **_https://trackerslist.com/all_aria2.txt_**  
-* **HTTP(S)列表：**  
- **_https://trackerslist.com/http_aria2.txt_**  
+- **精选列表：**  
+ **_[https://trackerslist.com/best_aria2.txt](ttps://trackerslist.com/best_aria2.txt)_**  
+- **完整列表：**  
+ **_[https://trackerslist.com/all_aria2.txt](https://trackerslist.com/all_aria2.txt)_**  
+- **HTTP(S)列表：**  
+ **_[https://trackerslist.com/http_aria2.txt](https://trackerslist.com/http_aria2.txt)_**  
 
 ****
 
@@ -89,7 +89,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 #### BitComet (比特彗星):
 
 > _**官方网站：http://www.bitcomet.com**_  
-> _**便携版：https://xiu.lanzoux.com/b073c7g4f (已配置 Tracker，如打开白屏则是广告屏蔽扩展问题)**_  
+> _**便携版：https://xiu.lanzoux.com/b073c7g4f (已配置 Tracker，打开白屏请加入广告屏蔽白名单)**_  
 
 * **工具 - 选项 - 任务设置 - BT下载 - Tracker**  
  **勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[立即更新\]** 上面就会显示获取的 Tracker 了。(如下图所示)  
@@ -103,7 +103,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 #### qBittorrent Enhanced Edition (增强版):
 
 > _**Github：https://github.com/c0re100/qBittorrent-Enhanced-Edition**_  
-> _**便携版：https://xiu.lanzoux.com/b073dnr7g (已配置 Tracker，[开源自动化制作脚本](https://shell.xiu2.xyz/#/md/qbee_p)，打开白屏则是广告屏蔽扩展问题)**_  
+> _**便携版：https://xiu.lanzoux.com/b073dnr7g (已配置 Tracker，[开源自动化制作脚本](https://shell.xiu2.xyz/#/md/qbee_p)，打开白屏请加入广告屏蔽白名单)**_  
 
 > 基于 qBittorrent，增加了很多实用功能，例如 **订阅 Tracker URL** ，可以很方便的配合本项目使用。
 
@@ -117,7 +117,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 #### qBittorrent:
 
 > _**官方网站：https://www.qbittorrent.org**_  
-> _**便携版：https://xiu.lanzoux.com/b073jjwta ([开源自动化制作脚本](https://shell.xiu2.xyz/#/md/qb_p)，如打开白屏则是广告屏蔽扩展问题)**_  
+> _**便携版：https://xiu.lanzoux.com/b073jjwta ([开源自动化制作脚本](https://shell.xiu2.xyz/#/md/qb_p)，如打开白屏请加入广告屏蔽白名单)**_  
 
 * **选项[齿轮图标] - BitTorrent**  
  **勾选下图红框内的选项** 并复制所有 Tracker 后粘贴到下方输入框中，然后点击 **\[Apply\]** 保存。(如下图所示)  

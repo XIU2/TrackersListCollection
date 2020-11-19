@@ -38,14 +38,14 @@ _These lists are updated automatically daily **[(Update Log)](https://github.com
 > ALL Tracker list is more in number and theoretically better.  
 > **The number of Tracker does not affect the operation of the BT software, so I recommend using the `ALL Tracker list` to maximize the download speed !**
 
-* **BEST Tracker list:** (128 trackers)  
+- **BEST Tracker list:** (128 trackers)  
  _**https://trackerslist.com/best.txt**_  
-* **ALL Tracker list:** (296 trackers)  
+- **ALL Tracker list:** (296 trackers)  
  _**https://trackerslist.com/all.txt**_  
-* **HTTP(S) Tracker list:** (94 trackers)  
+- **HTTP(S) Tracker list:** (94 trackers)  
  _**https://trackerslist.com/http.txt**_  
 
-> **Alternate:** Replace `trackerslist.com` with `cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master` !  
+> **Alternate:** Replace `trackerslist.com` with `cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master`  
 
 ****
 
@@ -53,12 +53,12 @@ _These lists are updated automatically daily **[(Update Log)](https://github.com
 
 In order to facilitate adding Tracker to Aria2, I also made a Tracker list in Aria2 format. The update is consistent.
 
-* **BEST Tracker list:**  
- _**https://trackerslist.com/best_aria2.txt**_  
-* **ALL Tracker list:**  
- _**https://trackerslist.com/all_aria2.txt**_  
-* **HTTP(S) Tracker list:**  
- _**https://trackerslist.com/http_aria2.txt**_  
+- **BEST Tracker list:**  
+ **_[https://trackerslist.com/best_aria2.txt](ttps://trackerslist.com/best_aria2.txt)_**  
+- **ALL Tracker list:**  
+ **_[https://trackerslist.com/all_aria2.txt](https://trackerslist.com/all_aria2.txt)_**  
+- **HTTP(S) Tracker list:**  
+ **_[https://trackerslist.com/http_aria2.txt](https://trackerslist.com/http_aria2.txt)_**  
 
 ****
 
