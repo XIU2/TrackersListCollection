@@ -66,7 +66,7 @@ _以下所有列表每天自动更新 **[(更新日志)](https://github.com/XIU2
 为了方便将 Tracker 添加到 Aria2，我还制作了一份 Aria2 配置格式的 Tracker 列表，每天跟随更新。
 
 - **精选列表：**  
- **_[https://trackerslist.com/best_aria2.txt](ttps://trackerslist.com/best_aria2.txt)_**  
+ **_[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)_**  
 - **完整列表：**  
  **_[https://trackerslist.com/all_aria2.txt](https://trackerslist.com/all_aria2.txt)_**  
 - **HTTP(S)列表：**  

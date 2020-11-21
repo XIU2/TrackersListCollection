@@ -54,7 +54,7 @@ _These lists are updated automatically daily **[(Update Log)](https://github.com
 In order to facilitate adding Tracker to Aria2, I also made a Tracker list in Aria2 format. The update is consistent.
 
 - **BEST Tracker list:**  
- **_[https://trackerslist.com/best_aria2.txt](ttps://trackerslist.com/best_aria2.txt)_**  
+ **_[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)_**  
 - **ALL Tracker list:**  
  **_[https://trackerslist.com/all_aria2.txt](https://trackerslist.com/all_aria2.txt)_**  
 - **HTTP(S) Tracker list:**  
