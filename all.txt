@@ -4,6 +4,8 @@ http://1337.abcvg.info:80/announce
 
 http://5rt.tace.ru:60889/announce
 
+http://62.210.202.61:80/announce
+
 http://78.30.254.12:2710/announce
 
 http://91.217.91.21:3218/announce
@@ -26,8 +28,6 @@ http://bt.3kb.xyz:80/announce
 
 http://bt.pusacg.org:8080/announce
 
-http://derpyradio.net:6969/announce
-
 http://explodie.org:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
@@ -45,8 +45,6 @@ http://open.acgnxtracker.com:80/announce
 http://open.touki.ru:80/announce.php
 
 http://opentracker.i2p.rocks:6969/announce
-
-http://p4p.arenabg.ch:1337/announce
 
 http://p4p.arenabg.com:1337/announce
 
@@ -108,11 +106,13 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.internetwarriors.net:1337/announce
+http://tracker.gigatorrent.xyz:6969/announce
 
 http://tracker.kamigami.org:2710/announce
 
 http://tracker.kuroy.me:5944/announce
+
+http://tracker.lelux.fi:80/announce
 
 http://tracker.moeking.me:6969/announce
 
@@ -127,8 +127,6 @@ http://tracker.skyts.net:6969/announce
 http://tracker.sloppyta.co:80/announce
 
 http://tracker.trackerfix.com:80/announce
-
-http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -157,6 +155,8 @@ https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
+
+https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
 
@@ -306,6 +306,8 @@ udp://adminion.n-blade.ru:6969/announce
 
 udp://anidex.moe:6969/announce
 
+udp://api.bitumconference.ru:6969/announce
+
 udp://app.icon256.com:8000/announce
 
 udp://aruacfilmes.com.br:6969/announce
@@ -399,8 +401,6 @@ udp://movies.zsw.ca:6969/announce
 udp://mts.tvbit.co:6969/announce
 
 udp://nagios.tks.sumy.ua:80/announce
-
-udp://ns-1.x-fins.com:6969/announce
 
 udp://ns389251.ovh.net:6969/announce
 
@@ -528,6 +528,8 @@ udp://tracker.shkinev.me:6969/announce
 
 udp://tracker.sigterm.xyz:6969/announce
 
+udp://tracker.skynetcloud.site:6969/announce
+
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.swateam.org.uk:2710/announce
@@ -579,8 +581,6 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 udp://vibe.community:6969/announce
 
 udp://wassermann.online:6969/announce
-
-udp://www.loushao.net:8080/announce
 
 udp://www.midea123.z-media.com.cn:6969/announce
 
