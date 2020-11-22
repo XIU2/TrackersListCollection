@@ -34,11 +34,9 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.sakurato.xyz:23333/announce
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.trackerfix.com:80/announce
-
-http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -206,8 +204,6 @@ udp://tracker.ds.is:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
-udp://tracker.kamigami.org:2710/announce
-
 udp://tracker.leechers-paradise.org:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -245,6 +241,8 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://u.wwwww.wtf:1/announce
+
+udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://us-tracker.publictracker.xyz:6969/announce
 

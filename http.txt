@@ -4,8 +4,6 @@ http://1337.abcvg.info:80/announce
 
 http://5rt.tace.ru:60889/announce
 
-http://62.210.202.61:80/announce
-
 http://78.30.254.12:2710/announce
 
 http://91.217.91.21:3218/announce
@@ -30,10 +28,6 @@ http://bt.pusacg.org:8080/announce
 
 http://explodie.org:6969/announce
 
-http://h4.trakx.nibba.trade:80/announce
-
-http://jsb.by:8000/announce
-
 http://mail2.zelenaya.net:80/announce
 
 http://milanesitracker.tekcities.com:80/announce
@@ -42,9 +36,13 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://open.touki.ru:80/announce.php
 
 http://opentracker.i2p.rocks:6969/announce
+
+http://p4p.arenabg.ch:1337/announce
 
 http://p4p.arenabg.com:1337/announce
 
@@ -57,6 +55,8 @@ http://retracker.krs-ix.ru:80/announce
 http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
+
+http://rt.optizone.ru:80/announce
 
 http://rt.tace.ru:80/announce
 
@@ -108,25 +108,23 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.gigatorrent.xyz:6969/announce
 
-http://tracker.kamigami.org:2710/announce
-
 http://tracker.kuroy.me:5944/announce
 
 http://tracker.lelux.fi:80/announce
 
-http://tracker.moeking.me:6969/announce
-
 http://tracker.noobsubs.net:80/announce
 
 http://tracker.opentrackr.org:1337/announce
-
-http://tracker.sakurato.xyz:23333/announce
 
 http://tracker.skyts.net:6969/announce
 
 http://tracker.sloppyta.co:80/announce
 
 http://tracker.trackerfix.com:80/announce
+
+http://tracker.vraphim.com:6969/announce
+
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -140,11 +138,11 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://trun.tom.ru:80/announce
-
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
+
+http://www.loushao.net:8080/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -155,8 +153,6 @@ https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 
 https://aaa.army:8866/announce
-
-https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
 
