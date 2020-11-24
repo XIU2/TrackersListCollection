@@ -32,8 +32,6 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.itservicekoeberl.de:32769/announce
-
 http://tracker.noobsubs.net:80/announce
 
 http://tracker.trackerfix.com:80/announce

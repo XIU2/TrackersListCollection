@@ -24,6 +24,8 @@ http://bobbialbano.com:6969/announce
 
 http://bt.3kb.xyz:80/announce
 
+http://bt.okmp3.ru:2710/announce
+
 http://bt.pusacg.org:8080/announce
 
 http://explodie.org:6969/announce
@@ -38,11 +40,15 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://open.touki.ru:80/announce.php
 
 http://opentracker.i2p.rocks:6969/announce
 
 http://p4p.arenabg.ch:1337/announce
+
+http://p4p.arenabg.com:1337/announce
 
 http://pow7.com:80/announce
 
@@ -104,11 +110,9 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.gigatorrent.xyz:6969/announce
 
-http://tracker.internetwarriors.net:1337/announce
-
-http://tracker.itservicekoeberl.de:32769/announce
-
 http://tracker.kuroy.me:5944/announce
+
+http://tracker.lelux.fi:80/announce
 
 http://tracker.noobsubs.net:80/announce
 
@@ -138,10 +142,6 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://tracker4.itzmx.com:2710/announce
-
-http://trun.tom.ru:80/announce
-
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -162,8 +162,6 @@ https://opentracker.acgnx.se:443/announce
 
 https://tp.m-team.cc:443/announce.php
 
-https://tr.ready4.icu:443/announce
-
 https://tr.steins-gate.moe:2096/announce
 
 https://tracker.bt-hash.com:443/announce
@@ -177,6 +175,8 @@ https://tracker.gbitt.info:443/announce
 https://tracker.hama3.net:443/announce
 
 https://tracker.imgoingto.icu:443/announce
+
+https://tracker.lelux.fi:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
@@ -324,8 +324,6 @@ udp://bms-hosxp.com:6969/announce
 
 udp://bt.firebit.org:2710/announce
 
-udp://bt.okmp3.ru:2710/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.3kb.xyz:6969/announce
@@ -412,8 +410,6 @@ udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
-udp://opentracker.arg.bz:6969/announce
-
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://p4p.arenabg.ch:1337/announce
@@ -465,8 +461,6 @@ udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
 
 udp://tr2.ysagin.top:2710/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x.tf:6969/announce
 
@@ -579,8 +573,6 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 udp://vibe.community:6969/announce
 
 udp://wassermann.online:6969/announce
-
-udp://www.loushao.net:8080/announce
 
 udp://www.midea123.z-media.com.cn:6969/announce
 
