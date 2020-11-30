@@ -2,7 +2,11 @@ http://1337.abcvg.info:80/announce
 
 http://5rt.tace.ru:60889/announce
 
+http://asnet.pw:2710/announce
+
 http://bt.3kb.xyz:80/announce
+
+http://explodie.org:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
@@ -11,6 +15,8 @@ http://milanesitracker.tekcities.com:80/announce
 http://open.acgnxtracker.com:80/announce
 
 http://p4p.arenabg.com:1337/announce
+
+http://pt.lax.mx:80/announce
 
 http://rt.tace.ru:80/announce
 
@@ -34,9 +40,9 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.gigatorrent.xyz:6969/announce
-
 http://tracker.sakurato.xyz:23333/announce
+
+http://tracker.tfile.co:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
@@ -136,8 +142,6 @@ udp://free-tracker.zooki.xyz:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
-
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
 udp://johnrosen1.com:6969/announce
@@ -210,7 +214,7 @@ udp://tracker.ds.is:6969/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
-udp://tracker.opentrackr.org:1337/announce
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
@@ -244,8 +248,6 @@ udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-udp://u.wwwww.wtf:1/announce
-
 udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://us-tracker.publictracker.xyz:6969/announce
@@ -255,7 +257,5 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 udp://vibe.community:6969/announce
 
 udp://wassermann.online:6969/announce
-
-udp://z.mercax.com:53/announce
 
 udp://zephir.monocul.us:6969/announce
