@@ -222,8 +222,6 @@ http://tracker.flashtorrents.org:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.gigatorrent.xyz:6969/announce
-
 http://tracker.grepler.com:6969/announce
 
 http://tracker.internetwarriors.net:1337/announce
@@ -237,6 +235,8 @@ http://tracker.mg64.net:6881/announce
 http://tracker.moeking.me:6969/announce
 
 http://tracker.noobsubs.net:80/announce
+
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.sakurato.xyz:23333/announce
 
@@ -306,8 +306,6 @@ https://opentracker.acgnx.se:443/announce
 
 https://tp.m-team.cc:443/announce.php
 
-https://tr.ready4.icu:443/announce
-
 https://tr.steins-gate.moe:2096/announce
 
 https://tracker.bt-hash.com:443/announce
@@ -317,6 +315,8 @@ https://tracker.cyber-hub.net:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
+
+https://tracker.hama3.net:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -500,6 +500,8 @@ udp://dpiui.reedlan.com:6969/announce
 
 udp://drumkitx.com:6969/announce
 
+udp://eddie4.nl:6969/announce
+
 udp://edu.uifr.ru:6969/announce
 
 udp://engplus.ru:6969/announce
@@ -564,8 +566,6 @@ udp://public.publictracker.xyz:6969/announce
 
 udp://publictracker.xyz:6969/announce
 
-udp://qg.lorzl.gq:2710/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
@@ -576,7 +576,13 @@ udp://retracker.nts.su:2710/announce
 
 udp://retracker.sevstar.net:2710/announce
 
+udp://rutorrent.frontline-mod.com:6969/announce
+
 udp://sd-161673.dedibox.fr:6969/announce
+
+udp://shadowshq.eddie4.nl:6969/announce
+
+udp://shadowshq.yi.org:6969/announce
 
 udp://storage.groupees.com:6969/announce
 
@@ -626,6 +632,8 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.ds.is:6969/announce
 
+udp://tracker.eddie4.nl:6969/announce
+
 udp://tracker.ex.ua:80/announce
 
 udp://tracker.filemail.com:6969/announce
@@ -649,6 +657,8 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.open-internet.nl:6969/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.piratepublic.com:1337/announce
 
@@ -697,8 +707,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://tsundere.pw:6969/announce
 
 udp://u.wwwww.wtf:1/announce
 

@@ -222,8 +222,6 @@ http://tracker.flashtorrents.org:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.gigatorrent.xyz:6969/announce
-
 http://tracker.grepler.com:6969/announce
 
 http://tracker.internetwarriors.net:1337/announce
@@ -237,6 +235,8 @@ http://tracker.mg64.net:6881/announce
 http://tracker.moeking.me:6969/announce
 
 http://tracker.noobsubs.net:80/announce
+
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.sakurato.xyz:23333/announce
 
@@ -306,8 +306,6 @@ https://opentracker.acgnx.se:443/announce
 
 https://tp.m-team.cc:443/announce.php
 
-https://tr.ready4.icu:443/announce
-
 https://tr.steins-gate.moe:2096/announce
 
 https://tracker.bt-hash.com:443/announce
@@ -317,6 +315,8 @@ https://tracker.cyber-hub.net:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
+
+https://tracker.hama3.net:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
