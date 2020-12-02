@@ -6,8 +6,6 @@ http://asnet.pw:2710/announce
 
 http://bt.3kb.xyz:80/announce
 
-http://explodie.org:6969/announce
-
 http://h4.trakx.nibba.trade:80/announce
 
 http://milanesitracker.tekcities.com:80/announce
@@ -48,8 +46,6 @@ http://tracker.trackerfix.com:80/announce
 
 http://tracker.vraphim.com:6969/announce
 
-http://tracker.zerobytes.xyz:1337/announce
-
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.itzmx.com:6961/announce
@@ -86,8 +82,6 @@ https://tracker.tamersunion.org:443/announce
 
 https://trakx.herokuapp.com:443/announce
 
-https://w.wwwww.wtf:443/announce
-
 udp://3rt.tace.ru:60889/announce
 
 udp://47.ip-51-68-199.eu:6969/announce
@@ -113,6 +107,8 @@ udp://blokas.io:6969/announce
 udp://bms-hosxp.com:6969/announce
 
 udp://bt1.archive.org:6969/announce
+
+udp://bt2.3kb.xyz:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
@@ -174,8 +170,6 @@ udp://p4p.arenabg.ch:1337/announce
 
 udp://public-tracker.zooki.xyz:6969/announce
 
-udp://publictracker.xyz:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
@@ -231,6 +225,8 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.v6speed.org:6969/announce
+
+udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.zum.bi:6969/announce
 

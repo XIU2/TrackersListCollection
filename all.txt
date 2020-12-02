@@ -94,8 +94,6 @@ http://aaa.army:8866/announce
 
 http://agusiq-torrents.pl:6969/announce
 
-http://asnet.pw:2710/announce
-
 http://atrack.pow7.com:80/announce
 
 http://bobbialbano.com:6969/announce
@@ -151,8 +149,6 @@ http://retracker.sevstar.net:2710/announce
 http://retracker.spark-rostov.ru:80/announce
 
 http://retracker.telecom.by:80/announce
-
-http://rt.optizone.ru:80/announce
 
 http://rt.tace.ru:80/announce
 
@@ -225,6 +221,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.grepler.com:6969/announce
 
 http://tracker.internetwarriors.net:1337/announce
+
+http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.kuroy.me:5944/announce
 
@@ -306,6 +304,8 @@ https://opentracker.acgnx.se:443/announce
 
 https://tp.m-team.cc:443/announce.php
 
+https://tr.ready4.icu:443/announce
+
 https://tr.steins-gate.moe:2096/announce
 
 https://tracker.bt-hash.com:443/announce
@@ -323,6 +323,8 @@ https://tracker.imgoingto.icu:443/announce
 https://tracker.lelux.fi:443/announce
 
 https://tracker.lilithraws.cf:443/announce
+
+https://tracker.magnetoo.io:443/announce
 
 https://tracker.nitrix.me:443/announce
 
@@ -576,8 +578,6 @@ udp://retracker.nts.su:2710/announce
 
 udp://retracker.sevstar.net:2710/announce
 
-udp://rutorrent.frontline-mod.com:6969/announce
-
 udp://sd-161673.dedibox.fr:6969/announce
 
 udp://shadowshq.eddie4.nl:6969/announce
@@ -707,6 +707,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://u.wwwww.wtf:1/announce
 
