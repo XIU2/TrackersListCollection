@@ -110,6 +110,8 @@ http://fxtt.ru:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
+http://jsb.by:8000/announce
+
 http://mail2.zelenaya.net:80/announce
 
 http://milanesitracker.tekcities.com:80/announce
@@ -280,8 +282,6 @@ http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
-http://trun.tom.ru:80/announce
-
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -304,8 +304,6 @@ https://opentracker.acgnx.se:443/announce
 
 https://tp.m-team.cc:443/announce.php
 
-https://tr.ready4.icu:443/announce
-
 https://tr.steins-gate.moe:2096/announce
 
 https://tracker.bt-hash.com:443/announce
@@ -324,7 +322,7 @@ https://tracker.lelux.fi:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
-https://tracker.magnetoo.io:443/announce
+https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 

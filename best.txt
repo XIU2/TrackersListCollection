@@ -6,6 +6,8 @@ http://asnet.pw:2710/announce
 
 http://bt.3kb.xyz:80/announce
 
+http://explodie.org:6969/announce
+
 http://h4.trakx.nibba.trade:80/announce
 
 http://milanesitracker.tekcities.com:80/announce
@@ -37,6 +39,10 @@ http://tracker.dutchtracking.nl:80/announce
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
+
+http://tracker.ipv6tracker.ru:80/announce
+
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.sakurato.xyz:23333/announce
 
@@ -210,6 +216,8 @@ udp://tracker.ds.is:6969/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
+udp://tracker.moeking.me:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.publictracker.xyz:6969/announce
@@ -253,5 +261,3 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 udp://vibe.community:6969/announce
 
 udp://wassermann.online:6969/announce
-
-udp://zephir.monocul.us:6969/announce
