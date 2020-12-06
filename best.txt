@@ -6,6 +6,8 @@ http://asnet.pw:2710/announce
 
 http://bt.3kb.xyz:80/announce
 
+http://explodie.org:6969/announce
+
 http://h4.trakx.nibba.trade:80/announce
 
 http://milanesitracker.tekcities.com:80/announce
@@ -98,8 +100,6 @@ udp://api.bitumconference.ru:6969/announce
 
 udp://aruacfilmes.com.br:6969/announce
 
-udp://benouworldtrip.fr:6969/announce
-
 udp://blokas.io:6969/announce
 
 udp://bms-hosxp.com:6969/announce
@@ -111,8 +111,6 @@ udp://bt2.archive.org:6969/announce
 udp://cdn-1.gamecoast.org:6969/announce
 
 udp://cdn-2.gamecoast.org:6969/announce
-
-udp://code2chicken.nl:6969/announce
 
 udp://cutiegirl.ru:6969/announce
 
