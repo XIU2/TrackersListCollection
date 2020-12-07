@@ -12,8 +12,6 @@ http://h4.trakx.nibba.trade:80/announce
 
 http://milanesitracker.tekcities.com:80/announce
 
-http://open.acgnxtracker.com:80/announce
-
 http://p4p.arenabg.com:1337/announce
 
 http://pt.lax.mx:80/announce
@@ -40,6 +38,8 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.internetwarriors.net:1337/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.sakurato.xyz:23333/announce
@@ -55,6 +55,8 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -79,6 +81,8 @@ https://tracker.parrotsec.org:443/announce
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.tamersunion.org:443/announce
+
+https://tracker2.absentmusing.com:443/announce
 
 https://trakx.herokuapp.com:443/announce
 
@@ -206,8 +210,6 @@ udp://tracker.ds.is:6969/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
-udp://tracker.moeking.me:6969/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.publictracker.xyz:6969/announce
@@ -229,6 +231,8 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zum.bi:6969/announce
 
 udp://tracker0.ufibox.com:6969/announce
+
+udp://tracker1.absentmusing.com:8000/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
