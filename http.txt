@@ -186,10 +186,6 @@ http://tr.kxmp.cf:80/announce
 
 http://tracker-cdn.moeking.me:2095/announce
 
-http://tracker.aletorrenty.pl:2710/announce
-
-http://tracker.anonwebz.xyz:8080/announce
-
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bittor.pw:1337/announce
@@ -304,6 +300,8 @@ https://opentracker.acgnx.se:443/announce
 
 https://tp.m-team.cc:443/announce.php
 
+https://tr.ready4.icu:443/announce
+
 https://tr.steins-gate.moe:2096/announce
 
 https://tracker.bt-hash.com:443/announce
@@ -313,6 +311,8 @@ https://tracker.cyber-hub.net:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
+
+https://tracker.hama3.net:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -329,8 +329,6 @@ https://tracker.parrotsec.org:443/announce
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.tamersunion.org:443/announce
-
-https://tracker2.absentmusing.com:443/announce
 
 https://trakx.herokuapp.com:443/announce
 
