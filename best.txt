@@ -128,8 +128,6 @@ udp://free-tracker.zooki.xyz:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
-
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
 udp://johnrosen1.com:6969/announce
@@ -202,6 +200,8 @@ udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
+udp://tracker.moeking.me:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.publictracker.xyz:6969/announce
@@ -224,8 +224,6 @@ udp://tracker.zum.bi:6969/announce
 
 udp://tracker0.ufibox.com:6969/announce
 
-udp://tracker1.absentmusing.com:8000/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.itzmx.com:8080/announce
@@ -247,3 +245,5 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 udp://vibe.community:6969/announce
 
 udp://wassermann.online:6969/announce
+
+udp://z.mercax.com:53/announce

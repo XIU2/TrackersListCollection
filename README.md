@@ -30,7 +30,7 @@ _Those who are interested can download and try **[ubuntu-20.04.torrent](https://
 
 ****
 
-### Updated: 2020-12-09
+### Updated: 2020-12-10
 
 _These lists are updated automatically daily **[(Update Log)](https://github.com/XIU2/TrackersListCollection/releases)** :_
 
@@ -40,7 +40,7 @@ _These lists are updated automatically daily **[(Update Log)](https://github.com
 
 - **BEST Tracker list:** (125 trackers)  
  _**https://trackerslist.com/best.txt**_  
-- **ALL Tracker list:** (366 trackers)  
+- **ALL Tracker list:** (363 trackers)  
  _**https://trackerslist.com/all.txt**_  
 - **HTTP(S) Tracker list:** (169 trackers)  
  _**https://trackerslist.com/http.txt**_  
