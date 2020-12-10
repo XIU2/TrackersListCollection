@@ -152,8 +152,6 @@ http://retracker.spark-rostov.ru:80/announce
 
 http://retracker.telecom.by:80/announce
 
-http://rt.optizone.ru:80/announce
-
 http://rt.tace.ru:80/announce
 
 http://secure.pow7.com:80/announce
@@ -222,8 +220,6 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.grepler.com:6969/announce
 
-http://tracker.internetwarriors.net:1337/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.kuroy.me:5944/announce
@@ -261,6 +257,8 @@ http://tracker.uw0.xyz:6969/announce
 http://tracker.vraphim.com:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
+
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
 
@@ -311,8 +309,6 @@ https://tracker.cyber-hub.net:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
-
-https://tracker.hama3.net:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -464,8 +460,6 @@ udp://bms-hosxp.com:6969/announce
 
 udp://bt.firebit.org:2710/announce
 
-udp://bt.okmp3.ru:2710/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.3kb.xyz:6969/announce
@@ -538,8 +532,6 @@ udp://mts.tvbit.co:6969/announce
 
 udp://nagios.tks.sumy.ua:80/announce
 
-udp://ns-1.x-fins.com:6969/announce
-
 udp://ns389251.ovh.net:6969/announce
 
 udp://open.demonii.com:1337/announce
@@ -598,8 +590,6 @@ udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
 
-udp://tr2.ysagin.top:2710/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker-v6.zooki.xyz:6969/announce
@@ -637,8 +627,6 @@ udp://tracker.flashtorrents.org:6969/announce
 udp://tracker.fortu.io:6969/announce
 
 udp://tracker.grepler.com:6969/announce
-
-udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.kali.org:6969/announce
 
