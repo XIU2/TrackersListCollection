@@ -38,9 +38,9 @@ _These lists are updated automatically daily **[(Update Log)](https://github.com
 > ALL Tracker list is more in number and theoretically better.  
 > **The number of Tracker does not affect the operation of the BT software, so I recommend using the `ALL Tracker list` to maximize the download speed !**
 
-- **BEST Tracker list:** (126 trackers)  
+- **BEST Tracker list:** (115 trackers)  
  _**https://trackerslist.com/best.txt**_  
-- **ALL Tracker list:** (357 trackers)  
+- **ALL Tracker list:** (399 trackers)  
  _**https://trackerslist.com/all.txt**_  
 - **HTTP(S) Tracker list:** (167 trackers)  
  _**https://trackerslist.com/http.txt**_  
