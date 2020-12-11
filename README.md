@@ -127,6 +127,7 @@ This project brings together the following list of public trackers:
 * [https://tinytorrent.net/best-torrent-tracker-list-updated/](https://tinytorrent.net/best-torrent-tracker-list-updated/)
 * [http://www.torrenttrackerlist.com/torrent-tracker-list](http://www.torrenttrackerlist.com/torrent-tracker-list)
 * [https://github.com/DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList)
+* [https://www.yaozuopan.top/index.php/archives/1014/](https://www.yaozuopan.top/index.php/archives/1014/)
 
 Thanks for these projects!
 
