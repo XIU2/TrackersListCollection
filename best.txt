@@ -4,13 +4,9 @@ http://5rt.tace.ru:60889/announce
 
 http://bt.3kb.xyz:80/announce
 
-http://explodie.org:6969/announce
-
 http://h4.trakx.nibba.trade:80/announce
 
 http://milanesitracker.tekcities.com:80/announce
-
-http://open.acgnxtracker.com:80/announce
 
 http://p4p.arenabg.com:1337/announce
 
@@ -39,8 +35,6 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.sakurato.xyz:23333/announce
 
 http://tracker.trackerfix.com:80/announce
 
@@ -74,11 +68,11 @@ https://tracker.sloppyta.co:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
-https://trakx.herokuapp.com:443/announce
-
 udp://47.ip-51-68-199.eu:6969/announce
 
 udp://6rt.tace.ru:80/announce
+
+udp://9.rarbg.me:2710/announce
 
 udp://9.rarbg.to:2710/announce
 
@@ -112,6 +106,8 @@ udp://fe.dealclub.de:6969/announce
 
 udp://forever-tracker.zooki.xyz:6969/announce
 
+udp://free-tracker.zooki.xyz:6969/announce
+
 udp://inferno.demonoid.is:3391/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
@@ -142,8 +138,6 @@ udp://opentracker.i2p.rocks:6969/announce
 
 udp://p4p.arenabg.ch:1337/announce
 
-udp://public-tracker.zooki.xyz:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
@@ -152,13 +146,9 @@ udp://sd-161673.dedibox.fr:6969/announce
 
 udp://storage.groupees.com:6969/announce
 
-udp://t1.leech.ie:1337/announce
-
 udp://t2.leech.ie:1337/announce
 
 udp://t3.leech.ie:1337/announce
-
-udp://teamspeak.value-wolf.org:6969/announce
 
 udp://thetracker.org:80/announce
 
@@ -195,8 +185,6 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.shkinev.me:6969/announce
 
 udp://tracker.sigterm.xyz:6969/announce
-
-udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
