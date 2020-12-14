@@ -11,7 +11,7 @@ Integrated the popular Tracker, after filtering, finally got a high-quality Trac
 
 > 「[简体中文](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md)」([trackerslist.com](https://trackerslist.com) 访客，请通过右上角切换语言 ↗)  
 
-****
+**** 
 
 ### What is Tracker?
 
