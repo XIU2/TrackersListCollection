@@ -11,7 +11,7 @@
 
 > 「[English](https://github.com/XIU2/TrackersListCollection/#readme)」([trackerslist.com](https://trackerslist.com) visitors, please switch languages in the upper right corner ↗)  
 
-> 分享一个我的开源项目： **[一个 \[油猴脚本\] 轻松解决「Github」文件下载速度慢的问题！](https://github.com/XIU2/UserScript)**  
+> 分享一个我的开源项目： **[一个 \[油猴脚本\] 轻松解决「Github」文件下载速度慢的问题！](https://github.com/XIU2/UserScript)**   
 
 ****
 
