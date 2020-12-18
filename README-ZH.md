@@ -5,7 +5,7 @@
 [![GitHub Fork](https://img.shields.io/github/forks/XIU2/TrackersListCollection.svg?style=flat-square&label=Fork&color=4285dd)](https://github.com/XIU2/TrackersListCollection/network/members)
 [![TrackersList.com](https://img.shields.io/static/v1?label=%20&message=TrackersList.com&style=flat-square&labelColor=4B93F1&color=4285dd&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAYUlEQVR42mP0nvzxPwMFgBHdgOYAbji7dsNX0g1IseeEs+cc/E68AVty+Ehyus+UT4PNAGxhEKDLiqGBYCDCYuHh+3/DzYANl38zyAsywfmwRDYIDUAGyGmD6DCgqgHEAADqpnHxT0ZWTwAAAABJRU5ErkJggg==)](https://trackerslist.com)
 
-每天更新！全网热门 BitTorrent Tracker 列表！**觉得好用请点个[⭐](https://github.com/XIU2/TrackersListCollection/stargazers) 鼓励一下下~**  
+每天更新！全网热门 BitTorrent Tracker 列表！**觉得好用请点个[⭐](https://github.com/XIU2/TrackersListCollection/stargazers) 鼓励一下下~**   
 
 本项目整合了全网热门 Tracker，经过层层过滤，最终得到了一个优质的 Tracker 列表方便大家使用~  
 
