@@ -36,8 +36,6 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.sakurato.xyz:23333/announce
-
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.vraphim.com:6969/announce
@@ -94,8 +92,6 @@ udp://daveking.com:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
 
-udp://dns.mercax.com:53/announce
-
 udp://edu.uifr.ru:6969/announce
 
 udp://engplus.ru:6969/announce
@@ -109,6 +105,8 @@ udp://fe.dealclub.de:6969/announce
 udp://free-tracker.zooki.xyz:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
+
+udp://ipv6.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
