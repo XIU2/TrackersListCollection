@@ -30,7 +30,7 @@ _Those who are interested can download and try **[ubuntu-20.04.torrent](https://
 
 ****
 
-### Updated: 2020-12-29
+### Updated: 2020-12-30
 
 _These lists are updated automatically daily **[(Update Log)](https://github.com/XIU2/TrackersListCollection/releases)** :_
 
@@ -38,11 +38,11 @@ _These lists are updated automatically daily **[(Update Log)](https://github.com
 > ALL Tracker list is more in number and theoretically better.  
 > **The number of Tracker does not affect the operation of the BT software, so I recommend using the `ALL Tracker list` to maximize the download speed !**
 
-- **BEST Tracker list:** (111 trackers)  
+- **BEST Tracker list:** (108 trackers)  
  _**https://trackerslist.com/best.txt**_  
-- **ALL Tracker list:** (385 trackers)  
+- **ALL Tracker list:** (390 trackers)  
  _**https://trackerslist.com/all.txt**_  
-- **HTTP(S) Tracker list:** (156 trackers)  
+- **HTTP(S) Tracker list:** (168 trackers)  
  _**https://trackerslist.com/http.txt**_  
 
 > **Alternate:** Replace `trackerslist.com` with `cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master`  
