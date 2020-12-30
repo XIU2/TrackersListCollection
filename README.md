@@ -32,7 +32,7 @@ _Those who are interested can download and try **[ubuntu-20.04.torrent](https://
 
 ### Updated: 2020-12-30
 
-_These lists are updated automatically daily **[(Update Log)](https://github.com/XIU2/TrackersListCollection/releases)** :_
+_These lists are updated every 8 hours !_
 
 > BEST Tracker list is relatively more stable, concise.  
 > ALL Tracker list is more in number and theoretically better.  

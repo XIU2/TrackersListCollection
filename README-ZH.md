@@ -44,7 +44,7 @@ _有兴趣的可以下载 **[ubuntu-20.04.torrent](https://releases.ubuntu.com/2
 
 ### 更新时间: 2020-12-30
 
-_以下所有列表每天自动更新 **[(更新日志)](https://github.com/XIU2/TrackersListCollection/releases)** ：_
+_以下列表每 8 小时更新一次！_
 
 > 精选列表中的 Tracker 数量少，优质稳定，但可能无法最大化下载速度。  
 > 完整列表中的 Tracker 数量多，效果更好，但不可避免的会存在少量死链。  
