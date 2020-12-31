@@ -4,8 +4,6 @@ http://1337.abcvg.info:80/announce
 
 http://5rt.tace.ru:60889/announce
 
-http://bt.100.pet:2710/announce
-
 http://bt.3kb.xyz:80/announce
 
 http://milanesitracker.tekcities.com:80/announce
@@ -37,6 +35,8 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+http://tracker.sakurato.xyz:23333/announce
 
 http://tracker.trackerfix.com:80/announce
 
