@@ -24,9 +24,7 @@
 做种上传的用户越多，你的下载速度就越快，而用户靠 **Peer、DHT、Tracker** 获得。  
 
 > **Peer：** 在获得一个有效用户后才会起作用，该用户会把它知道的用户信息告诉你。  
-> ——  
 > **DHT：** 分布式储存用户信息，获得一个用户后，会通过该用户获得更多的用户信息。缺点是需要养（下载热门资源）。  
-> ——  
 > **Tracker：** 记录下载同一个资源的用户信息并提供给你，帮助你与其他用户建立连接。  
 > _**以上三者的优缺点是互补的，不存在谁替代谁，一起用效果最好！**_   
 
@@ -47,10 +45,6 @@ _有兴趣的可以下载 **[ubuntu-20.04.torrent](https://releases.ubuntu.com/2
 
 _以下列表每 8 小时更新一次！_
 
-> 精选列表中的 Tracker 数量少，优质稳定，但可能无法最大化下载速度。  
-> 完整列表中的 Tracker 数量多，效果更好，但不可避免的会存在少量死链。  
-> **Tracker 数量并不影响 BT 软件的运行速度，因此我更推荐使用 `「完整列表」` ，以使下载速度最大化！**
-
 - **精选列表：**(106 个)  
  _**https://trackerslist.com/best.txt**_  
 - **完整列表：**(397 个)  
@@ -62,9 +56,12 @@ _以下列表每 8 小时更新一次！_
 
 ****
 
-#### Aria2 格式 Tracker:
+### 如何使用?
 
-为了方便将 Tracker 添加到 Aria2，我还制作了一份 Aria2 配置格式的 Tracker 列表，每天跟随更新。
+#### Aria2:
+
+<details>
+<summary>[点击展开] - 查看 Aria2 格式的 Tracker 列表</summary>
 
 - **精选列表：**  
  **_[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)_**  
@@ -73,11 +70,7 @@ _以下列表每 8 小时更新一次！_
 - **HTTP(S)列表：**  
  **_[https://trackerslist.com/http_aria2.txt](https://trackerslist.com/http_aria2.txt)_**  
 
-****
-
-### 如何使用?
-
-#### Aria2:
+</details>
 
 复制 Aria2 格式 Tracker 文件中内容后，粘贴到配置文件 `aria2.conf` 中 `bt-tracker=` 的后面，示例如下：
 ``` ini
@@ -97,7 +90,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
  
 > 比特彗星的 **黄灯 绿灯** 对下载速度影响较小，主要影响上传速度，绿灯需要 **公网IP + 端口映射(UPnP)** 。  
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-12.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-12.png" width="50%">
 
 ****
 
@@ -111,7 +104,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 * **选项[齿轮图标] - BitTorrent**  
  **勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[Apply\]** 保存，**然后重启 qBittorrentEE 。**(如下图所示)  
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-13.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-13.png" width="50%">
 
 ****
 
@@ -123,7 +116,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 * **选项[齿轮图标] - BitTorrent**  
  **勾选下图红框内的选项** 并复制所有 Tracker 后粘贴到下方输入框中，然后点击 **\[Apply\]** 保存。(如下图所示)  
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-05.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-05.png" width="50%">
 
 ****
 
@@ -134,7 +127,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 * **选项(左下角) - 进阶设置 - Tracker 服务器 - ﹀**  
  **勾选任意一个选项（如 all.txt）** ，然后点击 **\[保存并应用\]** 保存。(如下图所示)  
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-10.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-10.png" width="50%">
 
 ****
 
@@ -145,7 +138,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 * **设置 - BitTorrent设置**  
  **勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[确定\]** 保存。(如下图所示) 
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-08.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-08.png" width="50%">
 
 ****
 

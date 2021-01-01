@@ -34,10 +34,6 @@ _Those who are interested can download and try **[ubuntu-20.04.torrent](https://
 
 _These lists are updated every 8 hours !_
 
-> BEST Tracker list is relatively more stable, concise.  
-> ALL Tracker list is more in number and theoretically better.  
-> **The number of Tracker does not affect the operation of the BT software, so I recommend using the `ALL Tracker list` to maximize the download speed !**
-
 - **BEST Tracker list:** (106 trackers)  
  _**https://trackerslist.com/best.txt**_  
 - **ALL Tracker list:** (397 trackers)  
@@ -49,9 +45,12 @@ _These lists are updated every 8 hours !_
 
 ****
 
-#### Aria2 Format Tracker:
+### How to use?
 
-In order to facilitate adding Tracker to Aria2, I also made a Tracker list in Aria2 format. The update is consistent.
+#### Aria2:
+
+<details>
+<summary>[Click to expand] - View the tracker list in Aria2 format</summary>
 
 - **BEST Tracker list:**  
  **_[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)_**  
@@ -60,11 +59,7 @@ In order to facilitate adding Tracker to Aria2, I also made a Tracker list in Ar
 - **HTTP(S) Tracker list:**  
  **_[https://trackerslist.com/http_aria2.txt](https://trackerslist.com/http_aria2.txt)_**  
 
-****
-
-### How to use?
-
-#### Aria2:
+</details>
 
 After copying the contents of the Aria2 Format Tracker file, paste it into the `bt-tracker=` tail in the `aria2.conf` configuration file. Example:
 ``` ini
@@ -78,7 +73,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 > _**http://www.bitcomet.com**_
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-12.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-12.png" width="50%">
 
 ****
 
@@ -90,7 +85,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-13.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-13.png" width="50%">
 
 ****
 
@@ -98,7 +93,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > _**https://www.qbittorrent.org**_
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-04.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-04.png" width="50%">
 
 ****
 
@@ -106,7 +101,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > _**https://motrix.app**_
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-10.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-10.png" width="50%">
 
 ****
 
@@ -114,7 +109,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > _**https://xdown.org**_
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-08.png" width="75%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-08.png" width="50%">
 
 ****
 
