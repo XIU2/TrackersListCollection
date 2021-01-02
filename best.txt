@@ -26,6 +26,8 @@ http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
 
+http://tracker-cdn.moeking.me:2095/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dutchtracking.nl:80/announce
@@ -35,8 +37,6 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.opentrackr.org:1337/announce
 
 http://tracker.sakurato.xyz:23333/announce
 
@@ -67,6 +67,8 @@ https://tracker.gbitt.info:443/announce
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.lilithraws.cf:443/announce
+
+https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
@@ -131,6 +133,8 @@ udp://open.demonii.com:1337/announce
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
+
+udp://opentracker.i2p.rocks:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -197,6 +201,8 @@ udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker3.itzmx.com:6961/announce
+
+udp://tracker4.itzmx.com:2710/announce
 
 udp://us-tracker.publictracker.xyz:6969/announce
 
