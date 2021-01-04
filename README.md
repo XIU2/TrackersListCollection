@@ -36,9 +36,9 @@ _These lists are updated every 8 hours !_
 
 - **BEST Tracker list:** (105 trackers)  
  _**https://trackerslist.com/best.txt**_  
-- **ALL Tracker list:** (419 trackers)  
+- **ALL Tracker list:** (387 trackers)  
  _**https://trackerslist.com/all.txt**_  
-- **HTTP(S) Tracker list:** (184 trackers)  
+- **HTTP(S) Tracker list:** (167 trackers)  
  _**https://trackerslist.com/http.txt**_  
 
 > **Alternate:** Replace `trackerslist.com` with `cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master`  
