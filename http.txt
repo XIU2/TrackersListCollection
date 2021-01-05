@@ -74,11 +74,9 @@ http://anidex.moe:6969/announce
 
 http://atrack.pow7.com:80/announce
 
-http://baibako.tv:80/announce
-
 http://bt-tracker.gamexp.ru:2710/announce
 
-http://bt.3dmgame.com:2710/announce
+http://bt.100.pet:2710/announce
 
 http://bt.3kb.xyz:80/announce
 
@@ -106,6 +104,8 @@ http://grifon.info:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
+http://irrenhaus.dyndns.dk:80/announce.php
+
 http://kaztorka.org:80/announce.php
 
 http://mail2.zelenaya.net:80/announce
@@ -132,27 +132,19 @@ http://opentracker.i2p.rocks:6969/announce
 
 http://potuk.com:2710/announce
 
-http://pow7.com:80/announce
-
 http://proaudiotorrents.org:80/announce.php
 
 http://retracker.hotplug.ru:2710/announce
 
-http://retracker.sevstar.net:2710/announce
-
 http://retracker.spark-rostov.ru:80/announce
 
 http://rt.tace.ru:80/announce
-
-http://secure.pow7.com:80/announce
 
 http://share.camoe.cn:8080/announce
 
 http://siambit.org:80/announce.php
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -169,6 +161,8 @@ http://torrent.arjlover.net:2710/announce
 http://torrent.resonatingmedia.com:6969/announce
 
 http://torrent.rus.ec:2710/announce
+
+http://torrentclub.online:54123/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -190,8 +184,6 @@ http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.bz:80/announce
-
 http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
@@ -199,8 +191,6 @@ http://tracker.dutchtracking.nl:80/announce
 http://tracker.fdn.fr:6969/announce
 
 http://tracker.files.fm:6969/announce
-
-http://tracker.frozen-layer.net:6969/announce
 
 http://tracker.funfile.org:2710/announce
 
@@ -230,10 +220,6 @@ http://tracker.sakurato.xyz:23333/announce
 
 http://tracker.shittyurl.org:80/announce
 
-http://tracker.skyts.cn:6969/announce
-
-http://tracker.skyts.net:6969/announce
-
 http://tracker.sloppyta.co:80/announce
 
 http://tracker.tambovnet.org:80/announce.php
@@ -241,8 +227,6 @@ http://tracker.tambovnet.org:80/announce.php
 http://tracker.tasvideos.org:6969/announce
 
 http://tracker.trackerfix.com:80/announce
-
-http://tracker.uw0.xyz:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
@@ -253,6 +237,8 @@ http://tracker.yoshi210.com:6969/announce
 http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.zum.bi:6969/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -269,6 +255,8 @@ http://vpn.flying-datacenter.de:6969/announce
 http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
+
+http://www.biztorrents.com:80/announce.php
 
 http://www.tribalmixes.com:80/announce.php
 
