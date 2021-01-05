@@ -134,6 +134,10 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
+udp://p4p.arenabg.ch:1337/announce
+
+udp://p4p.arenabg.com:1337/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
@@ -164,9 +168,9 @@ udp://tracker.ds.is:6969/announce
 
 udp://tracker.e-utp.net:6969/announce
 
-udp://tracker.lelux.fi:6969/announce
+udp://tracker.internetwarriors.net:1337/announce
 
-udp://tracker.moeking.me:6969/announce
+udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
