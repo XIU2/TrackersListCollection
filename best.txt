@@ -86,6 +86,8 @@ udp://9.rarbg.to:2710/announce
 
 udp://aaa.army:8866/announce
 
+udp://app.icon256.com:8000/announce
+
 udp://blokas.io:6969/announce
 
 udp://bms-hosxp.com:6969/announce
@@ -128,13 +130,15 @@ udp://nagios.tks.sumy.ua:80/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://open.demonii.si:1337/announce
+
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
-udp://p4p.arenabg.ch:1337/announce
+udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -165,8 +169,6 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.ds.is:6969/announce
 
 udp://tracker.e-utp.net:6969/announce
-
-udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.lelux.fi:6969/announce
 
