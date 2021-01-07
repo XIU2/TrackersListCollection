@@ -34,8 +34,6 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.sakurato.xyz:23333/announce
-
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.vraphim.com:6969/announce
@@ -98,8 +96,6 @@ udp://cdn-1.gamecoast.org:6969/announce
 
 udp://code2chicken.nl:6969/announce
 
-udp://colombia.subventas.com:53/announce
-
 udp://daveking.com:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
@@ -142,7 +138,7 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
-udp://p4p.arenabg.com:1337/announce
+udp://p4p.arenabg.ch:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -206,7 +202,7 @@ udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
-udp://tracker4.itzmx.com:2710/announce
+udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://us-tracker.publictracker.xyz:6969/announce
 
