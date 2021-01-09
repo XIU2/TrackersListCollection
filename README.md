@@ -30,15 +30,15 @@ _Those who are interested can download and try **[ubuntu-20.04.torrent](https://
 
 ****
 
-### Updated: 2021-01-09
+### Updated: 2021-01-10
 
 _These lists are updated every 8 hours !_
 
-- **BEST Tracker list:** (103 trackers)  
+- **BEST Tracker list:** (100 trackers)  
  _**https://trackerslist.com/best.txt**_  
-- **ALL Tracker list:** (373 trackers)  
+- **ALL Tracker list:** (369 trackers)  
  _**https://trackerslist.com/all.txt**_  
-- **HTTP(S) Tracker list:** (152 trackers)  
+- **HTTP(S) Tracker list:** (150 trackers)  
  _**https://trackerslist.com/http.txt**_  
 
 > **Alternate:** Replace `trackerslist.com` with `cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master`  
