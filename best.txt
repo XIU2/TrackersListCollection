@@ -32,15 +32,17 @@ http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.files.fm:6969/announce
 
+http://tracker.gbitt.info:80/announce
+
 http://tracker.loadbt.com:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.vraphim.com:6969/announce
+
+http://tracker2.itzmx.com:6961/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -55,6 +57,8 @@ https://tracker.coalition.space:443/announce
 https://tracker.cyber-hub.net:443/announce
 
 https://tracker.foreverpirates.co:443/announce
+
+https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -130,7 +134,7 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
-udp://p4p.arenabg.ch:1337/announce
+udp://p4p.arenabg.com:1337/announce
 
 udp://peru.subventas.com:53/announce
 
@@ -190,9 +194,13 @@ udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
+udp://tracker1.itzmx.com:8080/announce
+
 udp://tracker2.dler.org:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
+
+udp://tracker3.itzmx.com:6961/announce
 
 udp://us-tracker.publictracker.xyz:6969/announce
 
