@@ -32,6 +32,8 @@ http://60-fps.org:80/bt:80/announce.php
 
 http://62.210.202.61/announce
 
+http://62.210.97.59:1337/announce
+
 http://78.30.254.12:2710/announce
 
 http://81.200.2.231/announce
@@ -61,8 +63,6 @@ http://all4nothin.net:80/announce.php
 http://alltorrents.net:80/bt:80/announce.php
 
 http://atrack.pow7.com:80/announce
-
-http://baibako.tv:80/announce
 
 http://big-boss-tracker.net:80/announce.php
 
@@ -132,9 +132,13 @@ http://opentracker.i2p.rocks:6969/announce
 
 http://p4p.arenabg.ch:1337/announce
 
+http://pow7.com:80/announce
+
 http://proaudiotorrents.org:80/announce.php
 
 http://retracker.hotplug.ru:2710/announce
+
+http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
@@ -152,8 +156,6 @@ http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
-http://t1.pow7.com:80/announce
-
 http://t2.pow7.com:80/announce
 
 http://torrent-team.net:80/announce.php
@@ -166,11 +168,15 @@ http://torrent.resonatingmedia.com:6969/announce
 
 http://torrent.rus.ec:2710/announce
 
+http://torrentclub.online:54123/announce
+
 http://torrents.linuxmint.com:80/announce.php
 
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
+
+http://tr.kxmp.cf:80/announce
 
 http://tracker-cdn.moeking.me:2095/announce
 
@@ -187,6 +193,8 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
+
+http://tracker.etree.org:6969/announce
 
 http://tracker.fdn.fr:6969/announce
 
@@ -218,15 +226,17 @@ http://tracker.pow7.com:80/announce
 
 http://tracker.sloppyta.co:80/announce
 
-http://tracker.tambovnet.org:80/announce.php
-
 http://tracker.tasvideos.org:6969/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker.uw0.xyz:6969/announce
+
 http://tracker.vraphim.com:6969/announce
 
 http://tracker.xdvdz.com:2710/announce
+
+http://tracker.yoshi210.com:6969/announce
 
 http://tracker.yowe.net:80/announce
 
@@ -236,17 +246,13 @@ http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
+http://tracker3.itzmx.com:6961/announce
+
 http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.bitseduce.com:80/announce.php
-
-http://www.biztorrents.com:80/announce.php
-
 http://www.elitezones.ro:80/announce.php
-
-http://www.freerainbowtables.com:6969/announce
 
 http://www.learnbits.me:80/announce.php
 
@@ -269,8 +275,6 @@ http://www.xwt-classics.net:80/announce.php
 https://1337.abcvg.info:443/announce
 
 https://aaa.army:8866/announce
-
-https://open.kickasstracker.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
 
