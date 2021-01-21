@@ -47,9 +47,9 @@ _以下列表每 8 小时更新一次！_
 
 - **精选列表：**(103 个)  
  _**https://trackerslist.com/best.txt**_  
-- **完整列表：**(377 个)  
+- **完整列表：**(385 个)  
  _**https://trackerslist.com/all.txt**_  
-- **HTTP(S)列表：**(165 个)  
+- **HTTP(S)列表：**(171 个)  
  _**https://trackerslist.com/http.txt**_  
 
 > **备用：** 将地址中 `trackerslist.com` 替换为 `cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master`  
