@@ -183,10 +183,10 @@ _**更详细、完整的请看这篇文章：[https://zhuanlan.zhihu.com/p/87193
 * [https://github.com/ngosang/trackerslist](https://github.com/ngosang/trackerslist)
 * [https://newtrackon.com/list](https://newtrackon.com/list)
 * [http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt](http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt)
-* [https://tinytorrent.net/best-torrent-tracker-list-updated/](https://tinytorrent.net/best-torrent-tracker-list-updated/)
+* [https://tinytorrent.net/best-torrent-tracker-list-updated](https://tinytorrent.net/best-torrent-tracker-list-updated/)
 * [http://www.torrenttrackerlist.com/torrent-tracker-list](http://www.torrenttrackerlist.com/torrent-tracker-list)
 * [https://github.com/DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList)
-* [https://www.yaozuopan.top/index.php/archives/1014/](https://www.yaozuopan.top/index.php/archives/1014/)
+* [https://gitee.com/harvey520/www.yaozuopan.top](https://gitee.com/harvey520/www.yaozuopan.top)
 
 感谢这些项目！
 
