@@ -44,11 +44,7 @@ http://85.17.19.180/announce
 
 http://87.253.152.137/announce
 
-http://91.207.136.85:80/announce
-
 http://91.216.110.47/announce
-
-http://91.217.91.21:3218/announce
 
 http://93.158.213.92:1337/announce
 
@@ -74,8 +70,6 @@ http://bithq.org:80/announce.php
 
 http://bluebird-hd.org:80/announce.php
 
-http://bobbialbano.com:6969/announce
-
 http://bt-tracker.gamexp.ru:2710/announce
 
 http://bt.100.pet:2710/announce
@@ -85,8 +79,6 @@ http://bt.3dmgame.com:2710/announce
 http://bt.3kb.xyz:80/announce
 
 http://bt.ali213.net:8000/announce
-
-http://bt.edwardk.info:6969/announce
 
 http://bt.firebit.org:2710/announce
 
@@ -116,8 +108,6 @@ http://explodie.org:6969/announce
 
 http://finbytes.org:80/announce.php
 
-http://freerainbowtables.com:6969/announce
-
 http://grifon.info:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
@@ -129,8 +119,6 @@ http://ipv4announce.sktorrent.eu:6969/announce
 http://irrenhaus.dyndns.dk:80/announce.php
 
 http://kaztorka.org:80/announce.php
-
-http://mail2.zelenaya.net:80/announce
 
 http://masters-tb.com:80/announce.php
 
@@ -160,9 +148,9 @@ http://openbittorrent.com:80/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
-http://pow7.com:80/announce
-
 http://retracker.hotplug.ru:2710/announce
+
+http://retracker.sevstar.net:2710/announce
 
 http://rt.tace.ru:80/announce
 
@@ -178,11 +166,7 @@ http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
-http://t1.pow7.com:80/announce
-
 http://t2.leech.ie:80/announce
-
-http://t2.pow7.com:80/announce
 
 http://torrent-team.net:80/announce.php
 
@@ -219,6 +203,8 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.dler.org:6969/announce
 
 http://tracker.dutchtracking.nl:80/announce
+
+http://tracker.etree.org:6969/announce
 
 http://tracker.fdn.fr:6969/announce
 
@@ -258,6 +244,8 @@ http://tracker.tasvideos.org:6969/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker.uw0.xyz:6969/announce
+
 http://tracker.vraphim.com:6969/announce
 
 http://tracker.xdvdz.com:2710/announce
@@ -268,9 +256,9 @@ http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
-http://tracker2.dler.org:80/announce
+http://tracker1.itzmx.com:8080/announce
 
-http://tracker2.itzmx.com:6961/announce
+http://tracker2.dler.org:80/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
