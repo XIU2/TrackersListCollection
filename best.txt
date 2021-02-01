@@ -10,8 +10,6 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://milanesitracker.tekcities.com:80/announce
 
-http://open.acgnxtracker.com:80/announce
-
 http://openbittorrent.com:80/announce
 
 http://rt.tace.ru:80/announce
@@ -43,8 +41,6 @@ http://tracker.loadbt.com:6969/announce
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.vraphim.com:6969/announce
-
-http://tracker3.itzmx.com:6961/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -83,6 +79,10 @@ https://tracker.tamersunion.org:443/announce
 udp://47.ip-51-68-199.eu:6969/announce
 
 udp://6rt.tace.ru:80/announce
+
+udp://9.rarbg.me:2710/announce
+
+udp://9.rarbg.to:2710/announce
 
 udp://aaa.army:8866/announce
 
@@ -174,6 +174,8 @@ udp://tracker.ds.is:6969/announce
 
 udp://tracker.e-utp.net:6969/announce
 
+udp://tracker.edkj.club:6969/announce
+
 udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -205,6 +207,12 @@ udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 
 udp://tracker2.dler.org:80/announce
+
+udp://tracker2.itzmx.com:6961/announce
+
+udp://tracker3.itzmx.com:6961/announce
+
+udp://tracker4.itzmx.com:2710/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
