@@ -6,8 +6,6 @@ http://bt.3kb.xyz:80/announce
 
 http://cloud.nyap2p.com:8080/announce
 
-http://explodie.org:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://milanesitracker.tekcities.com:80/announce
@@ -32,6 +30,8 @@ http://tracker-cdn.moeking.me:2095/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.dutchtracking.nl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -45,10 +45,6 @@ http://tracker.loadbt.com:6969/announce
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.vraphim.com:6969/announce
-
-http://tracker1.itzmx.com:8080/announce
-
-http://tracker3.itzmx.com:6961/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -92,8 +88,6 @@ udp://9.rarbg.me:2710/announce
 
 udp://9.rarbg.to:2710/announce
 
-udp://aaa.army:8866/announce
-
 udp://ahimsa.yui.cat:6969/announce
 
 udp://app.icon256.com:8000/announce
@@ -117,6 +111,8 @@ udp://edu.uifr.ru:6969/announce
 udp://engplus.ru:6969/announce
 
 udp://exodus.desync.com:6969/announce
+
+udp://explodie.org:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
@@ -209,6 +205,12 @@ udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.org:80/announce
+
+udp://tracker2.itzmx.com:6961/announce
+
+udp://tracker3.itzmx.com:6961/announce
+
+udp://tracker4.itzmx.com:2710/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
