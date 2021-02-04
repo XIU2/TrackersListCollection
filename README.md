@@ -73,7 +73,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 > _**http://www.bitcomet.com**_
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-12.png" width="50%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-12.png" width="70%">
 
 ****
 
@@ -85,7 +85,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-13.png" width="50%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-13.png" width="70%">
 
 ****
 
@@ -93,7 +93,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > _**https://www.qbittorrent.org**_
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-04.png" width="50%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-04.png" width="70%">
 
 ****
 
@@ -101,7 +101,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > _**https://motrix.app**_
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-10.png" width="50%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-10.png" width="70%">
 
 ****
 
@@ -109,7 +109,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > _**https://xdown.org**_
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-08.png" width="50%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-08.png" width="70%">
 
 ****
 
