@@ -6,6 +6,8 @@ http://bt.3kb.xyz:80/announce
 
 http://cloud.nyap2p.com:8080/announce
 
+http://explodie.org:6969/announce
+
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://milanesitracker.tekcities.com:80/announce
@@ -44,7 +46,11 @@ http://tracker.trackerfix.com:80/announce
 
 http://tracker.vraphim.com:6969/announce
 
-http://tracker3.itzmx.com:6961/announce
+http://tracker1.itzmx.com:8080/announce
+
+http://tracker2.itzmx.com:6961/announce
+
+http://vps02.net.orel.ru:80/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -94,8 +100,6 @@ udp://blokas.io:6969/announce
 
 udp://cdn-1.gamecoast.org:6969/announce
 
-udp://cdn-2.gamecoast.org:6969/announce
-
 udp://code2chicken.nl:6969/announce
 
 udp://daveking.com:6969/announce
@@ -107,8 +111,6 @@ udp://edu.uifr.ru:6969/announce
 udp://engplus.ru:6969/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://explodie.org:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
@@ -180,6 +182,8 @@ udp://tracker.e-utp.net:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
+udp://tracker.moeking.me:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.shkinev.me:6969/announce
@@ -202,7 +206,13 @@ udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
+udp://tracker1.itzmx.com:8080/announce
+
 udp://tracker2.dler.org:80/announce
+
+udp://tracker2.itzmx.com:6961/announce
+
+udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
