@@ -52,7 +52,19 @@ _以下列表每 8 小时更新一次！_
 - **HTTP(S)列表：**(163 个)  
  _**https://trackerslist.com/http.txt**_  
 
-> **备用：** 将地址中 `trackerslist.com` 替换为 `cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master`  
+<details>
+<summary><strong><code>[点击展开] - 查看备用地址</code></strong></summary>
+
+****
+
+- **精选列表：**  
+ _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/best.txt**_  
+- **完整列表：**  
+ _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/all.txt**_  
+- **HTTP(S)列表：**  
+ _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/http.txt**_  
+
+</details>
 
 ****
 
@@ -61,7 +73,7 @@ _以下列表每 8 小时更新一次！_
 #### Aria2:
 
 <details>
-<summary>[点击展开] - 查看 Aria2 格式的 Tracker 列表</summary>
+<summary><strong><code>[点击展开] - 查看 Aria2 格式的 Tracker 列表</code></strong></summary>
 
 - **精选列表：**  
  **_[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)_**  

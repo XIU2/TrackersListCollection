@@ -41,7 +41,19 @@ _These lists are updated every 8 hours !_
 - **HTTP(S) Tracker list:** (163 trackers)  
  _**https://trackerslist.com/http.txt**_  
 
-> **Alternate:** Replace `trackerslist.com` with `cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master`  
+<details>
+<summary><strong><code>[Click to expand] - View alternate address:</code></strong></summary>
+
+****
+
+- **BEST Tracker list:**  
+ _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/best.txt**_  
+- **ALL Tracker list:**  
+ _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/all.txt**_  
+- **HTTP(S) Tracker list:**  
+ _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/http.txt**_  
+
+</details>
 
 ****
 
@@ -50,7 +62,7 @@ _These lists are updated every 8 hours !_
 #### Aria2:
 
 <details>
-<summary>[Click to expand] - View the tracker list in Aria2 format</summary>
+<summary><strong><code>[Click to expand] - View the tracker list in Aria2 format:</code> </strong></summary>
 
 - **BEST Tracker list:**  
  **_[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)_**  
