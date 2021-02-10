@@ -44,7 +44,9 @@ http://tracker.sakurato.xyz:23333/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker.vraphim.com:6969/announce
+http://tracker2.itzmx.com:6961/announce
+
+http://tracker3.itzmx.com:6961/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -140,6 +142,8 @@ udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
@@ -175,6 +179,8 @@ udp://tracker.ds.is:6969/announce
 udp://tracker.e-utp.net:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
+
+udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
