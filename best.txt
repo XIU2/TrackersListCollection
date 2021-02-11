@@ -28,8 +28,6 @@ http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.dutchtracking.nl:80/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -44,7 +42,7 @@ http://tracker.sakurato.xyz:23333/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker1.itzmx.com:8080/announce
+http://tracker2.itzmx.com:6961/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -99,8 +97,6 @@ udp://blokas.io:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 
 udp://cdn-1.gamecoast.org:6969/announce
-
-udp://code2chicken.nl:6969/announce
 
 udp://daveking.com:6969/announce
 
@@ -177,8 +173,6 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.doko.moe:6969/announce
 
 udp://tracker.ds.is:6969/announce
 
