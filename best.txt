@@ -40,9 +40,11 @@ http://tracker.loadbt.com:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
+http://tracker.sakurato.xyz:23333/announce
+
 http://tracker.trackerfix.com:80/announce
 
-http://tracker2.itzmx.com:6961/announce
+http://tracker1.itzmx.com:8080/announce
 
 http://vps02.net.orel.ru:80/announce
 
