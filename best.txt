@@ -40,7 +40,7 @@ http://tracker.sakurato.xyz:23333/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker1.itzmx.com:8080/announce
+http://tracker2.itzmx.com:6961/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -121,8 +121,6 @@ udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
-
-udp://johnrosen1.com:6969/announce
 
 udp://line-net.ru:6969/announce
 
@@ -207,6 +205,10 @@ udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.org:80/announce
+
+udp://tracker2.itzmx.com:6961/announce
+
+udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
