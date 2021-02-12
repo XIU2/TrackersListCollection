@@ -30,6 +30,8 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.internetwarriors.net:1337/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.loadbt.com:6969/announce
@@ -204,11 +206,9 @@ udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
+udp://tracker1.itzmx.com:8080/announce
+
 udp://tracker2.dler.org:80/announce
-
-udp://tracker2.itzmx.com:6961/announce
-
-udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
