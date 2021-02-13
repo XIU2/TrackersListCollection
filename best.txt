@@ -18,8 +18,6 @@ http://share.camoe.cn:8080/announce
 
 http://siambit.org:80/announce.php
 
-http://t.nyaatracker.com:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -39,8 +37,6 @@ http://tracker.noobsubs.net:80/announce
 http://tracker.sakurato.xyz:23333/announce
 
 http://tracker.trackerfix.com:80/announce
-
-http://tracker1.itzmx.com:8080/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -97,8 +93,6 @@ udp://cdn-1.gamecoast.org:6969/announce
 udp://daveking.com:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
-
-udp://edu.uifr.ru:6969/announce
 
 udp://engplus.ru:6969/announce
 
@@ -198,9 +192,9 @@ udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker1.itzmx.com:8080/announce
-
 udp://tracker2.dler.org:80/announce
+
+udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
