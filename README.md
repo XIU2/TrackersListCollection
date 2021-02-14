@@ -36,9 +36,9 @@ _These lists are updated every 8 hours !_
 
 - **BEST Tracker list:** (107 trackers)  
  _**https://trackerslist.com/best.txt**_  
-- **ALL Tracker list:** (343 trackers)  
+- **ALL Tracker list:** (311 trackers)  
  _**https://trackerslist.com/all.txt**_  
-- **HTTP(S) Tracker list:** (149 trackers)  
+- **HTTP(S) Tracker list:** (130 trackers)  
  _**https://trackerslist.com/http.txt**_  
 
 <details>

@@ -36,11 +36,11 @@ http://tracker.loadbt.com:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.sakurato.xyz:23333/announce
-
 http://tracker.trackerfix.com:80/announce
 
 http://tracker1.itzmx.com:8080/announce
+
+http://tracker2.itzmx.com:6961/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -196,11 +196,11 @@ udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker1.itzmx.com:8080/announce
-
 udp://tracker2.dler.org:80/announce
 
-udp://tracker4.itzmx.com:2710/announce
+udp://tracker2.itzmx.com:6961/announce
+
+udp://tracker3.itzmx.com:6961/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
