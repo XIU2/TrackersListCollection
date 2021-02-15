@@ -20,8 +20,6 @@ http://194.106.216.222/announce
 
 http://195.201.31.194:80/announce
 
-http://45.56.65.82:54123/announce
-
 http://51.15.55.204:1337/announce
 
 http://51.79.71.167:80/announce
@@ -29,8 +27,6 @@ http://51.79.71.167:80/announce
 http://54.39.179.91:6699/announce
 
 http://60-fps.org:80/bt:80/announce.php
-
-http://62.210.202.61/announce
 
 http://78.30.254.12:2710/announce
 
@@ -62,11 +58,9 @@ http://baibako.tv:80/announce
 
 http://bithq.org:80/announce.php
 
+http://bobbialbano.com:6969/announce
+
 http://bt-tracker.gamexp.ru:2710/announce
-
-http://bt.100.pet:2710/announce
-
-http://bt.3dmgame.com:2710/announce
 
 http://bt.3kb.xyz:80/announce
 
@@ -168,15 +162,11 @@ http://torrent.resonatingmedia.com:6969/announce
 
 http://torrent.rus.ec:2710/announce
 
-http://torrentclub.online:54123/announce
-
 http://torrents.linuxmint.com:80/announce.php
 
 http://torrentsmd.com:8080/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
-
-http://tr.bangumi.moe:6969/announce
 
 http://tr.cili001.com:8070/announce
 
@@ -187,8 +177,6 @@ http://tracker.ali213.net:8000/announce
 http://tracker.anirena.com:80/announce
 
 http://tracker.birkenwald.de:6969/announce
-
-http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -204,6 +192,8 @@ http://tracker.gcvchp.com:2710/announce
 
 http://tracker.gigatorrents.ws:2710/announce
 
+http://tracker.internetwarriors.net:1337/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
@@ -211,8 +201,6 @@ http://tracker.lelux.fi:80/announce
 http://tracker.loadbt.com:6969/announce
 
 http://tracker.minglong.org:8080/announce
-
-http://tracker.moeking.me:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
@@ -232,7 +220,7 @@ http://tracker.vraphim.com:6969/announce
 
 http://tracker.xdvdz.com:2710/announce
 
-http://tracker.zerobytes.xyz:1337/announce
+http://tracker.yoshi210.com:6969/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
@@ -242,6 +230,8 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.dler.org:2710/announce
 
+http://tracker3.itzmx.com:6961/announce
+
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -249,8 +239,6 @@ http://vps02.net.orel.ru:80/announce
 http://www.all4nothin.net:80/announce.php
 
 http://www.bitseduce.com:80/announce.php
-
-http://www.biztorrents.com:80/announce.php
 
 http://www.elitezones.ro:80/announce.php
 
@@ -275,6 +263,8 @@ https://1337.abcvg.info:443/announce
 https://bt.nfshost.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
+
+https://sound-park.world:443/announce
 
 https://torrent.ubuntu.com:443/announce
 
