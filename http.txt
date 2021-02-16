@@ -8,8 +8,6 @@ http://107.152.127.9:6969/announce
 
 http://1337.abcvg.info:80/announce
 
-http://156.234.201.18:80/announce
-
 http://178.175.143.27/announce
 
 http://178.248.247.244:6969/announce
@@ -19,6 +17,8 @@ http://184.105.151.164:6969/announce
 http://185.148.3.231:80/announce
 
 http://194.106.216.222/announce
+
+http://220.173.36.63:6969/announce
 
 http://54.36.126.137:6969/announce
 
@@ -37,8 +37,6 @@ http://87.253.152.137/announce
 http://91.216.110.47/announce
 
 http://91.217.91.21:3218/announce
-
-http://93.158.213.92:1337/announce
 
 http://93.92.64.5/announce
 
@@ -59,8 +57,6 @@ http://baibako.tv:80/announce
 http://bobbialbano.com:6969/announce
 
 http://bt-tracker.gamexp.ru:2710/announce
-
-http://bt.1000.pet:2712/announce
 
 http://bt.10000.pet:2714/announce
 
@@ -162,9 +158,13 @@ http://t2.pow7.com:80/announce
 
 http://torrent.fedoraproject.org:6969/announce
 
+http://torrentclub.online:54123/announce
+
 http://torrents.linuxmint.com:80/announce.php
 
 http://torrentsmd.com:8080/announce
+
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tr.cili001.com:8070/announce
 
@@ -184,8 +184,6 @@ http://tracker.fdn.fr:6969/announce
 
 http://tracker.files.fm:6969/announce
 
-http://tracker.frozen-layer.net:6969/announce
-
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
@@ -200,25 +198,17 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.pow7.com:80/announce
 
-http://tracker.sakurato.xyz:23333/announce
-
 http://tracker.sloppyta.co:80/announce
 
 http://tracker.tasvideos.org:6969/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker.uw0.xyz:6969/announce
-
 http://tracker.vraphim.com:6969/announce
 
 http://tracker.xdvdz.com:2710/announce
 
 http://tracker.yoshi210.com:6969/announce
-
-http://tracker.zerobytes.xyz:1337/announce
-
-http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -230,13 +220,19 @@ http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.loushao.net:8080/announce
+http://www.bitseduce.com:80/announce.php
+
+http://www.biztorrents.com:80/announce.php
+
+http://www.elitezones.ro:80/announce.php
 
 http://www.mvgroup.org:2710/announce
 
 http://www.thetradersden.org/forums/tracker:80/announce.php
 
 http://www.tribalmixes.com:80/announce.php
+
+http://www.tvnihon.com:6969/announce
 
 http://www.wareztorrent.com:80/announce
 
