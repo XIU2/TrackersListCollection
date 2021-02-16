@@ -20,8 +20,6 @@ http://185.148.3.231:80/announce
 
 http://194.106.216.222/announce
 
-http://51.15.55.204:1337/announce
-
 http://54.36.126.137:6969/announce
 
 http://54.39.179.91:6699/announce
@@ -57,6 +55,8 @@ http://all4nothin.net:80/announce.php
 http://atrack.pow7.com:80/announce
 
 http://baibako.tv:80/announce
+
+http://bobbialbano.com:6969/announce
 
 http://bt-tracker.gamexp.ru:2710/announce
 
@@ -136,6 +136,8 @@ http://proaudiotorrents.org:80/announce.php
 
 http://retracker.hotplug.ru:2710/announce
 
+http://retracker.sevstar.net:2710/announce
+
 http://rt.tace.ru:80/announce
 
 http://secure.pow7.com:80/announce
@@ -160,8 +162,6 @@ http://t2.pow7.com:80/announce
 
 http://torrent.fedoraproject.org:6969/announce
 
-http://torrentclub.online:54123/announce
-
 http://torrents.linuxmint.com:80/announce.php
 
 http://torrentsmd.com:8080/announce
@@ -175,8 +175,6 @@ http://tracker.ali213.net:8080/announce
 http://tracker.anirena.com:80/announce
 
 http://tracker.birkenwald.de:6969/announce
-
-http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -204,8 +202,6 @@ http://tracker.pow7.com:80/announce
 
 http://tracker.sakurato.xyz:23333/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.sloppyta.co:80/announce
 
 http://tracker.tasvideos.org:6969/announce
@@ -220,7 +216,9 @@ http://tracker.xdvdz.com:2710/announce
 
 http://tracker.yoshi210.com:6969/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -232,14 +230,6 @@ http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.bitseduce.com:80/announce.php
-
-http://www.biztorrents.com:80/announce.php
-
-http://www.elitezones.ro:80/announce.php
-
-http://www.freerainbowtables.com:6969/announce
-
 http://www.loushao.net:8080/announce
 
 http://www.mvgroup.org:2710/announce
@@ -247,8 +237,6 @@ http://www.mvgroup.org:2710/announce
 http://www.thetradersden.org/forums/tracker:80/announce.php
 
 http://www.tribalmixes.com:80/announce.php
-
-http://www.tvnihon.com:6969/announce
 
 http://www.wareztorrent.com:80/announce
 
