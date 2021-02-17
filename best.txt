@@ -32,8 +32,6 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.internetwarriors.net:1337/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.loadbt.com:6969/announce
@@ -41,6 +39,8 @@ http://tracker.loadbt.com:6969/announce
 http://tracker.noobsubs.net:80/announce
 
 http://tracker.trackerfix.com:80/announce
+
+http://tracker2.itzmx.com:6961/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -91,8 +91,6 @@ udp://blokas.io:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 
 udp://cdn-1.gamecoast.org:6969/announce
-
-udp://cdn-2.gamecoast.org:6969/announce
 
 udp://daveking.com:6969/announce
 
@@ -174,7 +172,11 @@ udp://tracker.ds.is:6969/announce
 
 udp://tracker.e-utp.net:6969/announce
 
+udp://tracker.internetwarriors.net:1337/announce
+
 udp://tracker.lelux.fi:6969/announce
+
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -183,6 +185,8 @@ udp://tracker.shkinev.me:6969/announce
 udp://tracker.sigterm.xyz:6969/announce
 
 udp://tracker.theoks.net:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -197,8 +201,6 @@ udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.org:80/announce
-
-udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
