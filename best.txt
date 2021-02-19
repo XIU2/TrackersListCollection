@@ -36,13 +36,11 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.loadbt.com:6969/announce
+
 http://tracker.noobsubs.net:80/announce
 
 http://tracker.trackerfix.com:80/announce
-
-http://tracker1.itzmx.com:8080/announce
-
-http://tracker3.itzmx.com:6961/announce
 
 http://vps02.net.orel.ru:80/announce
 
