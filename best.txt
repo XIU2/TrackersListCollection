@@ -22,8 +22,6 @@ http://siambit.org:80/announce.php
 
 http://t.nyaatracker.com:80/announce
 
-http://t.overflow.biz:6969/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -41,6 +39,8 @@ http://tracker.loadbt.com:6969/announce
 http://tracker.noobsubs.net:80/announce
 
 http://tracker.trackerfix.com:80/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -176,8 +176,6 @@ udp://tracker.shkinev.me:6969/announce
 
 udp://tracker.sigterm.xyz:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -195,8 +193,6 @@ udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 
 udp://tracker2.dler.org:80/announce
-
-udp://tracker3.itzmx.com:6961/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
