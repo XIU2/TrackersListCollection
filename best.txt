@@ -2,8 +2,6 @@ http://1337.abcvg.info:80/announce
 
 http://bt.3kb.xyz:80/announce
 
-http://h4.trakx.nibba.trade:80/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://milanesitracker.tekcities.com:80/announce
@@ -35,6 +33,8 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.noobsubs.net:80/announce
 
 http://tracker.trackerfix.com:80/announce
+
+http://tracker2.itzmx.com:6961/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -192,8 +192,6 @@ udp://tracker1.itzmx.com:8080/announce
 
 udp://tracker2.dler.org:80/announce
 
-udp://tracker2.itzmx.com:6961/announce
-
 udp://tracker4.itzmx.com:2710/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
@@ -203,7 +201,5 @@ udp://us-tracker.publictracker.xyz:6969/announce
 udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://vibe.community:6969/announce
-
-udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://www.torrent.eu.org:451/announce
