@@ -38,7 +38,7 @@ http://tracker.noobsubs.net:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker3.itzmx.com:6961/announce
+http://tracker1.itzmx.com:8080/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -101,8 +101,6 @@ udp://edu.uifr.ru:6969/announce
 udp://engplus.ru:6969/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://explodie.org:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
@@ -192,9 +190,11 @@ udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
+udp://tracker1.itzmx.com:8080/announce
+
 udp://tracker2.dler.org:80/announce
 
-udp://tracker4.itzmx.com:2710/announce
+udp://tracker3.itzmx.com:6961/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
