@@ -10,15 +10,21 @@ http://178.175.143.27/announce
 
 http://185.148.3.231:80/announce
 
+http://188.34.190.217:6969/announce
+
 http://194.106.216.222/announce
 
 http://195.201.31.194:80/announce
+
+http://45.56.65.82:54123/announce
 
 http://51.79.71.167:80/announce
 
 http://54.36.126.137:6969/announce
 
 http://54.39.179.91:6699/announce
+
+http://78.30.254.12:2710/announce
 
 http://81.200.2.231/announce
 
@@ -31,6 +37,12 @@ http://91.216.110.47/announce
 http://93.92.64.5/announce
 
 http://95.107.48.115:80/announce
+
+http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
+
+http://[2001:470:1:189:0:1:2:3]:6969/announce
+
+http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://all4nothin.net:80/announce.php
 
@@ -50,11 +62,11 @@ http://bluebird-hd.org:80/announce.php
 
 http://bt-tracker.gamexp.ru:2710/announce
 
-http://bt.3dmgame.com:2710/announce
-
 http://bt.3kb.xyz:80/announce
 
 http://bt.ali213.net:8080/announce
+
+http://bt.edwardk.info:6969/announce
 
 http://bt.firebit.org:2710/announce
 
@@ -65,6 +77,8 @@ http://bt.unionpeer.org:777/announce
 http://bt.zlofenix.org:81/announce
 
 http://bt2.54new.com:8080/announce
+
+http://bt2.edwardk.info:4040/announce
 
 http://bttracker.debian.org:6969/announce
 
@@ -77,8 +91,6 @@ http://data-bg.net:80/announce.php
 http://datascene.net:80/announce.php
 
 http://finbytes.org:80/announce.php
-
-http://freerainbowtables.com:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
@@ -104,9 +116,9 @@ http://mvgroup.org:2710/announce
 
 http://ns3107607.ip-54-36-126.eu:6969/announce
 
-http://ns349743.ip-91-121-106.eu:80/announce
-
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://open.touki.ru:80/announce.php
 
@@ -115,6 +127,8 @@ http://opentracker.i2p.rocks:6969/announce
 http://pow7.com:80/announce
 
 http://proaudiotorrents.org:80/announce.php
+
+http://retracker.hotplug.ru:2710/announce
 
 http://retracker.sevstar.net:2710/announce
 
@@ -160,7 +174,7 @@ http://torrentclub.online:54123/announce
 
 http://torrentsmd.com:8080/announce
 
-http://torrentzilla.org:80/announce.php
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tr.cili001.com:8070/announce
 
@@ -170,7 +184,7 @@ http://tracker.ali213.net:8080/announce
 
 http://tracker.anirena.com:80/announce
 
-http://tracker.bittor.pw:1337/announce
+http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -204,8 +218,6 @@ http://tracker.pussytorrents.org:3000/announce
 
 http://tracker.shittyurl.org:80/announce
 
-http://tracker.skyts.cn:6969/announce
-
 http://tracker.skyts.net:6969/announce
 
 http://tracker.sloppyta.co:80/announce
@@ -215,6 +227,8 @@ http://tracker.tambovnet.org:80/announce.php
 http://tracker.tasvideos.org:6969/announce
 
 http://tracker.trackerfix.com:80/announce
+
+http://tracker.uw0.xyz:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
@@ -226,19 +240,17 @@ http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
+http://tracker2.dler.org:80/announce
+
+http://tracker3.dler.org:2710/announce
+
+http://tracker3.itzmx.com:6961/announce
+
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.bitseduce.com:80/announce.php
-
-http://www.biztorrents.com:80/announce.php
-
-http://www.freerainbowtables.com:6969/announce
-
-http://www.legittorrents.info:80/announce.php
 
 http://www.thetradersden.org/forums/tracker:80/announce.php
 
@@ -259,6 +271,8 @@ http://xbtrutor.com:2710/announce
 https://1337.abcvg.info:443/announce
 
 https://bt.nfshost.com:443/announce
+
+https://opentracker.acgnx.se:443/announce
 
 https://torrents.linuxmint.com:443/announce.php
 
@@ -307,6 +321,8 @@ udp://103.196.36.31:6969/announce
 udp://103.30.17.23:6969/announce
 
 udp://104.238.159.144:6969/announce
+
+udp://104.238.198.186:8000/announce
 
 udp://104.244.153.245:6969/announce
 
@@ -402,6 +418,8 @@ udp://217.12.218.177:2710/announce
 
 udp://218.5.43.158:2710/announce
 
+udp://220.173.36.63:6969/announce
+
 udp://37.1.205.89:2710/announce
 
 udp://37.235.174.46:2710/announce
@@ -452,6 +470,8 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://6rt.tace.ru:80/announce
 
+udp://78.30.254.12:2710/announce
+
 udp://89.234.156.205:80/announce
 
 udp://9.rarbg.com:2710/announce
@@ -474,6 +494,14 @@ udp://93.158.213.92:1337/announce
 
 udp://94.23.183.33:6969/announce
 
+udp://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
+
+udp://[2001:470:1:189:0:1:2:3]:6969/announce
+
+udp://[2a03:7220:8083:cd00::1]:451/announce
+
+udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
+
 udp://admin.videoenpoche.info:6969/announce
 
 udp://anidex.moe:6969/announce
@@ -481,8 +509,6 @@ udp://anidex.moe:6969/announce
 udp://app.icon256.com:8000/announce
 
 udp://blokas.io:6969/announce
-
-udp://bt.firebit.org:2710/announce
 
 udp://bt.okmp3.ru:2710/announce
 
@@ -513,6 +539,8 @@ udp://edu.uifr.ru:6969/announce
 udp://engplus.ru:6969/announce
 
 udp://exodus.desync.com:6969/announce
+
+udp://explodie.org:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
@@ -690,9 +718,9 @@ udp://tracker2.christianbro.pw:6969/announce
 
 udp://tracker2.dler.org:80/announce
 
-udp://tracker2.itzmx.com:6961/announce
-
 udp://tracker4.itzmx.com:2710/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://u.wwwww.wtf:1/announce
 
@@ -712,6 +740,8 @@ udp://www.mvgroup.org:2710/announce
 
 udp://www.torrent.eu.org:451/announce
 
+udp://zephir.monocul.us:6969/announce
+
 udp://zer0day.ch:1337/announce
 
 udp://zer0day.to:1337/announce
@@ -723,3 +753,7 @@ ws://tracker.files.fm:7072/announce
 ws://tracker.sloppyta.co:80/announce
 
 wss://hub.bugout.link:443/announce
+
+wss://tracker.btorrent.xyz:443/announce
+
+wss://tracker.openwebtorrent.com:443/announce
