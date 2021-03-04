@@ -34,3 +34,9 @@ http://tracker.anirena.com:80/b16a15d9a238d1f59178d3614b857290/announce
 http://tracker.bittorrent.am:80/announceName
 # Other / 其他(原因)
 http://tracker.anirena.com:80/announce
+http://t1.leech.ie:80/announce
+http://t2.leech.ie:80/announce
+http://t3.leech.ie:80/announce
+https://t1.leech.ie:443/announce
+https://t2.leech.ie:443/announce
+https://t3.leech.ie:443/announce

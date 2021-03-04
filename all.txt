@@ -152,8 +152,6 @@ http://t.nyaatracker.com:80/announce
 
 http://t1.pow7.com:80/announce
 
-http://t2.leech.ie:80/announce
-
 http://t2.pow7.com:80/announce
 
 http://torrent-team.net:80/announce.php
