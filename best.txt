@@ -30,7 +30,7 @@ http://tracker.anirena.com:80/announce
 
 http://tracker.anonwebz.xyz:8080/announce
 
-http://tracker.dler.org:6969/announce
+http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -40,7 +40,7 @@ http://tracker.noobsubs.net:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker3.itzmx.com:6961/announce
+http://tracker2.itzmx.com:6961/announce
 
 http://trk.publictracker.xyz:6969/announce
 
@@ -152,6 +152,8 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.e-utp.net:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
@@ -173,10 +175,6 @@ udp://tracker.v6speed.org:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker0.ufibox.com:6969/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker4.itzmx.com:2710/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
