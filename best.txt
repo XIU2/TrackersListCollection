@@ -40,7 +40,7 @@ http://tracker.noobsubs.net:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker2.itzmx.com:6961/announce
+http://tracker3.itzmx.com:6961/announce
 
 http://trk.publictracker.xyz:6969/announce
 
@@ -91,8 +91,6 @@ udp://bubu.mapfactor.com:6969/announce
 udp://code2chicken.nl:6969/announce
 
 udp://daveking.com:6969/announce
-
-udp://discord.heihachi.pw:6969/announce
 
 udp://edu.uifr.ru:6969/announce
 
@@ -175,6 +173,8 @@ udp://tracker.v6speed.org:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker0.ufibox.com:6969/announce
+
+udp://tracker4.itzmx.com:2710/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
