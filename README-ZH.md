@@ -94,13 +94,13 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 #### BitComet (比特彗星):
 
-> _**官方网站：http://www.bitcomet.com**_  
-> _**便携版：https://xiu.lanzoux.com/b073c7g4f (已配置 Tracker 并屏蔽迅雷，打开白屏请加入广告屏蔽白名单)**_  
+> <small>_**官方网站：http://www.bitcomet.com**_</small>  
+> <small>_**便携版：https://xiu.lanzoux.com/b073c7g4f (已配置 Tracker 并屏蔽迅雷，打开白屏请加入广告屏蔽白名单)**_</small>  
 
-* **工具 - 选项 - 任务设置 - BT下载 - Tracker**  
+- **工具 - 选项 - 任务设置 - BT下载 - Tracker**  
  **勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[立即更新\]** 上面就会显示获取的 Tracker 了。(如下图所示)  
  
-> 比特彗星的 **黄灯 绿灯** 对下载速度影响较小，主要影响上传速度，绿灯需要 **公网IP + 端口映射(UPnP)** 。  
+> <small>比特彗星的 **黄灯 绿灯** 对下载速度影响较小，主要影响上传速度，绿灯需要 **公网IP + 端口映射(UPnP)** 。</small>  
 
 <img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-12.png" width="70%">
 
@@ -108,12 +108,12 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 #### qBittorrent Enhanced Edition (增强版):
 
-> _**Github：https://github.com/c0re100/qBittorrent-Enhanced-Edition**_  
-> _**便携版：https://xiu.lanzoux.com/b073dnr7g (已配置 Tracker 并屏蔽迅雷，打开白屏请加入广告屏蔽白名单)**_  
+> <small>_**Github：https://github.com/c0re100/qBittorrent-Enhanced-Edition**_</small>  
+> <small>_**便携版：https://xiu.lanzoux.com/b073dnr7g (已配置 Tracker 并屏蔽迅雷，打开白屏请加入广告屏蔽白名单)**_</small>  
 
-> 基于 qBittorrent，增加了很多实用功能，例如 **订阅 Tracker URL** ，可以很方便的配合本项目使用。
+> <small>在 qBittorrent 的基础上增加了很多功能，例如：**屏蔽迅雷、订阅 Tracker URL** ，可以很方便的配合本项目使用。</small>
 
-* **选项[齿轮图标] - BitTorrent**  
+- **选项[齿轮图标] - BitTorrent**  
  **勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[Apply\]** 保存，**然后重启 qBittorrentEE 。**(如下图所示)  
 
 <img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-13.png" width="70%">
@@ -122,10 +122,10 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 #### qBittorrent:
 
-> _**官方网站：https://www.qbittorrent.org**_  
-> _**便携版：https://xiu.lanzoux.com/b073jjwta (如打开白屏请加入广告屏蔽白名单)**_  
+> <small>_**官方网站：https://www.qbittorrent.org**_</small>  
+> <small>_**便携版：https://xiu.lanzoux.com/b073jjwta (如打开白屏请加入广告屏蔽白名单)**_</small>  
 
-* **选项[齿轮图标] - BitTorrent**  
+- **选项[齿轮图标] - BitTorrent**  
  **勾选下图红框内的选项** 并复制所有 Tracker 后粘贴到下方输入框中，然后点击 **\[Apply\]** 保存。(如下图所示)  
 
 <img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-05.png" width="70%">
@@ -134,9 +134,9 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 #### Motrix:
 
-> _**官方网站：https://motrix.app**_
+> <small>_**官方网站：https://motrix.app**_</small>
 
-* **选项(左下角) - 进阶设置 - Tracker 服务器 - ﹀**  
+- **选项(左下角) - 进阶设置 - Tracker 服务器 - ﹀**  
  **勾选任意一个选项（如 all.txt）** ，然后点击 **\[保存并应用\]** 保存。(如下图所示)  
 
 <img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-10.png" width="70%">
@@ -145,9 +145,9 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 #### Xdown:
 
-> _**官方网站：https://xdown.org**_
+> <small>_**官方网站：https://xdown.org**_</small>
 
-* **设置 - BitTorrent设置**  
+- **设置 - BitTorrent设置**  
  **勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[确定\]** 保存。(如下图所示) 
 
 <img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-08.png" width="70%">
@@ -206,7 +206,7 @@ _**更详细、完整的请看这篇文章：[https://zhuanlan.zhihu.com/p/87193
 
 ### 帮助项目
 
-* 您知道更好的公共追踪器列表？(例如: ngosang/trackerslist) => [Open a new issue](https://github.com/XIU2/TrackersListCollection/issues/new)
+* 您知道更好的公共追踪器列表？(例如: ngosang/trackerslist) -> <kbd>[Open a new issue](https://github.com/XIU2/TrackersListCollection/issues/new)</kbd>
 
 ****
 

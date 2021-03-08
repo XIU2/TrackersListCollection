@@ -42,7 +42,7 @@ _These lists are updated every 8 hours !_
  _**https://trackerslist.com/http.txt**_  
 
 <details>
-<summary><strong><code>[Click to expand] - View alternate address:</code></strong></summary>
+<summary><strong><code>[Click to expand] - View alternate address</code></strong></summary>
 
 ****
 
@@ -62,7 +62,7 @@ _These lists are updated every 8 hours !_
 #### Aria2:
 
 <details>
-<summary><strong><code>[Click to expand] - View the tracker list in Aria2 format:</code> </strong></summary>
+<summary><strong><code>[Click to expand] - View the tracker list in Aria2 format</code> </strong></summary>
 
 - **BEST Tracker list:**  
  **_[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)_**  
@@ -83,7 +83,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 #### BitComet:  
 
-> _**http://www.bitcomet.com**_
+> <small>_**http://www.bitcomet.com**_</small>
 
 <img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-12.png" width="70%">
 
@@ -91,9 +91,8 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 #### qBittorrent Enhanced Edition:
 
-> _**Github: https://github.com/c0re100/qBittorrent-Enhanced-Edition**_  
-
-> Based qBittorrent, added many useful features, such as **Subscribing to Tracker URL** , you can easily use with this project.  
+> <small>_**https://github.com/c0re100/qBittorrent-Enhanced-Edition**_</small>  
+> <small>Based qBittorrent, added many useful features, such as **Subscribing to Tracker URL** , you can easily use with this project.</small>  
 
 After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
@@ -103,7 +102,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 #### qBittorrent:
 
-> _**https://www.qbittorrent.org**_
+> <small>_**https://www.qbittorrent.org**_</small>
 
 <img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-04.png" width="70%">
 
@@ -111,7 +110,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 #### Motrix:
 
-> _**https://motrix.app**_
+> <small>_**https://motrix.app**_</small>
 
 <img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-10.png" width="70%">
 
@@ -119,7 +118,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 #### Xdown:
 
-> _**https://xdown.org**_
+> <small>_**https://xdown.org**_</small>
 
 <img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-08.png" width="70%">
 
@@ -142,7 +141,7 @@ Thanks for these projects!
 
 ### Contribute
 
-* Do you know more public trackers list? (E.g: ngosang/trackerslist) => [Open a new issue](https://github.com/XIU2/TrackersListCollection/issues/new)
+* Do you know more public trackers list? (E.g: ngosang/trackerslist) -> <kbd>[Open a new issue](https://github.com/XIU2/TrackersListCollection/issues/new)</kbd>
 
 ****
 
