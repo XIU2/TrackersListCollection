@@ -130,6 +130,8 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://peru.subventas.com:53/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
@@ -148,23 +150,25 @@ udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
+udp://tracker.army:6969/announce
+
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.e-utp.net:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
-udp://tracker.moeking.me:6969/announce
+udp://tracker.lelux.fi:6969/announce
 
-udp://tracker.nighthawk.pw:4201/announce
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.shkinev.me:6969/announce
-
-udp://tracker.skyts.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
@@ -180,7 +184,11 @@ udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker4.itzmx.com:2710/announce
+udp://tracker1.itzmx.com:8080/announce
+
+udp://tracker2.itzmx.com:6961/announce
+
+udp://tracker3.itzmx.com:6961/announce
 
 udp://u.wwwww.wtf:1/announce
 
