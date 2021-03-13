@@ -36,6 +36,8 @@ http://tracker.noobsubs.net:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker1.itzmx.com:8080/announce
+
 http://trk.publictracker.xyz:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -43,16 +45,6 @@ http://vps02.net.orel.ru:80/announce
 http://www.all4nothin.net:80/announce.php
 
 https://1337.abcvg.info:443/announce
-
-https://atrack-asia-e2.120181311.xyz:443/announce
-
-https://atrack-asia-s1.120181311.xyz:443/announce
-
-https://atrack-eu-w1.120181311.xyz:443/announce
-
-https://atrack-sa-e1.120181311.xyz:443/announce
-
-https://atrack-us-c1.120181311.xyz:443/announce
 
 https://bt.nfshost.com:443/announce
 
@@ -194,7 +186,7 @@ udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker4.itzmx.com:2710/announce
+udp://tracker2.itzmx.com:6961/announce
 
 udp://u.wwwww.wtf:1/announce
 
