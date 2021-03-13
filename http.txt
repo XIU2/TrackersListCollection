@@ -30,6 +30,8 @@ http://54.36.126.137:6969/announce
 
 http://54.39.179.91:6699/announce
 
+http://78.30.254.12:2710/announce
+
 http://81.200.2.231/announce
 
 http://85.17.19.180/announce
@@ -72,8 +74,6 @@ http://bt.okmp3.ru:2710/announce
 
 http://bt.zlofenix.org:81/announce
 
-http://bt2.edwardk.info:2710/announce
-
 http://bttracker.debian.org:6969/announce
 
 http://btx.anifilm.tv:80/announce.php
@@ -104,15 +104,11 @@ http://mediaclub.tv:80/announce
 
 http://milliontorrent.pl:80/announce.php
 
-http://mixfiend.com:6969/announce
-
 http://music-torrent.net:2710/announce
 
 http://mvgroup.org:2710/announce
 
 http://ns3107607.ip-54-36-126.eu:6969/announce
-
-http://ns349743.ip-91-121-106.eu:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
@@ -172,8 +168,6 @@ http://torrentsmd.com:8080/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
-http://torrentzilla.org:80/announce
-
 http://tr.cili001.com:8070/announce
 
 http://tracker-cdn.moeking.me:2095/announce
@@ -184,19 +178,13 @@ http://tracker.anirena.com:80/announce
 
 http://tracker.anonwebz.xyz:8080/announce
 
-http://tracker.birkenwald.de:6969/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.etree.org:6969/announce
-
 http://tracker.fdn.fr:6969/announce
 
 http://tracker.files.fm:6969/announce
-
-http://tracker.frozen-layer.net:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -222,8 +210,6 @@ http://tracker.pussytorrents.org:3000/announce
 
 http://tracker.shittyurl.org:80/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.sloppyta.co:80/announce
 
 http://tracker.tambovnet.org:80/announce.php
@@ -238,17 +224,13 @@ http://tracker.xdvdz.com:2710/announce
 
 http://tracker.yoshi210.com:6969/announce
 
-http://tracker.zerobytes.xyz:1337/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker2.dler.org:80/announce
 
 http://tracker3.dler.org:2710/announce
 
-http://trk.publictracker.xyz:6969/announce
+http://tracker4.itzmx.com:2710/announce
 
-http://vpn.flying-datacenter.de:6969/announce
+http://trk.publictracker.xyz:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -264,13 +246,21 @@ http://www.tvnihon.com:6969/announce
 
 http://www.wareztorrent.com:80/announce
 
-http://www.worldboxingvideoarchive.com:80/announce.php
-
 http://www.xwt-classics.net:80/announce.php
 
 http://www.zone-torrent.net:80/announce.php
 
 https://1337.abcvg.info:443/announce
+
+https://atrack-asia-e2.120181311.xyz:443/announce
+
+https://atrack-asia-s1.120181311.xyz:443/announce
+
+https://atrack-eu-w1.120181311.xyz:443/announce
+
+https://atrack-sa-e1.120181311.xyz:443/announce
+
+https://atrack-us-c1.120181311.xyz:443/announce
 
 https://bt.nfshost.com:443/announce
 
