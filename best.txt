@@ -168,6 +168,8 @@ udp://tracker.shkinev.me:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -180,7 +182,7 @@ udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker0.ufibox.com:6969/announce
 
-udp://tracker2.itzmx.com:6961/announce
+udp://tracker1.itzmx.com:8080/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
@@ -197,5 +199,7 @@ udp://vibe.community:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://zephir.monocul.us:6969/announce
 
 wss://104.28.12.18:443/announce
