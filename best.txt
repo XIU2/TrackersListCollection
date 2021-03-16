@@ -36,6 +36,8 @@ http://tracker.noobsubs.net:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker3.itzmx.com:6961/announce
+
 http://trk.publictracker.xyz:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -156,7 +158,11 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
+udp://tracker.cyberia.is:6969/announce
+
 udp://tracker.e-utp.net:6969/announce
+
+udp://tracker.edkj.club:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
@@ -165,8 +171,6 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.shkinev.me:6969/announce
-
-udp://tracker.skyts.net:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -178,13 +182,15 @@ udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.v6speed.org:6969/announce
 
+udp://tracker.zemoj.com:6969/announce
+
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker0.ufibox.com:6969/announce
 
-udp://tracker1.itzmx.com:8080/announce
-
 udp://tracker3.itzmx.com:6961/announce
+
+udp://tracker4.itzmx.com:2710/announce
 
 udp://u.wwwww.wtf:1/announce
 
@@ -199,7 +205,5 @@ udp://vibe.community:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://www.torrent.eu.org:451/announce
-
-udp://zephir.monocul.us:6969/announce
 
 wss://104.28.12.18:443/announce
