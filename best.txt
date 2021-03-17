@@ -44,7 +44,7 @@ http://tracker.noobsubs.net:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker1.itzmx.com:8080/announce
+http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -59,6 +59,8 @@ https://1337.abcvg.info:443/announce
 https://bt.nfshost.com:443/announce
 
 https://tr.ready4.icu:443/announce
+
+https://tr.steins-gate.moe:2096/announce
 
 https://tracker.coalition.space:443/announce
 
@@ -164,8 +166,6 @@ udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
-udp://tracker.army:6969/announce
-
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -194,15 +194,9 @@ udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.v6speed.org:6969/announce
 
-udp://tracker.zemoj.com:6969/announce
-
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker0.ufibox.com:6969/announce
-
-udp://tracker2.itzmx.com:6961/announce
-
-udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
