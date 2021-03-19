@@ -26,8 +26,6 @@ http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
 
-http://tracker-cdn.moeking.me:2095/announce
-
 http://tracker.anirena.com:80/announce
 
 http://tracker.anirena.com:80/b16a15d9a238d1f59178d3614b857290/announce
@@ -41,6 +39,10 @@ http://tracker.gbitt.info:80/announce
 http://tracker.noobsubs.net:80/announce
 
 http://tracker.trackerfix.com:80/announce
+
+http://tracker1.itzmx.com:8080/announce
+
+http://tracker3.itzmx.com:6961/announce
 
 http://trk.publictracker.xyz:6969/announce
 
@@ -144,6 +146,8 @@ udp://peru.subventas.com:53/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
+udp://retracker.lanta-net.ru:2710/announce
+
 udp://retracker.netbynet.ru:2710/announce
 
 udp://t1.leech.ie:1337/announce
@@ -192,11 +196,13 @@ udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker0.ufibox.com:6969/announce
 
-udp://tracker3.itzmx.com:6961/announce
+udp://tracker1.itzmx.com:8080/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
 udp://u.wwwww.wtf:1/announce
+
+udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://us-tracker.publictracker.xyz:6969/announce
 
@@ -207,3 +213,5 @@ udp://vibe.community:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://zephir.monocul.us:6969/announce
