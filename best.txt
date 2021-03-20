@@ -40,8 +40,6 @@ http://tracker.noobsubs.net:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker3.itzmx.com:6961/announce
-
 http://trk.publictracker.xyz:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -94,6 +92,8 @@ udp://code2chicken.nl:6969/announce
 
 udp://daveking.com:6969/announce
 
+udp://discord.heihachi.pw:6969/announce
+
 udp://edu.uifr.ru:6969/announce
 
 udp://engplus.ru:6969/announce
@@ -109,6 +109,8 @@ udp://free.publictracker.xyz:6969/announce
 udp://inferno.demonoid.is:3391/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
+
+udp://ipv6.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
@@ -167,6 +169,8 @@ udp://tracker.beeimg.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.e-utp.net:6969/announce
 
