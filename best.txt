@@ -24,8 +24,6 @@ http://torrent.nwps.ws:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.anirena.com:80/announce
 
 http://tracker.anirena.com:80/b16a15d9a238d1f59178d3614b857290/announce
@@ -196,7 +194,7 @@ udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker1.itzmx.com:8080/announce
+udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
