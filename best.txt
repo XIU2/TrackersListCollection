@@ -196,6 +196,10 @@ udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
+udp://tracker1.itzmx.com:8080/announce
+
+udp://tracker4.itzmx.com:2710/announce
+
 udp://u.wwwww.wtf:1/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
