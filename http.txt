@@ -30,8 +30,6 @@ http://54.39.179.91:6699/announce
 
 http://60-fps.org:80/bt:80/announce.php
 
-http://78.30.254.12:2710/announce
-
 http://81.200.2.231/announce
 
 http://85.17.19.180/announce
@@ -96,6 +94,8 @@ http://explodie.org:6969/announce
 
 http://finbytes.org:80/announce.php
 
+http://freerainbowtables.com:6969/announce
+
 http://h4.trakx.nibba.trade:80/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -111,8 +111,6 @@ http://masters-tb.com:80/announce.php
 http://mediaclub.tv:80/announce.php
 
 http://milliontorrent.pl:80/announce.php
-
-http://mixfiend.com:6969/announce
 
 http://music-torrent.net:2710/announce
 
@@ -176,6 +174,10 @@ http://torrentclub.online:54123/announce
 
 http://torrentsmd.com:8080/announce
 
+http://torrenttracker.nwc.acsalaska.net:6969/announce
+
+http://torrentzilla.org:80/announce
+
 http://tr.cili001.com:8070/announce
 
 http://tracker-cdn.moeking.me:2095/announce
@@ -199,8 +201,6 @@ http://tracker.files.fm:6969/announce
 http://tracker.frozen-layer.net:6969/announce.php
 
 http://tracker.gbitt.info:80/announce
-
-http://tracker.gcvchp.com:2710/announce
 
 http://tracker.gigatorrents.ws:2710/announce
 
@@ -230,17 +230,19 @@ http://tracker.tasvideos.org:6969/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker.uw0.xyz:6969/announce
+
 http://tracker.xdvdz.com:2710/announce
 
-http://tracker.yoshi210.com:6969/announce
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
-http://tracker2.itzmx.com:6961/announce
-
 http://tracker3.dler.org:2710/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://trk.publictracker.xyz:6969/announce
 
@@ -252,7 +254,7 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.bitseduce.com:80/announce.php
 
-http://www.biztorrents.com:80/announce.php
+http://www.freerainbowtables.com:6969/announce
 
 http://www.legittorrents.info:80/announce.php
 
@@ -260,15 +262,15 @@ http://www.thetradersden.org/forums/tracker:80/announce.php
 
 http://www.tribalmixes.com:80/announce.php
 
+http://www.tvnihon.com:6969/announce
+
+http://www.worldboxingvideoarchive.com:80/announce.php
+
 http://www.xwt-classics.net:80/announce.php
 
 https://1337.abcvg.info:443/announce
 
 https://atrack-asia-e2.120181311.xyz:443/announce
-
-https://atrack-asia-s1.120181311.xyz:443/announce
-
-https://atrack-sa-e1.120181311.xyz:443/announce
 
 https://atrack-us-c1.120181311.xyz:443/announce
 
@@ -281,6 +283,8 @@ https://torrents.linuxmint.com:443/announce.php
 https://tr.ready4.icu:443/announce
 
 https://tr.steins-gate.moe:2096/announce
+
+https://tracker.bt-hash.com:443/announce
 
 https://tracker.coalition.space:443/announce
 
@@ -303,8 +307,6 @@ https://tracker.nanoha.org:443/announce
 https://tracker.nitrix.me:443/announce
 
 https://tracker.parrotsec.org:443/announce
-
-https://tracker.renfei.net:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
