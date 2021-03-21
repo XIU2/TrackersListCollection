@@ -18,6 +18,8 @@ http://194.106.216.222/announce
 
 http://195.201.31.194:80/announce
 
+http://51.15.55.204:1337/announce
+
 http://51.79.71.167:80/announce
 
 http://51.81.46.170:6969/announce
@@ -68,8 +70,6 @@ http://bt.3kb.xyz:80/announce
 
 http://bt.ali213.net:8080/announce
 
-http://bt.firebit.org:2710/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://bt.unionpeer.org:777/announce
@@ -110,6 +110,8 @@ http://mediaclub.tv:80/announce.php
 
 http://milliontorrent.pl:80/announce.php
 
+http://mixfiend.com:6969/announce
+
 http://music-torrent.net:2710/announce
 
 http://mvgroup.org:2710/announce
@@ -131,8 +133,6 @@ http://pow7.com:80/announce
 http://proaudiotorrents.org:80/announce.php
 
 http://retracker.hotplug.ru:2710/announce
-
-http://retracker.sevstar.net:2710/announce
 
 http://rt.tace.ru:80/announce
 
@@ -166,8 +166,6 @@ http://torrent.resonatingmedia.com:6969/announce
 
 http://torrent.rus.ec:2710/announce
 
-http://torrent.ubuntu.com:6969/announce
-
 http://torrentclub.online:54123/announce
 
 http://torrentsmd.com:8080/announce
@@ -183,6 +181,8 @@ http://tracker.ali213.net:8080/announce
 http://tracker.anirena.com:80/announce
 
 http://tracker.anirena.com:80/b16a15d9a238d1f59178d3614b857290/announce
+
+http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -234,6 +234,8 @@ http://tracker.xdvdz.com:2710/announce
 
 http://tracker.yoshi210.com:6969/announce
 
+http://tracker.zerobytes.xyz:1337/announce
+
 http://tracker2.dler.org:80/announce
 
 http://tracker3.dler.org:2710/announce
@@ -244,11 +246,11 @@ http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
+http://www.legittorrents.info:80/announce.php
+
 http://www.thetradersden.org/forums/tracker:80/announce.php
 
 http://www.tribalmixes.com:80/announce.php
-
-http://www.worldboxingvideoarchive.com:80/announce.php
 
 http://www.xwt-classics.net:80/announce.php
 
@@ -258,11 +260,15 @@ https://bt.nfshost.com:443/announce
 
 https://opentracker.acgnx.se:443/announce
 
+https://p2pdl.com:443/announce
+
 https://torrents.linuxmint.com:443/announce.php
 
 https://tr.ready4.icu:443/announce
 
 https://tr.steins-gate.moe:2096/announce
+
+https://tracker.bt-hash.com:443/announce
 
 https://tracker.coalition.space:443/announce
 
@@ -298,6 +304,8 @@ udp://103.196.36.31:6969/announce
 
 udp://103.30.17.23:6969/announce
 
+udp://104.238.159.144:6969/announce
+
 udp://104.238.198.186:8000/announce
 
 udp://104.244.153.245:6969/announce
@@ -308,11 +316,11 @@ udp://109.248.43.36:6969/announce
 
 udp://119.28.134.203:6969/announce
 
-udp://128.199.70.66:5944/announce
-
 udp://138.68.171.1:6969/announce
 
 udp://144.76.35.202:6969/announce
+
+udp://144.76.82.110:6969/announce
 
 udp://148.251.53.72:6969/announce
 
@@ -387,6 +395,8 @@ udp://212.47.227.58:6969/announce
 udp://212.83.181.109:6969/announce
 
 udp://217.12.218.177:2710/announce
+
+udp://37.1.205.89:2710/announce
 
 udp://37.235.174.46:2710/announce
 
@@ -475,8 +485,6 @@ udp://admin.videoenpoche.info:6969/announce
 udp://anidex.moe:6969/announce
 
 udp://app.icon256.com:8000/announce
-
-udp://bt.firebit.org:2710/announce
 
 udp://bt.okmp3.ru:2710/announce
 
@@ -610,6 +618,8 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
+udp://tracker.btsync.gq:2710/announce
+
 udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
@@ -617,8 +627,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.e-utp.net:6969/announce
-
-udp://tracker.edkj.club:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -672,15 +680,17 @@ udp://tracker.v6speed.org:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
-udp://tracker0.ufibox.com:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.christianbro.pw:6969/announce
 
 udp://tracker2.dler.org:80/announce
 
+udp://tracker2.itzmx.com:6961/announce
+
 udp://tracker4.itzmx.com:2710/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://u.wwwww.wtf:1/announce
 
@@ -703,8 +713,6 @@ udp://zephir.monocul.us:6969/announce
 udp://zer0day.ch:1337/announce
 
 udp://zer0day.to:1337/announce
-
-ws://tracker.nighthawk.pw:4201/announce
 
 ws://tracker.sloppyta.co:80/announce
 
