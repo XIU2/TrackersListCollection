@@ -24,8 +24,6 @@ http://torrent.nwps.ws:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.anirena.com:80/announce
 
 http://tracker.anirena.com:80/b16a15d9a238d1f59178d3614b857290/announce
@@ -40,7 +38,7 @@ http://tracker.noobsubs.net:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker2.itzmx.com:6961/announce
+http://tracker3.itzmx.com:6961/announce
 
 http://trk.publictracker.xyz:6969/announce
 
@@ -90,6 +88,8 @@ udp://app.icon256.com:8000/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
+udp://code2chicken.nl:6969/announce
+
 udp://daveking.com:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
@@ -99,6 +99,8 @@ udp://edu.uifr.ru:6969/announce
 udp://engplus.ru:6969/announce
 
 udp://exodus.desync.com:6969/announce
+
+udp://fasttracker.foreverpirates.co:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
@@ -129,8 +131,6 @@ udp://nagios.tks.sumy.ua:80/announce
 udp://newtoncity.org:6969/announce
 
 udp://open.demonii.com:1337/announce
-
-udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -199,6 +199,8 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
