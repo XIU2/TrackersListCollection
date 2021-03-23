@@ -24,6 +24,8 @@ http://torrent.nwps.ws:80/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.cili001.com:8070/announce
+
 http://tracker.anirena.com:80/announce
 
 http://tracker.anirena.com:80/b16a15d9a238d1f59178d3614b857290/announce
@@ -38,7 +40,9 @@ http://tracker.noobsubs.net:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker3.itzmx.com:6961/announce
+http://tracker1.itzmx.com:8080/announce
+
+http://tracker2.itzmx.com:6961/announce
 
 http://trk.publictracker.xyz:6969/announce
 
@@ -132,6 +136,8 @@ udp://newtoncity.org:6969/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://open.publictracker.xyz:6969/announce
+
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
@@ -176,8 +182,6 @@ udp://tracker.e-utp.net:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
-udp://tracker.lelux.fi:6969/announce
-
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -200,6 +204,10 @@ udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
+udp://tracker2.dler.org:80/announce
+
+udp://tracker2.itzmx.com:6961/announce
+
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
@@ -210,8 +218,8 @@ udp://us-tracker.publictracker.xyz:6969/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
 
-udp://vibe.community:6969/announce
-
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://zephir.monocul.us:6969/announce
