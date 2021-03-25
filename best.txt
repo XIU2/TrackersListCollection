@@ -8,8 +8,6 @@ http://1337.abcvg.info:80/announce
 
 http://bt.3kb.xyz:80/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://ns3107607.ip-54-36-126.eu:6969/announce
 
 http://opentracker.xyz:80/announce
@@ -23,8 +21,6 @@ http://t.nyaatracker.com:80/announce
 http://torrent.nwps.ws:80/announce
 
 http://torrentsmd.com:8080/announce
-
-http://tr.cili001.com:8070/announce
 
 http://tracker.anirena.com:80/announce
 
@@ -169,8 +165,6 @@ udp://tracker.beeimg.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.e-utp.net:6969/announce
 
