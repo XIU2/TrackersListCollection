@@ -28,6 +28,8 @@ http://54.39.179.91:6699/announce
 
 http://60-fps.org:80/bt:80/announce.php
 
+http://78.30.254.12:2710/announce
+
 http://81.200.2.231/announce
 
 http://85.17.19.180/announce
@@ -40,11 +42,19 @@ http://93.92.64.5/announce
 
 http://95.107.48.115:80/announce
 
+http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
+
+http://[2001:470:1:189:0:1:2:3]:6969/announce
+
+http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
+
 http://all4nothin.net:80/announce.php
 
 http://alltorrents.net:80/bt:80/announce.php
 
 http://atrack.pow7.com:80/announce
+
+http://baibako.tv:80/announce
 
 http://big-boss-tracker.net:80/announce.php
 
@@ -57,6 +67,10 @@ http://bt.3dmgame.com:2710/announce
 http://bt.3kb.xyz:80/announce
 
 http://bt.ali213.net:8080/announce
+
+http://bt.edwardk.info:4040/announce
+
+http://bt.firebit.org:2710/announce
 
 http://bt.unionpeer.org:777/announce
 
@@ -80,6 +94,8 @@ http://finbytes.org:80/announce.php
 
 http://h4.trakx.nibba.trade:80/announce
 
+http://ipv4announce.sktorrent.eu:6969/announce
+
 http://irrenhaus.dyndns.dk:80/announce.php
 
 http://kaztorka.org:80/announce.php
@@ -89,8 +105,6 @@ http://kinorun.com:80/announce.php
 http://masters-tb.com:80/announce.php
 
 http://mediaclub.tv:80/announce.php
-
-http://mixfiend.com:6969/announce
 
 http://music-torrent.net:2710/announce
 
@@ -110,7 +124,11 @@ http://pow7.com:80/announce
 
 http://proaudiotorrents.org:80/announce.php
 
+http://retracker.hotplug.ru:2710/announce
+
 http://retracker.sevstar.net:2710/announce
+
+http://retracker.telecom.by:80/announce
 
 http://rt.tace.ru:80/announce
 
@@ -130,6 +148,8 @@ http://t1.pow7.com:80/announce
 
 http://t2.pow7.com:80/announce
 
+http://torrent-team.net:80/announce.php
+
 http://torrent.arjlover.net:2710/announce
 
 http://torrent.fedoraproject.org:6969/announce
@@ -144,9 +164,13 @@ http://torrent.rus.ec:2710/announce
 
 http://torrent.ubuntu.com:6969/announce
 
+http://torrentclub.online:54123/announce
+
 http://torrentsmd.com:8080/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
+
+http://torrentzilla.org:80/announce
 
 http://tr.cili001.com:8070/announce
 
@@ -158,11 +182,11 @@ http://tracker.anirena.com:80/announce
 
 http://tracker.anirena.com:80/b16a15d9a238d1f59178d3614b857290/announce
 
+http://tracker.birkenwald.de:6969/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.etree.org:6969/announce
 
 http://tracker.fdn.fr:6969/announce
 
@@ -175,8 +199,6 @@ http://tracker.gcvchp.com:2710/announce
 http://tracker.gigatorrents.ws:2710/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.lelux.fi:80/announce
 
 http://tracker.loadbt.com:6969/announce
 
@@ -194,6 +216,10 @@ http://tracker.pussytorrents.org:3000/announce
 
 http://tracker.shittyurl.org:80/announce
 
+http://tracker.skyts.cn:6969/announce
+
+http://tracker.skyts.net:6969/announce
+
 http://tracker.sloppyta.co:80/announce
 
 http://tracker.tambovnet.org:80/announce.php
@@ -203,8 +229,6 @@ http://tracker.tasvideos.org:6969/announce
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.xdvdz.com:2710/announce
-
-http://tracker.yoshi210.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
@@ -216,6 +240,8 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.dler.org:2710/announce
 
+http://tracker4.itzmx.com:2710/announce
+
 http://trk.publictracker.xyz:6969/announce
 
 http://vpn.flying-datacenter.de:6969/announce
@@ -224,7 +250,11 @@ http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.freerainbowtables.com:6969/announce
+http://www.bitseduce.com:80/announce.php
+
+http://www.biztorrents.com:80/announce.php
+
+http://www.legittorrents.info:80/announce.php
 
 http://www.thetradersden.org/forums/tracker:80/announce.php
 
@@ -238,13 +268,13 @@ https://1337.abcvg.info:443/announce
 
 https://bt.nfshost.com:443/announce
 
+https://opentracker.acgnx.se:443/announce
+
 https://torrents.linuxmint.com:443/announce.php
 
 https://tr.ready4.icu:443/announce
 
 https://tr.steins-gate.moe:2096/announce
-
-https://tracker.bt-hash.com:443/announce
 
 https://tracker.coalition.space:443/announce
 
