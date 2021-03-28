@@ -166,13 +166,13 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.blacksparrowmedia.net:6969/announce
-
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.e-utp.net:6969/announce
+
+udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.lelux.fi:6969/announce
 
@@ -206,9 +206,13 @@ udp://tracker1.itzmx.com:8080/announce
 
 udp://tracker2.dler.org:80/announce
 
+udp://tracker3.itzmx.com:6961/announce
+
 udp://tracker4.itzmx.com:2710/announce
 
 udp://u.wwwww.wtf:1/announce
+
+udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://us-tracker.publictracker.xyz:6969/announce
 
@@ -219,3 +223,5 @@ udp://vibe.community:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://zephir.monocul.us:6969/announce
