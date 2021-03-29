@@ -8,6 +8,8 @@ http://1337.abcvg.info:80/announce
 
 http://bt.3kb.xyz:80/announce
 
+http://filetracker.xyz:11451/announce
+
 http://ns3107607.ip-54-36-126.eu:6969/announce
 
 http://opentracker.xyz:80/announce
@@ -39,6 +41,10 @@ http://tracker.gbitt.info:80/announce
 http://tracker.noobsubs.net:80/announce
 
 http://tracker.trackerfix.com:80/announce
+
+http://tracker1.itzmx.com:8080/announce
+
+http://tracker2.itzmx.com:6961/announce
 
 http://trk.publictracker.xyz:6969/announce
 
@@ -101,8 +107,6 @@ udp://edu.uifr.ru:6969/announce
 udp://engplus.ru:6969/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://explodie.org:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
@@ -170,8 +174,6 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.e-utp.net:6969/announce
 
-udp://tracker.lelux.fi:6969/announce
-
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.nighthawk.pw:2052/announce
@@ -192,11 +194,7 @@ udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.v6speed.org:6969/announce
 
-udp://tracker.zemoj.com:6969/announce
-
 udp://tracker.zerobytes.xyz:1337/announce
-
-udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
