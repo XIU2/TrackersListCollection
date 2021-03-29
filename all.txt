@@ -28,6 +28,8 @@ http://54.39.179.91:6699/announce
 
 http://60-fps.org:80/bt:80/announce.php
 
+http://78.30.254.12:2710/announce
+
 http://81.200.2.231/announce
 
 http://85.17.19.180/announce
@@ -60,8 +62,6 @@ http://bithq.org:80/announce.php
 
 http://bt-tracker.gamexp.ru:2710/announce
 
-http://bt.1000.pet:2712/announce
-
 http://bt.3dmgame.com:2710/announce
 
 http://bt.3kb.xyz:80/announce
@@ -88,11 +88,7 @@ http://data-bg.net:80/announce.php
 
 http://datascene.net:80/announce.php
 
-http://explodie.org:6969/announce
-
 http://finbytes.org:80/announce.php
-
-http://freerainbowtables.com:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
@@ -109,6 +105,8 @@ http://mail2.zelenaya.net:80/announce
 http://masters-tb.com:80/announce.php
 
 http://mediaclub.tv:80/announce.php
+
+http://mixfiend.com:6969/announce
 
 http://music-torrent.net:2710/announce
 
@@ -130,7 +128,7 @@ http://proaudiotorrents.org:80/announce.php
 
 http://retracker.hotplug.ru:2710/announce
 
-http://retracker.telecom.by:80/announce
+http://retracker.sevstar.net:2710/announce
 
 http://rt.tace.ru:80/announce
 
@@ -170,8 +168,6 @@ http://torrentsmd.com:8080/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
-http://torrentzilla.org:80/announce
-
 http://tr.cili001.com:8070/announce
 
 http://tracker-cdn.moeking.me:2095/announce
@@ -182,17 +178,15 @@ http://tracker.anirena.com:80/announce
 
 http://tracker.anirena.com:80/b16a15d9a238d1f59178d3614b857290/announce
 
+http://tracker.birkenwald.de:6969/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.etree.org:6969/announce
-
 http://tracker.fdn.fr:6969/announce
 
 http://tracker.files.fm:6969/announce
-
-http://tracker.frozen-layer.net:6969/announce.php
 
 http://tracker.gbitt.info:80/announce
 
@@ -232,19 +226,19 @@ http://tracker.tasvideos.org:6969/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker.uw0.xyz:6969/announce
-
 http://tracker.xdvdz.com:2710/announce
 
-http://tracker.zerobytes.xyz:1337/announce
+http://tracker.yoshi210.com:6969/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
-http://tracker2.itzmx.com:6961/announce
-
 http://tracker3.dler.org:2710/announce
+
+http://tracker3.itzmx.com:6961/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://trk.publictracker.xyz:6969/announce
 
@@ -330,6 +324,8 @@ udp://104.244.72.77:1337/announce
 
 udp://109.248.43.36:6969/announce
 
+udp://119.28.134.203:6969/announce
+
 udp://138.68.171.1:6969/announce
 
 udp://144.76.35.202:6969/announce
@@ -403,8 +399,6 @@ udp://209.141.45.244:1337/announce
 udp://209.141.59.16:6969/announce
 
 udp://212.1.226.176:2710/announce
-
-udp://212.47.227.58:6969/announce
 
 udp://212.83.181.109:6969/announce
 
@@ -499,8 +493,6 @@ udp://admin.videoenpoche.info:6969/announce
 udp://anidex.moe:6969/announce
 
 udp://app.icon256.com:8000/announce
-
-udp://bt.firebit.org:2710/announce
 
 udp://bt.okmp3.ru:2710/announce
 
@@ -618,6 +610,8 @@ udp://thetracker.org:80/announce
 
 udp://torrentclub.online:54123/announce
 
+udp://tr.bangumi.moe:6969/announce
+
 udp://tr2.ysagin.top:2710/announce
 
 udp://tracker.0x.tf:6969/announce
@@ -707,12 +701,6 @@ udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker2.christianbro.pw:6969/announce
 
 udp://tracker2.dler.org:80/announce
-
-udp://tracker3.itzmx.com:6961/announce
-
-udp://tracker4.itzmx.com:2710/announce
-
-udp://tsundere.pw:6969/announce
 
 udp://u.wwwww.wtf:1/announce
 
