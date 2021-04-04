@@ -6,8 +6,6 @@ http://104.28.16.69:80/announce
 
 http://1337.abcvg.info:80/announce
 
-http://bt.3kb.xyz:80/announce
-
 http://ns3107607.ip-54-36-126.eu:6969/announce
 
 http://opentracker.xyz:80/announce
@@ -39,8 +37,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.noobsubs.net:80/announce
 
 http://tracker.trackerfix.com:80/announce
-
-http://tracker2.itzmx.com:6961/announce
 
 http://trk.publictracker.xyz:6969/announce
 
@@ -102,8 +98,6 @@ udp://engplus.ru:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://explodie.org:6969/announce
-
 udp://fe.dealclub.de:6969/announce
 
 udp://free-tracker.zooki.xyz:6969/announce
@@ -146,8 +140,6 @@ udp://t1.leech.ie:1337/announce
 
 udp://t2.leech.ie:1337/announce
 
-udp://t3.leech.ie:1337/announce
-
 udp://thetracker.org:80/announce
 
 udp://torrentclub.online:54123/announce
@@ -162,17 +154,15 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
-udp://tracker.moeking.me:6969/announce
-
 udp://tracker.nighthawk.pw:2052/announce
 
 udp://tracker.nrx.me:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -189,6 +179,8 @@ udp://tracker.uw0.xyz:6969/announce
 udp://tracker.v6speed.org:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
+
+udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -209,5 +201,3 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-udp://zephir.monocul.us:6969/announce
