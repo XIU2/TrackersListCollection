@@ -23,8 +23,8 @@ The more people use Tracker, the faster the BT download speed, **so please recom
 
 _The figure below shows the BT download speed after using Tracker. (ALL Tracker list)_  
 
-![BitComet](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-02.png)
-![qBittorrentEE](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-07.png)
+![BitComet](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-01.png)
+![qBittorrentEE](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-02.png)
 
 _Those who are interested can download and try **[ubuntu-20.10.torrent](https://releases.ubuntu.com/20.10/ubuntu-20.10-desktop-amd64.iso.torrent)** , this resource has thousands of people worldwide to provide uploads , So most people download fast!_
 
@@ -85,7 +85,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 > <small>_**http://www.bitcomet.com**_</small>
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-12.png" width="70%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-10.png" width="70%">
 
 ****
 
@@ -96,7 +96,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 
 After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-13.png" width="70%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-11.png" width="70%">
 
 ****
 
@@ -104,7 +104,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > <small>_**https://www.qbittorrent.org**_</small>
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-04.png" width="70%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-12.png" width="70%">
 
 ****
 
@@ -112,7 +112,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > <small>_**https://motrix.app**_</small>
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-10.png" width="70%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-13.png" width="70%">
 
 ****
 
@@ -120,7 +120,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > <small>_**https://xdown.org**_</small>
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-08.png" width="70%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-14.png" width="70%">
 
 ****
 
