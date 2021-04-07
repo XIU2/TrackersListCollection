@@ -10,14 +10,14 @@
 		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
 		<link rel="icon" type="image/x-icon" href="img/favicon.ico">
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css" />
-		<style  type="text/css">
-			a {text-decoration:none}
-			::-webkit-scrollbar {width: 0px;height: 0px}
-			.markdown-section blockquote p {font-weight: normal;margin-left: 0;}
-		</style>
-		<script>
-			if(location.href == "https://trackerslist.com/" && window.navigator.language.slice(0, 2) == "zh") {location.href=location.href + "#/zh"}
-		</script>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css" title="docsify-darklight-theme" type="text/css" />
+		<style  type="text/css">a {text-decoration:none}
+		::-webkit-scrollbar {width: 0px;height: 0px}
+		.markdown-section blockquote p {font-weight: normal;margin-left: 0;}
+		.markdown-section hr {border-bottom-color: var(--hrColor, #EEEEEE);}
+		article > img, p > img {opacity: var(--imgOpacity, 1);}
+		.markdown-section td, .markdown-section th {border-color: var(--tdthBorderColor, #DDDDDD);}</style>
+		<script>if(location.href == "https://trackerslist.com/" && window.navigator.language.slice(0, 2) == "zh") {location.href=location.href + "#/zh"}</script>
 	</head>
 	<body>
 		<div id="app">Load...</div>
@@ -30,10 +30,12 @@
 				noEmoji: true,
 				ga: 'UA-154344072-1',
 				themeColor:'#4B93F1',
-				alias:{'/en': 'README', '/zh': 'README-ZH'}
+				alias:{'/en': 'README', '/zh': 'README-ZH'},
+				darklightTheme: {defaultTheme : 'light', dark: {accent : '#4B93F1', hrColor : '#1B293B', tdthBorderColor : '#1F2C3D', imgOpacity : 0.7}, light: {accent : '#4B93F1', hrColor : '#EEEEEE', tdthBorderColor : '#DDDDDD', imgOpacity : 1}}
 			}
 		</script>
 		<script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js" type="text/javascript"></script>
 	</body>
 </html>
