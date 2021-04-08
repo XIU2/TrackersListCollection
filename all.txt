@@ -1,3 +1,5 @@
+http://104.238.198.186:8000/announce
+
 http://1337.abcvg.info:80/announce
 
 http://185.148.3.231:80/announce
@@ -5,8 +7,6 @@ http://185.148.3.231:80/announce
 http://193.37.214.12:6969/announce
 
 http://195.201.31.194:80/announce
-
-http://51.15.55.204:1337/announce
 
 http://51.79.71.167:80/announce
 
@@ -42,8 +42,6 @@ http://bithq.org:80/announce.php
 
 http://bt-tracker.gamexp.ru:2710/announce
 
-http://bt.1000.pet:2712/announce
-
 http://bt.ali213.net:8080/announce
 
 http://bt.firebit.org:2710/announce
@@ -62,11 +60,11 @@ http://data-bg.net:80/announce.php
 
 http://datascene.net:80/announce.php
 
+http://explodie.org:6969/announce
+
 http://filetracker.xyz:11451/announce
 
 http://finbytes.org:80/announce.php
-
-http://freerainbowtables.com:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
@@ -136,8 +134,6 @@ http://torrentsmd.com:8080/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
-http://torrentzilla.org:80/announce
-
 http://tr.cili001.com:8070/announce
 
 http://tracker-cdn.moeking.me:2095/announce
@@ -155,8 +151,6 @@ http://tracker.dler.org:6969/announce
 http://tracker.fdn.fr:6969/announce
 
 http://tracker.files.fm:6969/announce
-
-http://tracker.frozen-layer.net:6969/announce.php
 
 http://tracker.gbitt.info:80/announce
 
@@ -184,8 +178,6 @@ http://tracker.shittyurl.org:80/announce
 
 http://tracker.skyts.cn:6969/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.sloppyta.co:80/announce
 
 http://tracker.tambovnet.org:80/announce.php
@@ -194,13 +186,9 @@ http://tracker.tasvideos.org:6969/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker.uw0.xyz:6969/announce
-
 http://tracker.xdvdz.com:2710/announce
 
 http://tracker.yoshi210.com:6969/announce
-
-http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
@@ -212,6 +200,10 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.dler.org:2710/announce
 
+http://tracker3.itzmx.com:6961/announce
+
+http://tracker4.itzmx.com:2710/announce
+
 http://trk.publictracker.xyz:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -221,8 +213,6 @@ http://www.all4nothin.net:80/announce.php
 http://www.bitseduce.com:80/announce.php
 
 http://www.biztorrents.com:80/announce.php
-
-http://www.freerainbowtables.com:6969/announce
 
 http://www.legittorrents.info:80/announce.php
 
@@ -526,8 +516,6 @@ udp://public.tracker.vraphim.com:6969/announce
 
 udp://qg.lorzl.gq:2710/announce
 
-udp://qg.lorzl.gq:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
@@ -644,8 +632,6 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.org:80/announce
 
-udp://tracker2.itzmx.com:6961/announce
-
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
@@ -657,6 +643,8 @@ udp://udp-tracker.shittyurl.org:6969/announce
 udp://us-tracker.publictracker.xyz:6969/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
+
+udp://vibe.community:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
