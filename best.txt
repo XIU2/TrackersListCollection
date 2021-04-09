@@ -20,6 +20,8 @@ http://tr.cili001.com:8070/announce
 
 http://tracker.anirena.com:80/announce
 
+http://tracker.anirena.com:80/b16a15d9a238d1f59178d3614b857290/announce
+
 http://tracker.anonwebz.xyz:8080/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -33,8 +35,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.noobsubs.net:80/announce
 
 http://tracker.trackerfix.com:80/announce
-
-http://tracker1.itzmx.com:8080/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -174,13 +174,15 @@ udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.v6speed.org:6969/announce
 
+udp://tracker.xn--vzyr4p.top:80/announce
+
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.org:80/announce
 
-udp://tracker3.itzmx.com:6961/announce
+udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
@@ -197,5 +199,3 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-udp://zephir.monocul.us:6969/announce
