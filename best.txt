@@ -32,7 +32,11 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.noobsubs.net:80/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 http://tracker.trackerfix.com:80/announce
+
+http://tracker1.itzmx.com:8080/announce
 
 http://trk.publictracker.xyz:6969/announce
 
@@ -67,8 +71,6 @@ https://tracker.nitrix.me:443/announce
 https://tracker.parrotsec.org:443/announce
 
 https://tracker.tamersunion.org:443/announce
-
-udp://47.ip-51-68-199.eu:6969/announce
 
 udp://6rt.tace.ru:80/announce
 
@@ -146,6 +148,8 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.nighthawk.pw:2052/announce
@@ -176,6 +180,8 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.org:80/announce
 
+udp://tracker3.itzmx.com:6961/announce
+
 udp://tracker4.itzmx.com:2710/announce
 
 udp://u.wwwww.wtf:1/announce
@@ -185,8 +191,6 @@ udp://udp-tracker.shittyurl.org:6969/announce
 udp://us-tracker.publictracker.xyz:6969/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
-
-udp://vibe.community:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
