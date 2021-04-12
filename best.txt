@@ -36,8 +36,6 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker2.itzmx.com:6961/announce
-
 http://trk.publictracker.xyz:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -60,8 +58,6 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-https://tracker.iriseden.fr:443/announce
-
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -71,8 +67,6 @@ https://tracker.nitrix.me:443/announce
 https://tracker.parrotsec.org:443/announce
 
 https://tracker.tamersunion.org:443/announce
-
-udp://47.ip-51-68-199.eu:6969/announce
 
 udp://6rt.tace.ru:80/announce
 
@@ -93,8 +87,6 @@ udp://discord.heihachi.pw:6969/announce
 udp://engplus.ru:6969/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://explodie.org:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
@@ -166,6 +158,8 @@ udp://tracker.shkinev.me:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.uw0.xyz:6969/announce
@@ -173,8 +167,6 @@ udp://tracker.uw0.xyz:6969/announce
 udp://tracker.v6speed.org:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
-
-udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
