@@ -8,6 +8,8 @@ http://193.37.214.12:6969/announce
 
 http://195.201.31.194:80/announce
 
+http://51.15.55.204:1337/announce
+
 http://51.79.71.167:80/announce
 
 http://51.81.46.170:6969/announce
@@ -40,7 +42,9 @@ http://big-boss-tracker.net:80/announce.php
 
 http://bithq.org:80/announce.php
 
-http://bt.1000.pet:2712/announce
+http://bt-tracker.gamexp.ru:2710/announce
+
+http://bt.100.pet:2710/announce
 
 http://bt.10000.pet:2714/announce
 
@@ -92,6 +96,8 @@ http://ns3107607.ip-54-36-126.eu:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://opentracker.i2p.rocks:6969/announce
 
 http://pow7.com:80/announce
@@ -138,8 +144,6 @@ http://torrentclub.online:54123/announce
 
 http://torrentsmd.com:8080/announce
 
-http://torrenttracker.nwc.acsalaska.net:6969/announce
-
 http://tr.cili001.com:8070/announce
 
 http://tracker-cdn.moeking.me:2095/announce
@@ -156,7 +160,11 @@ http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.ccp.ovh:6969/announce
+
 http://tracker.dler.org:6969/announce
+
+http://tracker.etree.org:6969/announce
 
 http://tracker.fdn.fr:6969/announce
 
@@ -196,13 +204,15 @@ http://tracker.tasvideos.org:6969/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker.uw0.xyz:6969/announce
+
 http://tracker.xdvdz.com:2710/announce
 
-http://tracker.yoshi210.com:6969/announce
+http://tracker.xn--vzyr4p.top:80/announce
+
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
-
-http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -218,7 +228,7 @@ http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.bitseduce.com:80/announce.php
+http://www.biztorrents.com:80/announce.php
 
 http://www.legittorrents.info:80/announce.php
 
@@ -236,6 +246,8 @@ https://1337.abcvg.info:443/announce
 
 https://bt.nfshost.com:443/announce
 
+https://open.kickasstracker.com:443/announce
+
 https://opentracker.acgnx.se:443/announce
 
 https://opentracker.xyz:443/announce
@@ -246,6 +258,8 @@ https://tp.m-team.cc:443/announce.php
 
 https://tr.ready4.icu:443/announce
 
+https://tracker.bt-hash.com:443/announce
+
 https://tracker.coalition.space:443/announce
 
 https://tracker.foreverpirates.co:443/announce
@@ -255,8 +269,6 @@ https://tracker.gbitt.info:443/announce
 https://tracker.hama3.net:443/announce
 
 https://tracker.imgoingto.icu:443/announce
-
-https://tracker.iriseden.eu:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
