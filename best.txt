@@ -186,10 +186,6 @@ udp://us-tracker.publictracker.xyz:6969/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
 
-udp://vibe.community:6969/announce
-
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://wassermann.online:6969/announce
-
-udp://www.torrent.eu.org:451/announce
