@@ -14,7 +14,7 @@ http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.cili001.com:8070/announce
+http://tracker-cdn.moeking.me:2095/announce
 
 http://tracker.anirena.com:80/announce
 
@@ -55,6 +55,8 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
+
+https://tracker.iriseden.fr:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
@@ -142,6 +144,8 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
+udp://tracker.moeking.me:6969/announce
+
 udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.nighthawk.pw:2052/announce
@@ -186,6 +190,10 @@ udp://us-tracker.publictracker.xyz:6969/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
 
+udp://vibe.community:6969/announce
+
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://wassermann.online:6969/announce
+
+udp://www.torrent.eu.org:451/announce
