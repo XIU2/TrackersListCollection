@@ -14,6 +14,8 @@ http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.cili001.com:8070/announce
+
 http://tracker-cdn.moeking.me:2095/announce
 
 http://tracker.anirena.com:80/announce
@@ -31,6 +33,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.noobsubs.net:80/announce
+
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.trackerfix.com:80/announce
 
@@ -88,8 +92,6 @@ udp://engplus.ru:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://explodie.org:6969/announce
-
 udp://fe.dealclub.de:6969/announce
 
 udp://free-tracker.zooki.xyz:6969/announce
@@ -97,8 +99,6 @@ udp://free-tracker.zooki.xyz:6969/announce
 udp://free.publictracker.xyz:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
-
-udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
@@ -118,13 +118,9 @@ udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
-udp://opentracker.i2p.rocks:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
-
-udp://retracker.lanta-net.ru:2710/announce
 
 udp://t1.leech.ie:1337/announce
 
@@ -133,6 +129,8 @@ udp://t2.leech.ie:1337/announce
 udp://thetracker.org:80/announce
 
 udp://torrentclub.online:54123/announce
+
+udp://tracker-de.ololosh.space:6969/announce
 
 udp://tracker.0x.tf:6969/announce
 
@@ -143,6 +141,12 @@ udp://tracker.army:6969/announce
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
+
+udp://tracker.blacksparrowmedia.net:6969/announce
+
+udp://tracker.dler.org:6969/announce
+
+udp://tracker.edkj.club:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -155,6 +159,8 @@ udp://tracker.nrx.me:6969/announce
 udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
+
+udp://tracker.openbittorrent.com:80/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
