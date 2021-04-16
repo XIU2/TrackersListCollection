@@ -150,8 +150,6 @@ udp://tracker.nighthawk.pw:2052/announce
 
 udp://tracker.nrx.me:6969/announce
 
-udp://tracker.ololosh.space:6969/announce
-
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.openbittorrent.com:80/announce
