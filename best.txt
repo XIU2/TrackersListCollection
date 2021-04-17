@@ -58,9 +58,9 @@ https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
 
-https://tracker.imgoingto.icu:443/announce
+https://tracker.hama3.net:443/announce
 
-https://tracker.iriseden.fr:443/announce
+https://tracker.imgoingto.icu:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
