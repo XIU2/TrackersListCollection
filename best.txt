@@ -60,6 +60,8 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
+https://tracker.iriseden.fr:443/announce
+
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -120,6 +122,8 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
+udp://retracker.lanta-net.ru:2710/announce
+
 udp://t1.leech.ie:1337/announce
 
 udp://t2.leech.ie:1337/announce
@@ -160,13 +164,13 @@ udp://tracker.shkinev.me:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.v6speed.org:6969/announce
+
+udp://tracker.xn--vzyr4p.top:80/announce
 
 udp://tracker.zemoj.com:6969/announce
 
