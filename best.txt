@@ -124,6 +124,8 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
+udp://retracker.netbynet.ru:2710/announce
+
 udp://t1.leech.ie:1337/announce
 
 udp://t2.leech.ie:1337/announce
@@ -171,8 +173,6 @@ udp://tracker.uw0.xyz:6969/announce
 udp://tracker.v6speed.org:6969/announce
 
 udp://tracker.xn--vzyr4p.top:80/announce
-
-udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
