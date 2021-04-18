@@ -62,8 +62,6 @@ https://tracker.hama3.net:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-https://tracker.iriseden.fr:443/announce
-
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -99,8 +97,6 @@ udp://fe.dealclub.de:6969/announce
 udp://free-tracker.zooki.xyz:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
-
-udp://inferno.demonoid.is:3391/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
@@ -148,8 +144,6 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -177,8 +171,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.v6speed.org:6969/announce
-
-udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
