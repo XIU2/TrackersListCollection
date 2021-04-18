@@ -65,11 +65,11 @@ _These lists are updated every 8 hours !_
 <summary><strong><code>[Click to expand] - View the tracker list in Aria2 format</code> </strong></summary>
 
 - **BEST Tracker list:**  
- **_[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)_**  
+ _**[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)**_  
 - **ALL Tracker list:**  
- **_[https://trackerslist.com/all_aria2.txt](https://trackerslist.com/all_aria2.txt)_**  
+ _**[https://trackerslist.com/all_aria2.txt](https://trackerslist.com/all_aria2.txt)**_  
 - **HTTP(S) Tracker list:**  
- **_[https://trackerslist.com/http_aria2.txt](https://trackerslist.com/http_aria2.txt)_**  
+ _**[https://trackerslist.com/http_aria2.txt](https://trackerslist.com/http_aria2.txt)**_  
 
 </details>
 
