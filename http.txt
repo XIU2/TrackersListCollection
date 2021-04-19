@@ -8,6 +8,8 @@ http://193.37.214.12:6969/announce
 
 http://195.201.31.194:80/announce
 
+http://51.15.55.204:1337/announce
+
 http://51.79.71.167:80/announce
 
 http://51.81.46.170:6969/announce
@@ -17,6 +19,8 @@ http://54.36.126.137:6969/announce
 http://54.39.179.91:6699/announce
 
 http://60-fps.org:80/bt:80/announce.php
+
+http://78.30.254.12:2710/announce
 
 http://95.107.48.115:80/announce
 
@@ -40,6 +44,8 @@ http://bithq.org:80/announce.php
 
 http://bt-tracker.gamexp.ru:2710/announce
 
+http://bt.3dmgame.com:2710/announce
+
 http://bt.ali213.net:8080/announce
 
 http://bt.firebit.org:2710/announce
@@ -60,13 +66,9 @@ http://data-bg.net:80/announce.php
 
 http://datascene.net:80/announce.php
 
-http://filetracker.xyz:11451/announce
-
 http://finbytes.org:80/announce.php
 
 http://h4.trakx.nibba.trade:80/announce
-
-http://ipv4announce.sktorrent.eu:6969/announce
 
 http://irrenhaus.dyndns.dk:80/announce.php
 
@@ -93,6 +95,8 @@ http://opentracker.i2p.rocks:6969/announce
 http://proaudiotorrents.org:80/announce.php
 
 http://retracker.hotplug.ru:2710/announce
+
+http://retracker.sevstar.net:2710/announce
 
 http://rt.tace.ru:80/announce
 
@@ -128,10 +132,6 @@ http://torrent.ubuntu.com:6969/announce
 
 http://torrentsmd.com:8080/announce
 
-http://torrenttracker.nwc.acsalaska.net:6969/announce
-
-http://torrentzilla.org:80/announce
-
 http://tr.cili001.com:8070/announce
 
 http://tracker-cdn.moeking.me:2095/announce
@@ -147,8 +147,6 @@ http://tracker.anonwebz.xyz:8080/announce
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.ccp.ovh:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -168,15 +166,11 @@ http://tracker.gigatorrents.ws:2710/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.loadbt.com:6969/announce
-
 http://tracker.minglong.org:8080/announce
 
 http://tracker.nighthawk.pw:2052/announce
 
 http://tracker.noobsubs.net:80/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -193,6 +187,8 @@ http://tracker.tambovnet.org:80/announce.php
 http://tracker.tasvideos.org:6969/announce
 
 http://tracker.trackerfix.com:80/announce
+
+http://tracker.uw0.xyz:6969/announce
 
 http://tracker.xdvdz.com:2710/announce
 
@@ -213,6 +209,12 @@ http://vpn.flying-datacenter.de:6969/announce
 http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
+
+http://www.bitseduce.com:80/announce.php
+
+http://www.biztorrents.com:80/announce.php
+
+http://www.freerainbowtables.com:6969/announce
 
 http://www.legittorrents.info:80/announce.php
 
