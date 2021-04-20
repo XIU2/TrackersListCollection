@@ -2,6 +2,8 @@ http://1337.abcvg.info:80/announce
 
 http://datascene.net:80/announce.php
 
+http://filetracker.xyz:11451/announce
+
 http://ns3107607.ip-54-36-126.eu:6969/announce
 
 http://openbittorrent.com:80/announce
@@ -13,6 +15,8 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
+
+http://tr.cili001.com:8070/announce
 
 http://tracker-cdn.moeking.me:2095/announce
 
@@ -195,3 +199,5 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://zephir.monocul.us:6969/announce
