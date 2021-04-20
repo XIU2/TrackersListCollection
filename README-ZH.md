@@ -47,9 +47,9 @@ _以下列表每 8 小时更新一次！_
 
 - **精选列表：**(102 个)  
  _**https://trackerslist.com/best.txt**_  
-- **完整列表：**(339 个)  
+- **完整列表：**(325 个)  
  _**https://trackerslist.com/all.txt**_  
-- **HTTP(S)列表：**(151 个)  
+- **HTTP(S)列表：**(136 个)  
  _**https://trackerslist.com/http.txt**_  
 
 <details>
