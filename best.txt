@@ -1,12 +1,12 @@
 http://1337.abcvg.info:80/announce
 
-http://datascene.net:80/announce.php
-
 http://filetracker.xyz:11451/announce
 
 http://ns3107607.ip-54-36-126.eu:6969/announce
 
 http://openbittorrent.com:80/announce
+
+http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -23,8 +23,6 @@ http://tracker-cdn.moeking.me:2095/announce
 http://tracker.anirena.com:80/announce
 
 http://tracker.anirena.com:80/b16a15d9a238d1f59178d3614b857290/announce
-
-http://tracker.anonwebz.xyz:8080/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -46,11 +44,7 @@ https://1337.abcvg.info:443/announce
 
 https://bt.nfshost.com:443/announce
 
-https://opentracker.xyz:443/announce
-
 https://tp.m-team.cc:443/announce.php
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.coalition.space:443/announce
 
@@ -62,15 +56,17 @@ https://tracker.hama3.net:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
+https://tracker.iriseden.fr:443/announce
+
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
-https://tracker.parrotsec.org:443/announce
-
 https://tracker.tamersunion.org:443/announce
+
+https://w.wwwww.wtf:443/announce
 
 udp://6rt.tace.ru:80/announce
 
@@ -199,3 +195,5 @@ udp://wassermann.online:6969/announce
 udp://www.torrent.eu.org:451/announce
 
 udp://zephir.monocul.us:6969/announce
+
+wss://tracker.openwebtorrent.com:443/announce
