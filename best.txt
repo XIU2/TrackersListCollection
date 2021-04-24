@@ -26,6 +26,8 @@ http://tracker.anirena.com:80/b16a15d9a238d1f59178d3614b857290/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.darmowy-torrent.pl:80/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -126,6 +128,8 @@ udp://t1.leech.ie:1337/announce
 
 udp://t2.leech.ie:1337/announce
 
+udp://thetracker.org:80/announce
+
 udp://torrentclub.online:54123/announce
 
 udp://tracker.0x.tf:6969/announce
@@ -137,8 +141,6 @@ udp://tracker.army:6969/announce
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -180,6 +182,8 @@ udp://tracker2.dler.org:80/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
+udp://u.wwwww.wtf:1/announce
+
 udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://us-tracker.publictracker.xyz:6969/announce
@@ -193,5 +197,7 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://zephir.monocul.us:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
