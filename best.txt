@@ -24,8 +24,6 @@ http://tracker.anirena.com:80/b16a15d9a238d1f59178d3614b857290/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.darmowy-torrent.pl:80/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -150,8 +148,6 @@ udp://tracker.nrx.me:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
-udp://tracker.openbittorrent.com:80/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.shkinev.me:6969/announce
@@ -165,8 +161,6 @@ udp://tracker.uw0.xyz:6969/announce
 udp://tracker.v6speed.org:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
-
-udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
