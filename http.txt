@@ -8,8 +8,6 @@ http://193.37.214.12:6969/announce
 
 http://195.201.31.194:80/announce
 
-http://51.15.55.204:1337/announce
-
 http://51.79.71.167:80/announce
 
 http://51.81.46.170:6969/announce
@@ -70,9 +68,9 @@ http://datascene.net:80/announce.php
 
 http://explodie.org:6969/announce
 
-http://filetracker.xyz:11451/announce
-
 http://finbytes.org:80/announce.php
+
+http://freerainbowtables.com:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
@@ -105,6 +103,8 @@ http://pow7.com:80/announce
 http://proaudiotorrents.org:80/announce.php
 
 http://retracker.hotplug.ru:2710/announce
+
+http://retracker.sevstar.net:2710/announce
 
 http://rt.tace.ru:80/announce
 
@@ -144,6 +144,8 @@ http://torrentsmd.com:8080/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
+http://torrentzilla.org:80/announce
+
 http://tr.cili001.com:8070/announce
 
 http://tracker-cdn.moeking.me:2095/announce
@@ -178,11 +180,7 @@ http://tracker.gcvchp.com:2710/announce
 
 http://tracker.gigatorrents.ws:2710/announce
 
-http://tracker.internetwarriors.net:1337/announce
-
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.lelux.fi:80/announce
 
 http://tracker.minglong.org:8080/announce
 
@@ -202,19 +200,29 @@ http://tracker.shittyurl.org:80/announce
 
 http://tracker.sloppyta.co:80/announce
 
+http://tracker.tambovnet.org:80/announce.php
+
 http://tracker.tasvideos.org:6969/announce
 
 http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker.uw0.xyz:6969/announce
+
 http://tracker.xdvdz.com:2710/announce
 
+http://tracker.yoshi210.com:6969/announce
+
 http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
 http://tracker3.dler.org:2710/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://trk.publictracker.xyz:6969/announce
 
@@ -226,7 +234,7 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.bitseduce.com:80/announce.php
 
-http://www.biztorrents.com:80/announce.php
+http://www.freerainbowtables.com:6969/announce
 
 http://www.legittorrents.info:80/announce.php
 
@@ -254,8 +262,6 @@ https://tp.m-team.cc:443/announce.php
 
 https://tr.ready4.icu:443/announce
 
-https://tracker.bt-hash.com:443/announce
-
 https://tracker.coalition.space:443/announce
 
 https://tracker.foreverpirates.co:443/announce
@@ -269,8 +275,6 @@ https://tracker.imgoingto.icu:443/announce
 https://tracker.iriseden.eu:443/announce
 
 https://tracker.iriseden.fr:443/announce
-
-https://tracker.lelux.fi:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
