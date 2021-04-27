@@ -82,6 +82,8 @@ udp://code2chicken.nl:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
 
+udp://edu.uifr.ru:6969/announce
+
 udp://engplus.ru:6969/announce
 
 udp://exodus.desync.com:6969/announce
