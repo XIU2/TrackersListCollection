@@ -104,8 +104,6 @@ udp://movies.zsw.ca:6969/announce
 
 udp://mts.tvbit.co:6969/announce
 
-udp://nagios.tks.sumy.ua:80/announce
-
 udp://newtoncity.org:6969/announce
 
 udp://open.demonii.com:1337/announce
@@ -137,6 +135,8 @@ udp://tracker.army:6969/announce
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
