@@ -14,3 +14,4 @@ udp://open.demonii.com:1337/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://p4p.arenabg.com:1337/announce
 https://tracker.tamersunion.org:443/announce
+http://nyaa.tracker.wf:7777/announce
