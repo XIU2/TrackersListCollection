@@ -48,6 +48,8 @@ https://1337.abcvg.info:443/announce
 
 https://bt.nfshost.com:443/announce
 
+https://torrent.rexjohannes.repl.co:443/announce
+
 https://tp.m-team.cc:443/announce.php
 
 https://tracker.coalition.space:443/announce
