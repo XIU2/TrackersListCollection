@@ -98,6 +98,8 @@ udp://free-tracker.zooki.xyz:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
+udp://ipv4.tracker.harry.lu:80/announce
+
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
 udp://mail.realliferpg.de:6969/announce
@@ -113,6 +115,8 @@ udp://open.demonii.com:1337/announce
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
+
+udp://opentracker.i2p.rocks:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -158,6 +162,8 @@ udp://tracker.shkinev.me:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.uw0.xyz:6969/announce
@@ -165,8 +171,6 @@ udp://tracker.uw0.xyz:6969/announce
 udp://tracker.v6speed.org:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
-
-udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -189,5 +193,7 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://zephir.monocul.us:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
