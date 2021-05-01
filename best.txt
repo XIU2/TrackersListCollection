@@ -142,6 +142,8 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
+udp://tracker.ccp.ovh:6969/announce
+
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
@@ -193,7 +195,5 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-udp://zephir.monocul.us:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
