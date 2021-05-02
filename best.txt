@@ -48,8 +48,6 @@ https://1337.abcvg.info:443/announce
 
 https://bt.nfshost.com:443/announce
 
-https://torrent.rexjohannes.repl.co:443/announce
-
 https://tp.m-team.cc:443/announce.php
 
 https://tracker.coalition.space:443/announce
@@ -118,8 +116,6 @@ udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
-udp://opentracker.i2p.rocks:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.lanta-net.ru:2710/announce
@@ -176,6 +172,8 @@ udp://tracker.v6speed.org:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
+udp://tracker0.ufibox.com:6969/announce
+
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.org:80/announce
@@ -197,5 +195,7 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://zephir.monocul.us:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
