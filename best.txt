@@ -92,8 +92,6 @@ udp://explodie.org:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
-udp://free-tracker.zooki.xyz:6969/announce
-
 udp://free.publictracker.xyz:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
@@ -141,6 +139,8 @@ udp://tracker.beeimg.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
