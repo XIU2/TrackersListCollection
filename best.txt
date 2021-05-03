@@ -192,6 +192,4 @@ udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://zephir.monocul.us:6969/announce
-
 wss://tracker.openwebtorrent.com:443/announce
