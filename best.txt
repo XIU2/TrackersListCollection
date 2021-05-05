@@ -134,8 +134,6 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -161,8 +159,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.v6speed.org:6969/announce
-
-udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
