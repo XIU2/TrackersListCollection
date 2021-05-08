@@ -36,8 +36,6 @@ http://tracker.tfile.co:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker1.itzmx.com:8080/announce
-
 http://trk.publictracker.xyz:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -57,8 +55,6 @@ https://tracker.gbitt.info:443/announce
 https://tracker.hama3.net:443/announce
 
 https://tracker.imgoingto.icu:443/announce
-
-https://tracker.iriseden.eu:443/announce
 
 https://tracker.iriseden.fr:443/announce
 
@@ -118,6 +114,8 @@ udp://opentracker.i2p.rocks:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://pow7.com:80/announce
+
 udp://retracker.lanta-net.ru:2710/announce
 
 udp://retracker.netbynet.ru:2710/announce
@@ -147,8 +145,6 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
-
-udp://tracker.nighthawk.pw:2052/announce
 
 udp://tracker.nrx.me:6969/announce
 
