@@ -36,6 +36,8 @@ http://tracker.tfile.co:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker1.itzmx.com:8080/announce
+
 http://trk.publictracker.xyz:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -187,5 +189,7 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://z.mercax.com:53/announce
 
 wss://tracker.openwebtorrent.com:443/announce
