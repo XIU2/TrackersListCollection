@@ -24,6 +24,8 @@ http://tracker.anirena.com:80/b16a15d9a238d1f59178d3614b857290/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.darmowy-torrent.pl:80/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -109,6 +111,8 @@ udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
+
+udp://pow7.com:80/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
