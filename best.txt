@@ -182,4 +182,6 @@ udp://www.torrent.eu.org:451/announce
 
 udp://z.mercax.com:53/announce
 
+udp://zephir.monocul.us:6969/announce
+
 wss://tracker.openwebtorrent.com:443/announce
