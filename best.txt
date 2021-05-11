@@ -140,8 +140,6 @@ udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.lelux.fi:6969/announce
-
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
@@ -156,13 +154,9 @@ udp://tracker.shkinev.me:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.uw0.xyz:6969/announce
-
-udp://tracker.v6speed.org:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
@@ -171,6 +165,8 @@ udp://tracker0.ufibox.com:6969/announce
 udp://tracker2.dler.org:80/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://u.wwwww.wtf:1/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
