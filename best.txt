@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://filetracker.xyz:11451/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://opentracker.xyz:80/announce
@@ -23,8 +21,6 @@ http://tracker.anirena.com:80/announce
 http://tracker.anirena.com:80/b16a15d9a238d1f59178d3614b857290/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.darmowy-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -114,6 +110,8 @@ udp://opentracker.i2p.rocks:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://pow7.com:80/announce
+
 udp://retracker.lanta-net.ru:2710/announce
 
 udp://retracker.netbynet.ru:2710/announce
@@ -162,8 +160,6 @@ udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.v6speed.org:6969/announce
 
-udp://tracker.zemoj.com:6969/announce
-
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker0.ufibox.com:6969/announce
@@ -182,12 +178,8 @@ udp://vibe.community:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
-udp://wassermann.online:6969/announce
-
 udp://www.torrent.eu.org:451/announce
 
 udp://z.mercax.com:53/announce
-
-udp://zephir.monocul.us:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
