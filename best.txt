@@ -36,8 +36,6 @@ http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://trk.publictracker.xyz:6969/announce
-
 http://vps02.net.orel.ru:80/announce
 
 https://1337.abcvg.info:443/announce
@@ -138,8 +136,6 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.ccp.ovh:6969/announce
-
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -179,8 +175,6 @@ udp://u.wwwww.wtf:1/announce
 udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
-
-udp://vibe.community:6969/announce
 
 udp://wassermann.online:6969/announce
 
