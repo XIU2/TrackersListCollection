@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://filetracker.xyz:11451/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://opentracker.xyz:80/announce
@@ -30,7 +28,11 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.shittyurl.org:80/announce
+
 http://tracker.tfile.co:80/announce
+
+http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
@@ -42,15 +44,11 @@ https://1337.abcvg.info:443/announce
 
 https://bt.nfshost.com:443/announce
 
-https://tp.m-team.cc:443/announce.php
-
 https://tracker.coalition.space:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
-
-https://tracker.hama3.net:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -63,6 +61,10 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
+
+https://tracker.parrotsec.org:443/announce
+
+https://tracker.shittyurl.org:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -89,8 +91,6 @@ udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 
 udp://fe.dealclub.de:6969/announce
-
-udp://free.publictracker.xyz:6969/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
@@ -125,6 +125,8 @@ udp://t2.leech.ie:1337/announce
 udp://thetracker.org:80/announce
 
 udp://torrentclub.online:54123/announce
+
+udp://tracker-de.ololosh.space:6969/announce
 
 udp://tracker.0x.tf:6969/announce
 
@@ -180,12 +182,8 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://vibe.community:6969/announce
 
-udp://vibe.sleepyinternetfun.xyz:1738/announce
-
 udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
 udp://z.mercax.com:53/announce
-
-wss://tracker.openwebtorrent.com:443/announce
