@@ -140,8 +140,6 @@ udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.monitorit4.me:6969/announce
-
 udp://tracker.nrx.me:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
