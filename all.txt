@@ -1,6 +1,10 @@
+http://104.238.198.186:8000/announce
+
 http://1337.abcvg.info:80/announce
 
 http://185.148.3.231:80/announce
+
+http://193.37.214.12:6969/announce
 
 http://195.201.31.194:80/announce
 
@@ -32,21 +36,17 @@ http://alltorrents.net:80/bt:80/announce.php
 
 http://atrack.pow7.com:80/announce
 
-http://baibako.tv:80/announce
-
 http://big-boss-tracker.net:80/announce.php
 
 http://bithq.org:80/announce.php
 
-http://bt.1000.pet:2712/announce
+http://bt.100.pet:2710/announce
 
 http://bt.3dmgame.com:2710/announce
 
 http://bt.ali213.net:8080/announce
 
 http://bt.edwardk.info:4040/announce
-
-http://bt.firebit.org:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -114,8 +114,6 @@ http://retracker.joxnet.ru:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
-http://retracker.spark-rostov.ru:80/announce
-
 http://rt.tace.ru:80/announce
 
 http://secure.pow7.com:80/announce
@@ -158,6 +156,8 @@ http://torrentzilla.org:80/announce
 
 http://tr.cili001.com:8070/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tracker-cdn.moeking.me:2095/announce
 
 http://tracker.ali213.net:8080/announce
@@ -170,13 +170,13 @@ http://tracker.anonwebz.xyz:8080/announce
 
 http://tracker.birkenwald.de:6969/announce
 
-http://tracker.bittor.pw:1337/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.ccp.ovh:6969/announce
 
 http://tracker.dler.org:6969/announce
+
+http://tracker.etree.org:6969/announce
 
 http://tracker.fdn.fr:6969/announce
 
@@ -202,8 +202,6 @@ http://tracker.minglong.org:8080/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.pow7.com:80/announce
@@ -226,7 +224,7 @@ http://tracker.trackerfix.com:80/announce
 
 http://tracker.xdvdz.com:2710/announce
 
-http://tracker.zerobytes.xyz:1337/announce
+http://tracker.yoshi210.com:6969/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
@@ -242,7 +240,7 @@ http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.bitseduce.com:80/announce.php
+http://www.freerainbowtables.com:6969/announce
 
 http://www.legittorrents.info:80/announce.php
 
@@ -261,8 +259,6 @@ http://www.xwt-classics.net:80/announce.php
 http:/:80/announce.partis.si:80:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://bt.nfshost.com:443/announce
 
 https://open.kickasstracker.com:443/announce
 
@@ -320,8 +316,6 @@ udp://138.68.171.1:6969/announce
 
 udp://144.76.35.202:6969/announce
 
-udp://144.76.82.110:6969/announce
-
 udp://148.251.53.72:6969/announce
 
 udp://149.28.47.87:1738/announce
@@ -349,8 +343,6 @@ udp://178.159.40.252:6969/announce
 udp://185.181.60.67:80/announce
 
 udp://185.21.216.185:6969/announce
-
-udp://185.243.215.40:6969/announce
 
 udp://185.8.156.2:6969/announce
 
@@ -382,8 +374,6 @@ udp://212.83.181.109:6969/announce
 
 udp://217.12.218.177:2710/announce
 
-udp://37.1.205.89:2710/announce
-
 udp://37.235.174.46:2710/announce
 
 udp://37.59.48.81:6969/announce
@@ -396,8 +386,6 @@ udp://45.76.92.209:6969/announce
 
 udp://45.77.100.109:6969/announce
 
-udp://46.101.244.237:6969/announce
-
 udp://46.148.18.250:2710/announce
 
 udp://46.148.18.254:2710/announce
@@ -407,8 +395,6 @@ udp://47.ip-51-68-199.eu:6969/announce
 udp://5.206.31.154:6969/announce
 
 udp://51.15.2.221:6969/announce
-
-udp://51.15.41.46:6969/announce
 
 udp://51.68.199.47:6969/announce
 
@@ -485,8 +471,6 @@ udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 
 udp://fe.dealclub.de:6969/announce
-
-udp://free.publictracker.xyz:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
@@ -648,6 +632,8 @@ udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker0.ufibox.com:6969/announce
 
+udp://tracker1.itzmx.com:8080/announce
+
 udp://tracker2.dler.com:80/announce
 
 udp://tracker2.dler.org:80/announce
@@ -671,6 +657,8 @@ udp://www.mvgroup.org:2710/announce
 udp://www.torrent.eu.org:451/announce
 
 udp://z.mercax.com:53/announce
+
+udp://zephir.monocul.us:6969/announce
 
 ws://tracker.sloppyta.co:80/announce
 

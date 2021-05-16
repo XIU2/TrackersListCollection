@@ -84,6 +84,8 @@ udp://engplus.ru:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://explodie.org:6969/announce
+
 udp://fe.dealclub.de:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
