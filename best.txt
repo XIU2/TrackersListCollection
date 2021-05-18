@@ -136,6 +136,8 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
+udp://tracker.blacksparrowmedia.net:6969/announce
+
 udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
@@ -185,5 +187,3 @@ udp://wassermann.online:6969/announce
 udp://www.torrent.eu.org:451/announce
 
 udp://z.mercax.com:53/announce
-
-udp://zephir.monocul.us:6969/announce
