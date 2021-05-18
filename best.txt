@@ -1,5 +1,7 @@
 http://1337.abcvg.info:80/announce
 
+http://ns3107607.ip-54-36-126.eu:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://opentracker.xyz:80/announce
@@ -105,8 +107,6 @@ udp://open.stealth.si:80/announce
 udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
-
-udp://p4p.arenabg.ch:1337/announce
 
 udp://p4p.arenabg.com:1337/announce
 
