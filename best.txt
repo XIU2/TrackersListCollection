@@ -40,6 +40,8 @@ http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker1.itzmx.com:8080/announce
+
 http://vps02.net.orel.ru:80/announce
 
 http:/:80/announce.partis.si:80:80/announce
