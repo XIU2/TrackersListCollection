@@ -42,11 +42,7 @@ http://tracker.trackerfix.com:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
-http:/:80/announce.partis.si:80:80/announce
-
 https://1337.abcvg.info:443/announce
-
-https://carapax.net:443/announce
 
 https://tracker.coalition.space:443/announce
 

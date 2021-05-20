@@ -1,8 +1,8 @@
+http://104.238.198.186:8000/announce
+
 http://1337.abcvg.info:80/announce
 
 http://185.148.3.231:80/announce
-
-http://193.37.214.12:6969/announce
 
 http://195.201.31.194:80/announce
 
@@ -40,7 +40,7 @@ http://big-boss-tracker.net:80/announce.php
 
 http://bithq.org:80/announce.php
 
-http://bt.100.pet:2710/announce
+http://bt.3dmgame.com:2710/announce
 
 http://bt.ali213.net:8080/announce
 
@@ -69,8 +69,6 @@ http://datascene.net:80/announce.php
 http://explodie.org:6969/announce
 
 http://finbytes.org:80/announce.php
-
-http://freerainbowtables.com:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
@@ -104,13 +102,11 @@ http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
 
+http://p4p.arenabg.com:1337/announce
+
 http://proaudiotorrents.org:80/announce.php
 
 http://retracker.hotplug.ru:2710/announce
-
-http://retracker.joxnet.ru:80/announce
-
-http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
@@ -145,8 +141,6 @@ http://torrent.resonatingmedia.com:6969/announce
 http://torrent.rus.ec:2710/announce
 
 http://torrent.ubuntu.com:6969/announce
-
-http://torrentclub.online:54123/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -226,7 +220,11 @@ http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker.uw0.xyz:6969/announce
+
 http://tracker.xdvdz.com:2710/announce
+
+http://tracker.yoshi210.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
@@ -238,17 +236,13 @@ http://tracker3.dler.org:2710/announce
 
 http://tracker4.itzmx.com:2710/announce
 
-http://trk.publictracker.xyz:6969/announce
-
 http://vpn.flying-datacenter.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.freerainbowtables.com:6969/announce
-
-http://www.legittorrents.info:80/announce.php
+http://www.biztorrents.com:80/announce.php
 
 http://www.thetradersden.org/forums/tracker:80/announce.php
 
@@ -283,8 +277,6 @@ https://tracker.coalition.space:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
-
-https://tracker.hama3.net:443/announce
 
 https://tracker.iriseden.fr:443/announce
 
@@ -383,6 +375,8 @@ udp://209.141.45.244:1337/announce
 udp://209.141.59.16:6969/announce
 
 udp://212.1.226.176:2710/announce
+
+udp://212.47.227.58:6969/announce
 
 udp://212.83.181.109:6969/announce
 
