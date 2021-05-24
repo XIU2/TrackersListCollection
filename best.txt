@@ -64,7 +64,7 @@ https://w.wwwww.wtf:443/announce
 
 udp://6rt.tace.ru:80/announce
 
-udp://9.rarbg.com:2980/announce
+udp://9.rarbg.com:2770/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -185,5 +185,3 @@ udp://wassermann.online:6969/announce
 udp://www.torrent.eu.org:451/announce
 
 udp://z.mercax.com:53/announce
-
-udp://zephir.monocul.us:6969/announce
