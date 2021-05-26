@@ -66,7 +66,7 @@ https://w.wwwww.wtf:443/announce
 
 udp://6rt.tace.ru:80/announce
 
-udp://9.rarbg.com:2880/announce
+udp://9.rarbg.com:2790/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -121,6 +121,8 @@ udp://retracker.lanta-net.ru:2710/announce
 udp://retracker.netbynet.ru:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://t1.leech.ie:1337/announce
 
 udp://t2.leech.ie:1337/announce
 
@@ -195,3 +197,5 @@ udp://wassermann.online:6969/announce
 udp://www.torrent.eu.org:451/announce
 
 udp://z.mercax.com:53/announce
+
+udp://zephir.monocul.us:6969/announce
