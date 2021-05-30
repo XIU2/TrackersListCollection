@@ -4,6 +4,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://opentracker.xyz:80/announce
 
+http://p4p.arenabg.com:1337/announce
+
 http://rt.tace.ru:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -50,6 +52,8 @@ https://tracker.coalition.space:443/announce
 
 https://tracker.gbitt.info:443/announce
 
+https://tracker.iriseden.eu:443/announce
+
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -66,7 +70,7 @@ https://w.wwwww.wtf:443/announce
 
 udp://6rt.tace.ru:80/announce
 
-udp://9.rarbg.com:2730/announce
+udp://9.rarbg.com:2780/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -79,8 +83,6 @@ udp://bubu.mapfactor.com:6969/announce
 udp://discord.heihachi.pw:6969/announce
 
 udp://edu.uifr.ru:6969/announce
-
-udp://engplus.ru:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
@@ -166,25 +168,25 @@ udp://tracker.shkinev.me:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
+udp://tracker0.ufibox.com:6969/announce
+
 udp://tracker1.itzmx.com:8080/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://u.wwwww.wtf:1/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
@@ -195,7 +197,3 @@ udp://vibe.community:6969/announce
 udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-udp://z.mercax.com:53/announce
-
-udp://zephir.monocul.us:6969/announce
