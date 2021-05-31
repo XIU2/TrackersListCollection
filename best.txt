@@ -2,7 +2,11 @@ http://1337.abcvg.info:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://openbittorrent.com:80/announce
+
 http://opentracker.xyz:80/announce
+
+http://p4p.arenabg.com:1337/announce
 
 http://rt.tace.ru:80/announce
 
@@ -64,7 +68,7 @@ https://w.wwwww.wtf:443/announce
 
 udp://6rt.tace.ru:80/announce
 
-udp://9.rarbg.com:2760/announce
+udp://9.rarbg.com:2850/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -75,6 +79,8 @@ udp://app.icon256.com:8000/announce
 udp://bt-trace.adgk.net:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
+
+udp://citrus.carapax.net:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
 
@@ -170,17 +176,13 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
+udp://tracker.zemoj.com:6969/announce
+
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker0.ufibox.com:6969/announce
 
-udp://tracker1.itzmx.com:8080/announce
-
 udp://tracker2.dler.com:80/announce
-
-udp://tracker2.itzmx.com:6961/announce
-
-udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
