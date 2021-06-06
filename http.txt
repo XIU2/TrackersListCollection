@@ -2,8 +2,6 @@ http://1337.abcvg.info:80/announce
 
 http://185.148.3.231:80/announce
 
-http://193.37.214.12:6969/announce
-
 http://195.201.31.194:80/announce
 
 http://51.79.71.167:80/announce
@@ -44,6 +42,8 @@ http://bt.3dmgame.com:2710/announce
 
 http://bt.ali213.net:8080/announce
 
+http://bt.edwardk.info:4040/announce
+
 http://bt.firebit.org:2710/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -56,11 +56,15 @@ http://bttracker.debian.org:6969/announce
 
 http://btx.anifilm.tv:80/announce.php
 
+http://concen.org:6969/announce
+
 http://data-bg.net:80/announce.php
 
 http://datascene.net:80/announce.php
 
 http://explodie.org:6969/announce
+
+http://freerainbowtables.com:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
@@ -90,9 +94,13 @@ http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
 
+http://pow7.com:80/announce
+
 http://retracker.hotplug.ru:2710/announce
 
 http://retracker.joxnet.ru:80/announce
+
+http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
@@ -200,6 +208,8 @@ http://tracker.tambovnet.org:80/announce.php
 
 http://tracker.tasvideos.org:6969/announce
 
+http://tracker.tfile.co:80/announce
+
 http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
@@ -222,7 +232,7 @@ http://www.thetradersden.org/forums/tracker:80/announce.php
 
 http://www.tribalmixes.com:80/announce.php
 
-http://www.wareztorrent.com:80/announce
+http://www.tvnihon.com:6969/announce
 
 http://www.worldboxingvideoarchive.com:80/announce.php
 
