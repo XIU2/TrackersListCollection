@@ -1,5 +1,3 @@
-http://104.238.198.186:8000/announce
-
 http://1337.abcvg.info:80/announce
 
 http://185.148.3.231:80/announce
@@ -42,11 +40,11 @@ http://big-boss-tracker.net:80/announce.php
 
 http://bithq.org:80/announce.php
 
+http://bt.1000.pet:2712/announce
+
+http://bt.3dmgame.com:2710/announce
+
 http://bt.ali213.net:8080/announce
-
-http://bt.firebit.org:2710/announce
-
-http://bt.okmp3.ru:2710/announce
 
 http://bt.unionpeer.org:777/announce
 
@@ -57,6 +55,8 @@ http://bt2.edwardk.info:6969/announce
 http://bttracker.debian.org:6969/announce
 
 http://btx.anifilm.tv:80/announce.php
+
+http://concen.org:6969/announce
 
 http://data-bg.net:80/announce.php
 
@@ -129,6 +129,8 @@ http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
 
 http://torrent.mp3quran.net:80/announce.php
+
+http://torrent.resonatingmedia.com:6969/announce
 
 http://torrent.rus.ec:2710/announce
 
@@ -237,8 +239,6 @@ http://www.legittorrents.info:80/announce.php
 http://www.thetradersden.org/forums/tracker:80/announce.php
 
 http://www.tribalmixes.com:80/announce.php
-
-http://www.tvnihon.com:6969/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -366,6 +366,8 @@ udp://209.141.59.16:6969/announce
 
 udp://212.1.226.176:2710/announce
 
+udp://212.47.227.58:6969/announce
+
 udp://212.83.181.109:6969/announce
 
 udp://217.12.218.177:2710/announce
@@ -414,7 +416,7 @@ udp://78.30.254.12:2710/announce
 
 udp://88.99.142.4:8000/announce
 
-udp://9.rarbg.com:2950/announce
+udp://9.rarbg.com:2740/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -590,6 +592,8 @@ udp://tracker.grepler.com:6969/announce
 
 udp://tracker.halfchub.club:6969/announce
 
+udp://tracker.internetwarriors.net:1337/announce
+
 udp://tracker.kali.org:6969/announce
 
 udp://tracker.kuroy.me:5944/announce
@@ -651,8 +655,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://tsundere.pw:6969/announce
 
 udp://u.wwwww.wtf:1/announce
 
