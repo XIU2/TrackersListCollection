@@ -66,7 +66,7 @@ https://w.wwwww.wtf:443/announce
 
 udp://6rt.tace.ru:80/announce
 
-udp://9.rarbg.com:2740/announce
+udp://9.rarbg.com:2890/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -146,6 +146,8 @@ udp://tracker.moeking.me:6969/announce
 
 udp://tracker.nrx.me:6969/announce
 
+udp://tracker.openbittorrent.com:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.shkinev.me:6969/announce
@@ -179,7 +181,5 @@ udp://u.wwwww.wtf:1/announce
 udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://vibe.community:6969/announce
-
-udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
