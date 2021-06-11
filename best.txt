@@ -80,6 +80,8 @@ udp://bubu.mapfactor.com:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
 
+udp://engplus.ru:6969/announce
+
 udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
@@ -109,8 +111,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://pow7.com:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
-
-udp://retracker.lanta-net.ru:2710/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
@@ -181,5 +181,7 @@ udp://u.wwwww.wtf:1/announce
 udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://vibe.community:6969/announce
+
+udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
