@@ -1,6 +1,6 @@
-http://104.238.198.186:8000/announce
-
 http://1337.abcvg.info:80/announce
+
+http://78.30.254.12:2710/announce
 
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
@@ -27,8 +27,6 @@ http://opentracker.i2p.rocks:6969/announce
 http://opentracker.xyz:80/announce
 
 http://retracker.hotplug.ru:2710/announce
-
-http://retracker.joxnet.ru:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
@@ -103,6 +101,8 @@ http://tracker.tfile.co:80/announce
 http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
+
+http://tracker.yoshi210.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 

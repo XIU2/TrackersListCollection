@@ -34,9 +34,9 @@ _Those who are interested can download and try **[ubuntu-20.10.torrent](https://
 
 _These lists are updated every 8 hours !_
 
-- **BEST Tracker list:** (94 trackers)  
+- **BEST Tracker list:** (92 trackers)  
  _**https://trackerslist.com/best.txt**_  
-- **ALL Tracker list:** (196 trackers)  
+- **ALL Tracker list:** (193 trackers)  
  _**https://trackerslist.com/all.txt**_  
 - **HTTP(S) Tracker list:** (81 trackers)  
  _**https://trackerslist.com/http.txt**_  
