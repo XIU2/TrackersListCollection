@@ -8,6 +8,8 @@ http://[2001:470:1:189:0:1:2:3]:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
+http://bt.1000.pet:2712/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://explodie.org:6969/announce
@@ -26,6 +28,8 @@ http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
 
+http://pow7.com:80/announce
+
 http://retracker.hotplug.ru:2710/announce
 
 http://retracker.sevstar.net:2710/announce
@@ -43,6 +47,8 @@ http://t.acg.rip:6699/announce
 http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
+
+http://torrentclub.online:54123/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -76,8 +82,6 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.grepler.com:6969/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
@@ -106,21 +110,15 @@ http://tracker.yoshi210.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker2.dler.org:80/announce
 
 http://tracker4.itzmx.com:2710/announce
-
-http://trk.publictracker.xyz:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://bittorrent.gongt.net:443/announce
 
 https://open.kickasstracker.com:443/announce
 

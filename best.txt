@@ -66,7 +66,7 @@ https://w.wwwww.wtf:443/announce
 
 udp://6rt.tace.ru:80/announce
 
-udp://9.rarbg.com:2970/announce
+udp://9.rarbg.com:2750/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -83,6 +83,8 @@ udp://discord.heihachi.pw:6969/announce
 udp://engplus.ru:6969/announce
 
 udp://exodus.desync.com:6969/announce
+
+udp://explodie.org:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
@@ -130,8 +132,6 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
@@ -144,8 +144,6 @@ udp://tracker.moeking.me:6969/announce
 
 udp://tracker.nrx.me:6969/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.shkinev.me:6969/announce
@@ -157,8 +155,6 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.uw0.xyz:6969/announce
-
-udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
@@ -179,5 +175,3 @@ udp://vibe.community:6969/announce
 udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-udp://zephir.monocul.us:6969/announce
