@@ -66,7 +66,7 @@ https://w.wwwww.wtf:443/announce
 
 udp://6rt.tace.ru:80/announce
 
-udp://9.rarbg.com:2870/announce
+udp://9.rarbg.com:2970/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -104,6 +104,8 @@ udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
+udp://opentracker.i2p.rocks:6969/announce
+
 udp://p4p.arenabg.ch:1337/announce
 
 udp://p4p.arenabg.com:1337/announce
@@ -140,6 +142,8 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.internetwarriors.net:1337/announce
+
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.nrx.me:6969/announce
@@ -169,6 +173,8 @@ udp://tracker2.dler.com:80/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://u.wwwww.wtf:1/announce
+
+udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
 
