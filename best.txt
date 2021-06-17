@@ -4,6 +4,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://opentracker.xyz:80/announce
 
+http://p4p.arenabg.com:1337/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
@@ -46,8 +48,6 @@ https://tracker.coalition.space:443/announce
 
 https://tracker.gbitt.info:443/announce
 
-https://tracker.iriseden.fr:443/announce
-
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -62,7 +62,7 @@ https://tracker.tamersunion.org:443/announce
 
 https://w.wwwww.wtf:443/announce
 
-udp://9.rarbg.com:2910/announce
+udp://9.rarbg.com:2960/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -130,11 +130,11 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.internetwarriors.net:1337/announce
+
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.nrx.me:6969/announce
-
-udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -142,11 +142,15 @@ udp://tracker.shkinev.me:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
+
+udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -160,6 +164,10 @@ udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
 
+udp://vibe.community:6969/announce
+
 udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://zephir.monocul.us:6969/announce
