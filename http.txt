@@ -2,8 +2,6 @@ http://104.238.198.186:8000/announce
 
 http://1337.abcvg.info:80/announce
 
-http://156.234.201.18:80/announce
-
 http://157.90.169.123:80/announce
 
 http://185.148.3.231:80/announce
@@ -23,8 +21,6 @@ http://54.39.179.91:6699/announce
 http://60-fps.org:80/bt:80/announce.php
 
 http://65.21.48.148:6969/announce
-
-http://78.30.254.12:2710/announce
 
 http://93.158.213.92:1337/announce
 
@@ -62,15 +58,17 @@ http://bt.zlofenix.org:81/announce
 
 http://bt2.54new.com:8080/announce
 
+http://bt2.edwardk.info:4040/announce
+
 http://bttracker.debian.org:6969/announce
 
 http://btx.anifilm.tv:80/announce.php
 
-http://buny.uk:6969/announce
-
 http://data-bg.net:80/announce.php
 
 http://datascene.net:80/announce.php
+
+http://ed2k.vip:7070/announce
 
 http://explodie.org:6969/announce
 
@@ -101,6 +99,8 @@ http://open.acgnxtracker.com:80/announce
 http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
+
+http://p4p.arenabg.com:1337/announce
 
 http://pow7.com:80/announce
 
@@ -139,6 +139,8 @@ http://torrent.mp3quran.net:80/announce.php
 http://torrent.resonatingmedia.com:6969/announce
 
 http://torrent.rus.ec:2710/announce
+
+http://torrentclub.online:54123/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -182,8 +184,6 @@ http://tracker.gcvchp.com:2710/announce
 
 http://tracker.gigatorrents.ws:2710/announce
 
-http://tracker.grepler.com:6969/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
@@ -206,6 +206,8 @@ http://tracker.shittyurl.org:80/announce
 
 http://tracker.tambovnet.org:80/announce.php
 
+http://tracker.tasvideos.org:6969/announce
+
 http://tracker.tfile.co:80/announce
 
 http://tracker.tfile.me:80/announce
@@ -213,6 +215,10 @@ http://tracker.tfile.me:80/announce
 http://tracker.torrentbytes.net:80/announce.php
 
 http://tracker.trackerfix.com:80/announce
+
+http://tracker.uw0.xyz:6969/announce
+
+http://tracker.vraphim.com:6969/announce
 
 http://tracker.xdvdz.com:2710/announce
 
@@ -234,11 +240,11 @@ http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.biztorrents.com:80/announce.php
-
 http://www.thetradersden.org/forums/tracker:80/announce.php
 
 http://www.tribalmixes.com:80/announce.php
+
+http://www.tvnihon.com:6969/announce
 
 http://www.wareztorrent.com:80/announce
 

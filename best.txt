@@ -1,5 +1,9 @@
 http://1337.abcvg.info:80/announce
 
+http://ed2k.vip:7070/announce
+
+http://fxtt.ru:80/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://opentracker.xyz:80/announce
@@ -60,7 +64,7 @@ https://tracker.tamersunion.org:443/announce
 
 https://w.wwwww.wtf:443/announce
 
-udp://9.rarbg.com:2900/announce
+udp://9.rarbg.com:2890/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -131,6 +135,8 @@ udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.nrx.me:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
