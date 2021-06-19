@@ -32,7 +32,11 @@ http://tr.cili001.com:8070/announce
 
 http://tracker-cdn.moeking.me:2095/announce
 
+http://tracker.etree.org:6969/announce
+
 http://tracker.files.fm:6969/announce
+
+http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
@@ -44,9 +48,9 @@ http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://vps02.net.orel.ru:80/announce
+
+http://www.shnflac.net:80/announce.php
 
 http://www.zone-torrent.net:80/announce.php
 
@@ -66,7 +70,7 @@ https://tracker.nitrix.me:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
-udp://9.rarbg.com:2840/announce
+udp://9.rarbg.com:2850/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -136,6 +140,8 @@ udp://tracker.moeking.me:6969/announce
 
 udp://tracker.nrx.me:6969/announce
 
+udp://tracker.openbittorrent.com:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.shkinev.me:6969/announce
@@ -167,5 +173,3 @@ udp://vibe.community:6969/announce
 udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-udp://zephir.monocul.us:6969/announce
