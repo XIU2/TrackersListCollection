@@ -1,8 +1,14 @@
-http://1337.abcvg.info:80/announce
+http://bt.rghost.net:80/announce
 
-http://ed2k.vip:7070/announce
+http://carbon-bonsai-621.appspot.com:80/announce
+
+http://explodie.org:6969/announce
 
 http://fxtt.ru:80/announce
+
+http://kinorun.com:80/announce.php
+
+http://milanesitracker.tekcities.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -10,31 +16,27 @@ http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
 
+http://siambit.com:80/announce.php
+
 http://t.nyaatracker.com:80/announce
 
-http://torrentsmd.com:8080/announce
+http://torrent-team.net:80/announce.php
+
+http://torrent.nwps.ws:80/announce
+
+http://torrentzilla.org:80/announce
+
+http://torrentzilla.org:80/announce.php
 
 http://tr.cili001.com:8070/announce
 
 http://tracker-cdn.moeking.me:2095/announce
 
-http://tracker.anirena.com:80/announce
-
-http://tracker.anirena.com:80/b16a15d9a238d1f59178d3614b857290/announce
-
-http://tracker.anonwebz.xyz:8080/announce
-
-http://tracker.bt4g.com:2095/announce
-
 http://tracker.files.fm:6969/announce
 
-http://tracker.gbitt.info:80/announce
-
-http://tracker.internetwarriors.net:1337/announce
+http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.shittyurl.org:80/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -42,15 +44,19 @@ http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://vps02.net.orel.ru:80/announce
 
-https://1337.abcvg.info:443/announce
+http://www.zone-torrent.net:80/announce.php
+
+https://carbon-bonsai-621.appspot.com:443/announce
+
+https://opentracker.xyz:443/announce
+
+https://tk.mabo.ltd:443/announce
 
 https://tr.torland.ga:443/announce
-
-https://tracker.coalition.space:443/announce
-
-https://tracker.gbitt.info:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
@@ -58,15 +64,9 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
-https://tracker.parrotsec.org:443/announce
-
-https://tracker.shittyurl.org:443/announce
-
 https://tracker.tamersunion.org:443/announce
 
-https://w.wwwww.wtf:443/announce
-
-udp://9.rarbg.com:2890/announce
+udp://9.rarbg.com:2840/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -85,6 +85,8 @@ udp://explodie.org:6969/announce
 udp://fe.dealclub.de:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
@@ -128,17 +130,11 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 udp://tracker.dler.com:6969/announce
-
-udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.nrx.me:6969/announce
-
-udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -160,6 +156,8 @@ udp://tracker2.dler.com:80/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
+udp://tsundere.pw:6969/announce
+
 udp://u.wwwww.wtf:1/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
@@ -169,3 +167,5 @@ udp://vibe.community:6969/announce
 udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://zephir.monocul.us:6969/announce
