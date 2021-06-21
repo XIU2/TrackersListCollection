@@ -38,8 +38,6 @@ http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 http://tracker.tfile.co:80/announce
 
 http://tracker.tfile.me:80/announce
@@ -68,7 +66,7 @@ https://tracker.nitrix.me:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
-udp://9.rarbg.com:2940/announce
+udp://9.rarbg.com:2910/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -87,8 +85,6 @@ udp://explodie.org:6969/announce
 udp://fe.dealclub.de:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
-
-udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
@@ -120,8 +116,6 @@ udp://thetracker.org:80/announce
 
 udp://torrentclub.online:54123/announce
 
-udp://tracker-de.ololosh.space:6969/announce
-
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -146,13 +140,13 @@ udp://tracker.shkinev.me:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
-
-udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -161,6 +155,8 @@ udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://u.wwwww.wtf:1/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
