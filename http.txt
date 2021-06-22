@@ -1,6 +1,6 @@
-http://1337.abcvg.info:80/announce
+http://104.238.198.186:8000/announce
 
-http://138.255.103.83:1337/announce
+http://1337.abcvg.info:80/announce
 
 http://184.105.151.166:6969/announce
 
@@ -8,7 +8,7 @@ http://185.148.3.231:80/announce
 
 http://185.185.40.129:6969/announce
 
-http://45.56.65.82:54123/announce
+http://185.230.4.150:1337/announce
 
 http://51.79.71.167:80/announce
 
@@ -54,8 +54,6 @@ http://bt.zlofenix.org:81/announce
 
 http://bt2.54new.com:8080/announce
 
-http://bt2.edwardk.info:4040/announce
-
 http://bttracker.debian.org:6969/announce
 
 http://carbon-bonsai-621.appspot.com:80/announce
@@ -96,7 +94,9 @@ http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
 
-http://proaudiotorrents.org:80/announce.php
+http://p4p.arenabg.com:1337/announce
+
+http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -131,8 +131,6 @@ http://torrent.mp3quran.net:80/announce.php
 http://torrent.nwps.ws:80/announce
 
 http://torrent.resonatingmedia.com:6969/announce
-
-http://torrentclub.online:54123/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -170,8 +168,6 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.gcvchp.com:2710/announce
 
-http://tracker.grepler.com:6969/announce
-
 http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
@@ -202,17 +198,11 @@ http://tracker.torrentbytes.net:80/announce.php
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker.vraphim.com:6969/announce
-
 http://tracker.yoshi210.com:6969/announce
-
-http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker2.dler.org:80/announce
 
 http://tracker6.emce.org:12345/announce
-
-http://trk.publictracker.xyz:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -223,8 +213,6 @@ http://www.legittorrents.info:80/announce.php
 http://www.mvgroup.org:2710/announce
 
 http://www.shnflac.net:80/announce.php
-
-http://www.thetradersden.org/forums/tracker:80/announce.php
 
 http://www.tribalmixes.com:80/announce.php
 
@@ -255,8 +243,6 @@ https://torrents.linuxmint.com:443/announce.php
 https://tr.ready4.icu:443/announce
 
 https://tr.torland.ga:443/announce
-
-https://tracker.bt-hash.com:443/announce
 
 https://tracker.coalition.space:443/announce
 
