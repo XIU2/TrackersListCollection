@@ -14,8 +14,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://opentracker.xyz:80/announce
 
-http://p4p.arenabg.com:1337/announce
-
 http://share.camoe.cn:8080/announce
 
 http://siambit.com:80/announce.php
@@ -58,8 +56,6 @@ https://mytracker.fly.dev:443/announce
 
 https://opentracker.xyz:443/announce
 
-https://tk.mabo.ltd:443/announce
-
 https://tr.torland.ga:443/announce
 
 https://tracker.lilithraws.cf:443/announce
@@ -70,7 +66,9 @@ https://tracker.nitrix.me:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
-udp://9.rarbg.com:2920/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
+
+udp://9.rarbg.com:2800/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -175,8 +173,6 @@ udp://tracker6.lelux.fi:6969/announce
 udp://u.wwwww.wtf:1/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
-
-udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://vibe.community:6969/announce
 
