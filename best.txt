@@ -20,6 +20,8 @@ http://siambit.com:80/announce.php
 
 http://t.nyaatracker.com:80/announce
 
+http://t.overflow.biz:6969/announce
+
 http://torrent-team.net:80/announce.php
 
 http://torrent.nwps.ws:80/announce
@@ -62,8 +64,6 @@ https://opentracker.xyz:443/announce
 
 https://tr.torland.ga:443/announce
 
-https://tracker.iriseden.eu:443/announce
-
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -74,7 +74,7 @@ https://tracker.tamersunion.org:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://9.rarbg.com:2750/announce
+udp://9.rarbg.com:2950/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -164,8 +164,6 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
-udp://tracker.zemoj.com:6969/announce
-
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker0.ufibox.com:6969/announce
@@ -184,6 +182,6 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://vibe.community:6969/announce
 
-udp://wassermann.online:6969/announce
+udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://www.torrent.eu.org:451/announce
