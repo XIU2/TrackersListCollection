@@ -44,6 +44,8 @@ http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker6.emce.org:12345/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -72,7 +74,7 @@ https://tracker.tamersunion.org:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://9.rarbg.com:2830/announce
+udp://9.rarbg.com:2750/announce
 
 udp://9.rarbg.me:2710/announce
 
