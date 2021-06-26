@@ -34,8 +34,6 @@ http://tr.cili001.com:8070/announce
 
 http://tracker-cdn.moeking.me:2095/announce
 
-http://tracker.etree.org:6969/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.ipv6tracker.org:80/announce
@@ -64,6 +62,8 @@ https://opentracker.xyz:443/announce
 
 https://tr.torland.ga:443/announce
 
+https://tracker.coalition.space:443/announce
+
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -72,9 +72,11 @@ https://tracker.nitrix.me:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
+https://trakx.herokuapp.com:443/announce
+
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://9.rarbg.com:2950/announce
+udp://9.rarbg.com:2810/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -183,5 +185,7 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 udp://vibe.community:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
+
+udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
