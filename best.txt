@@ -44,8 +44,6 @@ http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker6.emce.org:12345/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -76,7 +74,7 @@ https://trakx.herokuapp.com:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2860/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -89,8 +87,6 @@ udp://bubu.mapfactor.com:6969/announce
 udp://code2chicken.nl:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
-
-udp://edu.uifr.ru:6969/announce
 
 udp://engplus.ru:6969/announce
 
