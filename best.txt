@@ -74,7 +74,7 @@ https://trakx.herokuapp.com:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://9.rarbg.com:2860/announce
+udp://9.rarbg.com:2850/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -177,8 +177,6 @@ udp://tracker6.lelux.fi:6969/announce
 udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
-
-udp://vibe.community:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
