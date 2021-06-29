@@ -40,6 +40,8 @@ http://bt.3dmgame.com:2710/announce
 
 http://bt.ali213.net:8080/announce
 
+http://bt.edwardk.info:4040/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://bt.rghost.net:80/announce
@@ -88,15 +90,11 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
 
 http://pow7.com:80/announce
-
-http://retracker.joxnet.ru:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
@@ -131,8 +129,6 @@ http://torrent.mp3quran.net:80/announce.php
 http://torrent.nwps.ws:80/announce
 
 http://torrent.resonatingmedia.com:6969/announce
-
-http://torrentclub.online:54123/announce
 
 http://torrents.linuxmint.com:80/announce.php
 
@@ -202,17 +198,15 @@ http://tracker.torrentbytes.net:80/announce.php
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker.vraphim.com:6969/announce
-
 http://tracker.xdvdz.com:2710/announce
+
+http://tracker.yoshi210.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker2.dler.org:80/announce
 
 http://tracker6.emce.org:12345/announce
-
-http://trk.publictracker.xyz:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -223,8 +217,6 @@ http://www.mvgroup.org:2710/announce
 http://www.shnflac.net:80/announce.php
 
 http://www.thetradersden.org/forums/tracker:80/announce.php
-
-http://www.tvnihon.com:6969/announce
 
 http://www.wareztorrent.com:80/announce
 
