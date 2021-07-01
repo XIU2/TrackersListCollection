@@ -78,7 +78,7 @@ https://trakx.herokuapp.com:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://9.rarbg.com:2880/announce
+udp://9.rarbg.com:2800/announce
 
 udp://9.rarbg.me:2710/announce
 
