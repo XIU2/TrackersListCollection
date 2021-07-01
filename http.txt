@@ -1,5 +1,3 @@
-http://104.238.198.186:8000/announce
-
 http://1337.abcvg.info:80/announce
 
 http://156.234.201.18:80/announce
@@ -8,11 +6,11 @@ http://184.105.151.166:6969/announce
 
 http://185.148.3.231:80/announce
 
-http://45.56.65.82:54123/announce
-
 http://51.79.71.167:80/announce
 
 http://60-fps.org:80/bt:80/announce.php
+
+http://78.30.254.12:2710/announce
 
 http://95.107.48.115:80/announce
 
@@ -50,6 +48,8 @@ http://bt.unionpeer.org:777/announce
 
 http://bt2.54new.com:8080/announce
 
+http://bt2.edwardk.info:4040/announce
+
 http://bttracker.debian.org:6969/announce
 
 http://btx.anifilm.tv:80/announce.php
@@ -65,10 +65,6 @@ http://explodie.org:6969/announce
 http://fxtt.ru:80/announce
 
 http://googer.cc:1337/announce
-
-http://h4.trakx.nibba.trade:80/announce
-
-http://ipv4announce.sktorrent.eu:6969/announce
 
 http://irrenhaus.dyndns.dk:80/announce.php
 
@@ -98,15 +94,17 @@ http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
 
-http://p4p.arenabg.com:1337/announce
-
 http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
+http://retracker.joxnet.ru:80/announce
+
 http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
+
+http://retracker.telecom.by:80/announce
 
 http://rt.optizone.ru:80/announce
 
@@ -116,9 +114,13 @@ http://share.camoe.cn:8080/announce
 
 http://siambit.com:80/announce.php
 
+http://sukebei.tracker.wf:8888/announce
+
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
+
+http://t.overflow.biz:6969/announce
 
 http://t1.pow7.com:80/announce
 
@@ -166,13 +168,9 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.etree.org:6969/announce
-
 http://tracker.fdn.fr:6969/announce
 
 http://tracker.files.fm:6969/announce
-
-http://tracker.frozen-layer.net:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -218,21 +216,15 @@ http://tracker2.dler.org:80/announce
 
 http://tracker6.emce.org:12345/announce
 
-http://trk.publictracker.xyz:6969/announce
-
 http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.legittorrents.info:80/announce.php
 
 http://www.shnflac.net:80/announce.php
 
 http://www.thetradersden.org/forums/tracker:80/announce.php
 
 http://www.tribalmixes.com:80/announce.php
-
-http://www.tvnihon.com:6969/announce
 
 http://www.wareztorrent.com:80/announce
 
