@@ -34,15 +34,21 @@ http://tr.cili001.com:8070/announce
 
 http://tracker-cdn.moeking.me:2095/announce
 
+http://tracker.etree.org:6969/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker6.emce.org:12345/announce
 
@@ -74,7 +80,7 @@ https://trakx.herokuapp.com:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2870/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -138,13 +144,13 @@ udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
 
+udp://tracker.loadbt.com:6969/announce
+
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.nrx.me:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
-
-udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -168,8 +174,10 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
-udp://udp-tracker.shittyurl.org:6969/announce
+udp://vibe.community:6969/announce
 
 udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://zephir.monocul.us:6969/announce
