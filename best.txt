@@ -74,7 +74,7 @@ https://trakx.herokuapp.com:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://9.rarbg.com:2920/announce
+udp://9.rarbg.com:2820/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -138,6 +138,8 @@ udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
+udp://tracker.leech.ie:1337/announce
+
 udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.loadbt.com:6969/announce
@@ -159,8 +161,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.uw0.xyz:6969/announce
-
-udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
