@@ -1,6 +1,6 @@
-http://1337.abcvg.info:80/announce
+http://107.152.127.9:6969/announce
 
-http://156.234.201.18:80/announce
+http://1337.abcvg.info:80/announce
 
 http://157.90.169.123:80/announce
 
@@ -10,6 +10,8 @@ http://185.148.3.231:80/announce
 
 http://193.37.214.12:6969/announce
 
+http://45.56.65.82:54123/announce
+
 http://51.79.71.167:80/announce
 
 http://51.81.46.170:6969/announce
@@ -17,8 +19,6 @@ http://51.81.46.170:6969/announce
 http://54.39.179.91:6699/announce
 
 http://60-fps.org:80/bt:80/announce.php
-
-http://78.30.254.12:2710/announce
 
 http://82.65.37.128:6969/announce
 
@@ -66,8 +66,6 @@ http://btx.anifilm.tv:80/announce.php
 
 http://carbon-bonsai-621.appspot.com:80/announce
 
-http://concen.org:6969/announce
-
 http://data-bg.net:80/announce.php
 
 http://datascene.net:80/announce.php
@@ -80,6 +78,8 @@ http://googer.cc:1337/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
+http://ipv4announce.sktorrent.eu:6969/announce
+
 http://irrenhaus.dyndns.dk:80/announce.php
 
 http://kinorun.com:80/announce.php
@@ -87,8 +87,6 @@ http://kinorun.com:80/announce.php
 http://masters-tb.com:80/announce.php
 
 http://mediaclub.tv:80/announce.php
-
-http://milanesitracker.tekcities.com:80/announce
 
 http://mixfiend.com:80/announce.php
 
@@ -106,11 +104,17 @@ http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
 
+http://p4p.arenabg.com:1337/announce
+
 http://pow7.com:80/announce
+
+http://proaudiotorrents.org:80/announce.php
 
 http://retracker.hotplug.ru:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
+
+http://retracker.telecom.by:80/announce
 
 http://secure.pow7.com:80/announce
 
@@ -121,6 +125,8 @@ http://siambit.com:80/announce.php
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
+
+http://t.overflow.biz:6969/announce
 
 http://t1.pow7.com:80/announce
 
@@ -139,6 +145,8 @@ http://torrent.nwps.ws:80/announce
 http://torrent.resonatingmedia.com:6969/announce
 
 http://torrent.ubuntu.com:6969/announce
+
+http://torrentclub.online:54123/announce
 
 http://torrents.linuxmint.com:80/announce.php
 
@@ -170,8 +178,6 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.etree.org:6969/announce
-
 http://tracker.fdn.fr:6969/announce
 
 http://tracker.files.fm:6969/announce
@@ -194,6 +200,8 @@ http://tracker.minglong.org:8080/announce
 
 http://tracker.noobsubs.net:80/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.pow7.com:80/announce
@@ -214,6 +222,8 @@ http://tracker.trackerfix.com:80/announce
 
 http://tracker.uw0.xyz:6969/announce
 
+http://tracker.yoshi210.com:6969/announce
+
 http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
@@ -224,9 +234,13 @@ http://tracker3.dler.org:2710/announce
 
 http://tracker6.emce.org:12345/announce
 
+http://trk.publictracker.xyz:6969/announce
+
 http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
+
+http://www.bitseduce.com:80/announce.php
 
 http://www.shnflac.net:80/announce.php
 
@@ -235,6 +249,8 @@ http://www.thetradersden.org/forums/tracker:80/announce.php
 http://www.tribalmixes.com:80/announce.php
 
 http://www.wareztorrent.com:80/announce
+
+http://www.worldboxingvideoarchive.com:80/announce.php
 
 http://www.xwt-classics.net:80/announce.php
 
