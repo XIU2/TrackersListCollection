@@ -16,8 +16,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://opentracker.xyz:80/announce
 
-http://p4p.arenabg.com:1337/announce
-
 http://share.camoe.cn:8080/announce
 
 http://siambit.com:80/announce.php
@@ -47,8 +45,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker6.emce.org:12345/announce
 
@@ -84,7 +80,7 @@ https://trakx.herokuapp.com:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://9.rarbg.com:2860/announce
+udp://9.rarbg.com:2930/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -157,8 +153,6 @@ udp://tracker.nrx.me:6969/announce
 udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
-
-udp://tracker.shkinev.me:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
