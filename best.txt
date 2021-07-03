@@ -38,6 +38,8 @@ http://tracker-cdn.moeking.me:2095/announce
 
 http://tracker.files.fm:6969/announce
 
+http://tracker.gbitt.info:80/announce
+
 http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
@@ -45,6 +47,8 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker6.emce.org:12345/announce
 
@@ -64,6 +68,10 @@ https://tr.torland.ga:443/announce
 
 https://tracker.coalition.space:443/announce
 
+https://tracker.iriseden.eu:443/announce
+
+https://tracker.iriseden.fr:443/announce
+
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -76,7 +84,7 @@ https://trakx.herokuapp.com:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://9.rarbg.com:2960/announce
+udp://9.rarbg.com:2860/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -98,6 +106,8 @@ udp://fe.dealclub.de:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
+udp://ipv4.tracker.harry.lu:80/announce
+
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
 udp://mail.realliferpg.de:6969/announce
@@ -109,8 +119,6 @@ udp://mts.tvbit.co:6969/announce
 udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
-
-udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
@@ -138,13 +146,9 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.leech.ie:1337/announce
 
 udp://tracker.lelux.fi:6969/announce
-
-udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -158,13 +162,13 @@ udp://tracker.shkinev.me:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
-
-udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -173,8 +177,6 @@ udp://tracker2.dler.com:80/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.lelux.fi:6969/announce
-
-udp://vibe.community:6969/announce
 
 udp://wassermann.online:6969/announce
 
