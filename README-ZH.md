@@ -95,7 +95,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 #### BitComet (比特彗星):
 
 > <small>_**官方网站：http://www.bitcomet.com**_</small>  
-> <small>_**便携版：https://xiu.lanzoux.com/b073c7g4f (已配置 Tracker 并屏蔽迅雷，打开白屏请加入广告屏蔽白名单)**_</small>  
+> <small>_**便携版：https://pan.lanzoui.com/b073c7g4f (已配置 Tracker 并屏蔽迅雷)**_</small>  
 
 - **工具 - 选项 - 任务设置 - BT下载 - Tracker**  
  **勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[立即更新\]** 上面就会显示获取的 Tracker 了。(如下图所示)  
@@ -109,7 +109,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 #### qBittorrent Enhanced Edition (增强版):
 
 > <small>_**Github：https://github.com/c0re100/qBittorrent-Enhanced-Edition**_</small>  
-> <small>_**便携版：https://xiu.lanzoux.com/b073dnr7g (已配置 Tracker 并屏蔽迅雷，打开白屏请加入广告屏蔽白名单)**_</small>  
+> <small>_**便携版：https://pan.lanzoui.com/b073dnr7g (已配置 Tracker 并屏蔽迅雷)**_</small>  
 
 > <small>在 qBittorrent 的基础上增加了很多功能，例如：**屏蔽迅雷、订阅 Tracker URL** ，可以很方便的配合本项目使用。</small>
 
@@ -123,7 +123,7 @@ bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 #### qBittorrent:
 
 > <small>_**官方网站：https://www.qbittorrent.org**_</small>  
-> <small>_**便携版：https://xiu.lanzoux.com/b073jjwta (如打开白屏请加入广告屏蔽白名单)**_</small>  
+> <small>_**便携版：https://pan.lanzoui.com/b073jjwta**_</small>  
 
 - **选项[齿轮图标] - BitTorrent**  
  **勾选下图红框内的选项** 并复制所有 Tracker 后粘贴到下方输入框中，然后点击 **\[Apply\]** 保存。(如下图所示)  
