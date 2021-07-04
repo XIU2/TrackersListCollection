@@ -26,7 +26,7 @@ _The figure below shows the BT download speed after using Tracker. (ALL Tracker 
 ![BitComet](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-01.png)
 ![qBittorrentEE](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-02.png)
 
-_Those who are interested can download and try **[ubuntu-20.10.torrent](https://releases.ubuntu.com/20.10/ubuntu-20.10-desktop-amd64.iso.torrent)** , this resource has thousands of people worldwide to provide uploads , So most people download fast!_
+_Those who are interested can download and try **[ubuntu-20.04.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.04.2.0-desktop-amd64.iso.torrent)** , this resource has thousands of people worldwide to provide uploads , So most people download fast!_
 
 ****
 
