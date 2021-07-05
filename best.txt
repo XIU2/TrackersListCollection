@@ -76,9 +76,9 @@ https://trakx.herokuapp.com:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2730/announce
 
-udp://9.rarbg.com:2820/announce
+udp://9.rarbg.com:2810/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -149,6 +149,8 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.nrx.me:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
