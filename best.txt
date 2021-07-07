@@ -54,8 +54,6 @@ http://www.zone-torrent.net:80/announce.php
 
 https://carbon-bonsai-621.appspot.com:443/announce
 
-https://danielrcloud.ddns.net:443/announce
-
 https://mytracker.fly.dev:443/announce
 
 https://opentracker.xyz:443/announce
@@ -76,9 +74,9 @@ https://trakx.herokuapp.com:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://9.rarbg.com:2800/announce
-
 udp://9.rarbg.com:2810/announce
+
+udp://9.rarbg.com:2900/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -140,6 +138,8 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
 
+udp://tracker.leech.ie:1337/announce
+
 udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -158,8 +158,6 @@ udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
-udp://tracker0.ufibox.com:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
@@ -171,8 +169,6 @@ udp://tracker4.itzmx.com:2710/announce
 udp://tracker6.lelux.fi:6969/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
-
-udp://vibe.community:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
