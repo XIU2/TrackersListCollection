@@ -10,6 +10,8 @@ http://185.148.3.231:80/announce
 
 http://212.6.3.67:80/announce
 
+http://45.56.65.82:54123/announce
+
 http://51.222.84.64:1337/announce
 
 http://54.39.179.91:6699/announce
@@ -108,6 +110,8 @@ http://opentracker.xyz:80/announce
 
 http://p4p.arenabg.com:1337/announce
 
+http://pow7.com:80/announce
+
 http://proaudiotorrents.org:80/announce.php
 
 http://retracker.hotplug.ru:2710/announce
@@ -115,8 +119,6 @@ http://retracker.hotplug.ru:2710/announce
 http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
-
-http://retracker.telecom.by:80/announce
 
 http://secure.pow7.com:80/announce
 
@@ -186,8 +188,6 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.gigatorrents.ws:2710/announce
 
-http://tracker.grepler.com:6969/announce
-
 http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
@@ -224,7 +224,11 @@ http://tracker.vraphim.com:6969/announce
 
 http://tracker.xdvdz.com:2710/announce
 
+http://tracker.yoshi210.com:6969/announce
+
 http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 

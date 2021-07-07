@@ -34,6 +34,8 @@ http://tr.cili001.com:8070/announce
 
 http://tracker-cdn.moeking.me:2095/announce
 
+http://tracker.etree.org:6969/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.ipv6tracker.org:80/announce
@@ -43,8 +45,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -73,6 +73,8 @@ https://tracker.tamersunion.org:443/announce
 https://trakx.herokuapp.com:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
+
+udp://9.rarbg.com:2800/announce
 
 udp://9.rarbg.com:2810/announce
 
@@ -109,6 +111,8 @@ udp://mts.tvbit.co:6969/announce
 udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
+
+udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
