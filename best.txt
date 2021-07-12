@@ -34,8 +34,6 @@ http://tr.cili001.com:8070/announce
 
 http://tracker-cdn.moeking.me:2095/announce
 
-http://tracker.etree.org:6969/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.ipv6tracker.org:80/announce
@@ -74,7 +72,7 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://9.rarbg.com:2950/announce
+udp://9.rarbg.com:2920/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -95,8 +93,6 @@ udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 
 udp://fe.dealclub.de:6969/announce
-
-udp://inferno.demonoid.is:3391/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
