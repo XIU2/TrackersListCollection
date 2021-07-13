@@ -14,6 +14,8 @@ http://milanesitracker.tekcities.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://openbittorrent.com:80/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -44,6 +46,8 @@ http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://vps02.net.orel.ru:80/announce
 
 http://www.shnflac.net:80/announce.php
@@ -60,6 +64,10 @@ https://tr.torland.ga:443/announce
 
 https://tracker.coalition.space:443/announce
 
+https://tracker.iriseden.eu:443/announce
+
+https://tracker.iriseden.fr:443/announce
+
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nitrix.me:443/announce
@@ -72,7 +80,7 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://9.rarbg.com:2920/announce
+udp://9.rarbg.com:2820/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -93,6 +101,8 @@ udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 
 udp://fe.dealclub.de:6969/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
@@ -136,8 +146,6 @@ udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.leech.ie:1337/announce
 
 udp://tracker.lelux.fi:6969/announce
@@ -162,8 +170,6 @@ udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
-udp://tracker0.ufibox.com:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
@@ -173,10 +179,6 @@ udp://tracker4.itzmx.com:2710/announce
 udp://tracker6.lelux.fi:6969/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
-
-udp://vibe.community:6969/announce
-
-udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://wassermann.online:6969/announce
 
