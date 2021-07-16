@@ -18,6 +18,8 @@ http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
 
+http://p4p.arenabg.com:1337/announce
+
 http://share.camoe.cn:8080/announce
 
 http://siambit.com:80/announce.php
@@ -36,11 +38,7 @@ http://tr.cili001.com:8070/announce
 
 http://tracker-cdn.moeking.me:2095/announce
 
-http://tracker.etree.org:6969/announce
-
 http://tracker.files.fm:6969/announce
-
-http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
@@ -49,8 +47,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -76,9 +72,9 @@ https://trakx.herokuapp.com:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://9.rarbg.com:2740/announce
-
 udp://9.rarbg.com:2810/announce
+
+udp://9.rarbg.com:2830/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -120,8 +116,6 @@ udp://opentracker.i2p.rocks:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://pow7.com:80/announce
-
 udp://retracker.lanta-net.ru:2710/announce
 
 udp://thetracker.org:80/announce
@@ -154,6 +148,8 @@ udp://tracker.nrx.me:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
+udp://tracker.openbittorrent.com:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.theoks.net:6969/announce
@@ -179,8 +175,6 @@ udp://tracker6.lelux.fi:6969/announce
 udp://u.wwwww.wtf:1/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
-
-udp://vibe.community:6969/announce
 
 udp://wassermann.online:6969/announce
 
