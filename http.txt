@@ -10,8 +10,6 @@ http://185.148.3.231:80/announce
 
 http://193.37.214.12:6969/announce
 
-http://198.251.84.144:80/announce
-
 http://212.6.3.67:80/announce
 
 http://213.183.51.12:6969/announce
@@ -27,8 +25,6 @@ http://54.39.179.91:6699/announce
 http://60-fps.org:80/bt:80/announce.php
 
 http://65.21.48.148:6969/announce
-
-http://78.30.254.12:2710/announce
 
 http://93.158.213.92:1337/announce
 
@@ -57,6 +53,8 @@ http://bithq.org:80/announce.php
 http://bt.3dmgame.com:2710/announce
 
 http://bt.ali213.net:8000/announce
+
+http://bt.edwardk.info:4040/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -112,7 +110,7 @@ http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
 
-http://pow7.com:80/announce
+http://p4p.arenabg.com:1337/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -146,6 +144,8 @@ http://torrent.mp3quran.net:80/announce.php
 
 http://torrent.nwps.ws:80/announce
 
+http://torrentclub.online:54123/announce
+
 http://torrentsmd.com:8080/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
@@ -174,8 +174,6 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.etree.org:6969/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.frozen-layer.net:6969/announce
@@ -183,8 +181,6 @@ http://tracker.frozen-layer.net:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.gigatorrents.ws:2710/announce
-
-http://tracker.grepler.com:6969/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
@@ -212,6 +208,8 @@ http://tracker.trackerfix.com:80/announce
 
 http://tracker.uw0.xyz:6969/announce
 
+http://tracker.vraphim.com:6969/announce
+
 http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
@@ -228,11 +226,7 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.shnflac.net:80/announce.php
 
-http://www.thetradersden.org/forums/tracker:80/announce.php
-
 http://www.tribalmixes.com:80/announce.php
-
-http://www.tvnihon.com:6969/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -245,8 +239,6 @@ http://www.zone-torrent.net:80/announce.php
 https://1337.abcvg.info:443/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
-
-https://danielrcloud.ddns.net:443/announce
 
 https://mytracker.fly.dev:443/announce
 
