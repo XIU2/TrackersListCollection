@@ -50,8 +50,6 @@ http://bt.zlofenix.org:81/announce
 
 http://bt2.54new.com:8080/announce
 
-http://bt2.edwardk.info:6969/announce
-
 http://bttracker.debian.org:6969/announce
 
 http://btx.anifilm.tv:80/announce.php
@@ -84,6 +82,8 @@ http://mediaclub.tv:80/announce.php
 
 http://milanesitracker.tekcities.com:80/announce
 
+http://mixfiend.com:6969/announce
+
 http://mvgroup.org:2710/announce
 
 http://ns349743.ip-91-121-106.eu:80/announce
@@ -96,13 +96,15 @@ http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
 
-http://proaudiotorrents.org:80/announce.php
+http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
 http://retracker.telecom.by:80/announce
+
+http://secure.pow7.com:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -125,6 +127,8 @@ http://torrent.mp3quran.net:80/announce.php
 http://torrent.nwps.ws:80/announce
 
 http://torrent.resonatingmedia.com:6969/announce
+
+http://torrent.rus.ec:2710/announce
 
 http://torrents.linuxmint.com:80/announce.php
 
@@ -160,11 +164,7 @@ http://tracker.fdn.fr:6969/announce
 
 http://tracker.files.fm:6969/announce
 
-http://tracker.frozen-layer.net:6969/announce.php
-
 http://tracker.gbitt.info:80/announce
-
-http://tracker.gcvchp.com:2710/announce
 
 http://tracker.gigatorrents.ws:2710/announce
 
@@ -182,6 +182,8 @@ http://tracker.minglong.org:8080/announce
 
 http://tracker.noobsubs.net:80/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.pow7.com:80/announce
@@ -196,6 +198,8 @@ http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker.uw0.xyz:6969/announce
+
 http://tracker.xdvdz.com:2710/announce
 
 http://tracker.zerobytes.xyz:1337/announce
@@ -209,8 +213,6 @@ http://trk.publictracker.xyz:6969/announce
 http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.legittorrents.info:80/announce.php
 
 http://www.shnflac.net:80/announce.php
 
