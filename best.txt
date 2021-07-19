@@ -14,8 +14,6 @@ http://milanesitracker.tekcities.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://openbittorrent.com:80/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -72,9 +70,9 @@ https://trakx.herokuapp.com:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://9.rarbg.com:2800/announce
-
 udp://9.rarbg.com:2810/announce
+
+udp://9.rarbg.com:2890/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -122,8 +120,6 @@ udp://retracker.lanta-net.ru:2710/announce
 
 udp://thetracker.org:80/announce
 
-udp://torrentclub.online:54123/announce
-
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -149,6 +145,8 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.nrx.me:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
