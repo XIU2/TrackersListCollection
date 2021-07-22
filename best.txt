@@ -14,8 +14,6 @@ http://milanesitracker.tekcities.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://openbittorrent.com:80/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -25,8 +23,6 @@ http://siambit.com:80/announce.php
 http://t.nyaatracker.com:80/announce
 
 http://torrent-team.net:80/announce.php
-
-http://torrent.nwps.ws:80/announce
 
 http://torrentzilla.org:80/announce
 
@@ -38,6 +34,8 @@ http://tracker-cdn.moeking.me:2095/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.etree.org:6969/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.ipv6tracker.org:80/announce
@@ -47,10 +45,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
-
-http://tracker.yowe.net:80/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -82,7 +76,7 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://9.rarbg.com:2890/announce
+udp://9.rarbg.com:2980/announce
 
 udp://9.rarbg.me:2710/announce
 
