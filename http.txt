@@ -1,4 +1,4 @@
-http://107.152.127.9:6969/announce
+http://1337.abcvg.info:80/announce
 
 http://157.90.169.123:80/announce
 
@@ -11,8 +11,6 @@ http://184.105.151.166:6969/announce
 http://185.246.152.237:6969/announce
 
 http://193.37.214.12:6969/announce
-
-http://198.251.84.144:80/announce
 
 http://51.222.84.64:1337/announce
 
@@ -27,6 +25,12 @@ http://60-fps.org:80/bt:80/announce.php
 http://93.158.213.92:1337/announce
 
 http://95.107.48.115:80/announce
+
+http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
+
+http://[2001:470:1:189:0:1:2:3]:6969/announce
+
+http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://all4nothin.net:80/announce.php
 
@@ -96,19 +100,21 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://openbittorrent.com:80/announce
-
 http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
 
 http://pow7.com:80/announce
 
-http://proaudiotorrents.org:80/announce.php
+http://retracker.hotplug.ru:2710/announce
+
+http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
 http://retracker.telecom.by:80/announce
+
+http://secure.pow7.com:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -121,6 +127,8 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://t1.pow7.com:80/announce
+
+http://t2.pow7.com:80/announce
 
 http://torrent-team.net:80/announce.php
 
@@ -142,6 +150,8 @@ http://torrentzilla.org:80/announce
 
 http://torrentzilla.org:80/announce.php
 
+http://tr.bangumi.moe:6969/announce
+
 http://tr.cili001.com:8070/announce
 
 http://tr.kxmp.cf:80/announce
@@ -152,6 +162,8 @@ http://tracker.ali213.net:8080/announce
 
 http://tracker.anirena.com:80/announce
 
+http://tracker.birkenwald.de:6969/announce
+
 http://tracker.bittor.pw:1337/announce
 
 http://tracker.breizh.pm:6969/announce
@@ -159,8 +171,6 @@ http://tracker.breizh.pm:6969/announce
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.etree.org:6969/announce
 
 http://tracker.fdn.fr:6969/announce
 
@@ -178,11 +188,17 @@ http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.lelux.fi:80/announce
+
+http://tracker.loadbt.com:6969/announce
+
 http://tracker.minglong.org:8080/announce
 
 http://tracker.nighthawk.pw:2052/announce
 
 http://tracker.noobsubs.net:80/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -238,6 +254,8 @@ https://carbon-bonsai-621.appspot.com:443/announce
 
 https://mytracker.fly.dev:443/announce
 
+https://opentracker.acgnx.se:443/announce
+
 https://opentracker.xyz:443/announce
 
 https://torrent.ubuntu.com:443/announce
@@ -254,7 +272,11 @@ https://tracker.iriseden.eu:443/announce
 
 https://tracker.iriseden.fr:443/announce
 
+https://tracker.lelux.fi:443/announce
+
 https://tracker.lilithraws.cf:443/announce
+
+https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
