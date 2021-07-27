@@ -14,11 +14,7 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://openbittorrent.com:80/announce
-
 http://opentracker.xyz:80/announce
-
-http://p4p.arenabg.com:1337/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -50,8 +46,6 @@ http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://vps02.net.orel.ru:80/announce
 
 http://www.shnflac.net:80/announce.php
@@ -76,9 +70,9 @@ https://trakx.herokuapp.com:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://9.rarbg.com:2780/announce
-
 udp://9.rarbg.com:2810/announce
+
+udp://9.rarbg.com:2870/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -89,8 +83,6 @@ udp://abufinzio.monocul.us:6969/announce
 udp://app.icon256.com:8000/announce
 
 udp://bt.yui.cat:55268/announce
-
-udp://bubu.mapfactor.com:6969/announce
 
 udp://code2chicken.nl:6969/announce
 
