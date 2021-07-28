@@ -14,13 +14,13 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://openbittorrent.com:80/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
 
 http://siambit.com:80/announce.php
+
+http://t.nyaatracker.com:80/announce
 
 http://torrent-team.net:80/announce.php
 
@@ -45,8 +45,6 @@ http://tracker.noobsubs.net:80/announce
 http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -74,7 +72,7 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://9.rarbg.com:2880/announce
+udp://9.rarbg.com:2830/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -140,8 +138,6 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.leech.ie:1337/announce
-
 udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.loadbt.com:6969/announce
@@ -171,8 +167,6 @@ udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker2.dler.com:80/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
