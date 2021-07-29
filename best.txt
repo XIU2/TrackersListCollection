@@ -46,8 +46,6 @@ http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://vps02.net.orel.ru:80/announce
 
 http://www.shnflac.net:80/announce.php
@@ -72,7 +70,7 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://9.rarbg.com:2960/announce
+udp://9.rarbg.com:2870/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -169,7 +167,5 @@ udp://tracker2.dler.com:80/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
-
-udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
