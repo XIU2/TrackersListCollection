@@ -16,8 +16,6 @@ http://54.39.179.91:6699/announce
 
 http://60-fps.org:80/bt:80/announce.php
 
-http://78.30.254.12:2710/announce
-
 http://93.158.213.92:1337/announce
 
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
@@ -46,8 +44,6 @@ http://bt.3dmgame.com:2710/announce
 
 http://bt.ali213.net:8080/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://bt.rghost.net:80/announce
 
 http://bt.unionpeer.org:777/announce
@@ -55,8 +51,6 @@ http://bt.unionpeer.org:777/announce
 http://bt.zlofenix.org:81/announce
 
 http://bt2.54new.com:8080/announce
-
-http://bt2.edwardk.info:6969/announce
 
 http://bttracker.debian.org:6969/announce
 
@@ -123,8 +117,6 @@ http://t2.pow7.com:80/announce
 http://torrent-team.net:80/announce.php
 
 http://torrent.arjlover.net:2710/announce
-
-http://torrent.fedoraproject.org:6969/announce
 
 http://torrent.mp3quran.net:80/announce.php
 
@@ -211,6 +203,8 @@ http://tracker3.dler.org:2710/announce
 http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
+
+http://www.legittorrents.info:80/announce.php
 
 http://www.mvgroup.org:2710/announce
 
@@ -416,6 +410,8 @@ udp://mts.tvbit.co:6969/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://open.publictracker.xyz:6969/announce
+
 udp://open.stealth.si:80/announce
 
 udp://openbittorrent.com:80/announce
@@ -486,8 +482,6 @@ udp://tracker.flashtorrents.org:6969/announce
 
 udp://tracker.gbitt.info:80/announce
 
-udp://tracker.grepler.com:6969/announce
-
 udp://tracker.halfchub.club:6969/announce
 
 udp://tracker.kuroy.me:5944/announce
@@ -545,6 +539,8 @@ udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://u.wwwww.wtf:1/announce
 
 udp://vibe.community:6969/announce
 
