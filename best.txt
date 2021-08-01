@@ -42,6 +42,8 @@ http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://vps02.net.orel.ru:80/announce
 
 http://www.shnflac.net:80/announce.php
@@ -72,7 +74,7 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://9.rarbg.com:2940/announce
+udp://9.rarbg.com:2970/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -85,8 +87,6 @@ udp://app.icon256.com:8000/announce
 udp://bt.yui.cat:55268/announce
 
 udp://bubu.mapfactor.com:6969/announce
-
-udp://code2chicken.nl:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
 
@@ -146,11 +146,7 @@ udp://tracker.moeking.eu.org:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.nrx.me:6969/announce
-
 udp://tracker.ololosh.space:6969/announce
-
-udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
