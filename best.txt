@@ -58,12 +58,6 @@ https://opentracker.xyz:443/announce
 
 https://tr.torland.ga:443/announce
 
-https://tracker.iriseden.eu:443/announce
-
-https://tracker.iriseden.fr:443/announce
-
-https://tracker.lilithraws.cf:443/announce
-
 https://tracker.nitrix.me:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -72,9 +66,9 @@ https://trakx.herokuapp.com:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2770/announce
 
-udp://9.rarbg.com:2970/announce
+udp://9.rarbg.com:2810/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -138,8 +132,6 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.moeking.eu.org:6969/announce
@@ -147,6 +139,8 @@ udp://tracker.moeking.eu.org:6969/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -165,6 +159,8 @@ udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker2.dler.com:80/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
