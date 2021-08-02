@@ -94,8 +94,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
@@ -122,6 +120,8 @@ http://t.overflow.biz:6969/announce
 
 http://t1.pow7.com:80/announce
 
+http://t2.pow7.com:80/announce
+
 http://torrent-team.net:80/announce.php
 
 http://torrent.arjlover.net:2710/announce
@@ -133,8 +133,6 @@ http://torrent.mp3quran.net:80/announce.php
 http://torrent.resonatingmedia.com:6969/announce
 
 http://torrentsmd.com:8080/announce
-
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://torrentzilla.org:80/announce
 
@@ -158,13 +156,9 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.etree.org:6969/announce
-
 http://tracker.fdn.fr:6969/announce
 
 http://tracker.files.fm:6969/announce
-
-http://tracker.frozen-layer.net:6969/announce.php
 
 http://tracker.gbitt.info:80/announce
 
@@ -186,8 +180,6 @@ http://tracker.minglong.org:8080/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.pow7.com:80/announce
@@ -204,8 +196,6 @@ http://tracker.trackerfix.com:80/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker2.dler.org:80/announce
 
 http://tracker3.dler.org:2710/announce
@@ -213,8 +203,6 @@ http://tracker3.dler.org:2710/announce
 http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.biztorrents.com:80/announce.php
 
 http://www.legittorrents.info:80/announce.php
 
@@ -225,8 +213,6 @@ http://www.shnflac.net:80/announce.php
 http://www.thetradersden.org/forums/tracker:80/announce.php
 
 http://www.tribalmixes.com:80/announce.php
-
-http://www.tvnihon.com:6969/announce
 
 http://www.wareztorrent.com:80/announce
 
