@@ -44,8 +44,6 @@ http://bt.3dmgame.com:2710/announce
 
 http://bt.ali213.net:8080/announce
 
-http://bt.edwardk.info:2710/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://bt.rghost.net:80/announce
@@ -92,9 +90,13 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://openbittorrent.com:80/announce
+
 http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
+
+http://p4p.arenabg.com:1337/announce
 
 http://pow7.com:80/announce
 
@@ -180,8 +182,6 @@ http://tracker.minglong.org:8080/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.pow7.com:80/announce
@@ -221,6 +221,8 @@ http://www.shnflac.net:80/announce.php
 http://www.thetradersden.org/forums/tracker:80/announce.php
 
 http://www.tribalmixes.com:80/announce.php
+
+http://www.tvnihon.com:6969/announce
 
 http://www.wareztorrent.com:80/announce
 
