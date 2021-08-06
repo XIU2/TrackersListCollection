@@ -1,14 +1,10 @@
 http://1337.abcvg.info:80/announce
 
-http://156.234.201.18:80/announce
-
 http://159.69.65.157:6969/announce
 
 http://184.105.151.166:6969/announce
 
 http://185.148.3.231:80/announce
-
-http://198.251.84.144:80/announce
 
 http://212.6.3.67:80/announce
 
@@ -94,10 +90,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
-
-http://openbittorrent.com:80/announce
-
 http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
@@ -111,10 +103,6 @@ http://proaudiotorrents.org:80/announce.php
 http://retracker.hotplug.ru:2710/announce
 
 http://retracker.sevstar.net:2710/announce
-
-http://retracker.spark-rostov.ru:80/announce
-
-http://retracker.telecom.by:80/announce
 
 http://secure.pow7.com:80/announce
 
@@ -152,11 +140,11 @@ http://torrentzilla.org:80/announce.php
 
 http://tr.cili001.com:8070/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tracker.anirena.com:80/announce
 
 http://tracker.birkenwald.de:6969/announce
-
-http://tracker.bittor.pw:1337/announce
 
 http://tracker.breizh.pm:6969/announce
 
@@ -232,6 +220,8 @@ http://www.zone-torrent.net:80/announce.php
 
 https://1337.abcvg.info:443/announce
 
+https://atrack-asia-e2.120181311.xyz:443/announce
+
 https://carbon-bonsai-621.appspot.com:443/announce
 
 https://mytracker.fly.dev:443/announce
@@ -241,8 +231,6 @@ https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 
 https://opentracker.xyz:443/announce
-
-https://tr.bangumi.moe:9696/announce
 
 https://tr.torland.ga:443/announce
 
@@ -286,8 +274,6 @@ udp://157.90.169.123:80/announce
 
 udp://159.69.208.124:6969/announce
 
-udp://167.179.77.133:1/announce
-
 udp://176.96.139.154:8080/announce
 
 udp://185.181.60.67:80/announce
@@ -324,8 +310,6 @@ udp://37.59.48.81:6969/announce
 
 udp://45.154.253.10:6969/announce
 
-udp://45.76.92.209:6969/announce
-
 udp://46.148.18.252:2710/announce
 
 udp://5.181.49.163:6969/announce
@@ -352,7 +336,7 @@ udp://88.99.142.4:8000/announce
 
 udp://89.36.216.8:6969/announce
 
-udp://9.rarbg.com:2750/announce
+udp://9.rarbg.com:2790/announce
 
 udp://9.rarbg.com:2810/announce
 
@@ -482,8 +466,6 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
@@ -577,6 +559,8 @@ udp://wassermann.online:6969/announce
 udp://www.mvgroup.org:2710/announce
 
 udp://www.torrent.eu.org:451/announce
+
+ws://hub.bugout.link:80/announce
 
 ws://tracker.files.fm:7072/announce
 
