@@ -12,8 +12,6 @@ http://54.39.179.91:6699/announce
 
 http://60-fps.org:80/bt:80/announce.php
 
-http://78.30.254.12:2710/announce
-
 http://93.158.213.92:1337/announce
 
 http://95.107.48.115:80/announce
@@ -46,13 +44,13 @@ http://bt.3dmgame.com:2710/announce
 
 http://bt.ali213.net:8080/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://bt.rghost.net:80/announce
 
 http://bt.unionpeer.org:777/announce
 
 http://bt.zlofenix.org:81/announce
+
+http://bt2.edwardk.info:6969/announce
 
 http://btx.anifilm.tv:80/announce.php
 
@@ -90,8 +88,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://openbittorrent.com:80/announce
-
 http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
@@ -99,8 +95,6 @@ http://opentracker.xyz:80/announce
 http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
-
-http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
@@ -142,15 +136,11 @@ http://tracker.anirena.com:80/announce
 
 http://tracker.birkenwald.de:6969/announce
 
-http://tracker.bittor.pw:1337/announce
-
 http://tracker.breizh.pm:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.fdn.fr:6969/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -198,7 +188,7 @@ http://tracker.trackerfix.com:80/announce
 
 http://tracker.xdvdz.com:2710/announce
 
-http://tracker.yowe.net:80/announce
+http://tracker.yoshi210.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
@@ -219,8 +209,6 @@ http://www.shnflac.net:80/announce.php
 http://www.thetradersden.org/forums/tracker:80/announce.php
 
 http://www.tribalmixes.com:80/announce.php
-
-http://www.tvnihon.com:6969/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -246,15 +234,11 @@ https://torrents.linuxmint.com:443/announce.php
 
 https://tr.torland.ga:443/announce
 
-https://tracker.bt-hash.com:443/announce
-
 https://tracker.coalition.space:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.iriseden.eu:443/announce
-
-https://tracker.iriseden.fr:443/announce
 
 https://tracker.lelux.fi:443/announce
 
@@ -344,7 +328,7 @@ udp://89.36.216.8:6969/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://9.rarbg.com:2890/announce
+udp://9.rarbg.com:2910/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -434,6 +418,8 @@ udp://pow7.com:80/announce
 
 udp://public.publictracker.xyz:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
@@ -466,8 +452,6 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
@@ -489,8 +473,6 @@ udp://tracker.edkj.club:6969/announce
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flashtorrents.org:6969/announce
-
-udp://tracker.grepler.com:6969/announce
 
 udp://tracker.halfchub.club:6969/announce
 
