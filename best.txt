@@ -12,8 +12,6 @@ http://milanesitracker.tekcities.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://openbittorrent.com:80/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -54,6 +52,8 @@ https://opentracker.xyz:443/announce
 
 https://tr.torland.ga:443/announce
 
+https://tracker.lilithraws.cf:443/announce
+
 https://tracker.nitrix.me:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -64,7 +64,7 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://9.rarbg.com:2890/announce
+udp://9.rarbg.com:2920/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -73,8 +73,6 @@ udp://9.rarbg.to:2710/announce
 udp://abufinzio.monocul.us:6969/announce
 
 udp://app.icon256.com:8000/announce
-
-udp://bt.yui.cat:55268/announce
 
 udp://btt.service.gongt.me:43079/announce
 
@@ -120,8 +118,6 @@ udp://thetracker.org:80/announce
 
 udp://tracker.0x.tf:6969/announce
 
-udp://tracker.army:6969/announce
-
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -130,9 +126,7 @@ udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
-udp://tracker.filemail.com:6969/announce
+udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.moeking.eu.org:6969/announce
 
