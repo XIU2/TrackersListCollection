@@ -6,6 +6,8 @@ http://185.148.3.231:80/announce
 
 http://185.185.40.129:6969/announce
 
+http://185.230.4.150:1337/announce
+
 http://51.222.84.64:1337/announce
 
 http://51.79.71.167:80/announce
@@ -13,8 +15,6 @@ http://51.79.71.167:80/announce
 http://51.81.46.170:6969/announce
 
 http://60-fps.org:80/bt:80/announce.php
-
-http://78.30.254.12:2710/announce
 
 http://82.65.37.128:6969/announce
 
@@ -86,21 +86,19 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
 
-http://p4p.arenabg.com:1337/announce
+http://pow7.com:80/announce
+
+http://proaudiotorrents.org:80/announce.php
 
 http://retracker.hotplug.ru:2710/announce
 
-http://retracker.sevstar.net:2710/announce
-
-http://retracker.spark-rostov.ru:80/announce
-
 http://retracker.telecom.by:80/announce
+
+http://secure.pow7.com:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -188,6 +186,8 @@ http://tracker.torrentbytes.net:80/announce.php
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker.uw0.xyz:6969/announce
+
 http://tracker.xdvdz.com:2710/announce
 
 http://tracker.yoshi210.com:6969/announce
@@ -203,8 +203,6 @@ http://tracker3.dler.org:2710/announce
 http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.legittorrents.info:80/announce.php
 
 http://www.shnflac.net:80/announce.php
 
@@ -330,9 +328,9 @@ udp://89.234.156.205:451/announce
 
 udp://89.36.216.8:6969/announce
 
-udp://9.rarbg.com:2750/announce
-
 udp://9.rarbg.com:2810/announce
+
+udp://9.rarbg.com:2930/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -416,8 +414,6 @@ udp://peerfect.org:6969/announce
 
 udp://pow7.com:80/announce
 
-udp://public.publictracker.xyz:6969/announce
-
 udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -429,8 +425,6 @@ udp://retracker.netbynet.ru:2710/announce
 udp://retracker.nts.su:2710/announce
 
 udp://retracker.sevstar.net:2710/announce
-
-udp://sugoi.pomf.se:80/announce
 
 udp://t1.leech.ie:1337/announce
 
@@ -451,6 +445,8 @@ udp://tracker.army:6969/announce
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
 
@@ -519,8 +515,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
-
-udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
