@@ -62,7 +62,7 @@ https://tracker.tamersunion.org:443/announce
 
 https://trakx.herokuapp.com:443/announce
 
-udp://9.rarbg.com:2720/announce
+udp://9.rarbg.com:2730/announce
 
 udp://9.rarbg.com:2810/announce
 
@@ -132,9 +132,9 @@ udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
