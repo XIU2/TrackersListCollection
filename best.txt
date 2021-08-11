@@ -32,8 +32,6 @@ http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.etree.org:6969/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.ipv6tracker.org:80/announce
@@ -43,6 +41,8 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -56,17 +56,15 @@ https://opentracker.xyz:443/announce
 
 https://tr.torland.ga:443/announce
 
-https://tracker.lilithraws.cf:443/announce
-
 https://tracker.nitrix.me:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
 https://trakx.herokuapp.com:443/announce
 
-udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2720/announce
 
-udp://9.rarbg.com:2860/announce
+udp://9.rarbg.com:2810/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -87,6 +85,8 @@ udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 
 udp://fe.dealclub.de:6969/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
@@ -109,8 +109,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://retracker.lanta-net.ru:2710/announce
 
 udp://retracker.netbynet.ru:2710/announce
-
-udp://retracker.sevstar.net:2710/announce
 
 udp://thetracker.org:80/announce
 
