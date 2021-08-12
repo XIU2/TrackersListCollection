@@ -18,6 +18,8 @@ http://p4p.arenabg.com:1337/announce
 
 http://share.camoe.cn:8080/announce
 
+http://siambit.com:80/announce.php
+
 http://t.nyaatracker.com:80/announce
 
 http://torrent-team.net:80/announce.php
@@ -39,6 +41,8 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -133,6 +137,8 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
