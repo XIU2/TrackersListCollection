@@ -42,8 +42,6 @@ http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://vps02.net.orel.ru:80/announce
 
 http://www.shnflac.net:80/announce.php
@@ -62,9 +60,9 @@ https://tracker.tamersunion.org:443/announce
 
 https://trakx.herokuapp.com:443/announce
 
-udp://9.rarbg.com:2720/announce
-
 udp://9.rarbg.com:2810/announce
+
+udp://9.rarbg.com:2940/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -137,8 +135,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.uw0.xyz:6969/announce
 

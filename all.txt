@@ -1,5 +1,7 @@
 http://1337.abcvg.info:80/announce
 
+http://156.234.201.18:80/announce
+
 http://159.69.65.157:6969/announce
 
 http://185.148.3.231:80/announce
@@ -7,8 +9,6 @@ http://185.148.3.231:80/announce
 http://185.185.40.42:6969/announce
 
 http://212.6.3.67:80/announce
-
-http://37.235.174.46:2710/announce
 
 http://51.222.84.64:1337/announce
 
@@ -43,8 +43,6 @@ http://bt-club.ws:80/announce
 http://bt.3dmgame.com:2710/announce
 
 http://bt.ali213.net:8080/announce
-
-http://bt.okmp3.ru:2710/announce
 
 http://bt.rghost.net:80/announce
 
@@ -85,8 +83,6 @@ http://open.acgnxtracker.com:80/announce
 http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
-
-http://p4p.arenabg.com:1337/announce
 
 http://pow7.com:80/announce
 
@@ -156,9 +152,13 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.gigatorrents.ws:2710/announce
 
+http://tracker.grepler.com:6969/announce
+
 http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+http://tracker.lelux.fi:80/announce
 
 http://tracker.loadbt.com:6969/announce
 
@@ -187,10 +187,6 @@ http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.xdvdz.com:2710/announce
 
 http://tracker.yoshi210.com:6969/announce
-
-http://tracker.zerobytes.xyz:1337/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -238,7 +234,11 @@ https://tracker.iriseden.eu:443/announce
 
 https://tracker.iriseden.fr:443/announce
 
+https://tracker.lelux.fi:443/announce
+
 https://tracker.lilithraws.cf:443/announce
+
+https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
@@ -304,9 +304,9 @@ udp://67.224.119.27:6969/announce
 
 udp://78.30.254.12:2710/announce
 
-udp://9.rarbg.com:2750/announce
-
 udp://9.rarbg.com:2810/announce
+
+udp://9.rarbg.com:2900/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -460,6 +460,8 @@ udp://tracker.leech.ie:1337/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
+udp://tracker.lelux.fi:6969/announce
+
 udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.moeking.eu.org:6969/announce
@@ -475,6 +477,8 @@ udp://tracker.nrx.me:6969/announce
 udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.open-internet.nl:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.openbittorrent.com:80/announce
 
@@ -505,6 +509,8 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker2.christianbro.pw:6969/announce
 
 udp://tracker2.dler.com:80/announce
 
