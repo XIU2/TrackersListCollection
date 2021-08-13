@@ -1,7 +1,3 @@
-http://1337.abcvg.info:80/announce
-
-http://156.234.201.18:80/announce
-
 http://157.90.169.123:80/announce
 
 http://159.69.65.157:6969/announce
@@ -20,12 +16,6 @@ http://95.107.48.115:80/announce
 
 http://95.217.161.135:80/announce
 
-http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
-
-http://[2001:470:1:189:0:1:2:3]:6969/announce
-
-http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
-
 http://all4nothin.net:80/announce.php
 
 http://alltorrents.net:80/bt:80/announce.php
@@ -40,7 +30,7 @@ http://bt-club.ws:80/announce
 
 http://bt.3dmgame.com:2710/announce
 
-http://bt.ali213.net:8000/announce
+http://bt.edwardk.info:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -92,13 +82,7 @@ http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
 
-http://pow7.com:80/announce
-
-http://retracker.hotplug.ru:2710/announce
-
 http://retracker.sevstar.net:2710/announce
-
-http://retracker.spark-rostov.ru:80/announce
 
 http://retracker.telecom.by:80/announce
 
@@ -134,13 +118,7 @@ http://torrentzilla.org:80/announce.php
 
 http://tr.cili001.com:8070/announce
 
-http://tr.kxmp.cf:80/announce
-
-http://tracker.ali213.net:8080/announce
-
 http://tracker.anirena.com:80/announce
-
-http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bittor.pw:1337/announce
 
@@ -166,6 +144,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
 
+http://tracker.loadbt.com:6969/announce
+
 http://tracker.minglong.org:8080/announce
 
 http://tracker.noobsubs.net:80/announce
@@ -188,8 +168,6 @@ http://tracker.xdvdz.com:2710/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker2.dler.org:80/announce
 
 http://tracker3.dler.org:2710/announce
@@ -198,13 +176,13 @@ http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
+http://www.biztorrents.com:80/announce.php
+
 http://www.mvgroup.org:2710/announce
 
 http://www.shnflac.net:80/announce.php
 
 http://www.thetradersden.org/forums/tracker:80/announce.php
-
-http://www.tvnihon.com:6969/announce
 
 http://www.xwt-classics.net:80/announce.php
 
@@ -218,15 +196,11 @@ https://mytracker.fly.dev:443/announce
 
 https://open.kickasstracker.com:443/announce
 
-https://opentracker.acgnx.se:443/announce
-
 https://opentracker.xyz:443/announce
 
 https://torrent.ubuntu.com:443/announce
 
 https://tr.torland.ga:443/announce
-
-https://tracker.bt-hash.com:443/announce
 
 https://tracker.coalition.space:443/announce
 
