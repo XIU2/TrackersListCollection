@@ -30,8 +30,6 @@ http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.etree.org:6969/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.ipv6tracker.org:80/announce
@@ -60,9 +58,9 @@ https://tracker.tamersunion.org:443/announce
 
 https://trakx.herokuapp.com:443/announce
 
-udp://9.rarbg.com:2760/announce
-
 udp://9.rarbg.com:2810/announce
+
+udp://9.rarbg.com:2860/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -113,8 +111,6 @@ udp://tracker.0x.tf:6969/announce
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
 
