@@ -1,14 +1,10 @@
 http://1337.abcvg.info:80/announce
 
-http://156.234.201.18:80/announce
-
 http://157.90.169.123:80/announce
 
 http://184.105.151.166:6969/announce
 
 http://185.148.3.231:80/announce
-
-http://198.251.84.144:80/announce
 
 http://213.183.51.12:6969/announce
 
@@ -16,13 +12,7 @@ http://51.222.84.64:1337/announce
 
 http://51.81.200.170:6699/announce
 
-http://51.81.46.170:6969/announce
-
 http://60-fps.org:80/bt:80/announce.php
-
-http://65.21.48.148:6969/announce
-
-http://78.30.254.12:2710/announce
 
 http://93.158.213.92:1337/announce
 
@@ -83,6 +73,8 @@ http://masters-tb.com:80/announce.php
 http://mediaclub.tv:80/announce.php
 
 http://milanesitracker.tekcities.com:80/announce
+
+http://mixfiend.com:6969/announce
 
 http://mvgroup.org:2710/announce
 
@@ -152,8 +144,6 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.files.fm:6969/announce
 
-http://tracker.frozen-layer.net:6969/announce.php
-
 http://tracker.gbitt.info:80/announce
 
 http://tracker.gigatorrents.ws:2710/announce
@@ -185,6 +175,8 @@ http://tracker.trackerfix.com:80/announce
 http://tracker.tvunderground.org.ru:3218/announce
 
 http://tracker.xdvdz.com:2710/announce
+
+http://tracker.yoshi210.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
@@ -292,8 +284,6 @@ udp://208.83.20.20:6969/announce
 
 udp://212.1.226.176:2710/announce
 
-udp://212.83.181.109:6969/announce
-
 udp://213.108.129.160:6969/announce
 
 udp://37.235.174.46:2710/announce
@@ -305,8 +295,6 @@ udp://45.154.253.8:6969/announce
 udp://46.148.18.252:2710/announce
 
 udp://51.15.2.221:6969/announce
-
-udp://51.15.41.46:6969/announce
 
 udp://51.15.55.204:1337/announce
 
@@ -324,7 +312,7 @@ udp://88.99.142.4:8000/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://9.rarbg.com:2930/announce
+udp://9.rarbg.com:2830/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -364,8 +352,6 @@ udp://bt.100.pet:2711/announce
 
 udp://bt2.54new.com:8080/announce
 
-udp://btt.service.gongt.me:43079/announce
-
 udp://bubu.mapfactor.com:6969/announce
 
 udp://code2chicken.nl:6969/announce
@@ -402,8 +388,6 @@ udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
-udp://opentracker.i2p.rocks:6969/announce
-
 udp://opentrackr.org:1337/announce
 
 udp://p4p.arenabg.com:1337/announce
@@ -413,6 +397,8 @@ udp://peerfect.org:6969/announce
 udp://pow7.com:80/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -447,8 +433,6 @@ udp://tracker.beeimg.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
 
@@ -498,9 +482,11 @@ udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.open-internet.nl:6969/announce
 
-udp://tracker.openbittorrent.com:6969/announce
+udp://tracker.openbittorrent.com:80/announce
 
 udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.pomf.se:80/announce
 
 udp://tracker.sktorrent.net:6969/announce
 
