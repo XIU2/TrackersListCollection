@@ -6,8 +6,6 @@ http://184.105.151.166:6969/announce
 
 http://185.148.3.231:80/announce
 
-http://198.251.84.144:80/announce
-
 http://213.183.51.12:6969/announce
 
 http://51.81.46.170:6969/announce
@@ -80,17 +78,19 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://openbittorrent.com:80/announce
+http://open.acgtracker.com:1096/announce
 
 http://opentracker.xyz:80/announce
 
+http://pow7.com:80/announce
+
 http://retracker.hotplug.ru:2710/announce
+
+http://retracker.joxnet.ru:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
-
-http://retracker.telecom.by:80/announce
 
 http://secure.pow7.com:80/announce
 
@@ -118,11 +118,15 @@ http://torrent.rus.ec:2710/announce
 
 http://torrentsmd.com:8080/announce
 
+http://torrenttracker.nwc.acsalaska.net:6969/announce
+
 http://torrentzilla.org:80/announce
 
 http://torrentzilla.org:80/announce.php
 
 http://tr.cili001.com:8070/announce
+
+http://tr.kxmp.cf:80/announce
 
 http://tracker.ali213.net:8080/announce
 
@@ -130,13 +134,13 @@ http://tracker.anirena.com:80/announce
 
 http://tracker.birkenwald.de:6969/announce
 
-http://tracker.bittor.pw:1337/announce
-
 http://tracker.breizh.pm:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.org:6969/announce
+
+http://tracker.etree.org:6969/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -154,7 +158,11 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.loadbt.com:6969/announce
 
+http://tracker.moeking.me:6969/announce
+
 http://tracker.noobsubs.net:80/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -169,6 +177,10 @@ http://tracker.tfile.me:80/announce
 http://tracker.torrentbytes.net:80/announce.php
 
 http://tracker.trackerfix.com:80/announce
+
+http://tracker.tvunderground.org.ru:3218/announce
+
+http://tracker.yoshi210.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
@@ -206,11 +218,15 @@ https://torrent.ubuntu.com:443/announce
 
 https://torrents.linuxmint.com:443/announce.php
 
+https://tr.ready4.icu:443/announce
+
 https://tr.torland.ga:443/announce
 
 https://tracker.bt-hash.com:443/announce
 
 https://tracker.coalition.space:443/announce
+
+https://tracker.foreverpirates.co:443/announce
 
 https://tracker.iriseden.eu:443/announce
 
@@ -229,3 +245,5 @@ https://tracker.nitrix.me:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://trakx.herokuapp.com:443/announce
+
+https://w.wwwww.wtf:443/announce
