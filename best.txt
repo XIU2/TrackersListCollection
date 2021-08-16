@@ -4,6 +4,8 @@ http://carbon-bonsai-621.appspot.com:80/announce
 
 http://explodie.org:6969/announce
 
+http://googer.cc:1337/announce
+
 http://h4.trakx.nibba.trade:80/announce
 
 http://kinorun.com:80/announce.php
@@ -15,8 +17,6 @@ http://nyaa.tracker.wf:7777/announce
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
-
-http://siambit.com:80/announce.php
 
 http://t.nyaatracker.com:80/announce
 
@@ -107,8 +107,6 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
-
-udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
