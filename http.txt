@@ -22,8 +22,6 @@ http://51.81.200.170:6699/announce
 
 http://60-fps.org:80/bt:80/announce.php
 
-http://65.21.48.148:6969/announce
-
 http://78.30.254.12:2710/announce
 
 http://82.65.37.128:6969/announce
@@ -82,6 +80,8 @@ http://data-bg.net:80/announce.php
 
 http://explodie.org:6969/announce
 
+http://fosstorrents.com:6969/announce
+
 http://fxtt.ru:80/announce
 
 http://googer.cc:1337/announce
@@ -112,8 +112,6 @@ http://opentracker.xyz:80/announce
 
 http://pow7.com:80/announce
 
-http://proaudiotorrents.org:80/announce.php
-
 http://retracker.hotplug.ru:2710/announce
 
 http://retracker.joxnet.ru:80/announce
@@ -137,8 +135,6 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://t1.pow7.com:80/announce
-
-http://t2.pow7.com:80/announce
 
 http://torrent-team.net:80/announce.php
 
@@ -180,15 +176,13 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.files.fm:6969/announce
+http://tracker.etree.org:6969/announce
 
-http://tracker.frozen-layer.com:6969/announce
+http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
 http://tracker.gigatorrents.ws:2710/announce
-
-http://tracker.grepler.com:6969/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
@@ -204,15 +198,11 @@ http://tracker.moeking.me:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.pow7.com:80/announce
 
 http://tracker.pussytorrents.org:3000/announce
-
-http://tracker.tambovnet.org:80/announce.php
 
 http://tracker.tasvideos.org:6969/announce
 
@@ -224,11 +214,9 @@ http://tracker.trancetraffic.com:80/announce.php
 
 http://tracker.tvunderground.org.ru:3218/announce
 
-http://tracker.uw0.xyz:6969/announce
-
 http://tracker.xdvdz.com:2710/announce
 
-http://tracker.zerobytes.xyz:1337/announce
+http://tracker.yoshi210.com:6969/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
