@@ -44,6 +44,8 @@ http://tracker.tfile.me:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://vps02.net.orel.ru:80/announce
 
 http://www.shnflac.net:80/announce.php
@@ -55,6 +57,8 @@ https://carbon-bonsai-621.appspot.com:443/announce
 https://opentracker.xyz:443/announce
 
 https://tr.torland.ga:443/announce
+
+https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
@@ -80,11 +84,7 @@ udp://engplus.ru:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://explodie.org:6969/announce
-
 udp://fe.dealclub.de:6969/announce
-
-udp://ipv4.tracker.harry.lu:80/announce
 
 udp://mail.realliferpg.de:6969/announce
 
@@ -104,8 +104,6 @@ udp://retracker.lanta-net.ru:2710/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
-udp://retracker.sevstar.net:2710/announce
-
 udp://thetracker.org:80/announce
 
 udp://tracker.0x.tf:6969/announce
@@ -122,9 +120,9 @@ udp://tracker.moeking.me:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
