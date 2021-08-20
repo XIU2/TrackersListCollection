@@ -77,10 +77,13 @@ _以下列表每 8 小时更新一次！_
 
 - **精选列表：**  
  _**[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)**_  
+ _**[https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/best_aria2.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/best_aria2.txt)**_  
 - **完整列表：**  
  _**[https://trackerslist.com/all_aria2.txt](https://trackerslist.com/all_aria2.txt)**_  
+ _**[https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/all_aria2.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/all_aria2.txt)**_  
 - **HTTP(S)列表：**  
  _**[https://trackerslist.com/http_aria2.txt](https://trackerslist.com/http_aria2.txt)**_  
+  _**[https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/http_aria2.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/http_aria2.txt)**_  
 
 </details>
 

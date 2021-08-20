@@ -66,10 +66,13 @@ _These lists are updated every 8 hours !_
 
 - **BEST Tracker list:**  
  _**[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)**_  
+ _**[https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/best_aria2.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/best_aria2.txt)**_  
 - **ALL Tracker list:**  
  _**[https://trackerslist.com/all_aria2.txt](https://trackerslist.com/all_aria2.txt)**_  
+ _**[https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/all_aria2.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/all_aria2.txt)**_  
 - **HTTP(S) Tracker list:**  
  _**[https://trackerslist.com/http_aria2.txt](https://trackerslist.com/http_aria2.txt)**_  
+  _**[https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/http_aria2.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/http_aria2.txt)**_  
 
 </details>
 
