@@ -10,8 +10,6 @@ http://185.148.3.231:80/announce
 
 http://212.6.3.67:80/announce
 
-http://45.154.253.9:80/announce
-
 http://51.15.55.204:1337/announce
 
 http://51.222.84.64:1337/announce
@@ -20,7 +18,7 @@ http://51.81.200.170:6699/announce
 
 http://60-fps.org:80/bt:80/announce.php
 
-http://78.30.254.12:2710/announce
+http://91.217.91.21:3218/announce
 
 http://95.107.48.115:80/announce
 
@@ -56,9 +54,13 @@ http://bttracker.debian.org:6969/announce
 
 http://btx.anifilm.tv:80/announce.php
 
+http://concen.org:6969/announce
+
 http://data-bg.net:80/announce.php
 
 http://explodie.org:6969/announce
+
+http://fosstorrents.com:6969/announce
 
 http://fxtt.ru:80/announce
 
@@ -86,19 +88,15 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
-http://retracker.joxnet.ru:80/announce
+http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
 http://retracker.telecom.by:80/announce
-
-http://secure.pow7.com:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -109,8 +107,6 @@ http://t.acg.rip:6699/announce
 http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
-
-http://t1.pow7.com:80/announce
 
 http://t2.pow7.com:80/announce
 
@@ -156,9 +152,9 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.files.fm:6969/announce
 
-http://tracker.gbitt.info:80/announce
+http://tracker.frozen-layer.net:6969/announce
 
-http://tracker.gcvchp.com:2710/announce
+http://tracker.gbitt.info:80/announce
 
 http://tracker.gigatorrents.ws:2710/announce
 
@@ -198,6 +194,8 @@ http://tracker.uw0.xyz:6969/announce
 
 http://tracker.xn--vzyr4p.top:80/announce
 
+http://tracker.yoshi210.com:6969/announce
+
 http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker2.dler.org:80/announce
@@ -207,10 +205,6 @@ http://tracker3.dler.org:2710/announce
 http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.biztorrents.com:80/announce.php
-
-http://www.legittorrents.info:80/announce.php
 
 http://www.thetradersden.org/forums/tracker:80/announce.php
 
@@ -350,7 +344,7 @@ udp://89.36.216.8:6969/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://9.rarbg.com:2820/announce
+udp://9.rarbg.com:2830/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -490,8 +484,6 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flashtorrents.org:6969/announce
 
-udp://tracker.grepler.com:6969/announce
-
 udp://tracker.halfchub.club:6969/announce
 
 udp://tracker.kuroy.me:5944/announce
@@ -515,8 +507,6 @@ udp://tracker.nrx.me:6969/announce
 udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
-
-udp://tracker.openbittorrent.com:80/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
