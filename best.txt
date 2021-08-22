@@ -78,6 +78,8 @@ udp://abufinzio.monocul.us:6969/announce
 
 udp://app.icon256.com:8000/announce
 
+udp://bms-hosxp.com:6969/announce
+
 udp://bubu.mapfactor.com:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
@@ -124,8 +126,6 @@ udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -141,8 +141,6 @@ udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker2.dler.com:80/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://u.wwwww.wtf:1/announce
 
 udp://vibe.community:6969/announce
 
