@@ -4,8 +4,6 @@ http://bt.rghost.net:80/announce
 
 http://data-bg.net:80/announce.php
 
-http://fosstorrents.com:6969/announce
-
 http://googer.cc:1337/announce
 
 http://h4.trakx.nibba.trade:80/announce
@@ -149,7 +147,5 @@ udp://tracker4.itzmx.com:2710/announce
 udp://vibe.community:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
-
-udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
