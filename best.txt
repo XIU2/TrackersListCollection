@@ -76,8 +76,6 @@ udp://9.rarbg.to:2710/announce
 
 udp://abufinzio.monocul.us:6969/announce
 
-udp://app.icon256.com:8000/announce
-
 udp://bubu.mapfactor.com:6969/announce
 
 udp://code2chicken.nl:6969/announce
@@ -116,11 +114,7 @@ udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.moxing.party:6969/announce
-
 udp://tracker.ololosh.space:6969/announce
-
-udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -143,7 +137,5 @@ udp://tracker4.itzmx.com:2710/announce
 udp://vibe.community:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
-
-udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce

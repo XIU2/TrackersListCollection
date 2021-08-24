@@ -24,6 +24,8 @@ http://51.81.200.170:6699/announce
 
 http://60-fps.org:80/bt:80/announce.php
 
+http://78.30.254.12:2710/announce
+
 http://93.158.213.92:1337/announce
 
 http://95.107.48.115:80/announce
@@ -44,8 +46,6 @@ http://baibako.tv:80/announce
 
 http://bluebird-hd.org:80/announce.php
 
-http://bt.3dmgame.com:2710/announce
-
 http://bt.ali213.net:8080/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -61,8 +61,6 @@ http://btx.anifilm.tv:80/announce.php
 http://data-bg.net:80/announce.php
 
 http://explodie.org:6969/announce
-
-http://fosstorrents.com:6969/announce
 
 http://fxtt.ru:80/announce
 
@@ -86,13 +84,17 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://openbittorrent.com:80/announce
+
+http://p4p.arenabg.com:1337/announce
+
 http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
-http://retracker.telecom.by:80/announce
+http://secure.pow7.com:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -148,8 +150,6 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.files.fm:6969/announce
 
-http://tracker.frozen-layer.com:6969/announce
-
 http://tracker.frozen-layer.net:6969/announce.php
 
 http://tracker.gbitt.info:80/announce
@@ -161,8 +161,6 @@ http://tracker.grepler.com:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
-
-http://tracker.loadbt.com:6969/announce
 
 http://tracker.minglong.org:8080/announce
 
@@ -194,6 +192,8 @@ http://tracker.trackerfix.com:80/announce
 
 http://tracker.trancetraffic.com:80/announce.php
 
+http://tracker.uw0.xyz:6969/announce
+
 http://tracker.xdvdz.com:2710/announce
 
 http://tracker.xn--vzyr4p.top:80/announce
@@ -201,6 +201,8 @@ http://tracker.xn--vzyr4p.top:80/announce
 http://tracker.yoshi210.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -223,6 +225,8 @@ http://www.zone-torrent.net:80/announce.php
 http://xtremewrestlingtorrents.net:80/announce.php
 
 https://1337.abcvg.info:443/announce
+
+https://bittorrent.gongt.net:443/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
 
