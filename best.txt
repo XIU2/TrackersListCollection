@@ -12,7 +12,7 @@ http://masters-tb.com:80/announce.php
 
 http://nyaa.tracker.wf:7777/announce
 
-http://openbittorrent.com:80/announce
+http://p4p.arenabg.com:1337/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -31,6 +31,8 @@ http://tracker.corpscorp.online:80/announce
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.tfile.me:80/announce
 
@@ -110,17 +112,27 @@ udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
+udp://tracker.army:6969/announce
+
 udp://tracker.blacksparrowmedia.net:6969/announce
+
+udp://tracker.dler.org:6969/announce
+
+udp://tracker.haynet.io:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
+udp://tracker.openbittorrent.com:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
@@ -137,5 +149,7 @@ udp://tracker4.itzmx.com:2710/announce
 udp://vibe.community:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
+
+udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
