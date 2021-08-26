@@ -4,8 +4,6 @@ http://bt.rghost.net:80/announce
 
 http://data-bg.net:80/announce.php
 
-http://fosstorrents.com:6969/announce
-
 http://googer.cc:1337/announce
 
 http://h4.trakx.nibba.trade:80/announce
@@ -37,8 +35,6 @@ http://tracker.tfile.me:80/announce
 http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.trackerfix.com:80/announce
-
-http://vps02.net.orel.ru:80/announce
 
 http://www.zone-torrent.net:80/announce.php
 
@@ -139,8 +135,6 @@ udp://tracker2.dler.org:80/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
-
-udp://udp.tracker.coalition.space:1337/announce
 
 udp://vibe.community:6969/announce
 
