@@ -12,6 +12,8 @@ http://masters-tb.com:80/announce.php
 
 http://nyaa.tracker.wf:7777/announce
 
+http://p4p.arenabg.com:1337/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
@@ -35,6 +37,8 @@ http://tracker.tfile.me:80/announce
 http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.trackerfix.com:80/announce
+
+http://vps02.net.orel.ru:80/announce
 
 http://www.zone-torrent.net:80/announce.php
 
@@ -73,6 +77,8 @@ udp://9.rarbg.me:2710/announce
 udp://9.rarbg.to:2710/announce
 
 udp://abufinzio.monocul.us:6969/announce
+
+udp://bms-hosxp.com:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
