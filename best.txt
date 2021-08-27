@@ -32,8 +32,6 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.tfile.me:80/announce
 
 http://tracker.torrentyorg.pl:80/announce
@@ -122,8 +120,6 @@ udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.grepler.com:6969/announce
-
 udp://tracker.haynet.io:6969/announce
 
 udp://tracker.jordan.im:6969/announce
@@ -153,5 +149,7 @@ udp://tracker4.itzmx.com:2710/announce
 udp://vibe.community:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
+
+udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
