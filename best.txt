@@ -12,8 +12,6 @@ http://masters-tb.com:80/announce.php
 
 http://nyaa.tracker.wf:7777/announce
 
-http://openbittorrent.com:80/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
@@ -119,6 +117,8 @@ udp://tracker.altrosky.nl:6969/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.dler.org:6969/announce
+
+udp://tracker.grepler.com:6969/announce
 
 udp://tracker.haynet.io:6969/announce
 
