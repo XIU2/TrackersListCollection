@@ -11,8 +11,8 @@
 
 > 「[English](https://github.com/XIU2/TrackersListCollection/#readme)」([trackerslist.com](https://trackerslist.com) visitors, please switch languages in the upper right corner ↗)  
 
-> _分享我的其他开源项目：**[一个 \[油猴脚本\] 轻松解决「Github」文件下载速度慢的问题！](https://github.com/XIU2/UserScript)**(及十几个油猴脚本_   
-> _[**CloudflareSpeedTest** - 🌩 测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！](https://github.com/XIU2/CloudflareSpeedTest)_
+> _分享我的其他开源项目：[一个 **\[油猴脚本\]** 轻松解决「Github」文件下载速度慢的问题！](https://github.com/XIU2/UserScript)(及十几个油猴脚本 <img src="https://img.shields.io/github/stars/XIU2/UserScript.svg?style=flat-square&label=Star&color=4285dd&logo=github" height="16px" />_   
+> _[**CloudflareSpeedTest** - 🌩 测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！](https://github.com/XIU2/CloudflareSpeedTest) <img src="https://img.shields.io/github/stars/XIU2/CloudflareSpeedTest.svg?style=flat-square&label=Star&color=4285dd&logo=github" height="16px" />_   
 
 ****
 
