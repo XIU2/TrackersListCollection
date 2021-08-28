@@ -37,7 +37,7 @@ _下图是使用我整理的 Tracker 列表下载BT的速度（完整列表）�
 ![BitComet](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-01.png)
 ![qBittorrentEE](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-02.png)
 
-_有兴趣的可以下载 **[ubuntu-20.04.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.04.2.0-desktop-amd64.iso.torrent)** 试试，该资源全球数千人做种上传，因此大部分人下载速度很快！_
+_有兴趣的可以下载 **[ubuntu-20.04.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.04.3-desktop-amd64.iso.torrent)** 试试，该资源全球数千人做种上传，因此大部分人下载速度很快！_
 
 ****
 
