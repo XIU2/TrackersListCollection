@@ -36,7 +36,7 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
-http://tracker.openbittorrent.com:80/announce
+http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.shittyurl.org:80/announce
 
@@ -93,6 +93,8 @@ udp://bubu.mapfactor.com:6969/announce
 udp://code2chicken.nl:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
+
+udp://edu.uifr.ru:6969/announce
 
 udp://engplus.ru:6969/announce
 
