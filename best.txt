@@ -1,4 +1,8 @@
-http://1337.abcvg.info:80/announce
+http://60-fps.org/bt:80/announce.php
+
+http://60-fps.org:80/bt:80/announce.php
+
+http://btx.anifilm.tv:80/announce.php
 
 http://data-bg.net:80/announce.php
 
@@ -6,35 +10,31 @@ http://googer.cc:1337/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
-http://kinorun.com:80/announce.php
+http://masters-tb.com:80/announce.php
 
 http://mediaclub.tv:80/announce
-
-http://mediaclub.tv:80/announce.php
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://p4p.arenabg.com:1337/announce
+http://openbittorrent.com:80/announce
 
 http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://torrentsmd.com:8080/announce
+http://torrentzilla.org:80/announce
 
 http://tr.cili001.com:8070/announce
 
-http://tracker.bt4g.com:2095/announce
+http://tracker.anirena.com:80/announce
 
 http://tracker.corpscorp.online:80/announce
 
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
-
-http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -54,21 +54,19 @@ https://1337.abcvg.info:443/announce
 
 https://mytracker.fly.dev:443/announce
 
-https://torrents.linuxmint.com:443/announce.php
+https://opentracker.xyz:443/announce
 
-https://tp.m-team.cc:443/announce.php
+https://torrents.linuxmint.com:443/announce.php
 
 https://tr.torland.ga:443/announce
 
 https://tracker.coalition.space:443/announce
 
-https://tracker.gbitt.info:443/announce
+https://tracker.imgoingto.icu:443/announce
 
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
-
-https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
