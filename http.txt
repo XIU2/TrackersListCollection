@@ -56,8 +56,6 @@ http://bt.unionpeer.org:777/announce
 
 http://bt.zlofenix.org:81/announce
 
-http://bt2.edwardk.info:6969/announce
-
 http://bttracker.debian.org:6969/announce
 
 http://btx.anifilm.tv:80/announce.php
@@ -92,11 +90,13 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgtracker.com:1096/announce
 
-http://p4p.arenabg.com:1337/announce
-
 http://pow7.com:80/announce
 
+http://proaudiotorrents.org:80/announce.php
+
 http://retracker.hotplug.ru:2710/announce
+
+http://retracker.joxnet.ru:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
@@ -117,8 +117,6 @@ http://t.acg.rip:6699/announce
 http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
-
-http://t1.pow7.com:80/announce
 
 http://t2.pow7.com:80/announce
 
@@ -164,7 +162,7 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.files.fm:6969/announce
 
-http://tracker.frozen-layer.com:6969/announce
+http://tracker.frozen-layer.net:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -182,8 +180,6 @@ http://tracker.moeking.me:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.pow7.com:80/announce
@@ -198,21 +194,21 @@ http://tracker.tasvideos.org:6969/announce
 
 http://tracker.tfile.me:80/announce
 
+http://tracker.tiny-vps.com:6969/announce
+
 http://tracker.torrentbytes.net:80/announce.php
 
 http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker.tvunderground.org.ru:3218/announce
-
-http://tracker.vraphim.com:6969/announce
-
 http://tracker.xdvdz.com:2710/announce
 
 http://tracker.xn--vzyr4p.top:80/announce
 
-http://tracker.zerobytes.xyz:1337/announce
+http://tracker.yoshi210.com:6969/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
