@@ -12,6 +12,8 @@ http://185.185.40.250:6969/announce
 
 http://212.6.3.67:80/announce
 
+http://45.154.253.9:80/announce
+
 http://51.15.55.204:1337/announce
 
 http://51.222.84.64:1337/announce
@@ -27,6 +29,8 @@ http://60-fps.org:80/bt:80/announce.php
 http://78.30.254.12:2710/announce
 
 http://82.65.37.128:6969/announce
+
+http://91.217.91.21:3218/announce
 
 http://93.158.213.92:1337/announce
 
@@ -68,6 +72,8 @@ http://bt.zlofenix.org:81/announce
 
 http://btx.anifilm.tv:80/announce.php
 
+http://concen.org:6969/announce
+
 http://data-bg.net:80/announce.php
 
 http://explodie.org:6969/announce
@@ -84,6 +90,8 @@ http://masters-tb.com:80/announce.php
 
 http://mediaclub.tv:80/announce
 
+http://mixfiend.com:6969/announce
+
 http://mvgforumtracker.mvgroup.org:80/tracker.php:80/announce
 
 http://mvgroup.org:2710/announce
@@ -92,9 +100,9 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://p4p.arenabg.com:1337/announce
-
 http://pow7.com:80/announce
+
+http://proaudiotorrents.org:80/announce.php
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -142,8 +150,6 @@ http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://torrentzilla.org:80/announce
 
-http://tr.bangumi.moe:6969/announce
-
 http://tr.cili001.com:8070/announce
 
 http://tr.kxmp.cf:80/announce
@@ -165,8 +171,6 @@ http://tracker.corpscorp.online:80/announce
 http://tracker.dler.org:6969/announce
 
 http://tracker.files.fm:6969/announce
-
-http://tracker.frozen-layer.com:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -200,13 +204,13 @@ http://tracker.tasvideos.org:6969/announce
 
 http://tracker.tfile.me:80/announce
 
-http://tracker.tiny-vps.com:6969/announce
-
 http://tracker.torrentbytes.net:80/announce.php
 
 http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.trackerfix.com:80/announce
+
+http://tracker.tvunderground.org.ru:3218/announce
 
 http://tracker.xdvdz.com:2710/announce
 
@@ -226,11 +230,7 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.mvgroup.org:80/tracker.php:80/announce
 
-http://www.thetradersden.org/forums/tracker:80/announce.php
-
 http://www.tribalmixes.com:80/announce.php
-
-http://www.tvnihon.com:6969/announce
 
 http://www.worldboxingvideoarchive.com:80/announce.php
 
@@ -288,8 +288,6 @@ udp://109.248.43.36:6969/announce
 
 udp://144.76.35.202:6969/announce
 
-udp://144.76.82.110:6969/announce
-
 udp://148.251.53.72:6969/announce
 
 udp://149.28.47.87:1738/announce
@@ -309,8 +307,6 @@ udp://185.183.158.105:6969/announce
 udp://185.21.216.185:6969/announce
 
 udp://185.8.156.2:6969/announce
-
-udp://185.92.223.36:6969/announce
 
 udp://195.201.94.195:6969/announce
 
@@ -364,7 +360,7 @@ udp://89.36.216.8:6969/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://9.rarbg.com:2860/announce
+udp://9.rarbg.com:2850/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -566,8 +562,6 @@ udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.xn--vzyr4p.top:80/announce
 
-udp://tracker.zemoj.com:6969/announce
-
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker0.ufibox.com:6969/announce
@@ -581,8 +575,6 @@ udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://tsundere.pw:6969/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
