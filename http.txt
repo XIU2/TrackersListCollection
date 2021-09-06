@@ -6,6 +6,8 @@ http://184.105.151.166:6969/announce
 
 http://185.148.3.231:80/announce
 
+http://185.230.4.150:1337/announce
+
 http://212.6.3.67:80/announce
 
 http://213.183.51.12:6969/announce
@@ -49,8 +51,6 @@ http://baibako.tv:80/announce
 http://big-boss-tracker.net:80/announce.php
 
 http://bithq.org:80/announce.php
-
-http://bluebird-hd.org:80/announce.php
 
 http://bt-club.ws:80/announce
 
@@ -98,9 +98,9 @@ http://p4p.arenabg.com:1337/announce
 
 http://pow7.com:80/announce
 
-http://proaudiotorrents.org:80/announce.php
-
 http://retracker.hotplug.ru:2710/announce
+
+http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
@@ -170,15 +170,11 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.files.fm:6969/announce
 
-http://tracker.frozen-layer.net:6969/announce
-
 http://tracker.gbitt.info:80/announce
 
 http://tracker.gcvchp.com:2710/announce
 
 http://tracker.gigatorrents.ws:2710/announce
-
-http://tracker.grepler.com:6969/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
@@ -191,6 +187,8 @@ http://tracker.minglong.org:8080/announce
 http://tracker.moeking.me:6969/announce
 
 http://tracker.noobsubs.net:80/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -228,11 +226,11 @@ http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.legittorrents.info:80/announce.php
-
 http://www.mvgroup.org:2710/announce
 
 http://www.tribalmixes.com:80/announce.php
+
+http://www.tvnihon.com:6969/announce
 
 http://www.xwt-classics.net:80/announce.php
 
