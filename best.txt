@@ -16,8 +16,6 @@ http://mediaclub.tv:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://openbittorrent.com:80/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
@@ -116,11 +114,7 @@ udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://retracker.netbynet.ru:2710/announce
-
 udp://thetracker.org:80/announce
-
-udp://tracker-de.ololosh.space:6969/announce
 
 udp://tracker.0x.tf:6969/announce
 
@@ -135,10 +129,6 @@ udp://tracker.bitsearch.to:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.dler.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
-
-udp://tracker.grepler.com:6969/announce
 
 udp://tracker.haynet.io:6969/announce
 
@@ -169,6 +159,8 @@ udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker2.dler.com:80/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://vibe.community:6969/announce
 
