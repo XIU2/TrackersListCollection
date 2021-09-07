@@ -16,6 +16,8 @@ http://mediaclub.tv:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://openbittorrent.com:80/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
@@ -100,6 +102,8 @@ udp://fe.dealclub.de:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
+udp://ipv6.tracker.monitorit4.me:6969/announce
+
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
 udp://mail.realliferpg.de:6969/announce
@@ -151,6 +155,8 @@ udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.theoks.net:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
