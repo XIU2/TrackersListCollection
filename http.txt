@@ -4,12 +4,6 @@ http://60-fps.org/bt:80/announce.php
 
 http://60-fps.org:80/bt:80/announce.php
 
-http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
-
-http://[2001:470:1:189:0:1:2:3]:6969/announce
-
-http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://btx.anifilm.tv:80/announce.php
@@ -34,7 +28,11 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://retracker.hotplug.ru:2710/announce
+http://open.acgtracker.com:1096/announce
+
+http://pow7.com:80/announce
+
+http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
@@ -60,8 +58,6 @@ http://tr.kxmp.cf:80/announce
 
 http://tracker.anirena.com:80/announce
 
-http://tracker.birkenwald.de:6969/announce
-
 http://tracker.bittor.pw:1337/announce
 
 http://tracker.breizh.pm:6969/announce
@@ -76,7 +72,7 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.grepler.com:6969/announce
+http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -98,8 +94,6 @@ http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://tracker.tvunderground.org.ru:3218/announce
-
 http://tracker.xn--vzyr4p.top:80/announce
 
 http://tracker.yoshi210.com:6969/announce
@@ -117,8 +111,6 @@ http://www.all4nothin.net:80/announce.php
 https://1337.abcvg.info:443/announce
 
 https://open.kickasstracker.com:443/announce
-
-https://opentracker.acgnx.se:443/announce
 
 https://opentracker.xyz:443/announce
 
