@@ -26,6 +26,8 @@ http://googer.cc:1337/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
+http://ipv4announce.sktorrent.eu:6969/announce
+
 http://masters-tb.com:80/announce.php
 
 http://mediaclub.tv:80/announce
@@ -33,8 +35,6 @@ http://mediaclub.tv:80/announce
 http://ns349743.ip-91-121-106.eu:80/announce
 
 http://nyaa.tracker.wf:7777/announce
-
-http://openbittorrent.com:80/announce
 
 http://pow7.com:80/announce
 
@@ -84,6 +84,8 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.grepler.com:6969/announce
+
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.ru:80/announce
@@ -99,8 +101,6 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.shittyurl.org:80/announce
 
 http://tracker.tfile.me:80/announce
-
-http://tracker.tiny-vps.com:6969/announce
 
 http://tracker.torrentyorg.pl:80/announce
 
