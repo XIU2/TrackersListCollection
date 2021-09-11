@@ -16,8 +16,6 @@ http://mediaclub.tv:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://openbittorrent.com:80/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
