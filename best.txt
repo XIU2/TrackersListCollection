@@ -16,6 +16,8 @@ http://mediaclub.tv:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://openbittorrent.com:80/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
@@ -56,10 +58,6 @@ https://tr.torland.ga:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-https://tracker.iriseden.eu:443/announce
-
-https://tracker.iriseden.fr:443/announce
-
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
@@ -73,6 +71,8 @@ https://tracker.shittyurl.org:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://trakx.herokuapp.com:443/announce
+
+https://w.wwwww.wtf:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
@@ -158,7 +158,11 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.theoks.net:6969/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.xn--vzyr4p.top:80/announce
 
@@ -171,6 +175,8 @@ udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker2.dler.com:80/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://u.wwwww.wtf:1/announce
 
 udp://vibe.community:6969/announce
 
