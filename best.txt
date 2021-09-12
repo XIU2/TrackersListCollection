@@ -16,6 +16,8 @@ http://mediaclub.tv:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://openbittorrent.com:80/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
@@ -70,8 +72,6 @@ https://tracker.tamersunion.org:443/announce
 
 https://trakx.herokuapp.com:443/announce
 
-https://w.wwwww.wtf:443/announce
-
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
@@ -118,10 +118,6 @@ udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://retracker.netbynet.ru:2710/announce
-
-udp://retracker.sevstar.net:2710/announce
-
 udp://thetracker.org:80/announce
 
 udp://tracker.0x.tf:6969/announce
@@ -146,8 +142,6 @@ udp://tracker.jordan.im:6969/announce
 
 udp://tracker.moeking.eu.org:6969/announce
 
-udp://tracker.moeking.me:6969/announce
-
 udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
@@ -156,13 +150,11 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.tvunderground.org.ru:3218/announce
-
 udp://tracker.xn--vzyr4p.top:80/announce
+
+udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
@@ -175,6 +167,8 @@ udp://tracker2.dler.com:80/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://u.wwwww.wtf:1/announce
+
+udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://vibe.community:6969/announce
 
