@@ -38,6 +38,8 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.shittyurl.org:80/announce
 
 http://tracker.tfile.me:80/announce
