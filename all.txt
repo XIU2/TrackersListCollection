@@ -40,7 +40,7 @@ http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
-http://retracker.sevstar.net:2710/announce
+http://retracker.joxnet.ru:80/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
@@ -80,6 +80,10 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.grepler.com:6969/announce
+
+http://tracker.internetwarriors.net:1337/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.loadbt.com:6969/announce
@@ -98,7 +102,13 @@ http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker.tvunderground.org.ru:3218/announce
+
 http://tracker.xn--vzyr4p.top:80/announce
+
+http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -154,7 +164,7 @@ udp://78.30.254.12:2710/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://9.rarbg.com:2970/announce
+udp://9.rarbg.com:2840/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -218,6 +228,8 @@ udp://mts.tvbit.co:6969/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://open.publictracker.xyz:6969/announce
+
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
@@ -227,6 +239,8 @@ udp://p4p.arenabg.com:1337/announce
 udp://peerfect.org:6969/announce
 
 udp://pow7.com:80/announce
+
+udp://public.publictracker.xyz:6969/announce
 
 udp://public.tracker.vraphim.com:6969/announce
 
@@ -240,7 +254,7 @@ udp://retracker.sevstar.net:2710/announce
 
 udp://thetracker.org:80/announce
 
-udp://tr2.ysagin.top:2710/announce
+udp://tr.bangumi.moe:6969/announce
 
 udp://tracker-de.ololosh.space:6969/announce
 
@@ -261,6 +275,8 @@ udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.coppersurfer.tk:6969/announce
 
@@ -335,6 +351,8 @@ udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://u.wwwww.wtf:1/announce
 
