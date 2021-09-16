@@ -12,8 +12,6 @@ http://milanesitracker.tekcities.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://openbittorrent.com:80/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -139,8 +137,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.grepler.com:6969/announce
 
 udp://tracker.haynet.io:6969/announce
 
