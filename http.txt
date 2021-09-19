@@ -8,7 +8,7 @@ http://184.105.151.166:6969/announce
 
 http://185.148.3.231:80/announce
 
-http://185.230.4.150:1337/announce
+http://198.251.84.144:80/announce
 
 http://47.242.210.252:80/announce
 
@@ -25,12 +25,6 @@ http://82.65.37.128:6969/announce
 http://91.217.91.21:3218/announce
 
 http://95.107.48.115:80/announce
-
-http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
-
-http://[2001:470:1:189:0:1:2:3]:6969/announce
-
-http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://all4nothin.net:80/announce.php
 
@@ -52,8 +46,6 @@ http://bt-club.ws:80/announce
 
 http://bt.ali213.net:8000/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://bt.rghost.net:80/announce
 
 http://bt.zlofenix.org:81/announce
@@ -61,6 +53,8 @@ http://bt.zlofenix.org:81/announce
 http://bttracker.debian.org:6969/announce
 
 http://btx.anifilm.tv:80/announce.php
+
+http://concen.org:6969/announce
 
 http://data-bg.net:80/announce.php
 
@@ -94,13 +88,11 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://openbittorrent.com:80/announce
-
 http://opentracker.xyz:80/announce
 
 http://proaudiotorrents.org:80/announce.php
 
-http://retracker.hotplug.ru:2710/announce
+http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
@@ -119,8 +111,6 @@ http://t.acg.rip:6699/announce
 http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
-
-http://t1.pow7.com:80/announce
 
 http://t2.pow7.com:80/announce
 
@@ -154,8 +144,6 @@ http://tracker.ali213.net:8000/announce
 
 http://tracker.anirena.com:80/announce
 
-http://tracker.birkenwald.de:6969/announce
-
 http://tracker.bittor.pw:1337/announce
 
 http://tracker.breizh.pm:6969/announce
@@ -167,10 +155,6 @@ http://tracker.corpscorp.online:80/announce
 http://tracker.dler.org:6969/announce
 
 http://tracker.files.fm:6969/announce
-
-http://tracker.frozen-layer.net:6969/announce
-
-http://tracker.gbitt.info:80/announce
 
 http://tracker.gcvchp.com:2710/announce
 
@@ -196,8 +180,6 @@ http://tracker.tasvideos.org:6969/announce
 
 http://tracker.tfile.me:80/announce
 
-http://tracker.torrentbytes.net:80/announce.php
-
 http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.trackerfix.com:80/announce
@@ -208,9 +190,9 @@ http://tracker.xdvdz.com:2710/announce
 
 http://tracker.xn--vzyr4p.top:80/announce
 
-http://tracker.yoshi210.com:6969/announce
-
 http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -223,10 +205,6 @@ http://vps02.net.orel.ru:80/announce
 http://www.all4nothin.net:80/announce.php
 
 http://www.megatorrents.kg:80/announce.php
-
-http://www.thetradersden.org/forums/tracker:80/announce.php
-
-http://www.tvnihon.com:6969/announce
 
 http://www.xwt-classics.net:80/announce.php
 
