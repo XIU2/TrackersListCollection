@@ -12,6 +12,8 @@ http://milanesitracker.tekcities.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://openbittorrent.com:80/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -31,6 +33,8 @@ http://tracker.files.fm:6969/announce
 http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.tfile.me:80/announce
 
@@ -76,6 +80,8 @@ udp://9.rarbg.to:2710/announce
 
 udp://abufinzio.monocul.us:6969/announce
 
+udp://bms-hosxp.com:6969/announce
+
 udp://bt.oiyo.tk:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
@@ -112,6 +118,8 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
+udp://retracker.netbynet.ru:2710/announce
+
 udp://thetracker.org:80/announce
 
 udp://tracker.0x.tf:6969/announce
@@ -129,6 +137,10 @@ udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.haynet.io:6969/announce
 
@@ -157,8 +169,6 @@ udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
