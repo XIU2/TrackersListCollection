@@ -12,8 +12,6 @@ http://milanesitracker.tekcities.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://openbittorrent.com:80/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -80,6 +78,8 @@ udp://9.rarbg.to:2710/announce
 
 udp://abufinzio.monocul.us:6969/announce
 
+udp://app.icon256.com:8000/announce
+
 udp://bms-hosxp.com:6969/announce
 
 udp://bt.oiyo.tk:6969/announce
@@ -123,6 +123,8 @@ udp://thetracker.org:80/announce
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
+
+udp://tracker.army:6969/announce
 
 udp://tracker.beeimg.com:6969/announce
 
