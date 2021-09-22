@@ -78,8 +78,6 @@ udp://9.rarbg.to:2710/announce
 
 udp://abufinzio.monocul.us:6969/announce
 
-udp://app.icon256.com:8000/announce
-
 udp://bms-hosxp.com:6969/announce
 
 udp://bt.oiyo.tk:6969/announce
