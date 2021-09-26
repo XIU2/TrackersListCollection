@@ -38,6 +38,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.noobsubs.net:80/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.tfile.co:80/announce
 
 http://tracker.tfile.me:80/announce
@@ -69,6 +71,8 @@ https://tracker.nitrix.me:443/announce
 https://tracker.parrotsec.org:443/announce
 
 https://tracker.tamersunion.org:443/announce
+
+https://trackme.theom.nz:443/announce
 
 https://trakx.herokuapp.com:443/announce
 
@@ -155,8 +159,6 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
-
-udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
