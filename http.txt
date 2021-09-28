@@ -74,8 +74,6 @@ http://h4.trakx.nibba.trade:80/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-http://irrenhaus.dyndns.dk:80/announce.php
-
 http://masters-tb.com:80/announce.php
 
 http://mediaclub.tv:80/announce.php
@@ -142,8 +140,6 @@ http://torrents.linuxmint.com:80/announce.php
 
 http://torrentsmd.com:8080/announce
 
-http://torrenttracker.nwc.acsalaska.net:6969/announce
-
 http://torrentzilla.org:80/announce.php
 
 http://tr.cili001.com:8070/announce
@@ -168,7 +164,7 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.files.fm:6969/announce
 
-http://tracker.frozen-layer.com:6969/announce
+http://tracker.frozen-layer.net:6969/announce.php
 
 http://tracker.gbitt.info:80/announce
 
@@ -212,13 +208,15 @@ http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
+http://tracker.trancetraffic.com:80/announce.php
+
 http://tracker.xdvdz.com:2710/announce
 
 http://tracker.xn--vzyr4p.top:80/announce
 
-http://tracker.yoshi210.com:6969/announce
-
 http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -230,11 +228,11 @@ http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
+http://www.biztorrents.com:80/announce.php
+
 http://www.megatorrents.kg:80/announce.php
 
 http://www.mvgroup.org:2710/announce
-
-http://www.thetradersden.org/forums/tracker:80/announce.php
 
 http://www.tribalmixes.com:80/announce.php
 
@@ -261,6 +259,8 @@ https://open.kickasstracker.com:443/announce
 https://tr.ready4.icu:443/announce
 
 https://tr.torland.ga:443/announce
+
+https://tracker.bt-hash.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
