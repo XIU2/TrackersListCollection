@@ -92,6 +92,8 @@ udp://code2chicken.nl:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
 
+udp://edu.uifr.ru:6969/announce
+
 udp://engplus.ru:6969/announce
 
 udp://exodus.desync.com:6969/announce
@@ -149,8 +151,6 @@ udp://tracker.jordan.im:6969/announce
 udp://tracker.moeking.eu.org:6969/announce
 
 udp://tracker.moeking.me:6969/announce
-
-udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
