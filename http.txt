@@ -8,6 +8,8 @@ http://184.105.151.166:6969/announce
 
 http://185.148.3.231:80/announce
 
+http://185.230.4.150:1337/announce
+
 http://217.30.10.54:6969/announce
 
 http://51.15.55.204:1337/announce
@@ -47,8 +49,6 @@ http://blackz.ro:80/announce.php
 http://bt.ali213.net:8080/announce
 
 http://bt.beatrice-raws.org:80/announce
-
-http://bt.edwardk.info:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -106,8 +106,6 @@ http://retracker.spark-rostov.ru:80/announce
 
 http://retracker.telecom.by:80/announce
 
-http://secure.pow7.com:80/announce
-
 http://share.camoe.cn:8080/announce
 
 http://sukebei.tracker.wf:8888/announce
@@ -140,6 +138,8 @@ http://torrents.linuxmint.com:80/announce.php
 
 http://torrentsmd.com:8080/announce
 
+http://torrenttracker.nwc.acsalaska.net:6969/announce
+
 http://torrentzilla.org:80/announce
 
 http://tr.cili001.com:8070/announce
@@ -164,6 +164,8 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.files.fm:6969/announce
 
+http://tracker.frozen-layer.com:6969/announce
+
 http://tracker.frozen-layer.net:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -175,8 +177,6 @@ http://tracker.gigatorrents.ws:2710/announce
 http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.loadbt.com:6969/announce
 
 http://tracker.minglong.org:8080/announce
 
@@ -198,7 +198,7 @@ http://tracker.tfile.co:80/announce
 
 http://tracker.tfile.me:80/announce
 
-http://tracker.torrentbytes.net:80/announce.php
+http://tracker.tiny-vps.com:6969/announce
 
 http://tracker.torrentyorg.pl:80/announce
 
@@ -206,11 +206,11 @@ http://tracker.trackerfix.com:80/announce
 
 http://tracker.trancetraffic.com:80/announce.php
 
+http://tracker.vraphim.com:6969/announce
+
 http://tracker.xdvdz.com:2710/announce
 
 http://tracker.yoshi210.com:6969/announce
-
-http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker2.dler.org:80/announce
 

@@ -30,7 +30,7 @@ _Those who are interested can download and try **[ubuntu-20.04.torrent](https://
 
 ****
 
-### Updated: 2021-10-02
+### Updated: 2021-10-03
 
 _These lists are updated every 8 hours !_
 
