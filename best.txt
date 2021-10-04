@@ -36,8 +36,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.tfile.co:80/announce
-
 http://tracker.tfile.me:80/announce
 
 http://tracker.torrentyorg.pl:80/announce
@@ -119,8 +117,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.netbynet.ru:2710/announce
-
-udp://retracker.sevstar.net:2710/announce
 
 udp://thetracker.org:80/announce
 
