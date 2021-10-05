@@ -4,8 +4,6 @@ http://all4nothin.net:80/announce.php
 
 http://bt.rghost.net:80/announce
 
-http://googer.cc:1337/announce
-
 http://h4.trakx.nibba.trade:80/announce
 
 http://milanesitracker.tekcities.com:80/announce
@@ -35,8 +33,6 @@ http://tracker.ipv6tracker.org:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.noobsubs.net:80/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.tfile.me:80/announce
 
@@ -72,9 +68,13 @@ https://trackme.theom.nz:443/announce
 
 https://trakx.herokuapp.com:443/announce
 
+https://w.wwwww.wtf:443/announce
+
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
+
+udp://9.rarbg.com:2880/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -174,7 +174,7 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
-udp://tracker4.itzmx.com:2710/announce
+udp://u.wwwww.wtf:1/announce
 
 udp://vibe.community:6969/announce
 
