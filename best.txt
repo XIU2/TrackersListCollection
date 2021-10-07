@@ -10,8 +10,6 @@ http://milanesitracker.tekcities.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://openbittorrent.com:80/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
