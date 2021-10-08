@@ -114,6 +114,8 @@ udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
+udp://jeremylee.sh:6969/announce
+
 udp://mail.realliferpg.de:6969/announce
 
 udp://movies.zsw.ca:6969/announce
