@@ -22,8 +22,6 @@ http://198.251.84.144:80/announce
 
 http://217.30.10.70:6969/announce
 
-http://51.15.55.204:1337/announce
-
 http://51.81.200.170:6699/announce
 
 http://65.21.48.148:6969/announce
@@ -78,8 +76,6 @@ http://bttracker.debian.org:6969/announce
 
 http://btx.anifilm.tv:80/announce.php
 
-http://concen.org:6969/announce
-
 http://data-bg.net:80/announce.php
 
 http://explodie.org:6969/announce
@@ -106,8 +102,6 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
@@ -118,9 +112,9 @@ http://proaudiotorrents.org:80/announce.php
 
 http://retracker.hotplug.ru:2710/announce
 
-http://retracker.spark-rostov.ru:80/announce
+http://retracker.sevstar.net:2710/announce
 
-http://retracker.telecom.by:80/announce
+http://retracker.spark-rostov.ru:80/announce
 
 http://secure.pow7.com:80/announce
 
@@ -136,13 +130,9 @@ http://t.overflow.biz:6969/announce
 
 http://t1.pow7.com:80/announce
 
-http://t2.pow7.com:80/announce
-
 http://torrent-team.net:80/announce.php
 
 http://torrent.arjlover.net:2710/announce
-
-http://torrent.fedoraproject.org:6969/announce
 
 http://torrent.mp3quran.net:80/announce.php
 
@@ -151,8 +141,6 @@ http://torrent.resonatingmedia.com:6969/announce
 http://torrent.rus.ec:2710/announce
 
 http://torrent.ubuntu.com:6969/announce
-
-http://torrent.unix-ag.uni-kl.de:80/announce
 
 http://torrents.hikarinokiseki.com:6969/announce
 
@@ -178,17 +166,17 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.etree.org:6969/announce
-
 http://tracker.files.fm:6969/announce
 
-http://tracker.frozen-layer.net:6969/announce.php
+http://tracker.frozen-layer.com:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
 http://tracker.gcvchp.com:2710/announce
 
 http://tracker.gigatorrents.ws:2710/announce
+
+http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
@@ -214,8 +202,6 @@ http://tracker.tasvideos.org:6969/announce
 
 http://tracker.tfile.me:80/announce
 
-http://tracker.torrentbytes.net:80/announce.php
-
 http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.trackerfix.com:80/announce
@@ -226,8 +212,6 @@ http://tracker.xdvdz.com:2710/announce
 
 http://tracker.yoshi210.com:6969/announce
 
-http://tracker.zerobytes.xyz:1337/announce
-
 http://tracker2.dler.org:80/announce
 
 http://tracker3.dler.org:2710/announce
@@ -237,8 +221,6 @@ http://trackme.theom.nz:80/announce
 http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.legittorrents.info:80/announce.php
 
 http://www.megatorrents.kg:80/announce.php
 
