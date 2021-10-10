@@ -108,8 +108,6 @@ udp://fe.dealclub.de:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
-
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
