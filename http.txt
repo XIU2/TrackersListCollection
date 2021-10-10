@@ -28,8 +28,6 @@ http://51.79.71.167:80/announce
 
 http://51.81.200.170:6699/announce
 
-http://78.30.254.12:2710/announce
-
 http://81.200.2.231/announce
 
 http://82.65.37.128:6969/announce
@@ -104,17 +102,19 @@ http://ns349743.ip-91-121-106.eu:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://open.acgnxtracker.com:80/announce
+
 http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
+
+http://p4p.arenabg.com:1337/announce
 
 http://pow7.com:80/announce
 
 http://proaudiotorrents.org:80/announce.php
 
 http://retracker.hotplug.ru:2710/announce
-
-http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
@@ -131,8 +131,6 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://t1.pow7.com:80/announce
-
-http://t2.pow7.com:80/announce
 
 http://torrent-team.net:80/announce.php
 
@@ -151,6 +149,8 @@ http://torrent.ubuntu.com:6969/announce
 http://torrents.hikarinokiseki.com:6969/announce
 
 http://torrentsmd.com:8080/announce
+
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://torrentzilla.org:80/announce.php
 
@@ -186,8 +186,6 @@ http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.loadbt.com:6969/announce
-
 http://tracker.minglong.org:8080/announce
 
 http://tracker.moeking.me:6969/announce
@@ -214,7 +212,7 @@ http://tracker.trancetraffic.com:80/announce.php
 
 http://tracker.xdvdz.com:2710/announce
 
-http://tracker.yoshi210.com:6969/announce
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -229,8 +227,6 @@ http://www.all4nothin.net:80/announce.php
 http://www.megatorrents.kg:80/announce.php
 
 http://www.tribalmixes.com:80/announce.php
-
-http://www.tvnihon.com:6969/announce
 
 http://www.worldboxingvideoarchive.com:80/announce.php
 
@@ -247,8 +243,6 @@ https://carbon-bonsai-621.appspot.com:443/announce
 https://open.kickasstracker.com:443/announce
 
 https://torrents.linuxmint.com:443/announce.php
-
-https://tr.bangumi.moe:9696/announce
 
 https://tr.ready4.icu:443/announce
 
