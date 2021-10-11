@@ -52,6 +52,8 @@ https://tr.torland.ga:443/announce
 
 https://tracker.gbitt.info:443/announce
 
+https://tracker.iriseden.fr:443/announce
+
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -102,8 +104,6 @@ udp://escorts.subventas.com:53/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://explodie.org:6969/announce
-
 udp://fe.dealclub.de:6969/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
@@ -125,6 +125,10 @@ udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
+
+udp://retracker.netbynet.ru:2710/announce
+
+udp://retracker.sevstar.net:2710/announce
 
 udp://thetracker.org:80/announce
 
@@ -148,13 +152,13 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.fatkhoala.org:13740/announce
 
 udp://tracker.fatkhoala.org:13750/announce
 
 udp://tracker.jordan.im:6969/announce
-
-udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.moeking.eu.org:6969/announce
 
