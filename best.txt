@@ -88,8 +88,6 @@ udp://9.rarbg.to:2990/announce
 
 udp://abufinzio.monocul.us:6969/announce
 
-udp://bms-hosxp.com:6969/announce
-
 udp://bt.oiyo.tk:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
