@@ -4,11 +4,11 @@ http://all4nothin.net:80/announce.php
 
 http://bt.rghost.net:80/announce
 
-http://h4.trakx.nibba.trade:80/announce
-
 http://milanesitracker.tekcities.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
+
+http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
 
@@ -50,8 +50,6 @@ https://tr.torland.ga:443/announce
 
 https://tracker.gbitt.info:443/announce
 
-https://tracker.iriseden.eu:443/announce
-
 https://tracker.iriseden.fr:443/announce
 
 https://tracker.lilithraws.cf:443/announce
@@ -65,8 +63,6 @@ https://tracker.parrotsec.org:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://trackme.theom.nz:443/announce
-
-https://trakx.herokuapp.com:443/announce
 
 https://w.wwwww.wtf:443/announce
 
@@ -153,6 +149,8 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.fatkhoala.org:13740/announce
 
 udp://tracker.fatkhoala.org:13750/announce
+
+udp://tracker.haynet.io:6969/announce
 
 udp://tracker.jordan.im:6969/announce
 
