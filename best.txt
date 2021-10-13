@@ -100,8 +100,6 @@ udp://exodus.desync.com:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
-udp://inferno.demonoid.is:3391/announce
-
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
@@ -146,6 +144,8 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.fatkhoala.org:13740/announce
 
 udp://tracker.fatkhoala.org:13750/announce
@@ -181,8 +181,6 @@ udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
-
-udp://u.wwwww.wtf:1/announce
 
 udp://vibe.community:6969/announce
 
