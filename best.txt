@@ -18,8 +18,6 @@ http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
 
-http://t.acg.rip:6699/announce
-
 http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
@@ -108,7 +106,11 @@ udp://escorts.subventas.com:53/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://explodie.org:6969/announce
+
 udp://fe.dealclub.de:6969/announce
+
+udp://inferno.demonoid.is:3391/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
@@ -138,6 +140,8 @@ udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
+udp://tracker.army:6969/announce
+
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -159,6 +163,8 @@ udp://tracker.fatkhoala.org:13750/announce
 udp://tracker.haynet.io:6969/announce
 
 udp://tracker.jordan.im:6969/announce
+
+udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.moeking.eu.org:6969/announce
 
