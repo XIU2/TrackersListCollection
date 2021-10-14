@@ -8,8 +8,6 @@ http://masters-tb.com:80/announce.php
 
 http://mediaclub.tv:80/announce.php
 
-http://milanesitracker.tekcities.com:80/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://openbittorrent.com:80/announce
@@ -49,6 +47,8 @@ http://tracker.trackerfix.com:80/announce
 http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
+
+https://1337.abcvg.info:443/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
 
