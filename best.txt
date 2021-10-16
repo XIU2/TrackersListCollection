@@ -2,6 +2,8 @@ http://60-fps.org/bt:80/announce.php
 
 http://all4nothin.net:80/announce.php
 
+http://bt.okmp3.ru:2710/announce
+
 http://kinorun.com:80/announce.php
 
 http://masters-tb.com:80/announce.php
@@ -128,11 +130,7 @@ udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
-
-udp://retracker.netbynet.ru:2710/announce
 
 udp://retracker.sevstar.net:2710/announce
 
@@ -149,8 +147,6 @@ udp://tracker.army:6969/announce
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
 
@@ -195,8 +191,6 @@ udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://u.wwwww.wtf:1/announce
 
