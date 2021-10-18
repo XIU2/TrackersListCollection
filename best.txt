@@ -14,8 +14,6 @@ http://milanesitracker.tekcities.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://openbittorrent.com:80/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -29,6 +27,8 @@ http://torrent-team.net:80/announce.php
 http://torrentzilla.org:80/announce
 
 http://torrentzilla.org:80/announce.php
+
+http://tr.cili001.com:8070/announce
 
 http://tracker.anirena.com:80/announce
 
@@ -143,6 +143,8 @@ udp://tracker.army:6969/announce
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
+
+udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
 
