@@ -201,7 +201,6 @@ _**更详细、完整的请看这篇文章：[https://zhuanlan.zhihu.com/p/87193
 * [https://tinytorrent.net/best-torrent-tracker-list-updated](https://tinytorrent.net/best-torrent-tracker-list-updated/)
 * [http://www.torrenttrackerlist.com/torrent-tracker-list](http://www.torrenttrackerlist.com/torrent-tracker-list)
 * [https://github.com/DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList)
-* [https://gitee.com/harvey520/www.yaozuopan.top](https://gitee.com/harvey520/www.yaozuopan.top)
 
 感谢这些项目！
 
