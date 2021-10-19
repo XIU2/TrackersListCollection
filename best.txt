@@ -2,8 +2,6 @@ http://60-fps.org/bt:80/announce.php
 
 http://all4nothin.net:80/announce.php
 
-http://bt.okmp3.ru:2710/announce
-
 http://kinorun.com:80/announce.php
 
 http://masters-tb.com:80/announce.php
@@ -17,8 +15,6 @@ http://nyaa.tracker.wf:7777/announce
 http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
-
-http://p4p.arenabg.com:1337/announce
 
 http://share.camoe.cn:8080/announce
 
