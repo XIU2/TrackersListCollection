@@ -14,6 +14,8 @@ http://milanesitracker.tekcities.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://openbittorrent.com:80/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -130,6 +132,8 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
+udp://retracker.sevstar.net:2710/announce
+
 udp://thetracker.org:80/announce
 
 udp://tracker-de.ololosh.space:6969/announce
@@ -147,6 +151,8 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
