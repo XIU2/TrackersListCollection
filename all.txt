@@ -52,15 +52,15 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.touki.ru:80/announce.php
+http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
-
-http://p4p.arenabg.com:1337/announce
 
 http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
+
+http://retracker.joxnet.ru:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
@@ -112,8 +112,6 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.internetwarriors.net:1337/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.loadbt.com:6969/announce
@@ -126,6 +124,8 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.tfile.me:80/announce
 
+http://tracker.tiny-vps.com:6969/announce
+
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.yoshi210.com:6969/announce
@@ -134,6 +134,8 @@ http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
+http://tracker2.dler.org:80/announce
+
 http://trackme.theom.nz:80/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -141,6 +143,8 @@ http://vps02.net.orel.ru:80/announce
 http://www.all4nothin.net:80/announce.php
 
 https://1337.abcvg.info:443/announce
+
+https://bittorrent.gongt.net:443/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
 
@@ -212,7 +216,7 @@ udp://9.rarbg.com:2810/announce
 
 udp://9.rarbg.com:2880/announce
 
-udp://9.rarbg.com:2910/announce
+udp://9.rarbg.com:2960/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -254,6 +258,8 @@ udp://code2chicken.nl:6969/announce
 
 udp://concen.org:6969/announce
 
+udp://cutiegirl.ru:6969/announce
+
 udp://discord.heihachi.pw:6969/announce
 
 udp://eddie4.nl:6969/announce
@@ -269,6 +275,8 @@ udp://explodie.org:6969/announce
 udp://fe.dealclub.de:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
@@ -288,6 +296,8 @@ udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
@@ -297,6 +307,8 @@ udp://peerfect.org:6969/announce
 udp://pow7.com:80/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -311,10 +323,6 @@ udp://shadowshq.eddie4.nl:6969/announce
 udp://shadowshq.yi.org:6969/announce
 
 udp://thetracker.org:80/announce
-
-udp://tr.bangumi.moe:6969/announce
-
-udp://tr2.ysagin.top:2710/announce
 
 udp://tracker-de.ololosh.space:6969/announce
 

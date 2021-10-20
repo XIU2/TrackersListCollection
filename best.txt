@@ -2,6 +2,8 @@ http://60-fps.org/bt:80/announce.php
 
 http://all4nothin.net:80/announce.php
 
+http://bt.okmp3.ru:2710/announce
+
 http://kinorun.com:80/announce.php
 
 http://masters-tb.com:80/announce.php
@@ -11,8 +13,6 @@ http://mediaclub.tv:80/announce.php
 http://milanesitracker.tekcities.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
-
-http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
 
@@ -108,7 +108,7 @@ udp://exodus.desync.com:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
-udp://inferno.demonoid.is:3391/announce
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
@@ -145,8 +145,6 @@ udp://tracker.army:6969/announce
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
 
