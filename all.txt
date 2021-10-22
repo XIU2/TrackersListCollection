@@ -10,6 +10,8 @@ http://194.106.216.222/announce
 
 http://60-fps.org/bt:80/announce.php
 
+http://78.30.254.12:2710/announce
+
 http://81.200.2.231/announce
 
 http://85.17.19.180/announce
@@ -64,11 +66,7 @@ http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
-http://retracker.sevstar.net:2710/announce
-
 http://retracker.spark-rostov.ru:80/announce
-
-http://retracker.telecom.by:80/announce
 
 http://secure.pow7.com:80/announce
 
@@ -112,6 +110,8 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.internetwarriors.net:1337/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.moeking.me:6969/announce
@@ -122,15 +122,11 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.tfile.me:80/announce
 
-http://tracker.tiny-vps.com:6969/announce
-
 http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.yoshi210.com:6969/announce
-
-http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
@@ -216,7 +212,7 @@ udp://9.rarbg.com:2810/announce
 
 udp://9.rarbg.com:2880/announce
 
-udp://9.rarbg.com:2890/announce
+udp://9.rarbg.com:2950/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -272,8 +268,6 @@ udp://explodie.org:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
-udp://inferno.demonoid.is:3391/announce
-
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
@@ -301,8 +295,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://peerfect.org:6969/announce
 
 udp://pow7.com:80/announce
-
-udp://public.publictracker.xyz:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
