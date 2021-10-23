@@ -46,23 +46,17 @@ http://mediaclub.tv:80/announce.php
 
 http://milanesitracker.tekcities.com:80/announce
 
-http://ns349743.ip-91-121-106.eu:80/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.touki.ru:80/announce.php
 
 http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
 
-http://p4p.arenabg.com:1337/announce
-
-http://pow7.com:80/announce
-
 http://retracker.hotplug.ru:2710/announce
-
-http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
@@ -71,6 +65,8 @@ http://secure.pow7.com:80/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -81,6 +77,8 @@ http://t2.pow7.com:80/announce
 http://torrent-team.net:80/announce.php
 
 http://torrentsmd.com:8080/announce
+
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://torrentzilla.org:80/announce
 
@@ -126,7 +124,7 @@ http://tracker.yoshi210.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker2.dler.org:80/announce
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -199,6 +197,8 @@ udp://78.30.254.12:2710/announce
 udp://89.234.156.205:80/announce
 
 udp://9.rarbg.com:2710/announce
+
+udp://9.rarbg.com:2780/announce
 
 udp://9.rarbg.com:2810/announce
 
@@ -288,6 +288,8 @@ udp://peerfect.org:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.netbynet.ru:2710/announce
@@ -301,8 +303,6 @@ udp://shadowshq.eddie4.nl:6969/announce
 udp://shadowshq.yi.org:6969/announce
 
 udp://thetracker.org:80/announce
-
-udp://tr.bangumi.moe:6969/announce
 
 udp://tracker-de.ololosh.space:6969/announce
 
