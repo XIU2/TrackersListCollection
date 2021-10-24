@@ -10,8 +10,6 @@ http://194.106.216.222/announce
 
 http://60-fps.org/bt:80/announce.php
 
-http://78.30.254.12:2710/announce
-
 http://81.200.2.231/announce
 
 http://85.17.19.180/announce
@@ -50,15 +48,17 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.touki.ru:80/announce.php
-
 http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
 
+http://pow7.com:80/announce
+
 http://retracker.hotplug.ru:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
+
+http://retracker.telecom.by:80/announce
 
 http://secure.pow7.com:80/announce
 
@@ -108,6 +108,8 @@ http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.loadbt.com:6969/announce
+
 http://tracker.moeking.me:6969/announce
 
 http://tracker.noobsubs.net:80/announce
@@ -115,6 +117,8 @@ http://tracker.noobsubs.net:80/announce
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.tfile.me:80/announce
+
+http://tracker.tiny-vps.com:6969/announce
 
 http://tracker.torrentyorg.pl:80/announce
 
@@ -124,7 +128,9 @@ http://tracker.yoshi210.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker2.dler.org:80/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -198,9 +204,9 @@ udp://89.234.156.205:80/announce
 
 udp://9.rarbg.com:2710/announce
 
-udp://9.rarbg.com:2780/announce
-
 udp://9.rarbg.com:2810/announce
+
+udp://9.rarbg.com:2830/announce
 
 udp://9.rarbg.com:2880/announce
 
@@ -244,8 +250,6 @@ udp://code2chicken.nl:6969/announce
 
 udp://concen.org:6969/announce
 
-udp://cutiegirl.ru:6969/announce
-
 udp://discord.heihachi.pw:6969/announce
 
 udp://eddie4.nl:6969/announce
@@ -262,6 +266,8 @@ udp://fe.dealclub.de:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
+udp://ipv4.tracker.harry.lu:80/announce
+
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
@@ -275,6 +281,8 @@ udp://movies.zsw.ca:6969/announce
 udp://mts.tvbit.co:6969/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -303,6 +311,8 @@ udp://shadowshq.eddie4.nl:6969/announce
 udp://shadowshq.yi.org:6969/announce
 
 udp://thetracker.org:80/announce
+
+udp://tr.bangumi.moe:6969/announce
 
 udp://tracker-de.ololosh.space:6969/announce
 
