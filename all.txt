@@ -56,6 +56,8 @@ http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
+http://retracker.sevstar.net:2710/announce
+
 http://retracker.spark-rostov.ru:80/announce
 
 http://retracker.telecom.by:80/announce
@@ -69,8 +71,6 @@ http://t.acg.rip:6699/announce
 http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
-
-http://t1.pow7.com:80/announce
 
 http://t2.pow7.com:80/announce
 
@@ -104,11 +104,7 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.internetwarriors.net:1337/announce
-
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.loadbt.com:6969/announce
 
 http://tracker.moeking.me:6969/announce
 
@@ -128,9 +124,9 @@ http://tracker.yoshi210.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker2.dler.org:80/announce
+http://tracker1.bt.moack.co.kr:80/announce
 
-http://tracker4.itzmx.com:2710/announce
+http://tracker2.dler.org:80/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -206,9 +202,9 @@ udp://9.rarbg.com:2710/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://9.rarbg.com:2830/announce
-
 udp://9.rarbg.com:2880/announce
+
+udp://9.rarbg.com:2940/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -249,6 +245,8 @@ udp://bubu.mapfactor.com:6969/announce
 udp://code2chicken.nl:6969/announce
 
 udp://concen.org:6969/announce
+
+udp://cutiegirl.ru:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
 
