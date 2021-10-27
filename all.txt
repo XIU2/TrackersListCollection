@@ -30,8 +30,6 @@ http://all4nothin.net:80/announce.php
 
 http://atrack.pow7.com:80/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://data-bg.net:80/announce.php
 
 http://explodie.org:6969/announce
@@ -54,11 +52,17 @@ http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
 
+http://p4p.arenabg.com:1337/announce
+
 http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
+http://retracker.joxnet.ru:80/announce
+
 http://retracker.spark-rostov.ru:80/announce
+
+http://retracker.telecom.by:80/announce
 
 http://secure.pow7.com:80/announce
 
@@ -120,10 +124,6 @@ http://tracker.trackerfix.com:80/announce
 
 http://tracker.yoshi210.com:6969/announce
 
-http://tracker.zerobytes.xyz:1337/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker2.dler.org:80/announce
 
 http://trackme.theom.nz:80/announce
@@ -151,6 +151,8 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.iriseden.eu:443/announce
+
+https://tracker.iriseden.fr:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -180,6 +182,8 @@ udp://195.123.209.40:80/announce
 
 udp://212.1.226.176:2710/announce
 
+udp://5.79.249.77:6969/announce
+
 udp://51.254.244.161:6969/announce
 
 udp://52.58.128.163:6969/announce
@@ -194,11 +198,11 @@ udp://89.234.156.205:80/announce
 
 udp://9.rarbg.com:2710/announce
 
-udp://9.rarbg.com:2760/announce
-
 udp://9.rarbg.com:2810/announce
 
 udp://9.rarbg.com:2880/announce
+
+udp://9.rarbg.com:2910/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -239,8 +243,6 @@ udp://bubu.mapfactor.com:6969/announce
 udp://code2chicken.nl:6969/announce
 
 udp://concen.org:6969/announce
-
-udp://cutiegirl.ru:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
 
@@ -285,6 +287,8 @@ udp://p4p.arenabg.com:1337/announce
 udp://peerfect.org:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -407,6 +411,8 @@ udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
