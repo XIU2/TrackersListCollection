@@ -20,12 +20,6 @@ http://91.216.110.47/announce
 
 http://93.92.64.5/announce
 
-http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
-
-http://[2001:470:1:189:0:1:2:3]:6969/announce
-
-http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
-
 http://all4nothin.net:80/announce.php
 
 http://atrack.pow7.com:80/announce
@@ -54,13 +48,9 @@ http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
 
-http://retracker.hotplug.ru:2710/announce
-
-http://retracker.sevstar.net:2710/announce
+http://pow7.com:80/announce
 
 http://retracker.spark-rostov.ru:80/announce
-
-http://retracker.telecom.by:80/announce
 
 http://secure.pow7.com:80/announce
 
@@ -88,15 +78,11 @@ http://tr.kxmp.cf:80/announce
 
 http://tracker.anirena.com:80/announce
 
-http://tracker.birkenwald.de:6969/announce
-
 http://tracker.bittor.pw:1337/announce
 
-http://tracker.bt4g.com:2095/announce
+http://tracker.breizh.pm:6969/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -106,11 +92,11 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
 
+http://tracker.loadbt.com:6969/announce
+
 http://tracker.moeking.me:6969/announce
 
 http://tracker.noobsubs.net:80/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -121,10 +107,6 @@ http://tracker.torrentyorg.pl:80/announce
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.yoshi210.com:6969/announce
-
-http://tracker.zerobytes.xyz:1337/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -182,19 +164,13 @@ udp://185.86.149.205:1337/announce
 
 udp://195.123.209.40:80/announce
 
-udp://212.1.226.176:2710/announce
-
 udp://5.79.249.77:6969/announce
 
 udp://51.254.244.161:6969/announce
 
-udp://52.58.128.163:6969/announce
-
 udp://62.138.0.158:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
-
-udp://78.30.254.12:2710/announce
 
 udp://89.234.156.205:80/announce
 
@@ -202,7 +178,7 @@ udp://9.rarbg.com:2710/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://9.rarbg.com:2820/announce
+udp://9.rarbg.com:2830/announce
 
 udp://9.rarbg.com:2880/announce
 
@@ -220,19 +196,7 @@ udp://9.rarbg.to:2830/announce
 
 udp://9.rarbg.to:2990/announce
 
-udp://91.216.110.52:451/announce
-
 udp://94.23.183.33:6969/announce
-
-udp://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
-
-udp://[2001:470:1:189:0:1:2:3]:6969/announce
-
-udp://[2a03:7220:8083:cd00::1]:451/announce
-
-udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
-
-udp://[2a0f:e586:f:f::220]:6969/announce
 
 udp://abufinzio.monocul.us:6969/announce
 
@@ -298,8 +262,6 @@ udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://retracker.netbynet.ru:2710/announce
-
 udp://retracker.nts.su:2710/announce
 
 udp://retracker.sevstar.net:2710/announce
@@ -347,8 +309,6 @@ udp://tracker.eddie4.nl:6969/announce
 udp://tracker.fatkhoala.org:13740/announce
 
 udp://tracker.fatkhoala.org:13750/announce
-
-udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flashtorrents.org:6969/announce
 
@@ -399,8 +359,6 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
-
-udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
