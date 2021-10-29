@@ -36,8 +36,6 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.tfile.me:80/announce
 
 http://tracker.torrentyorg.pl:80/announce
@@ -73,6 +71,8 @@ https://tracker.nitrix.me:443/announce
 https://tracker.parrotsec.org:443/announce
 
 https://tracker.tamersunion.org:443/announce
+
+https://tracker.trafficmgr.net:443/announce
 
 https://trackme.theom.nz:443/announce
 
@@ -141,8 +141,6 @@ udp://tracker-de.ololosh.space:6969/announce
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
-
-udp://tracker.army:6969/announce
 
 udp://tracker.beeimg.com:6969/announce
 
