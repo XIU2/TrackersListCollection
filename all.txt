@@ -10,8 +10,6 @@ http://194.106.216.222/announce
 
 http://60-fps.org/bt:80/announce.php
 
-http://78.30.254.12:2710/announce
-
 http://81.200.2.231/announce
 
 http://85.17.19.180/announce
@@ -32,8 +30,6 @@ http://all4nothin.net:80/announce.php
 
 http://atrack.pow7.com:80/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://data-bg.net:80/announce.php
 
 http://fxtt.ru:80/announce
@@ -50,15 +46,13 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.touki.ru:80/announce.php
+
 http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
 
-http://pow7.com:80/announce
-
 http://retracker.hotplug.ru:2710/announce
-
-http://retracker.joxnet.ru:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
@@ -113,8 +107,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
-
-http://tracker.loadbt.com:6969/announce
 
 http://tracker.moeking.me:6969/announce
 
@@ -214,7 +206,7 @@ udp://9.rarbg.com:2810/announce
 
 udp://9.rarbg.com:2880/announce
 
-udp://9.rarbg.com:2890/announce
+udp://9.rarbg.com:2950/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -435,6 +427,8 @@ udp://vibe.community:6969/announce
 udp://wassermann.online:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://zephir.monocul.us:6969/announce
 
 udp://zer0day.ch:1337/announce
 
