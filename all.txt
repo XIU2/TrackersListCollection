@@ -52,13 +52,9 @@ http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
 
-http://p4p.arenabg.com:1337/announce
-
 http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
-
-http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
@@ -67,8 +63,6 @@ http://retracker.telecom.by:80/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -100,19 +94,13 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.electro-torrent.pl:80/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.internetwarriors.net:1337/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
-
-http://tracker.loadbt.com:6969/announce
 
 http://tracker.moeking.me:6969/announce
 
@@ -127,8 +115,6 @@ http://tracker.torrentyorg.pl:80/announce
 http://tracker.trackerfix.com:80/announce
 
 http://tracker.yoshi210.com:6969/announce
-
-http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -206,9 +192,9 @@ udp://89.234.156.205:80/announce
 
 udp://9.rarbg.com:2710/announce
 
-udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2790/announce
 
-udp://9.rarbg.com:2840/announce
+udp://9.rarbg.com:2810/announce
 
 udp://9.rarbg.com:2880/announce
 
@@ -286,8 +272,6 @@ udp://mts.tvbit.co:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.publictracker.xyz:6969/announce
-
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.cl:1337/announce
@@ -337,6 +321,8 @@ udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.coppersurfer.tk:6969/announce
 
@@ -412,8 +398,6 @@ udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker0.ufibox.com:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://tracker2.christianbro.pw:6969/announce
 
 udp://tracker2.dler.com:80/announce
@@ -421,6 +405,8 @@ udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 

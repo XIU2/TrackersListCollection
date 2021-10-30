@@ -68,8 +68,6 @@ https://tracker.parrotsec.org:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
-https://tracker.trafficmgr.net:443/announce
-
 https://trackme.theom.nz:443/announce
 
 https://w.wwwww.wtf:443/announce
