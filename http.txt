@@ -30,6 +30,8 @@ http://all4nothin.net:80/announce.php
 
 http://atrack.pow7.com:80/announce
 
+http://bt.okmp3.ru:2710/announce
+
 http://data-bg.net:80/announce.php
 
 http://fxtt.ru:80/announce
@@ -46,11 +48,13 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.touki.ru:80/announce.php
-
 http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
+
+http://p4p.arenabg.com:1337/announce
+
+http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -58,7 +62,7 @@ http://retracker.sevstar.net:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
-http://secure.pow7.com:80/announce
+http://retracker.telecom.by:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -92,8 +96,6 @@ http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bittor.pw:1337/announce
 
-http://tracker.breizh.pm:6969/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.org:6969/announce
@@ -104,9 +106,13 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.internetwarriors.net:1337/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
+
+http://tracker.loadbt.com:6969/announce
 
 http://tracker.moeking.me:6969/announce
 
@@ -115,8 +121,6 @@ http://tracker.noobsubs.net:80/announce
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.tfile.me:80/announce
-
-http://tracker.tiny-vps.com:6969/announce
 
 http://tracker.torrentyorg.pl:80/announce
 
