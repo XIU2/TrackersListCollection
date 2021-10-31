@@ -34,6 +34,8 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.tfile.me:80/announce
 
 http://tracker.torrentyorg.pl:80/announce
@@ -68,6 +70,8 @@ https://tracker.parrotsec.org:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
+https://tracker.trafficmgr.net:443/announce
+
 https://trackme.theom.nz:443/announce
 
 https://w.wwwww.wtf:443/announce
@@ -91,8 +95,6 @@ udp://9.rarbg.to:2990/announce
 udp://abufinzio.monocul.us:6969/announce
 
 udp://bt.oiyo.tk:6969/announce
-
-udp://bubu.mapfactor.com:6969/announce
 
 udp://code2chicken.nl:6969/announce
 
