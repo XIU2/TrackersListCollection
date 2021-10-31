@@ -12,6 +12,8 @@ http://milanesitracker.tekcities.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://open.acgnxtracker.com:80/announce
+
 http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
@@ -185,6 +187,8 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker0.ufibox.com:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
