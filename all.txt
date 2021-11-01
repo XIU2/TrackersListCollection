@@ -26,8 +26,6 @@ http://torrent-team.net:80/announce.php
 
 http://torrentzilla.org:80/announce
 
-http://tracker.bittorrent.am:80/announce
-
 http://tracker.gbitt.info:80/announce
 
 http://tracker.tfile.me:80/announce
@@ -80,8 +78,6 @@ udp://89.234.156.205:80/announce
 
 udp://9.rarbg.com:2710/announce
 
-udp://9.rarbg.com:2780/announce
-
 udp://9.rarbg.com:2810/announce
 
 udp://9.rarbg.com:2880/announce
@@ -126,8 +122,6 @@ udp://code2chicken.nl:6969/announce
 
 udp://concen.org:6969/announce
 
-udp://cutiegirl.ru:6969/announce
-
 udp://discord.heihachi.pw:6969/announce
 
 udp://eddie4.nl:6969/announce
@@ -167,6 +161,8 @@ udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
 
 udp://peerfect.org:6969/announce
+
+udp://public.publictracker.xyz:6969/announce
 
 udp://public.tracker.vraphim.com:6969/announce
 
@@ -273,8 +269,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.uw0.xyz:6969/announce
-
-udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 

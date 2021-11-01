@@ -26,8 +26,6 @@ http://torrent-team.net:80/announce.php
 
 http://torrentzilla.org:80/announce
 
-http://tracker.bittorrent.am:80/announce
-
 http://tracker.gbitt.info:80/announce
 
 http://tracker.tfile.me:80/announce
