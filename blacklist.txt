@@ -21,6 +21,7 @@ http://104.28.1.30:8080/announce
 http://104.28.16.69:80/announce
 https://104.28.17.69/announce
 http://torrent.nwps.ws:80/announce
+http://60-fps.org/bt:80/announce.php
 # Suspicious / 可疑(恶意)
 http://213.159.215.198:6970/announce
 # Repeat / 重复(副本)
