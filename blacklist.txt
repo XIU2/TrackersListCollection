@@ -1,36 +1,12 @@
 # Error / 错误(故障)
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://caramelo.ddns.net:8000/announce
-http://nbz.f3322.net:36006/announce
-http://mgtracker.org:2710/announce
-http://mgtracker.org:6969/announce
-http://nyaa.tracker.wf7777/announce
-https://tr.bangumi.moe.9696/announce
-udp://tracker.mg64.net:2710/announce
-udp://tracker.mg64.net:6969/announce
-https://uw0.xyz:443/
-http://thetracker.org.:80/announce
-udp:/ndrotracker.biz:1337/announce
-udp:/ntost12.xyz:6969/announce
-udp:/tracker.org:6969/announce
-http://bt.dmhy.net:80/annonuce
-http://ipv4.tracker.harry.lu:80/annouce
-http://share.dmhy.me:80/annonuce
-https://share.dmhy.me:443/annonuce
-http://104.28.1.30:8080/announce
-http://104.28.16.69:80/announce
-https://104.28.17.69/announce
-http://torrent.nwps.ws:80/announce
 http://60-fps.org/bt:80/announce.php
 # Suspicious / 可疑(恶意)
 http://213.159.215.198:6970/announce
 # Repeat / 重复(副本)
 udp://explodie.org:6969
-udp://p4p.arenabg.com:1337
-udp://tracker.sktorrent.net:6969
 http://opentracker.acgnx.se/scrape
-http://tr.bangumi.moe.6969/announce
-http://tr.cili001.com:6666/announce
 http://tracker.anirena.com:80/b16a15d9a238d1f59178d3614b857290/announce
 http://tracker.bittorrent.am:80/announceName
 # Other / 其他(原因)
