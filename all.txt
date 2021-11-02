@@ -12,6 +12,8 @@ http://milanesitracker.tekcities.com:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.touki.ru:80/announce.php
+
 http://secure.pow7.com:80/announce
 
 http://t.nyaatracker.com:80/announce
@@ -36,8 +38,6 @@ http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.wareztorrent.com:80/announce
-
 https://1337.abcvg.info:443/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
@@ -49,8 +49,6 @@ https://tr.ready4.icu:443/announce
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.nanoha.org:443/announce
-
-https://www.wareztorrent.com:443/announce
 
 udp://128.199.70.66:5944/announce
 
@@ -80,9 +78,9 @@ udp://89.234.156.205:80/announce
 
 udp://9.rarbg.com:2710/announce
 
-udp://9.rarbg.com:2740/announce
-
 udp://9.rarbg.com:2810/announce
+
+udp://9.rarbg.com:2860/announce
 
 udp://9.rarbg.com:2880/announce
 
@@ -157,6 +155,8 @@ udp://movies.zsw.ca:6969/announce
 udp://mts.tvbit.co:6969/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -270,8 +270,6 @@ udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
-udp://tracker.zemoj.com:6969/announce
-
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker0.ufibox.com:6969/announce
@@ -285,6 +283,8 @@ udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
