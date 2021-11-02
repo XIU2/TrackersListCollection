@@ -46,6 +46,8 @@ udp://abufinzio.monocul.us:6969/announce
 
 udp://bt.oiyo.tk:6969/announce
 
+udp://bubu.mapfactor.com:6969/announce
+
 udp://code2chicken.nl:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
@@ -58,6 +60,8 @@ udp://exodus.desync.com:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
+udp://ipv4.tracker.harry.lu:80/announce
+
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
@@ -69,8 +73,6 @@ udp://mail.realliferpg.de:6969/announce
 udp://movies.zsw.ca:6969/announce
 
 udp://open.demonii.com:1337/announce
-
-udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
@@ -92,13 +94,13 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.bitsearch.to:1337/announce
-
 udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.fatkhoala.org:13740/announce
 

@@ -12,8 +12,6 @@ http://milanesitracker.tekcities.com:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.touki.ru:80/announce.php
-
 http://secure.pow7.com:80/announce
 
 http://t.nyaatracker.com:80/announce
@@ -38,6 +36,8 @@ http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
+http://www.wareztorrent.com:80/announce
+
 https://1337.abcvg.info:443/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
@@ -49,6 +49,8 @@ https://tr.ready4.icu:443/announce
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.nanoha.org:443/announce
+
+https://www.wareztorrent.com:443/announce
 
 udp://128.199.70.66:5944/announce
 
@@ -77,6 +79,8 @@ udp://78.30.254.12:2710/announce
 udp://89.234.156.205:80/announce
 
 udp://9.rarbg.com:2710/announce
+
+udp://9.rarbg.com:2740/announce
 
 udp://9.rarbg.com:2810/announce
 
@@ -122,6 +126,8 @@ udp://code2chicken.nl:6969/announce
 
 udp://concen.org:6969/announce
 
+udp://cutiegirl.ru:6969/announce
+
 udp://discord.heihachi.pw:6969/announce
 
 udp://eddie4.nl:6969/announce
@@ -135,6 +141,8 @@ udp://exodus.desync.com:6969/announce
 udp://fe.dealclub.de:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
@@ -150,8 +158,6 @@ udp://mts.tvbit.co:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.publictracker.xyz:6969/announce
-
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.cl:1337/announce
@@ -163,8 +169,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://peerfect.org:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -179,10 +183,6 @@ udp://shadowshq.eddie4.nl:6969/announce
 udp://shadowshq.yi.org:6969/announce
 
 udp://thetracker.org:80/announce
-
-udp://tr.bangumi.moe:6969/announce
-
-udp://tr2.ysagin.top:2710/announce
 
 udp://tracker-de.ololosh.space:6969/announce
 
@@ -269,6 +269,8 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.uw0.xyz:6969/announce
+
+udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
