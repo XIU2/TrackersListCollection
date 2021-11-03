@@ -12,6 +12,8 @@ http://milanesitracker.tekcities.com:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.touki.ru:80/announce.php
+
 http://secure.pow7.com:80/announce
 
 http://t.nyaatracker.com:80/announce
@@ -80,7 +82,7 @@ udp://9.rarbg.com:2810/announce
 
 udp://9.rarbg.com:2880/announce
 
-udp://9.rarbg.com:2900/announce
+udp://9.rarbg.com:2890/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -130,13 +132,13 @@ udp://eddie4.nl:6969/announce
 
 udp://engplus.ru:6969/announce
 
-udp://escorts.subventas.com:53/announce
-
 udp://exodus.desync.com:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
@@ -288,9 +290,13 @@ udp://tracker2.dler.org:80/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
+udp://u.wwwww.wtf:1/announce
+
 udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://vibe.community:6969/announce
+
+udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://wassermann.online:6969/announce
 

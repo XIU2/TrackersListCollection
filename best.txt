@@ -54,11 +54,11 @@ udp://discord.heihachi.pw:6969/announce
 
 udp://engplus.ru:6969/announce
 
-udp://escorts.subventas.com:53/announce
-
 udp://exodus.desync.com:6969/announce
 
 udp://fe.dealclub.de:6969/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
@@ -82,6 +82,8 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
+udp://retracker.netbynet.ru:2710/announce
+
 udp://thetracker.org:80/announce
 
 udp://tracker-de.ololosh.space:6969/announce
@@ -99,6 +101,8 @@ udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.fatkhoala.org:13740/announce
 
@@ -137,6 +141,8 @@ udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://u.wwwww.wtf:1/announce
 
 udp://vibe.community:6969/announce
 
