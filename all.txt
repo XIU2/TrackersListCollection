@@ -12,8 +12,6 @@ http://milanesitracker.tekcities.com:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.touki.ru:80/announce.php
-
 http://secure.pow7.com:80/announce
 
 http://t.nyaatracker.com:80/announce
@@ -82,7 +80,7 @@ udp://9.rarbg.com:2810/announce
 
 udp://9.rarbg.com:2880/announce
 
-udp://9.rarbg.com:2890/announce
+udp://9.rarbg.com:2940/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -167,8 +165,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://peerfect.org:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
