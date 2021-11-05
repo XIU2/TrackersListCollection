@@ -4,6 +4,8 @@ http://kinorun.com:80/announce.php
 
 http://mediaclub.tv:80/announce.php
 
+http://milanesitracker.tekcities.com:80/announce
+
 http://torrent-team.net:80/announce.php
 
 http://torrentzilla.org:80/announce
@@ -123,8 +125,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.trafficmgr.net:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 

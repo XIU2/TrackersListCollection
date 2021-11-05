@@ -12,6 +12,8 @@ http://milanesitracker.tekcities.com:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.touki.ru:80/announce.php
+
 http://secure.pow7.com:80/announce
 
 http://t.nyaatracker.com:80/announce
@@ -76,11 +78,11 @@ udp://89.234.156.205:80/announce
 
 udp://9.rarbg.com:2710/announce
 
+udp://9.rarbg.com:2780/announce
+
 udp://9.rarbg.com:2810/announce
 
 udp://9.rarbg.com:2880/announce
-
-udp://9.rarbg.com:2940/announce
 
 udp://9.rarbg.me:2710/announce
 
@@ -122,6 +124,10 @@ udp://bubu.mapfactor.com:6969/announce
 
 udp://code2chicken.nl:6969/announce
 
+udp://concen.org:6969/announce
+
+udp://cutiegirl.ru:6969/announce
+
 udp://discord.heihachi.pw:6969/announce
 
 udp://eddie4.nl:6969/announce
@@ -147,8 +153,6 @@ udp://movies.zsw.ca:6969/announce
 udp://mts.tvbit.co:6969/announce
 
 udp://open.demonii.com:1337/announce
-
-udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -266,8 +270,6 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.trafficmgr.net:6969/announce
-
 udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.uw0.xyz:6969/announce
@@ -285,6 +287,8 @@ udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://tracker6.lelux.fi:6969/announce
 
 udp://u.wwwww.wtf:1/announce
 
