@@ -12,8 +12,6 @@ http://milanesitracker.tekcities.com:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.touki.ru:80/announce.php
-
 http://secure.pow7.com:80/announce
 
 http://t.nyaatracker.com:80/announce
@@ -40,6 +38,8 @@ http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
+http://www.wareztorrent.com:80/announce
+
 https://1337.abcvg.info:443/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
@@ -51,3 +51,5 @@ https://tr.ready4.icu:443/announce
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.nanoha.org:443/announce
+
+https://www.wareztorrent.com:443/announce
