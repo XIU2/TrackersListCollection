@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://78.30.254.12:2710/announce
-
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2001:470:1:189:0:1:2:3]:6969/announce
@@ -13,8 +11,6 @@ http://all4nothin.net:80/announce.php
 http://atrack.pow7.com:80/announce
 
 http://bt.okmp3.ru:2710/announce
-
-http://fosstorrents.com:6969/announce
 
 http://fxtt.ru:80/announce
 
@@ -30,19 +26,17 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
 
+http://p4p.arenabg.com:1337/announce
+
+http://pow7.com:80/announce
+
 http://retracker.hotplug.ru:2710/announce
 
-http://retracker.sevstar.net:2710/announce
-
 http://retracker.spark-rostov.ru:80/announce
-
-http://retracker.telecom.by:80/announce
 
 http://rt.optizone.ru:80/announce
 
@@ -58,15 +52,11 @@ http://t.overflow.biz:6969/announce
 
 http://t1.pow7.com:80/announce
 
-http://t2.pow7.com:80/announce
-
 http://tk.nvacg.org:3333/announce
 
 http://torrent-team.net:80/announce.php
 
 http://torrentsmd.com:8080/announce
-
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://torrentzilla.org:80/announce
 
@@ -108,7 +98,7 @@ http://tracker.trackerfix.com:80/announce
 
 http://tracker.yoshi210.com:6969/announce
 
-http://tracker.zerobytes.xyz:1337/announce
+http://tracker2.dler.org:80/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -221,8 +211,6 @@ udp://85.17.19.180:80/announce
 udp://89.234.156.205:80/announce
 
 udp://9.rarbg.com:2710/announce
-
-udp://9.rarbg.com:2730/announce
 
 udp://9.rarbg.com:2810/announce
 
