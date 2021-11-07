@@ -98,8 +98,6 @@ udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.fatkhoala.org:13740/announce
