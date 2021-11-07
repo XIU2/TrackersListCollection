@@ -10,8 +10,6 @@ http://all4nothin.net:80/announce.php
 
 http://bt.okmp3.ru:2710/announce
 
-http://fosstorrents.com:6969/announce
-
 http://fxtt.ru:80/announce
 
 http://kinorun.com:80/announce.php
@@ -33,6 +31,8 @@ http://opentracker.xyz:80/announce
 http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
+
+http://retracker.sevstar.net:2710/announce
 
 http://rt.optizone.ru:80/announce
 
@@ -58,6 +58,8 @@ http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
 
+http://tracker.breizh.pm:6969/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.org:6969/announce
@@ -80,7 +82,7 @@ http://tracker.tfile.me:80/announce
 
 http://tracker.torrentyorg.pl:80/announce
 
-http://tracker.trackerfix.com:80/announce
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -91,8 +93,6 @@ http://vps02.net.orel.ru:80/announce
 http://www.all4nothin.net:80/announce.php
 
 https://1337.abcvg.info:443/announce
-
-https://bittorrent.gongt.net:443/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
 
@@ -107,8 +107,6 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.iriseden.eu:443/announce
-
-https://tracker.iriseden.fr:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -126,8 +124,6 @@ https://tracker.tamersunion.org:443/announce
 
 https://trackme.theom.nz:443/announce
 
-https://w.wwwww.wtf:443/announce
-
 udp://212.1.226.176:2710/announce
 
 udp://52.58.128.163:6969/announce
@@ -138,19 +134,7 @@ udp://78.30.254.12:2710/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://9.rarbg.com:2880/announce
-
-udp://9.rarbg.com:2960/announce
-
-udp://9.rarbg.me:2710/announce
-
-udp://9.rarbg.me:2910/announce
-
-udp://9.rarbg.to:2710/announce
-
-udp://9.rarbg.to:2830/announce
-
-udp://9.rarbg.to:2990/announce
+udp://9.rarbg.com:2890/announce
 
 udp://91.216.110.52:451/announce
 
@@ -262,10 +246,6 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.fatkhoala.org:13710/announce
 
-udp://tracker.fatkhoala.org:13740/announce
-
-udp://tracker.fatkhoala.org:13750/announce
-
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.haynet.io:6969/announce
@@ -287,10 +267,6 @@ udp://tracker.ololosh.space:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
-
-udp://tracker.tallpenguin.org:15730/announce
-
-udp://tracker.tallpenguin.org:15770/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -323,8 +299,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.lelux.fi:6969/announce
-
-udp://u.wwwww.wtf:1/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
