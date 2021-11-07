@@ -8,9 +8,9 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://all4nothin.net:80/announce.php
 
-http://atrack.pow7.com:80/announce
-
 http://bt.okmp3.ru:2710/announce
+
+http://fosstorrents.com:6969/announce
 
 http://fxtt.ru:80/announce
 
@@ -30,17 +30,11 @@ http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
 
-http://p4p.arenabg.com:1337/announce
-
 http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
-http://retracker.spark-rostov.ru:80/announce
-
 http://rt.optizone.ru:80/announce
-
-http://secure.pow7.com:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -50,13 +44,11 @@ http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
-http://t1.pow7.com:80/announce
-
 http://tk.nvacg.org:3333/announce
 
 http://torrent-team.net:80/announce.php
 
-http://torrentsmd.com:8080/announce
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://torrentzilla.org:80/announce
 
@@ -64,13 +56,7 @@ http://torrentzilla.org:80/announce.php
 
 http://tr.cili001.com:8070/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tracker.birkenwald.de:6969/announce
-
-http://tracker.bittor.pw:1337/announce
-
-http://tracker.breizh.pm:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -80,9 +66,9 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.internetwarriors.net:1337/announce
-
 http://tracker.ipv6tracker.ru:80/announce
+
+http://tracker.loadbt.com:6969/announce
 
 http://tracker.moeking.me:6969/announce
 
@@ -95,8 +81,6 @@ http://tracker.tfile.me:80/announce
 http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.trackerfix.com:80/announce
-
-http://tracker.yoshi210.com:6969/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -112,15 +96,11 @@ https://bittorrent.gongt.net:443/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
 
-https://open.kickasstracker.com:443/announce
-
 https://opentracker.xyz:443/announce
 
 https://tr.ready4.icu:443/announce
 
 https://tr.torland.ga:443/announce
-
-https://tracker.bt-hash.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
