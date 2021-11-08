@@ -12,6 +12,10 @@ http://all4nothin.net:80/announce.php
 
 http://bt.okmp3.ru:2710/announce
 
+http://fosstorrents.com:6969/announce
+
+http://freetracker.top:11450/announce
+
 http://fxtt.ru:80/announce
 
 http://kinorun.com:80/announce.php
@@ -35,6 +39,8 @@ http://p4p.arenabg.com:1337/announce
 http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
+
+http://retracker.joxnet.ru:80/announce
 
 http://rt.optizone.ru:80/announce
 
@@ -90,8 +96,6 @@ http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker2.dler.org:80/announce
 
 http://trackme.theom.nz:80/announce
@@ -144,7 +148,7 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://78.30.254.12:2710/announce
 
-udp://9.rarbg.com:2750/announce
+udp://9.rarbg.com:2740/announce
 
 udp://9.rarbg.com:2810/announce
 
