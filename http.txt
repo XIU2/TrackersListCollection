@@ -10,6 +10,8 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://all4nothin.net:80/announce.php
 
+http://bt.ipfs.ga:2095/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://fosstorrents.com:6969/announce
@@ -34,13 +36,9 @@ http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
 
-http://p4p.arenabg.com:1337/announce
-
 http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
-
-http://retracker.joxnet.ru:80/announce
 
 http://rt.optizone.ru:80/announce
 
@@ -66,8 +64,6 @@ http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
 
-http://tracker.breizh.pm:6969/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.org:6969/announce
@@ -80,13 +76,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
 
-http://tracker.loadbt.com:6969/announce
-
 http://tracker.moeking.me:6969/announce
 
 http://tracker.noobsubs.net:80/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
