@@ -12,7 +12,11 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://openbittorrent.com:80/announce
+
 http://opentracker.xyz:80/announce
+
+http://p4p.arenabg.com:1337/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -51,8 +55,6 @@ https://tr.ready4.icu:443/announce
 https://tr.torland.ga:443/announce
 
 https://tracker.imgoingto.icu:443/announce
-
-https://tracker.iriseden.eu:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -102,8 +104,6 @@ udp://movies.zsw.ca:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.stealth.si:80/announce
-
 udp://open.tracker.cl:1337/announce
 
 udp://opentor.org:2710/announce
@@ -111,8 +111,6 @@ udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
-
-udp://retracker.netbynet.ru:2710/announce
 
 udp://thetracker.org:80/announce
 
@@ -163,6 +161,8 @@ udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://vibe.community:6969/announce
 
