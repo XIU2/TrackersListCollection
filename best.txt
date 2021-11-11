@@ -1,7 +1,5 @@
 http://all4nothin.net:80/announce.php
 
-http://freetracker.top:11450/announce
-
 http://kinorun.com:80/announce.php
 
 http://masters-tb.com:80/announce.php
@@ -15,8 +13,6 @@ http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
 
 http://opentracker.xyz:80/announce
-
-http://p4p.arenabg.com:1337/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -52,9 +48,13 @@ https://opentracker.xyz:443/announce
 
 https://tr.ready4.icu:443/announce
 
+https://tr.torland.ga:443/announce
+
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.kuroy.me:443/announce
+
+https://tracker.lilithraws.cf:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
