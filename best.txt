@@ -126,6 +126,8 @@ udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
+udp://tracker.auctor.tv:6969/announce
+
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce

@@ -1,5 +1,7 @@
 http://1337.abcvg.info:80/announce
 
+http://78.30.254.12:2710/announce
+
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2001:470:1:189:0:1:2:3]:6969/announce
@@ -9,6 +11,8 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 http://all4nothin.net:80/announce.php
 
 http://bt.okmp3.ru:2710/announce
+
+http://fosstorrents.com:6969/announce
 
 http://fxtt.ru:80/announce
 
@@ -28,8 +32,6 @@ http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
 
-http://pow7.com:80/announce
-
 http://retracker.hotplug.ru:2710/announce
 
 http://retracker.sevstar.net:2710/announce
@@ -47,8 +49,6 @@ http://t.overflow.biz:6969/announce
 http://tk.nvacg.org:3333/announce
 
 http://torrent-team.net:80/announce.php
-
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://torrentzilla.org:80/announce
 
@@ -110,6 +110,8 @@ https://tracker.imgoingto.icu:443/announce
 
 https://tracker.iriseden.eu:443/announce
 
+https://tracker.iriseden.fr:443/announce
+
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lelux.fi:443/announce
@@ -140,7 +142,7 @@ udp://78.30.254.12:2710/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://9.rarbg.com:2940/announce
+udp://9.rarbg.com:2880/announce
 
 udp://91.216.110.52:451/announce
 
@@ -237,6 +239,8 @@ udp://tracker-de.ololosh.space:6969/announce
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
+
+udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.beeimg.com:6969/announce
 
