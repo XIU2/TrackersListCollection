@@ -12,6 +12,8 @@ http://all4nothin.net:80/announce.php
 
 http://bt.okmp3.ru:2710/announce
 
+http://fosstorrents.com:6969/announce
+
 http://kinorun.com:80/announce.php
 
 http://masters-tb.com:80/announce.php
@@ -28,7 +30,11 @@ http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
 
+http://pow7.com:80/announce
+
 http://retracker.hotplug.ru:2710/announce
+
+http://retracker.sevstar.net:2710/announce
 
 http://rt.optizone.ru:80/announce
 
@@ -62,6 +68,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
 
+http://tracker.loadbt.com:6969/announce
+
 http://tracker.moeking.me:6969/announce
 
 http://tracker.noobsubs.net:80/announce
@@ -74,11 +82,7 @@ http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker2.dler.org:80/announce
-
-http://tracker4.itzmx.com:2710/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -99,6 +103,8 @@ https://tr.torland.ga:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.imgoingto.icu:443/announce
+
+https://tracker.iriseden.eu:443/announce
 
 https://tracker.iriseden.fr:443/announce
 
@@ -132,9 +138,9 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://78.30.254.12:2710/announce
 
-udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2760/announce
 
-udp://9.rarbg.com:2910/announce
+udp://9.rarbg.com:2810/announce
 
 udp://91.216.110.52:451/announce
 
