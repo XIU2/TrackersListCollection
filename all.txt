@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://78.30.254.12:2710/announce
-
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2001:470:1:189:0:1:2:3]:6969/announce
@@ -23,8 +21,6 @@ http://milanesitracker.tekcities.com:80/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
 
@@ -76,8 +72,6 @@ http://tracker.tfile.me:80/announce
 
 http://tracker.torrentyorg.pl:80/announce
 
-http://tracker.zerobytes.xyz:1337/announce
-
 http://tracker2.dler.org:80/announce
 
 http://trackme.theom.nz:80/announce
@@ -112,8 +106,6 @@ https://tracker.lelux.fi:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
-https://tracker.loligirl.cn:443/announce
-
 https://tracker.madassnews.net:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -136,9 +128,9 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://78.30.254.12:2710/announce
 
-udp://9.rarbg.com:2730/announce
-
 udp://9.rarbg.com:2810/announce
+
+udp://9.rarbg.com:2940/announce
 
 udp://91.216.110.52:451/announce
 
