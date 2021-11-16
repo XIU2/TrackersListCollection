@@ -34,8 +34,6 @@ http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
-http://retracker.sevstar.net:2710/announce
-
 http://rt.optizone.ru:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -83,8 +81,6 @@ http://tracker.torrentyorg.pl:80/announce
 http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker2.dler.org:80/announce
-
-http://tracker4.itzmx.com:2710/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -140,7 +136,7 @@ udp://78.30.254.12:2710/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://9.rarbg.com:2850/announce
+udp://9.rarbg.com:2820/announce
 
 udp://91.216.110.52:451/announce
 
