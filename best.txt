@@ -18,8 +18,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://tk.nvacg.org:3333/announce
-
 http://torrent-team.net:80/announce.php
 
 http://torrentzilla.org:80/announce
