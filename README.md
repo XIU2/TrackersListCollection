@@ -119,14 +119,6 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 ****
 
-#### Xdown:
-
-> <small>_**https://xdown.org**_</small>
-
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-14.png" width="70%">
-
-****
-
 ### Tracker Source
 
 This project brings together the following list of public trackers:
