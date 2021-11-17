@@ -10,8 +10,6 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://all4nothin.net:80/announce.php
 
-http://bt.okmp3.ru:2710/announce
-
 http://fxtt.ru:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
@@ -36,6 +34,8 @@ http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
+http://retracker.joxnet.ru:80/announce
+
 http://retracker.sevstar.net:2710/announce
 
 http://rt.optizone.ru:80/announce
@@ -45,8 +45,6 @@ http://share.camoe.cn:8080/announce
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
-
-http://t.overflow.biz:6969/announce
 
 http://tk.nvacg.org:3333/announce
 
@@ -80,8 +78,6 @@ http://tracker.moeking.me:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.tfile.me:80/announce
@@ -89,6 +85,8 @@ http://tracker.tfile.me:80/announce
 http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -144,9 +142,9 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://78.30.254.12:2710/announce
 
-udp://9.rarbg.com:2790/announce
-
 udp://9.rarbg.com:2810/announce
+
+udp://9.rarbg.com:2830/announce
 
 udp://91.216.110.52:451/announce
 
@@ -177,6 +175,8 @@ udp://bubu.mapfactor.com:6969/announce
 udp://camera.lei001.com:6969/announce
 
 udp://code2chicken.nl:6969/announce
+
+udp://concen.org:6969/announce
 
 udp://cutiegirl.ru:6969/announce
 
