@@ -34,6 +34,8 @@ http://opentracker.xyz:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
+http://retracker.sevstar.net:2710/announce
+
 http://rt.optizone.ru:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -43,6 +45,8 @@ http://t.acg.rip:6699/announce
 http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
+
+http://tk.nvacg.org:3333/announce
 
 http://torrent-team.net:80/announce.php
 
@@ -68,15 +72,23 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
 
+http://tracker.loadbt.com:6969/announce
+
 http://tracker.moeking.me:6969/announce
 
 http://tracker.noobsubs.net:80/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.tfile.me:80/announce
 
 http://tracker.torrentyorg.pl:80/announce
+
+http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -130,9 +142,9 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://78.30.254.12:2710/announce
 
-udp://9.rarbg.com:2800/announce
-
 udp://9.rarbg.com:2810/announce
+
+udp://9.rarbg.com:2890/announce
 
 udp://91.216.110.52:451/announce
 
@@ -149,8 +161,6 @@ udp://[2a0f:e586:f:f::220]:6969/announce
 udp://abufinzio.monocul.us:6969/announce
 
 udp://admin.videoenpoche.info:6969/announce
-
-udp://app.icon256.com:8000/announce
 
 udp://bclearning.top:6969/announce
 
@@ -179,6 +189,8 @@ udp://exodus.desync.com:6969/announce
 udp://fe.dealclub.de:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
@@ -248,6 +260,8 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
+udp://tracker.fatkhoala.org:13710/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.haynet.io:6969/announce
@@ -283,6 +297,8 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.uw0.xyz:6969/announce
+
+udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 

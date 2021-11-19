@@ -12,6 +12,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://openbittorrent.com:80/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
