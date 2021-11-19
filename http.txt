@@ -32,9 +32,9 @@ http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
 
-http://retracker.hotplug.ru:2710/announce
+http://pow7.com:80/announce
 
-http://retracker.sevstar.net:2710/announce
+http://retracker.hotplug.ru:2710/announce
 
 http://rt.optizone.ru:80/announce
 
@@ -78,8 +78,6 @@ http://tracker.moeking.me:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.tfile.me:80/announce
@@ -88,9 +86,9 @@ http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker2.dler.org:80/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -103,8 +101,6 @@ https://1337.abcvg.info:443/announce
 https://bittorrent.gongt.net:443/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
-
-https://opentracker.xyz:443/announce
 
 https://tr.ready4.icu:443/announce
 
@@ -127,6 +123,8 @@ https://tracker.madassnews.net:443/announce
 https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
+
+https://tracker.parrotsec.org:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
