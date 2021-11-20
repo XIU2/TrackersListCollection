@@ -96,6 +96,8 @@ udp://movies.zsw.ca:6969/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://open.stealth.si:80/announce
+
 udp://open.tracker.cl:1337/announce
 
 udp://opentor.org:2710/announce
@@ -136,8 +138,6 @@ udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.pomf.se:80/announce
@@ -155,10 +155,6 @@ udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
-
-udp://tracker2.dler.org:80/announce
-
-udp://u.wwwww.wtf:1/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
