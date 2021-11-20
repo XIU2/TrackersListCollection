@@ -34,6 +34,8 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.nucozer-tracker.ml:2710/announce
+
 http://tracker.tfile.me:80/announce
 
 http://tracker.torrentyorg.pl:80/announce
