@@ -30,11 +30,11 @@ _Those who are interested can download and try **[ubuntu-20.04.torrent](https://
 
 ****
 
-### Updated: 2021-11-22
+### Updated: 2021-11-23
 
 _These lists are updated every 8 hours !_
 
-- **BEST Tracker list:** (86 trackers)  
+- **BEST Tracker list:** (85 trackers)  
  _**https://trackerslist.com/best.txt**_  
 - **ALL Tracker list:** (162 trackers)  
  _**https://trackerslist.com/all.txt**_  
