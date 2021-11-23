@@ -2,6 +2,8 @@ http://all4nothin.net:80/announce.php
 
 http://buny.uk:6969/announce
 
+http://kinorun.com:80/announce.php
+
 http://masters-tb.com:80/announce.php
 
 http://mediaclub.tv:80/announce.php
@@ -20,6 +22,12 @@ http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
 
+http://torrent-team.net:80/announce.php
+
+http://torrentzilla.org:80/announce
+
+http://torrentzilla.org:80/announce.php
+
 http://tr.cili001.com:8070/announce
 
 http://tracker.files.fm:6969/announce
@@ -27,6 +35,10 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+http://tracker.tfile.co:80/announce
+
+http://tracker.tfile.me:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -117,6 +129,8 @@ udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
+
+udp://tracker.doko.moe:6969/announce
 
 udp://tracker.haynet.io:6969/announce
 
