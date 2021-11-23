@@ -48,8 +48,6 @@ https://1337.abcvg.info:443/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
 
-https://qbittorrent-tracker.120181311.xyz:443/announce
-
 https://tr.ready4.icu:443/announce
 
 https://tracker.imgoingto.icu:443/announce
@@ -110,8 +108,6 @@ udp://retracker.netbynet.ru:2710/announce
 
 udp://thetracker.org:80/announce
 
-udp://tracker-de.ololosh.space:6969/announce
-
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -159,6 +155,8 @@ udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://www.torrent.eu.org:451/announce
 
