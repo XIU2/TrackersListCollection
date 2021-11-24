@@ -1,5 +1,7 @@
 http://1337.abcvg.info:80/announce
 
+http://78.30.254.12:2710/announce
+
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2001:470:1:189:0:1:2:3]:6969/announce
@@ -38,8 +40,6 @@ http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
-http://retracker.sevstar.net:2710/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
@@ -71,8 +71,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
-
-http://tracker.loadbt.com:6969/announce
 
 http://tracker.moeking.me:6969/announce
 
