@@ -18,6 +18,8 @@ http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
 
+http://p4p.arenabg.com:1337/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
@@ -67,8 +69,6 @@ https://trackme.theom.nz:443/announce
 udp://9.rarbg.com:2810/announce
 
 udp://abufinzio.monocul.us:6969/announce
-
-udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
