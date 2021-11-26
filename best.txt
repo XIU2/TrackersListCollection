@@ -132,8 +132,6 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
-udp://tracker.haynet.io:6969/announce
-
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.leech.ie:1337/announce

@@ -12,6 +12,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://buny.uk:6969/announce
 
+http://fosstorrents.com:6969/announce
+
 http://fxtt.ru:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
@@ -36,6 +38,8 @@ http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
+http://retracker.joxnet.ru:80/announce
+
 http://retracker.sevstar.net:2710/announce
 
 http://rt.optizone.ru:80/announce
@@ -50,13 +54,9 @@ http://t.overflow.biz:6969/announce
 
 http://torrent-team.net:80/announce.php
 
-http://torrenttracker.nwc.acsalaska.net:6969/announce
-
 http://torrentzilla.org:80/announce
 
 http://torrentzilla.org:80/announce.php
-
-http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -71,6 +71,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
+
+http://tracker.loadbt.com:6969/announce
 
 http://tracker.moeking.me:6969/announce
 
@@ -132,9 +134,9 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://78.30.254.12:2710/announce
 
-udp://9.rarbg.com:2780/announce
-
 udp://9.rarbg.com:2810/announce
+
+udp://9.rarbg.com:2930/announce
 
 udp://91.216.110.52:451/announce
 
@@ -253,8 +255,6 @@ udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.haynet.io:6969/announce
-
-udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.jordan.im:6969/announce
 
