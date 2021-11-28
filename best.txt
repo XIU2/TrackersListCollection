@@ -14,6 +14,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://openbittorrent.com:80/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -58,8 +60,6 @@ https://tracker.imgoingto.icu:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
-https://tracker.nanoha.org:443/announce
-
 https://tracker.nitrix.me:443/announce
 
 https://tracker.parrotsec.org:443/announce
@@ -71,8 +71,6 @@ https://trackme.theom.nz:443/announce
 udp://9.rarbg.com:2810/announce
 
 udp://abufinzio.monocul.us:6969/announce
-
-udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
@@ -87,8 +85,6 @@ udp://escorts.subventas.com:53/announce
 udp://exodus.desync.com:6969/announce
 
 udp://fe.dealclub.de:6969/announce
-
-udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
@@ -112,9 +108,9 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://retracker.lanta-net.ru:2710/announce
-
 udp://retracker.netbynet.ru:2710/announce
+
+udp://retracker.sevstar.net:2710/announce
 
 udp://thetracker.org:80/announce
 
@@ -132,11 +128,15 @@ udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.leech.ie:1337/announce
+
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
