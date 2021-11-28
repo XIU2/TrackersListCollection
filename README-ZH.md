@@ -89,7 +89,7 @@ _以下列表每 8 小时更新一次！_
 
 复制 Aria2 格式 Tracker 文件中内容后，粘贴到配置文件 `aria2.conf` 中 `bt-tracker=` 的后面，示例如下：
 ``` ini
-bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
+bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 ```
 > **注意：** 粘贴前请先删除旧 Tracker 内容，避免格式错误！
 

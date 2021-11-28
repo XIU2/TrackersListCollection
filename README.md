@@ -78,7 +78,7 @@ _These lists are updated every 8 hours !_
 
 After copying the contents of the Aria2 Format Tracker file, paste it into the `bt-tracker=` tail in the `aria2.conf` configuration file. Example:
 ``` ini
-bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
+bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 ```
 > **Note:** Please delete the old Tracker content before pasting to avoid formatting errors!
 
