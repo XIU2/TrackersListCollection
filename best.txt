@@ -1,7 +1,5 @@
 http://all4nothin.net:80/announce.php
 
-http://buny.uk:6969/announce
-
 http://kinorun.com:80/announce.php
 
 http://masters-tb.com:80/announce.php
@@ -47,8 +45,6 @@ http://www.all4nothin.net:80/announce.php
 https://1337.abcvg.info:443/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
-
-https://tr.burnabyhighstar.com:443/announce
 
 https://tr.highstar.shop:443/announce
 
@@ -133,6 +129,8 @@ udp://tracker.doko.moe:6969/announce
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.leech.ie:1337/announce
+
+udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
