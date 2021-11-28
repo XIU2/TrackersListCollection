@@ -48,8 +48,6 @@ https://1337.abcvg.info:443/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
 
-https://t.btcland.xyz:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.highstar.shop:443/announce
