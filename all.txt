@@ -1,5 +1,7 @@
 http://1337.abcvg.info:80/announce
 
+http://78.30.254.12:2710/announce
+
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2001:470:1:189:0:1:2:3]:6969/announce
@@ -11,6 +13,10 @@ http://all4nothin.net:80/announce.php
 http://bt.okmp3.ru:2710/announce
 
 http://cn.pcfreetime.com:6969/announce
+
+http://fosstorrents.com:6969/announce
+
+http://fxtt.ru:80/announce
 
 http://kinorun.com:80/announce.php
 
@@ -28,9 +34,11 @@ http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
 
-http://retracker.hotplug.ru:2710/announce
+http://p4p.arenabg.com:1337/announce
 
-http://retracker.joxnet.ru:80/announce
+http://pow7.com:80/announce
+
+http://retracker.hotplug.ru:2710/announce
 
 http://rt.optizone.ru:80/announce
 
@@ -43,6 +51,8 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://torrent-team.net:80/announce.php
+
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://torrentzilla.org:80/announce
 
@@ -64,6 +74,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
 
+http://tracker.loadbt.com:6969/announce
+
 http://tracker.moeking.me:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
@@ -72,9 +84,13 @@ http://tracker.pcfreetime.com:6969/announce
 
 http://tracker.tfile.me:80/announce
 
+http://tracker.zerobytes.xyz:1337/announce
+
 http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -132,8 +148,6 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://78.30.254.12:2710/announce
 
-udp://9.rarbg.com:2720/announce
-
 udp://9.rarbg.com:2810/announce
 
 udp://91.216.110.52:451/announce
@@ -182,6 +196,8 @@ udp://fe.dealclub.de:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
+udp://ipv4.tracker.harry.lu:80/announce
+
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
@@ -207,6 +223,8 @@ udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -237,6 +255,8 @@ udp://tracker.bitsearch.to:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
+
+udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.dix.tf:6969/announce
 

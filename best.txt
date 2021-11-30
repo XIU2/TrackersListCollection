@@ -14,13 +14,13 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://openbittorrent.com:80/announce
-
 http://opentracker.xyz:80/announce
 
 http://p4p.arenabg.com:1337/announce
 
 http://share.camoe.cn:8080/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://torrent-team.net:80/announce.php
 
@@ -84,6 +84,8 @@ udp://exodus.desync.com:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
+udp://ipv4.tracker.harry.lu:80/announce
+
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
@@ -125,8 +127,6 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.dler.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
