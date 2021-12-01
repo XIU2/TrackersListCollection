@@ -12,7 +12,11 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://openbittorrent.com:80/announce
+
 http://opentracker.xyz:80/announce
+
+http://p4p.arenabg.com:1337/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -66,6 +70,8 @@ udp://abufinzio.monocul.us:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
+udp://bubu.mapfactor.com:6969/announce
+
 udp://code2chicken.nl:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
@@ -78,13 +84,9 @@ udp://exodus.desync.com:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
-
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
-
-udp://jeremylee.sh:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
 
