@@ -1,5 +1,7 @@
 http://1337.abcvg.info:80/announce
 
+http://78.30.254.12:2710/announce
+
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2001:470:1:189:0:1:2:3]:6969/announce
@@ -9,6 +11,8 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 http://all4nothin.net:80/announce.php
 
 http://bt.okmp3.ru:2710/announce
+
+http://fosstorrents.com:6969/announce
 
 http://fxtt.ru:80/announce
 
@@ -31,8 +35,6 @@ http://opentracker.xyz:80/announce
 http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
-
-http://retracker.sevstar.net:2710/announce
 
 http://rt.optizone.ru:80/announce
 
@@ -62,17 +64,19 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.files.fm:6969/announce
 
+http://tracker.gbitt.info:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
+
+http://tracker.loadbt.com:6969/announce
 
 http://tracker.moeking.me:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.tfile.me:80/announce
-
-http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
@@ -94,6 +98,8 @@ https://t1.tokhmi.xyz:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
+https://tr.doogh.club:443/announce
+
 https://tr.fuckbitcoin.xyz:443/announce
 
 https://tr.highstar.shop:443/announce
@@ -113,8 +119,6 @@ https://tracker.kuroy.me:443/announce
 https://tracker.lelux.fi:443/announce
 
 https://tracker.lilithraws.cf:443/announce
-
-https://tracker.madassnews.net:443/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -185,8 +189,6 @@ udp://inferno.demonoid.is:3391/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
-
-udp://jeremylee.sh:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
 

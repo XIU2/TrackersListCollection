@@ -30,6 +30,8 @@ http://tr.cili001.com:8070/announce
 
 http://tracker.files.fm:6969/announce
 
+http://tracker.gbitt.info:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.tfile.co:80/announce
@@ -65,8 +67,6 @@ udp://9.rarbg.com:2810/announce
 udp://abufinzio.monocul.us:6969/announce
 
 udp://bt2.archive.org:6969/announce
-
-udp://bubu.mapfactor.com:6969/announce
 
 udp://code2chicken.nl:6969/announce
 
