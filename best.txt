@@ -12,8 +12,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://openbittorrent.com:80/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -33,6 +31,8 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+http://tracker.mywaifu.best:6969/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -54,6 +54,8 @@ https://tracker.imgoingto.icu:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
+https://tracker.nanoha.org:443/announce
+
 https://tracker.nitrix.me:443/announce
 
 https://tracker.parrotsec.org:443/announce
@@ -66,7 +68,11 @@ udp://9.rarbg.com:2810/announce
 
 udp://abufinzio.monocul.us:6969/announce
 
+udp://bt1.archive.org:6969/announce
+
 udp://bt2.archive.org:6969/announce
+
+udp://bubu.mapfactor.com:6969/announce
 
 udp://code2chicken.nl:6969/announce
 
@@ -119,6 +125,8 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.dler.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
