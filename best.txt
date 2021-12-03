@@ -48,7 +48,11 @@ https://1337.abcvg.info:443/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
 
+https://tr.burnabyhighstar.com:443/announce
+
 https://tr.fuckbitcoin.xyz:443/announce
+
+https://tr.highstar.shop:443/announce
 
 https://tr.ready4.icu:443/announce
 
@@ -67,8 +71,6 @@ https://tracker.tamersunion.org:443/announce
 https://trackme.theom.nz:443/announce
 
 udp://9.rarbg.com:2810/announce
-
-udp://abufinzio.monocul.us:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
