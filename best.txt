@@ -1,5 +1,7 @@
 http://all4nothin.net:80/announce.php
 
+http://bt.okmp3.ru:2710/announce
+
 http://kinorun.com:80/announce.php
 
 http://masters-tb.com:80/announce.php
@@ -69,6 +71,8 @@ https://tracker.parrotsec.org:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://trackme.theom.nz:443/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
 
