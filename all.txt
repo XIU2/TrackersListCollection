@@ -12,8 +12,6 @@ http://bt.okmp3.ru:2710/announce
 
 http://filetracker.xyz:11451/announce
 
-http://fxtt.ru:80/announce
-
 http://kinorun.com:80/announce.php
 
 http://masters-tb.com:80/announce.php
@@ -26,17 +24,11 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
-
-http://openbittorrent.com:80/announce
-
 http://opentracker.xyz:80/announce
-
-http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
-http://rt.optizone.ru:80/announce
+http://retracker.joxnet.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -81,8 +73,6 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.tfile.me:80/announce
 
 http://tracker.zerobytes.xyz:1337/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -230,6 +220,8 @@ udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
 
+udp://tr2.ysagin.top:2710/announce
+
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -245,6 +237,8 @@ udp://tracker.bitsearch.to:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
+
+udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.dix.tf:6969/announce
 
