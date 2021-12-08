@@ -1,5 +1,11 @@
 http://1337.abcvg.info:80/announce
 
+http://207.241.226.111:6969/announce
+
+http://207.241.231.226:6969/announce
+
+http://78.30.254.12:2710/announce
+
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2001:470:1:189:0:1:2:3]:6969/announce
@@ -9,6 +15,8 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 http://all4nothin.net:80/announce.php
 
 http://bt.okmp3.ru:2710/announce
+
+http://fosstorrents.com:6969/announce
 
 http://fxtt.ru:80/announce
 
@@ -26,7 +34,13 @@ http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
 
+http://pow7.com:80/announce
+
 http://retracker.hotplug.ru:2710/announce
+
+http://retracker.sevstar.net:2710/announce
+
+http://rt.optizone.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -54,19 +68,13 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
 
-http://tracker.loadbt.com:6969/announce
-
 http://tracker.moeking.me:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker2.dler.org:80/announce
-
-http://tracker4.itzmx.com:2710/announce
 
 http://trackme.theom.nz:80/announce
 
