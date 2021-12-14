@@ -2,6 +2,8 @@ http://all4nothin.net:80/announce.php
 
 http://bt.okmp3.ru:2710/announce
 
+http://fosstorrents.com:6969/announce
+
 http://masters-tb.com:80/announce.php
 
 http://mediaclub.tv:80/announce.php
@@ -74,8 +76,6 @@ udp://9.rarbg.com:2810/announce
 
 udp://bt.oiyo.tk:6969/announce
 
-udp://bubu.mapfactor.com:6969/announce
-
 udp://code2chicken.nl:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
@@ -104,11 +104,13 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://retracker.netbynet.ru:2710/announce
+udp://retracker.lanta-net.ru:2710/announce
 
 udp://retracker.sevstar.net:2710/announce
 
 udp://thetracker.org:80/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x.tf:6969/announce
 
@@ -124,11 +126,11 @@ udp://tracker.dix.tf:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
-
-udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.moeking.eu.org:6969/announce
 
@@ -150,13 +152,9 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker0.ufibox.com:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
