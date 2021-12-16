@@ -1,10 +1,6 @@
 http://1337.abcvg.info:80/announce
 
-http://207.241.226.111:6969/announce
-
 http://207.241.231.226:6969/announce
-
-http://78.30.254.12:2710/announce
 
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
@@ -16,6 +12,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://fxtt.ru:80/announce
 
+http://home.yxgz.vip:6969/announce
+
 http://mediaclub.tv:80/announce.php
 
 http://milanesitracker.tekcities.com:80/announce
@@ -26,13 +24,13 @@ http://open.acgnxtracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
 
+http://openbittorrent.com:80/announce
+
 http://opentracker.xyz:80/announce
 
 http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
-
-http://retracker.sevstar.net:2710/announce
 
 http://rt.optizone.ru:80/announce
 
@@ -70,9 +68,9 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker2.dler.org:80/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -138,7 +136,7 @@ udp://78.30.254.12:2710/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://9.rarbg.com:2910/announce
+udp://9.rarbg.com:2900/announce
 
 udp://91.216.110.52:451/announce
 
@@ -224,8 +222,6 @@ udp://tr.cili001.com:8070/announce
 
 udp://tr2.ysagin.top:2710/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
@@ -268,6 +264,8 @@ udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
+udp://tracker.openbittorrent.com:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.pomf.se:80/announce
@@ -281,6 +279,8 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
