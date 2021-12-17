@@ -114,11 +114,15 @@ udp://tracker.dix.tf:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.haynet.io:6969/announce
+
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.moeking.eu.org:6969/announce
+
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
