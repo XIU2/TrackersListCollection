@@ -23,8 +23,8 @@ The more people use Tracker, the faster the BT download speed, **so please recom
 
 _The figure below shows the BT download speed after using Tracker. (ALL Tracker list)_  
 
-![BitComet](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-01.png)
-![qBittorrentEE](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-02.png)
+![BitComet](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-01.png)
+![qBittorrentEE](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-02.png)
 
 _Those who are interested can download and try **[ubuntu-20.04.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.04.3-desktop-amd64.iso.torrent)** , this resource has thousands of people worldwide to provide uploads , So most people download fast!_
 
@@ -45,11 +45,11 @@ _Those who are interested can download and try **[ubuntu-20.04.torrent](https://
 ****
 
 - **BEST Tracker list:**  
- _**https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/best.txt**_  
+ _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
 - **ALL Tracker list:**  
- _**https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/all.txt**_  
+ _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
 - **HTTP(S) Tracker list:**  
- _**https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/http.txt**_  
+ _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/http.txt**_  
 
 </details>
 
@@ -64,13 +64,13 @@ _Those who are interested can download and try **[ubuntu-20.04.torrent](https://
 
 - **BEST Tracker list:**  
  _**[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)**_  
- _**[https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/best_aria2.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/best_aria2.txt)**_  
+ _**[https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best_aria2.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best_aria2.txt)**_  
 - **ALL Tracker list:**  
  _**[https://trackerslist.com/all_aria2.txt](https://trackerslist.com/all_aria2.txt)**_  
- _**[https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/all_aria2.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/all_aria2.txt)**_  
+ _**[https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/all_aria2.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/all_aria2.txt)**_  
 - **HTTP(S) Tracker list:**  
  _**[https://trackerslist.com/http_aria2.txt](https://trackerslist.com/http_aria2.txt)**_  
-  _**[https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/http_aria2.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/http_aria2.txt)**_  
+  _**[https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/http_aria2.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/http_aria2.txt)**_  
 
 </details>
 
@@ -86,7 +86,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 
 > <small>_**http://www.bitcomet.com**_</small>
 
-<img src="https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-10.png" width="70%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-10.png" width="70%">
 
 ****
 
@@ -97,7 +97,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 
 After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
-<img src="https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-11.png" width="70%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-11.png" width="70%">
 
 ****
 
@@ -105,7 +105,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > <small>_**https://www.qbittorrent.org**_</small>
 
-<img src="https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-12.png" width="70%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-12.png" width="70%">
 
 ****
 
@@ -113,7 +113,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > <small>_**https://motrix.app**_</small>
 
-<img src="https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-13.png" width="70%">
+<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-13.png" width="70%">
 
 ****
 
