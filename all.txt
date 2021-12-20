@@ -16,10 +16,6 @@ http://bt.okmp3.ru:2710/announce
 
 http://buny.uk:6969/announce
 
-http://cn.pcfreetime.com:6969/announce
-
-http://fosstorrents.com:6969/announce
-
 http://fxtt.ru:80/announce
 
 http://home.yxgz.vip:6969/announce
@@ -42,7 +38,7 @@ http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
-http://retracker.sevstar.net:2710/announce
+http://retracker.joxnet.ru:80/announce
 
 http://rt.optizone.ru:80/announce
 
@@ -64,6 +60,8 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.files.fm:6969/announce
 
+http://tracker.gbitt.info:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
@@ -72,15 +70,11 @@ http://tracker.moeking.me:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
-
-http://tracker4.itzmx.com:2710/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -146,9 +140,9 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://78.30.254.12:2710/announce
 
-udp://9.rarbg.com:2780/announce
-
 udp://9.rarbg.com:2810/announce
+
+udp://9.rarbg.com:2980/announce
 
 udp://91.216.110.52:451/announce
 
@@ -315,6 +309,8 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.lelux.fi:6969/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
