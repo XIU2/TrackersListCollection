@@ -55,12 +55,12 @@ _有兴趣的可以下载 **[ubuntu-20.04.torrent](https://releases.ubuntu.com/2
 
 ****
 
-- **精选列表：**  
- _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
-- **完整列表：**  
+- **完整列表示例（末尾文件名可以改，哪个好用，用哪个）：**  
  _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
-- **HTTP(S)列表：**  
- _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/http.txt**_  
+ _**https://xcdn.loli.top/gh/XIU2/TrackersListCollection/all.txt**_  
+ _**https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/all.txt**_  
+ _**https://raw.fastgit.org/XIU2/TrackersListCollection/master/all.txt**_  
+ _**https://ghproxy.fsou.cc/https://github.com/XIU2/TrackersListCollection/blob/master/all.txt**_  
 
 </details>
 
@@ -75,13 +75,12 @@ _有兴趣的可以下载 **[ubuntu-20.04.torrent](https://releases.ubuntu.com/2
 
 - **精选列表：**  
  _**[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)**_  
- _**[https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best_aria2.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best_aria2.txt)**_  
 - **完整列表：**  
  _**[https://trackerslist.com/all_aria2.txt](https://trackerslist.com/all_aria2.txt)**_  
- _**[https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/all_aria2.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/all_aria2.txt)**_  
 - **HTTP(S)列表：**  
  _**[https://trackerslist.com/http_aria2.txt](https://trackerslist.com/http_aria2.txt)**_  
-  _**[https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/http_aria2.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/http_aria2.txt)**_  
+
+> 备用地址和上面的通用，只需要改一下末尾的文件名即可。
 
 </details>
 
