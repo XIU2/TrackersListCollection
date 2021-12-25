@@ -41,13 +41,13 @@ _有兴趣的可以下载 **[ubuntu-20.04.torrent](https://releases.ubuntu.com/2
 
 ****
 
-### 更新时间: 2021-12-25
+### 更新时间: 2021-12-26
 
 - **精选列表：**(84 个)  
  _**https://trackerslist.com/best.txt**_  
-- **完整列表：**(160 个)  
+- **完整列表：**(162 个)  
  _**https://trackerslist.com/all.txt**_  
-- **HTTP(S)列表：**(67 个)  
+- **HTTP(S)列表：**(70 个)  
  _**https://trackerslist.com/http.txt**_  
 
 <details>
