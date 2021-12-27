@@ -4,7 +4,7 @@ http://bt.okmp3.ru:2710/announce
 
 http://buny.uk:6969/announce
 
-http://fosstorrents.com:6969/announce
+http://home.yxgz.vip:6969/announce
 
 http://mediaclub.tv:80/announce.php
 
@@ -40,8 +40,6 @@ https://carbon-bonsai-621.appspot.com:443/announce
 
 https://t.btcland.xyz:443/announce
 
-https://t1.tokhmi.xyz:443/announce
-
 https://tp.m-team.cc:443/announce.php
 
 https://tr.burnabyhighstar.com:443/announce
@@ -76,6 +74,10 @@ udp://9.rarbg.com:2810/announce
 
 udp://abufinzio.monocul.us:6969/announce
 
+udp://bt1.archive.org:6969/announce
+
+udp://bt2.archive.org:6969/announce
+
 udp://code2chicken.nl:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
@@ -104,6 +106,8 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://thetracker.org:80/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
@@ -112,13 +116,13 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
+udp://tracker.bitsearch.to:1337/announce
+
 udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dix.tf:6969/announce
-
-udp://tracker.dler.com:6969/announce
 
 udp://tracker.jordan.im:6969/announce
 
@@ -128,8 +132,6 @@ udp://tracker.moeking.eu.org:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.monitorit4.me:6969/announce
-
 udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
@@ -138,15 +140,11 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.pomf.se:80/announce
 
-udp://tracker.srv00.com:6969/announce
-
 udp://tracker.sylphix.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
