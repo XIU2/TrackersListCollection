@@ -14,6 +14,8 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://fxtt.ru:80/announce
+
 http://home.yxgz.vip:6969/announce
 
 http://mediaclub.tv:80/announce.php
@@ -24,9 +26,9 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://opentracker.xyz:80/announce
+http://open.acgtracker.com:1096/announce
 
-http://reisub.nsupdate.info:6969/announce
+http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -60,6 +62,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
 
+http://tracker.loadbt.com:6969/announce
+
 http://tracker.moeking.me:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
@@ -67,6 +71,8 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -138,9 +144,9 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://78.30.254.12:2710/announce
 
-udp://9.rarbg.com:2790/announce
-
 udp://9.rarbg.com:2810/announce
+
+udp://9.rarbg.com:2820/announce
 
 udp://91.216.110.52:451/announce
 
@@ -301,6 +307,8 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.lelux.fi:6969/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
