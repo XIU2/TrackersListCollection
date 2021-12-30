@@ -4,8 +4,6 @@ http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
 
-http://78.30.254.12:2710/announce
-
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2001:470:1:189:0:1:2:3]:6969/announce
@@ -25,10 +23,6 @@ http://milanesitracker.tekcities.com:80/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
-
-http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -88,6 +82,8 @@ http://vps02.net.orel.ru:80/announce
 
 https://1337.abcvg.info:443/announce
 
+https://bittorrent.gongt.net:443/announce
+
 https://carbon-bonsai-621.appspot.com:443/announce
 
 https://t.btcland.xyz:443/announce
@@ -106,7 +102,7 @@ https://tr.ready4.icu:443/announce
 
 https://tr.torland.ga:443/announce
 
-https://tracker.cyber-hub.net:443/announce
+https://tracker.dnlab.net:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
