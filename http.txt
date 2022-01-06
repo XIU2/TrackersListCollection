@@ -14,10 +14,6 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://fosstorrents.com:6969/announce
-
-http://fxtt.ru:80/announce
-
 http://home.yxgz.vip:6969/announce
 
 http://mediaclub.tv:80/announce.php
@@ -31,8 +27,6 @@ http://open.acgnxtracker.com:80/announce
 http://open.acgtracker.com:1096/announce
 
 http://openbittorrent.com:80/announce
-
-http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -70,19 +64,13 @@ http://tracker.moeking.me:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
+http://tracker.nucozer-tracker.ml:2710/announce
 
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker1.itzmx.com:8080/announce
-
 http://tracker2.dler.org:80/announce
-
-http://tracker2.itzmx.com:6961/announce
-
-http://tracker3.itzmx.com:6961/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -105,8 +93,6 @@ https://tr.fuckbitcoin.xyz:443/announce
 https://tr.highstar.shop:443/announce
 
 https://tr.ready4.icu:443/announce
-
-https://tr.torland.ga:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 

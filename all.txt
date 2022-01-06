@@ -14,10 +14,6 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://fosstorrents.com:6969/announce
-
-http://fxtt.ru:80/announce
-
 http://home.yxgz.vip:6969/announce
 
 http://mediaclub.tv:80/announce.php
@@ -31,8 +27,6 @@ http://open.acgnxtracker.com:80/announce
 http://open.acgtracker.com:1096/announce
 
 http://openbittorrent.com:80/announce
-
-http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -70,19 +64,13 @@ http://tracker.moeking.me:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
+http://tracker.nucozer-tracker.ml:2710/announce
 
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker1.itzmx.com:8080/announce
-
 http://tracker2.dler.org:80/announce
-
-http://tracker2.itzmx.com:6961/announce
-
-http://tracker3.itzmx.com:6961/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -105,8 +93,6 @@ https://tr.fuckbitcoin.xyz:443/announce
 https://tr.highstar.shop:443/announce
 
 https://tr.ready4.icu:443/announce
-
-https://tr.torland.ga:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -142,9 +128,9 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://78.30.254.12:2710/announce
 
-udp://9.rarbg.com:2790/announce
-
 udp://9.rarbg.com:2810/announce
+
+udp://9.rarbg.com:2890/announce
 
 udp://91.216.110.52:451/announce
 
@@ -222,7 +208,11 @@ udp://retracker.netbynet.ru:2710/announce
 
 udp://retracker.sevstar.net:2710/announce
 
+udp://tr.bangumi.moe:6969/announce
+
 udp://tr.cili001.com:8070/announce
+
+udp://tr2.ysagin.top:2710/announce
 
 udp://tracker.0x.tf:6969/announce
 
@@ -272,8 +262,6 @@ udp://tracker.pomf.se:80/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.swateam.org.uk:2710/announce
-
 udp://tracker.sylphix.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
@@ -283,6 +271,8 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.yangxiaoguozi.cn:6969/announce
+
+udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
