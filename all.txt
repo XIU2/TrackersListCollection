@@ -12,8 +12,6 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://fosstorrents.com:6969/announce
-
 http://fxtt.ru:80/announce
 
 http://home.yxgz.vip:6969/announce
@@ -42,6 +40,8 @@ http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
 
+http://t.overflow.biz:6969/announce
+
 http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
@@ -62,17 +62,19 @@ http://tracker.loadbt.com:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.skyts.net:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker2.dler.org:80/announce
 
 http://vps02.net.orel.ru:80/announce
+
+https://1337.abcvg.info:443/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
 
@@ -83,6 +85,8 @@ https://tp.m-team.cc:443/announce.php
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.doogh.club:443/announce
+
+https://tr.fuckbitcoin.xyz:443/announce
 
 https://tr.highstar.shop:443/announce
 
@@ -120,9 +124,9 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://78.30.254.12:2710/announce
 
-udp://9.rarbg.com:2790/announce
-
 udp://9.rarbg.com:2810/announce
+
+udp://9.rarbg.com:2880/announce
 
 udp://91.216.110.52:451/announce
 
@@ -262,11 +266,7 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.zemoj.com:6969/announce
-
 udp://tracker.zerobytes.xyz:1337/announce
-
-udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -283,8 +283,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.lelux.fi:6969/announce
-
-udp://tsundere.pw:6969/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
