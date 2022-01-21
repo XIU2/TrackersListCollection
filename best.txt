@@ -1,5 +1,3 @@
-http://1337.abcvg.info:80/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://buny.uk:6969/announce
@@ -25,6 +23,8 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -56,8 +56,6 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker.vectahosting.eu:8443/announce
 
-https://trackme.theom.nz:443/announce
-
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
@@ -78,11 +76,7 @@ udp://mail.realliferpg.de:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://mts.tvbit.co:6969/announce
-
 udp://open.demonii.com:1337/announce
-
-udp://open.stealth.si:80/announce
 
 udp://open.tracker.cl:1337/announce
 
@@ -95,8 +89,6 @@ udp://pldm.ml:6969/announce
 udp://pow7.com:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
-
-udp://retracker.lanta-net.ru:2710/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
@@ -124,8 +116,6 @@ udp://tracker.dix.tf:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
@@ -149,6 +139,8 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker2.dler.com:80/announce
 
