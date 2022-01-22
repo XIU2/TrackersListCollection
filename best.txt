@@ -2,6 +2,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://buny.uk:6969/announce
 
+http://ftp.pet:7777/announce
+
 http://mediaclub.tv:80/announce.php
 
 http://milanesitracker.tekcities.com:80/announce
@@ -23,8 +25,6 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -74,8 +74,6 @@ udp://fe.dealclub.de:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
 
-udp://movies.zsw.ca:6969/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://open.tracker.cl:1337/announce
@@ -116,9 +114,13 @@ udp://tracker.dix.tf:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
+
+udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.moeking.eu.org:6969/announce
 
@@ -140,7 +142,7 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.zerobytes.xyz:1337/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
