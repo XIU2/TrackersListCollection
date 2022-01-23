@@ -16,8 +16,6 @@ http://buny.uk:6969/announce
 
 http://fosstorrents.com:6969/announce
 
-http://ftp.pet:7777/announce
-
 http://fxtt.ru:80/announce
 
 http://home.yxgz.vip:6969/announce
@@ -35,8 +33,6 @@ http://open.tracker.ink:6969/announce
 http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
-
-http://rt.optizone.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -100,6 +96,8 @@ https://tr.ready4.icu:443/announce
 
 https://tr.torland.ga:443/announce
 
+https://tracker.babico.name.tr:443/announce
+
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.imgoingto.icu:443/announce
@@ -122,8 +120,6 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker.vectahosting.eu:8443/announce
 
-https://trackme.theom.nz:443/announce
-
 udp://207.241.226.111:6969/announce
 
 udp://207.241.231.226:6969/announce
@@ -135,8 +131,6 @@ udp://52.58.128.163:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://78.30.254.12:2710/announce
-
-udp://9.rarbg.com:2800/announce
 
 udp://9.rarbg.com:2810/announce
 
@@ -184,6 +178,8 @@ udp://fe.dealclub.de:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
+udp://ipv6.tracker.monitorit4.me:6969/announce
+
 udp://mail.realliferpg.de:6969/announce
 
 udp://movies.zsw.ca:6969/announce
@@ -201,8 +197,6 @@ udp://open.tracker.cl:1337/announce
 udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
-
-udp://pldm.ml:6969/announce
 
 udp://pow7.com:80/announce
 
@@ -301,6 +295,8 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.lelux.fi:6969/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
