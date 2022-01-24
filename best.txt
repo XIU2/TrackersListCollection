@@ -54,6 +54,8 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker.vectahosting.eu:8443/announce
 
+https://tracker.yarr.pt:443/announce
+
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
@@ -69,8 +71,6 @@ udp://exodus.desync.com:6969/announce
 udp://fe.dealclub.de:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
-
-udp://mts.tvbit.co:6969/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -138,11 +138,13 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.zemoj.com:6969/announce
+
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker2.dler.com:80/announce
 
-udp://tracker6.lelux.fi:6969/announce
+udp://udp.yarr.pt:1337/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
