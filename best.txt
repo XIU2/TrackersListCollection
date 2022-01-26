@@ -1,3 +1,5 @@
+http://1337.abcvg.info:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://buny.uk:6969/announce
@@ -52,8 +54,6 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
-https://tracker.vectahosting.eu:8443/announce
-
 https://tracker.yarr.pt:443/announce
 
 https://trackme.theom.nz:443/announce
@@ -64,6 +64,10 @@ udp://9.rarbg.com:2810/announce
 
 udp://abufinzio.monocul.us:6969/announce
 
+udp://bt1.archive.org:6969/announce
+
+udp://bt2.archive.org:6969/announce
+
 udp://code2chicken.nl:6969/announce
 
 udp://engplus.ru:6969/announce
@@ -72,9 +76,9 @@ udp://exodus.desync.com:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
-udp://mail.realliferpg.de:6969/announce
+udp://ipv6.tracker.monitorit4.me:6969/announce
 
-udp://movies.zsw.ca:6969/announce
+udp://mail.realliferpg.de:6969/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -129,6 +133,8 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.moeking.eu.org:6969/announce
 
 udp://tracker.moeking.me:6969/announce
+
+udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
