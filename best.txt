@@ -1,3 +1,5 @@
+http://1337.abcvg.info:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://mediaclub.tv:80/announce.php
@@ -7,6 +9,8 @@ http://milanesitracker.tekcities.com:80/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://openbittorrent.com:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -21,6 +25,8 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -78,8 +84,6 @@ udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://pow7.com:80/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://thetracker.org:80/announce
@@ -119,6 +123,8 @@ udp://tracker.monitorit4.me:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.pomf.se:80/announce
 
 udp://tracker.srv00.com:6969/announce
 
