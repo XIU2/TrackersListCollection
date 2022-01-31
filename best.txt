@@ -1,6 +1,6 @@
-http://1337.abcvg.info:80/announce
-
 http://bt.okmp3.ru:2710/announce
+
+http://btracker.top:11451/announce
 
 http://mediaclub.tv:80/announce.php
 
@@ -9,8 +9,6 @@ http://milanesitracker.tekcities.com:80/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://openbittorrent.com:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -26,8 +24,6 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://vps02.net.orel.ru:80/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
@@ -39,8 +35,6 @@ https://tp.m-team.cc:443/announce.php
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.doogh.club:443/announce
-
-https://tr.fuckbitcoin.xyz:443/announce
 
 https://tr.highstar.shop:443/announce
 
@@ -54,11 +48,15 @@ https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
+https://tracker.moeblog.cn:443/announce
+
 https://tracker.nanoha.org:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
 https://tracker.yarr.pt:443/announce
+
+https://trackme.theom.nz:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
@@ -83,6 +81,8 @@ udp://open.tracker.cl:1337/announce
 udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
+
+udp://pow7.com:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -116,8 +116,6 @@ udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.moeking.eu.org:6969/announce
 
-udp://tracker.moeking.me:6969/announce
-
 udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
@@ -131,8 +129,6 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.sylphix.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
-
-udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
