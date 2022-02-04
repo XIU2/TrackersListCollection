@@ -12,9 +12,7 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://fosstorrents.com:6969/announce
-
-http://home.yxgz.vip:6969/announce
+http://fxtt.ru:80/announce
 
 http://mediaclub.tv:80/announce.php
 
@@ -30,15 +28,19 @@ http://openbittorrent.com:80/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
-http://pow7.com:80/announce
-
 http://retracker.hotplug.ru:2710/announce
+
+http://retracker.joxnet.ru:80/announce
 
 http://rt.optizone.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
+
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tr.cili001.com:8070/announce
 
@@ -69,6 +71,8 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.srv00.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -186,6 +190,8 @@ udp://inferno.demonoid.is:3391/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
+udp://jeremylee.sh:6969/announce
+
 udp://movies.zsw.ca:6969/announce
 
 udp://mts.tvbit.co:6969/announce
@@ -248,6 +254,8 @@ udp://tracker.fatkhoala.org:13710/announce
 
 udp://tracker.filemail.com:6969/announce
 
+udp://tracker.htp.re:4444/announce
+
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
@@ -278,8 +286,6 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.yangxiaoguozi.cn:6969/announce
 
-udp://tracker.zemoj.com:6969/announce
-
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
@@ -297,6 +303,8 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.lelux.fi:6969/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
