@@ -10,9 +10,9 @@ http://[2001:470:1:189:0:1:2:3]:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
-http://bt.okmp3.ru:2710/announce
+http://bt.endpot.com:80/announce
 
-http://fosstorrents.com:6969/announce
+http://bt.okmp3.ru:2710/announce
 
 http://fxtt.ru:80/announce
 
@@ -35,8 +35,6 @@ http://opentracker.i2p.rocks:6969/announce
 http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
-
-http://rt.optizone.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -77,8 +75,6 @@ http://tracker.skyts.net:6969/announce
 http://tracker.srv00.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -230,6 +226,8 @@ udp://static.46.73.46.78.clients.your-server.de:8000/announce
 
 udp://torrentclub.space:6969/announce
 
+udp://tr.bangumi.moe:6969/announce
+
 udp://tr.cili001.com:8070/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -273,8 +271,6 @@ udp://tracker.moeking.eu.org:6969/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
-
-udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
