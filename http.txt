@@ -10,8 +10,6 @@ http://[2001:470:1:189:0:1:2:3]:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
-http://bt.endpot.com:80/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://fxtt.ru:80/announce
@@ -26,6 +24,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://open.tracker.ink:6969/announce
 
 http://openbittorrent.com:80/announce
@@ -36,13 +36,13 @@ http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
+http://retracker.joxnet.ru:80/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
-
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tr.cili001.com:8070/announce
 
@@ -66,8 +66,6 @@ http://tracker.loadbt.com:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.skyts.net:6969/announce
@@ -85,8 +83,6 @@ http://vps02.net.orel.ru:80/announce
 https://1337.abcvg.info:443/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
-
-https://o-unkusrx.cloud.okteto.net:443/announce
 
 https://opentracker.i2p.rocks:443/announce
 
