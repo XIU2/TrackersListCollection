@@ -2,6 +2,8 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://fosstorrents.com:6969/announce
+
 http://mediaclub.tv:80/announce.php
 
 http://milanesitracker.tekcities.com:80/announce
@@ -30,8 +32,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://vps02.net.orel.ru:80/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
@@ -55,8 +55,6 @@ https://tr.ready4.icu:443/announce
 https://tr.torland.ga:443/announce
 
 https://tracker.imgoingto.icu:443/announce
-
-https://tracker.iriseden.fr:443/announce
 
 https://tracker.kuroy.me:443/announce
 
