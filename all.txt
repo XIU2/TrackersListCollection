@@ -32,6 +32,8 @@ http://openbittorrent.com:80/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
+http://pow7.com:80/announce
+
 http://retracker.hotplug.ru:2710/announce
 
 http://rt.optizone.ru:80/announce
@@ -60,17 +62,17 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
 
+http://tracker.loadbt.com:6969/announce
+
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
+http://tracker.openbittorrent.com:80/announce
 
-http://tracker.skyts.net:6969/announce
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.srv00.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -113,8 +115,6 @@ https://tracker.lelux.fi:443/announce
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
-
-https://tracker.moeblog.cn:443/announce
 
 https://tracker.nanoha.org:443/announce
 
