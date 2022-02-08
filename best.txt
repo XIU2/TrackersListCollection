@@ -2,7 +2,7 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://fosstorrents.com:6969/announce
+http://btracker.top:11451/announce
 
 http://mediaclub.tv:80/announce.php
 
@@ -26,8 +26,6 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.hiyj.cn:80/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
@@ -35,8 +33,6 @@ http://tracker.mywaifu.best:6969/announce
 http://vps02.net.orel.ru:80/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
-
-https://opentracker.i2p.rocks:443/announce
 
 https://t.btcland.xyz:443/announce
 
@@ -51,8 +47,6 @@ https://tr.fuckbitcoin.xyz:443/announce
 https://tr.highstar.shop:443/announce
 
 https://tr.ready4.icu:443/announce
-
-https://tr.torland.ga:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -76,10 +70,6 @@ udp://9.rarbg.com:2810/announce
 
 udp://abufinzio.monocul.us:6969/announce
 
-udp://bt1.archive.org:6969/announce
-
-udp://bt2.archive.org:6969/announce
-
 udp://code2chicken.nl:6969/announce
 
 udp://engplus.ru:6969/announce
@@ -92,11 +82,7 @@ udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.stealth.si:80/announce
-
 udp://opentor.org:2710/announce
-
-udp://opentracker.i2p.rocks:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -105,8 +91,6 @@ udp://retracker.hotplug.ru:2710/announce
 udp://thetracker.org:80/announce
 
 udp://torrentclub.space:6969/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x.tf:6969/announce
 
@@ -134,15 +118,23 @@ udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
-udp://tracker.opentrackr.org:1337/announce
+udp://tracker.openbittorrent.com:6969/announce
 
-udp://tracker.pomf.se:80/announce
+udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.sylphix.com:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.zerobytes.xyz:1337/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
