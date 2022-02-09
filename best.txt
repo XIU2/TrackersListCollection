@@ -40,6 +40,8 @@ http://vps02.net.orel.ru:80/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
 
+https://docker-tracker-production.up.railway.app:443/announce
+
 https://t.btcland.xyz:443/announce
 
 https://tp.m-team.cc:443/announce.php
