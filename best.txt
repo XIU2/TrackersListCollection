@@ -2,10 +2,6 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://btracker.top:11451/announce
-
-http://fosstorrents.com:6969/announce
-
 http://mediaclub.tv:80/announce.php
 
 http://milanesitracker.tekcities.com:80/announce
@@ -13,6 +9,8 @@ http://milanesitracker.tekcities.com:80/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://openbittorrent.com:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -31,6 +29,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -83,6 +83,8 @@ udp://fe.dealclub.de:6969/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://opentor.org:2710/announce
 
