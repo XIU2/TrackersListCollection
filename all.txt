@@ -18,11 +18,7 @@ http://btracker.top:11451/announce
 
 http://fxtt.ru:80/announce
 
-http://h4.trakx.nibba.trade:80/announce
-
 http://home.yxgz.vip:6969/announce
-
-http://ipv4announce.sktorrent.eu:6969/announce
 
 http://mediaclub.tv:80/announce.php
 
@@ -31,8 +27,6 @@ http://milanesitracker.tekcities.com:80/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.tracker.ink:6969/announce
 
 http://openbittorrent.com:80/announce
 
@@ -52,8 +46,6 @@ http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
-http://torrenttracker.nwc.acsalaska.net:6969/announce
-
 http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
@@ -72,11 +64,13 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
 
+http://tracker.loadbt.com:6969/announce
+
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
+http://tracker.openbittorrent.com:80/announce
 
-http://tracker.skyts.net:6969/announce
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.srv00.com:6969/announce
 
@@ -95,6 +89,8 @@ https://1337.abcvg.info:443/announce
 https://carbon-bonsai-621.appspot.com:443/announce
 
 https://docker-tracker-production.up.railway.app:443/announce
+
+https://opentracker.cc:443/announce
 
 https://opentracker.i2p.rocks:443/announce
 
@@ -257,8 +253,6 @@ udp://tracker.edkj.club:6969/announce
 udp://tracker.fatkhoala.org:13710/announce
 
 udp://tracker.filemail.com:6969/announce
-
-udp://tracker.htp.re:4444/announce
 
 udp://tracker.jordan.im:6969/announce
 

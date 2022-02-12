@@ -12,13 +12,9 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://tr.cili001.com:8070/announce
 
@@ -39,6 +35,8 @@ http://vps02.net.orel.ru:80/announce
 https://carbon-bonsai-621.appspot.com:443/announce
 
 https://docker-tracker-production.up.railway.app:443/announce
+
+https://opentracker.cc:443/announce
 
 https://t.btcland.xyz:443/announce
 
@@ -85,6 +83,8 @@ udp://exodus.desync.com:6969/announce
 udp://fe.dealclub.de:6969/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
+
+udp://movies.zsw.ca:6969/announce
 
 udp://open.demonii.com:1337/announce
 
