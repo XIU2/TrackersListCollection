@@ -55,12 +55,13 @@ _有兴趣的可以下载 **[ubuntu-20.04.torrent](https://releases.ubuntu.com/2
 
 ****
 
-- **完整列表示例（末尾文件名可以改，哪个好用，用哪个）：**  
- _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
- _**https://xcdn.loli.top/gh/XIU2/TrackersListCollection/all.txt**_  
- _**https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/all.txt**_  
- _**https://raw.fastgit.org/XIU2/TrackersListCollection/master/all.txt**_  
- _**https://ghproxy.fsou.cc/https://github.com/XIU2/TrackersListCollection/blob/master/all.txt**_  
+#### \# **以下为完整列表 all.txt 的示例（末尾文件名可自行修改，选择一个速度快的地址）：**  
+ 
+- _**https://xcdn.loli.top/gh/XIU2/TrackersListCollection/all.txt** ( 国内 CDN，推荐_  
+- _**https://gcore.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt** ( 国外 CDN，适合移动、电信_  
+- _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt** ( 国外 CDN，适合联通，下同_  
+- _**https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/all.txt**_  
+- _**https://raw.fastgit.org/XIU2/TrackersListCollection/master/all.txt**_  
 
 </details>
 

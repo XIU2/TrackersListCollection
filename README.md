@@ -46,10 +46,13 @@ _Those who are interested can download and try **[ubuntu-20.04.torrent](https://
 
 - **BEST Tracker list:**  
  _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
+ _**https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt**_  
 - **ALL Tracker list:**  
  _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
+ _**https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt**_  
 - **HTTP(S) Tracker list:**  
  _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/http.txt**_  
+ _**https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/http.txt**_  
 
 </details>
 
