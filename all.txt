@@ -10,13 +10,11 @@ http://[2001:470:1:189:0:1:2:3]:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
-http://bt.endpot.com:80/announce
-
 http://bt.okmp3.ru:2710/announce
 
-http://fxtt.ru:80/announce
+http://fosstorrents.com:6969/announce
 
-http://home.yxgz.vip:6969/announce
+http://fxtt.ru:80/announce
 
 http://mediaclub.tv:80/announce.php
 
@@ -26,13 +24,13 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://openbittorrent.com:80/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
+
+http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -43,8 +41,6 @@ http://t.acg.rip:6699/announce
 http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
-
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tr.cili001.com:8070/announce
 
@@ -69,8 +65,6 @@ http://tracker.loadbt.com:6969/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.srv00.com:6969/announce
 
@@ -255,8 +249,6 @@ udp://tracker.edkj.club:6969/announce
 udp://tracker.fatkhoala.org:13710/announce
 
 udp://tracker.filemail.com:6969/announce
-
-udp://tracker.htp.re:4444/announce
 
 udp://tracker.jordan.im:6969/announce
 
