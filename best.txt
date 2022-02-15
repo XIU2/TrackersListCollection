@@ -2,15 +2,11 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://btracker.top:11451/announce
-
 http://mediaclub.tv:80/announce.php
 
 http://milanesitracker.tekcities.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
-
-http://open.acgnxtracker.com:80/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -34,13 +30,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://vps02.net.orel.ru:80/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
-
-https://opentracker.cc:443/announce
 
 https://t.btcland.xyz:443/announce
 
@@ -55,6 +47,8 @@ https://tr.fuckbitcoin.xyz:443/announce
 https://tr.highstar.shop:443/announce
 
 https://tr.ready4.icu:443/announce
+
+https://tracker.babico.name.tr:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -91,6 +85,8 @@ udp://fe.dealclub.de:6969/announce
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
+
+udp://mirror.aptus.co.tz:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
