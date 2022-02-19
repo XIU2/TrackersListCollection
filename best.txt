@@ -2,6 +2,8 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://btracker.top:11451/announce
+
 http://mediaclub.tv:80/announce.php
 
 http://milanesitracker.tekcities.com:80/announce
@@ -106,6 +108,8 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
+udp://tracker.edkj.club:6969/announce
+
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
@@ -115,6 +119,8 @@ udp://tracker.moeking.eu.org:6969/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
