@@ -36,9 +36,11 @@ http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
 
-http://pow7.com:80/announce
+http://p4p.arenabg.com:1337/announce
 
 http://retracker.hotplug.ru:2710/announce
+
+http://retracker.joxnet.ru:80/announce
 
 http://rt.optizone.ru:80/announce
 
@@ -64,11 +66,17 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.hiyj.cn:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
 
+http://tracker.loadbt.com:6969/announce
+
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -90,9 +98,13 @@ https://1337.abcvg.info:443/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
 
+https://opentracker.cc:443/announce
+
 https://opentracker.i2p.rocks:443/announce
 
 https://tp.m-team.cc:443/announce.php
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -190,6 +202,8 @@ udp://ipv6.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
+udp://leet-tracker.moe:6969/announce
+
 udp://mirror.aptus.co.tz:6969/announce
 
 udp://movies.zsw.ca:6969/announce
@@ -228,13 +242,13 @@ udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
+
+udp://tracker.babico.name.tr:8000/announce
 
 udp://tracker.beeimg.com:6969/announce
 
@@ -269,8 +283,6 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
-
-udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
