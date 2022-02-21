@@ -50,6 +50,8 @@ http://t.overflow.biz:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
+http://tr.cili001.com:8070/announce
+
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -60,6 +62,8 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.hiyj.cn:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
@@ -67,6 +71,8 @@ http://tracker.lelux.fi:80/announce
 http://tracker.loadbt.com:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
