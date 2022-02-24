@@ -14,8 +14,6 @@ http://bt.okmp3.ru:2710/announce
 
 http://buny.uk:6969/announce
 
-http://fosstorrents.com:6969/announce
-
 http://fxtt.ru:80/announce
 
 http://home.yxgz.vip:6969/announce
@@ -35,8 +33,6 @@ http://openbittorrent.com:80/announce
 http://opentracker.xyz:80/announce
 
 http://p4p.arenabg.com:1337/announce
-
-http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -80,6 +76,8 @@ http://tracker.swarm3.network:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
@@ -95,8 +93,6 @@ https://opentracker.i2p.rocks:443/announce
 https://tp.m-team.cc:443/announce.php
 
 https://tr.abir.ga:443/announce
-
-https://tr.burnabyhighstar.com:443/announce
 
 https://tr.doogh.club:443/announce
 
