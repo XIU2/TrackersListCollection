@@ -42,6 +42,8 @@ https://tracker.babico.name.tr:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
+https://tracker.kuroy.me:443/announce
+
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
