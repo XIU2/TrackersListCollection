@@ -41,7 +41,7 @@ _有兴趣的可以下载 **[ubuntu-20.04.torrent](https://releases.ubuntu.com/2
 
 ****
 
-### 更新时间: 2022-03-03
+### 更新时间: 2022-03-04
 
 - **精选列表：**(81 个)  
  _**https://trackerslist.com/best.txt**_  
