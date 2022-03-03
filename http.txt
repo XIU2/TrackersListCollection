@@ -12,6 +12,10 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://btracker.top:11451/announce
+
+http://fosstorrents.com:6969/announce
+
 http://fxtt.ru:80/announce
 
 http://mediaclub.tv:80/announce.php
@@ -24,11 +28,7 @@ http://open.acgnxtracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
 
-http://open.tracker.ink:6969/announce
-
 http://openbittorrent.com:80/announce
-
-http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
 
@@ -43,6 +43,8 @@ http://share.camoe.cn:8080/announce
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
+
+http://t.overflow.biz:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -77,8 +79,6 @@ http://tracker.srv00.com:6969/announce
 http://tracker.swarm3.network:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -133,5 +133,3 @@ https://tracker.nitrix.me:443/announce
 https://tracker.yarr.pt:443/announce
 
 https://trackme.theom.nz:443/announce
-
-https://xtremex.herokuapp.com:443/announce
