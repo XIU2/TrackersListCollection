@@ -2,8 +2,6 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://btracker.top:11451/announce
-
 http://mediaclub.tv:80/announce.php
 
 http://milanesitracker.tekcities.com:80/announce
@@ -11,6 +9,8 @@ http://milanesitracker.tekcities.com:80/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.tracker.ink:6969/announce
 
 http://openbittorrent.com:80/announce
 
@@ -49,6 +49,8 @@ https://tr.ready4.icu:443/announce
 https://tracker.babico.name.tr:443/announce
 
 https://tracker.imgoingto.icu:443/announce
+
+https://tracker.iriseden.fr:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -129,6 +131,8 @@ udp://tracker.doko.moe:6969/announce
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.jordan.im:6969/announce
+
+udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.moeking.eu.org:6969/announce
 
