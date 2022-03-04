@@ -14,8 +14,6 @@ http://bt.okmp3.ru:2710/announce
 
 http://btracker.top:11451/announce
 
-http://fosstorrents.com:6969/announce
-
 http://mediaclub.tv:80/announce.php
 
 http://milanesitracker.tekcities.com:80/announce
@@ -28,11 +26,11 @@ http://open.acgtracker.com:1096/announce
 
 http://openbittorrent.com:80/announce
 
-http://opentracker.i2p.rocks:6969/announce
-
 http://opentracker.xyz:80/announce
 
 http://p4p.arenabg.com:1337/announce
+
+http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -66,15 +64,13 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
+http://tracker.openbittorrent.com:80/announce
 
-http://tracker.srv00.com:6969/announce
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.swarm3.network:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
