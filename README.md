@@ -32,11 +32,11 @@ _Those who are interested can download and try **[ubuntu-20.04.torrent](https://
 
 ### Updated: 2022-03-05
 
-- **BEST Tracker list:** (86 trackers)  
+- **BEST Tracker list:** (87 trackers)  
  _**https://trackerslist.com/best.txt**_  
-- **ALL Tracker list:** (169 trackers)  
+- **ALL Tracker list:** (135 trackers)  
  _**https://trackerslist.com/all.txt**_  
-- **HTTP(S) Tracker list:** (72 trackers)  
+- **HTTP(S) Tracker list:** (56 trackers)  
  _**https://trackerslist.com/http.txt**_  
 
 <details>
