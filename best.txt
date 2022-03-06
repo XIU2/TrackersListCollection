@@ -30,6 +30,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.swarm3.network:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -91,8 +93,6 @@ udp://open.tracker.ink:6969/announce
 udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
-
-udp://pow7.com:80/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
