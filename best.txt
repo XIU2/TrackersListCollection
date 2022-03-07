@@ -10,8 +10,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -26,9 +24,13 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.hiyj.cn:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.swarm3.network:6969/announce
 
@@ -36,19 +38,17 @@ http://vps02.net.orel.ru:80/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
 
+https://chihaya-heroku.120181311.xyz:443/announce
+
 https://tp.m-team.cc:443/announce.php
 
 https://tr.ready4.icu:443/announce
-
-https://tracker.babico.name.tr:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.iriseden.fr:443/announce
 
 https://tracker.kuroy.me:443/announce
-
-https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -125,8 +125,6 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
-
-udp://tracker.moeking.eu.org:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
