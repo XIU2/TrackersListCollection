@@ -1,15 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://207.241.226.111:6969/announce
-
-http://207.241.231.226:6969/announce
-
-http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
-
-http://[2001:470:1:189:0:1:2:3]:6969/announce
-
-http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://fxtt.ru:80/announce
@@ -22,17 +12,11 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
-
-http://open.tracker.ink:6969/announce
-
 http://openbittorrent.com:80/announce
 
 http://opentracker.xyz:80/announce
 
-http://retracker.hotplug.ru:2710/announce
-
-http://share.camoe.cn:8080/announce
+http://pow7.com:80/announce
 
 http://t.acg.rip:6699/announce
 
@@ -41,10 +25,6 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
-
-http://tr.cili001.com:8070/announce
-
-http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -68,15 +48,9 @@ http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.skyts.net:6969/announce
-
-http://tracker.srv00.com:6969/announce
-
 http://tracker.swarm3.network:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
-
-http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -94,8 +68,6 @@ https://opentracker.i2p.rocks:443/announce
 
 https://tp.m-team.cc:443/announce.php
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.doogh.club:443/announce
@@ -105,8 +77,6 @@ https://tr.fuckbitcoin.xyz:443/announce
 https://tr.highstar.shop:443/announce
 
 https://tr.ready4.icu:443/announce
-
-https://tr.torland.ga:443/announce
 
 https://tracker.babico.name.tr:443/announce
 
