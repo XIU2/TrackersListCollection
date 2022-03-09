@@ -26,17 +26,15 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
+http://open.acgtracker.com:1096/announce
 
-http://opentracker.i2p.rocks:6969/announce
+http://open.tracker.ink:6969/announce
 
 http://opentracker.xyz:80/announce
 
 http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
-
-http://retracker.joxnet.ru:80/announce
 
 http://rt.optizone.ru:80/announce
 
@@ -72,6 +70,8 @@ http://tracker.loadbt.com:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.srv00.com:6969/announce
@@ -79,8 +79,6 @@ http://tracker.srv00.com:6969/announce
 http://tracker.swarm3.network:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
