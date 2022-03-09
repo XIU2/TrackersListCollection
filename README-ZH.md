@@ -57,7 +57,9 @@ _有兴趣的可以下载 **[ubuntu-20.04.torrent](https://releases.ubuntu.com/2
 
 \# **以下为完整列表 ` all.txt ` 示例（末尾文件名可自行修改，选择一个速度快的地址）：**  
  
-- _**https://xcdn.loli.top/gh/XIU2/TrackersListCollection/all.txt** ( 国内 CDN_  
+- _**https://github.do/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt** ( 国内 CDN_  
+- _**https://hk1.monika.love/XIU2/TrackersListCollection/master/all.txt** ( 中国香港 CDN_  
+- _**https://raw.iqiq.io/XIU2/TrackersListCollection/master/all.txt** ( 中国香港 CDN_  
 - _**https://gcore.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt** ( 国外 CDN，适合移动、电信_  
 - _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt** ( 国外 CDN，适合联通，下同_  
 - _**https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/all.txt**_  
@@ -141,6 +143,17 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
  **勾选任意一个选项（如 all.txt）** ，然后点击 **\[保存并应用\]** 保存。(如下图所示)  
 
 <img src="https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-13.png" width="70%">
+
+****
+
+#### File Centipede:
+
+> <small>_**官方网站：http://www.filecxx.com**_</small>
+
+- **设置 - BT 追踪器 - 订阅**  
+ 右键空白处在右键菜单中选择 **添加**，填写 Tracker URL 后点击 **\[保存\]**。(如下图所示)  
+
+<img src="https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-14.png" width="70%">
 
 ****
 
