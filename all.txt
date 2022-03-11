@@ -12,9 +12,9 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://fxtt.ru:80/announce
+http://fosstorrents.com:6969/announce
 
-http://home.yxgz.vip:6969/announce
+http://fxtt.ru:80/announce
 
 http://mediaclub.tv:80/announce.php
 
@@ -309,8 +309,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://tracker6.lelux.fi:6969/announce
 
 udp://tsundere.pw:6969/announce
 

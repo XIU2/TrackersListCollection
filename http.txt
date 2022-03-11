@@ -12,9 +12,9 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://fxtt.ru:80/announce
+http://fosstorrents.com:6969/announce
 
-http://home.yxgz.vip:6969/announce
+http://fxtt.ru:80/announce
 
 http://mediaclub.tv:80/announce.php
 

@@ -4,6 +4,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://home.yxgz.vip:6969/announce
 
+http://mediaclub.tv:80/announce.php
+
 http://milanesitracker.tekcities.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
@@ -26,15 +28,11 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.hiyj.cn:80/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.openbittorrent.com:80/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -159,6 +157,8 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://tracker6.lelux.fi:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
