@@ -1,8 +1,8 @@
 http://1337.abcvg.info:80/announce
 
-http://home.yxgz.vip:6969/announce
+http://bt.okmp3.ru:2710/announce
 
-http://mediaclub.tv:80/announce.php
+http://home.yxgz.vip:6969/announce
 
 http://milanesitracker.tekcities.com:80/announce
 
@@ -10,9 +10,9 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://opentracker.xyz:80/announce
+
+http://p4p.arenabg.com:1337/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -26,9 +26,15 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.hiyj.cn:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -39,6 +45,8 @@ https://chihaya-heroku.120181311.xyz:443/announce
 https://opentracker.i2p.rocks:443/announce
 
 https://tp.m-team.cc:443/announce.php
+
+https://tr.abiir.top:443/announce
 
 https://tr.ready4.icu:443/announce
 
@@ -63,6 +71,8 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://9.rarbg.com:2810/announce
 
 udp://abufinzio.monocul.us:6969/announce
+
+udp://bt1.archive.org:6969/announce
 
 udp://engplus.ru:6969/announce
 
@@ -149,8 +159,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker2.dler.com:80/announce
-
-udp://tracker4.itzmx.com:2710/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
