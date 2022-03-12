@@ -12,8 +12,6 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://fosstorrents.com:6969/announce
-
 http://fxtt.ru:80/announce
 
 http://home.yxgz.vip:6969/announce
@@ -32,8 +30,6 @@ http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
 
-http://p4p.arenabg.com:1337/announce
-
 http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -48,7 +44,7 @@ http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
-http://tr.cili001.com:8070/announce
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -60,8 +56,6 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.hiyj.cn:80/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
@@ -70,15 +64,9 @@ http://tracker.loadbt.com:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.srv00.com:6969/announce
-
-http://tracker.swarm3.network:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
