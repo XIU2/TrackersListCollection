@@ -10,8 +10,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://opentracker.xyz:80/announce
 
 http://p4p.arenabg.com:1337/announce
@@ -20,17 +18,21 @@ http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
 
+http://tr.cili001.com:8070/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.hiyj.cn:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.skyts.net:6969/announce
+http://tracker.openbittorrent.com:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -65,8 +67,6 @@ https://trackme.theom.nz:443/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
-
-udp://bt2.archive.org:6969/announce
 
 udp://engplus.ru:6969/announce
 
@@ -130,8 +130,6 @@ udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.pomf.se:80/announce
@@ -151,8 +149,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker2.dler.com:80/announce
-
-udp://tracker6.lelux.fi:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
