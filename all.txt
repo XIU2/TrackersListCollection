@@ -12,8 +12,6 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://home.yxgz.club:6969/announce
-
 http://home.yxgz.vip:6969/announce
 
 http://mediaclub.tv:80/announce.php
@@ -29,6 +27,8 @@ http://opentracker.i2p.rocks:6969/announce
 http://opentracker.xyz:80/announce
 
 http://retracker.hotplug.ru:2710/announce
+
+http://retracker.joxnet.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -62,21 +62,19 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.nucozer-tracker.ml:2710/announce
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.srv00.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
-
-http://tracker4.itzmx.com:2710/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -96,10 +94,6 @@ https://tp.m-team.cc:443/announce.php
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
-https://tr.abirxo.cf:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.doogh.club:443/announce
@@ -109,8 +103,6 @@ https://tr.fuckbitcoin.xyz:443/announce
 https://tr.highstar.shop:443/announce
 
 https://tr.ready4.icu:443/announce
-
-https://tr.torland.ga:443/announce
 
 https://tracker.babico.name.tr:443/announce
 
@@ -123,8 +115,6 @@ https://tracker.iriseden.fr:443/announce
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lelux.fi:443/announce
-
-https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
