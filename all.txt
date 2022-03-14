@@ -10,8 +10,6 @@ http://[2001:470:1:189:0:1:2:3]:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://home.yxgz.vip:6969/announce
 
 http://mediaclub.tv:80/announce.php
@@ -22,13 +20,13 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://opentracker.i2p.rocks:6969/announce
+http://open.acgtracker.com:1096/announce
+
+http://open.tracker.ink:6969/announce
 
 http://opentracker.xyz:80/announce
 
 http://retracker.hotplug.ru:2710/announce
-
-http://retracker.joxnet.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -54,8 +52,6 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.hiyj.cn:80/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
@@ -68,9 +64,9 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://tracker.srv00.com:6969/announce
-
 http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -94,6 +90,10 @@ https://tp.m-team.cc:443/announce.php
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
+https://tr.abirxo.cf:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.doogh.club:443/announce
@@ -103,6 +103,8 @@ https://tr.fuckbitcoin.xyz:443/announce
 https://tr.highstar.shop:443/announce
 
 https://tr.ready4.icu:443/announce
+
+https://tr.torland.ga:443/announce
 
 https://tracker.babico.name.tr:443/announce
 
@@ -115,6 +117,8 @@ https://tracker.iriseden.fr:443/announce
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lelux.fi:443/announce
+
+https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -261,8 +265,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.pomf.se:80/announce
 
 udp://tracker.skyts.net:6969/announce
-
-udp://tracker.srv00.com:6969/announce
 
 udp://tracker.sylphix.com:6969/announce
 
