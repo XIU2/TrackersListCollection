@@ -34,8 +34,6 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.openbittorrent.com:80/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://vps02.net.orel.ru:80/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
@@ -139,8 +137,6 @@ udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.pomf.se:80/announce
-
-udp://tracker.skyts.net:6969/announce
 
 udp://tracker.sylphix.com:6969/announce
 
