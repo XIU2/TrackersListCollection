@@ -16,6 +16,8 @@ http://fxtt.ru:80/announce
 
 http://home.yxgz.vip:6969/announce
 
+http://ibksturm.synology.me:6969/announce
+
 http://mediaclub.tv:80/announce.php
 
 http://milanesitracker.tekcities.com:80/announce
@@ -24,7 +26,13 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
+
+http://p4p.arenabg.com:1337/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -61,8 +69,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.lelux.fi:80/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 

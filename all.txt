@@ -16,6 +16,8 @@ http://fxtt.ru:80/announce
 
 http://home.yxgz.vip:6969/announce
 
+http://ibksturm.synology.me:6969/announce
+
 http://mediaclub.tv:80/announce.php
 
 http://milanesitracker.tekcities.com:80/announce
@@ -24,7 +26,13 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
+
+http://p4p.arenabg.com:1337/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -61,8 +69,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.lelux.fi:80/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -208,8 +214,6 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://public.publictracker.xyz:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
@@ -264,11 +268,11 @@ udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
+udp://tracker.openbittorrent.com:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.pomf.se:80/announce
-
-udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.sylphix.com:6969/announce
 
@@ -277,6 +281,8 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
@@ -295,6 +301,8 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.lelux.fi:6969/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 

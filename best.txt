@@ -1,5 +1,7 @@
 http://1337.abcvg.info:80/announce
 
+http://ibksturm.synology.me:6969/announce
+
 http://mediaclub.tv:80/announce.php
 
 http://milanesitracker.tekcities.com:80/announce
@@ -8,7 +10,11 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
+
+http://p4p.arenabg.com:1337/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -19,8 +25,6 @@ http://t.publictracker.xyz:6969/announce
 http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -48,6 +52,8 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
 
+https://tr.torland.ga:443/announce
+
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.kuroy.me:443/announce
@@ -65,10 +71,6 @@ https://trackme.theom.nz:443/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
-
-udp://bt1.archive.org:6969/announce
-
-udp://bt2.archive.org:6969/announce
 
 udp://engplus.ru:6969/announce
 
@@ -114,6 +116,8 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.filemail.com:6969/announce
@@ -125,6 +129,8 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
