@@ -1,6 +1,8 @@
 http://1337.abcvg.info:80/announce
 
-http://ibksturm.synology.me:6969/announce
+http://btracker.top:11451/announce
+
+http://home.yxgz.club:6969/announce
 
 http://mediaclub.tv:80/announce.php
 
