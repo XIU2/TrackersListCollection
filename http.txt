@@ -14,7 +14,9 @@ http://bt.okmp3.ru:2710/announce
 
 http://btracker.top:11451/announce
 
-http://fxtt.ru:80/announce
+http://fosstorrents.com:6969/announce
+
+http://home.yxgz.vip:6969/announce
 
 http://mediaclub.tv:80/announce.php
 
@@ -24,15 +26,13 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://open.tracker.ink:6969/announce
 
 http://opentracker.xyz:80/announce
 
-http://p4p.arenabg.com:1337/announce
-
 http://retracker.hotplug.ru:2710/announce
-
-http://rt.optizone.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -58,19 +58,17 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.hiyj.cn:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.zerobytes.xyz:1337/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -85,8 +83,6 @@ https://abir0dev.github.io:443/announce
 https://carbon-bonsai-621.appspot.com:443/announce
 
 https://chihaya-heroku.120181311.xyz:443/announce
-
-https://opentracker.cc:443/announce
 
 https://opentracker.i2p.rocks:443/announce
 
