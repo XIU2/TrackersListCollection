@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://btracker.top:11451/announce
-
 http://mediaclub.tv:80/announce.php
 
 http://milanesitracker.tekcities.com:80/announce
@@ -31,6 +29,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
