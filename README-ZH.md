@@ -151,7 +151,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 > <small>_**官方网站：http://www.filecxx.com**_</small>
 
 - **设置 - BT 追踪器 - 订阅**  
- 右键空白处在右键菜单中选择 **添加**，填写 Tracker URL 后点击 **\[保存\]**。(如下图所示)  
+ 右键空白处在右键菜单中选择 **添加**，填写 Tracker URL 后点击 **\[保存\]** 。(如下图所示)  
 
 <img src="https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-14.png" width="70%">
 
