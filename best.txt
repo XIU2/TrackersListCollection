@@ -8,6 +8,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
 
 http://p4p.arenabg.com:1337/announce
@@ -18,7 +20,11 @@ http://t.nyaatracker.com:80/announce
 
 http://t.publictracker.xyz:6969/announce
 
+http://tr.cili001.com:8070/announce
+
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.dler.org:6969/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -68,8 +74,6 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://bt1.archive.org:6969/announce
-
 udp://engplus.ru:6969/announce
 
 udp://exodus.desync.com:6969/announce
@@ -77,6 +81,8 @@ udp://exodus.desync.com:6969/announce
 udp://fe.dealclub.de:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
+
+udp://ipv6.babico.name.tr:8000/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
@@ -114,8 +120,6 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.jordan.im:6969/announce
@@ -144,11 +148,11 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
-udp://tracker2.dler.org:80/announce
-
 udp://tracker6.lelux.fi:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
+
+udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://www.torrent.eu.org:451/announce
 
