@@ -10,11 +10,9 @@ http://[2001:470:1:189:0:1:2:3]:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
-http://fosstorrents.com:6969/announce
+http://bt.okmp3.ru:2710/announce
 
 http://fxtt.ru:80/announce
-
-http://home.yxgz.vip:6969/announce
 
 http://mediaclub.tv:80/announce.php
 
@@ -23,6 +21,8 @@ http://milanesitracker.tekcities.com:80/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://opentracker.xyz:80/announce
 
@@ -40,10 +40,6 @@ http://t.publictracker.xyz:6969/announce
 
 http://tk.nvacg.org:3333/announce
 
-http://torrenttracker.nwc.acsalaska.net:6969/announce
-
-http://tr.cili001.com:8070/announce
-
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -60,9 +56,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
 
-http://tracker.loadbt.com:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -112,8 +108,6 @@ https://tracker.babico.name.tr:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-https://tracker.iriseden.fr:443/announce
-
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lelux.fi:443/announce
@@ -125,6 +119,8 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
+
+https://tracker.quix.cf:443/announce
 
 https://tracker.yarr.pt:443/announce
 
