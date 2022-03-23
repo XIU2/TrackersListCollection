@@ -30,8 +30,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.kamigami.org:2710/announce
 
-http://tracker.merded.xyz:80/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://vps02.net.orel.ru:80/announce
