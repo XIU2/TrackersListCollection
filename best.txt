@@ -22,8 +22,6 @@ http://t.nyaatracker.com:80/announce
 
 http://t.publictracker.xyz:6969/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
@@ -36,13 +34,13 @@ http://tracker.kamigami.org:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://vps02.net.orel.ru:80/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
 
 https://chihaya-heroku.120181311.xyz:443/announce
-
-https://opentracker.i2p.rocks:443/announce
 
 https://tp.m-team.cc:443/announce.php
 
@@ -51,6 +49,8 @@ https://tr.abiir.top:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
+
+https://tr.torland.ga:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -91,8 +91,6 @@ udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
-
-udp://opentracker.i2p.rocks:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -144,7 +142,7 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 

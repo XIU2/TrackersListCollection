@@ -12,9 +12,11 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://btracker.top:11451/announce
+
 http://buny.uk:6969/announce
 
-http://fosstorrents.com:6969/announce
+http://fxtt.ru:80/announce
 
 http://home.yxgz.vip:6969/announce
 
@@ -32,11 +34,11 @@ http://pow7.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
-http://rt.optizone.ru:80/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -64,7 +66,11 @@ http://tracker.kamigami.org:2710/announce
 
 http://tracker.lelux.fi:80/announce
 
+http://tracker.merded.xyz:80/announce
+
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -92,8 +98,6 @@ https://tp.m-team.cc:443/announce.php
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.abirxo.cf:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
@@ -109,6 +113,8 @@ https://tr.ready4.icu:443/announce
 https://tr.torland.ga:443/announce
 
 https://tracker.babico.name.tr:443/announce
+
+https://tracker.foreverpirates.co:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -212,8 +218,6 @@ udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
 
-udp://opentracker.i2p.rocks:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://public.publictracker.xyz:6969/announce
@@ -309,8 +313,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.lelux.fi:6969/announce
-
-udp://tsundere.pw:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
