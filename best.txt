@@ -1,22 +1,14 @@
 http://1337.abcvg.info:80/announce
 
-http://buny.uk:6969/announce
-
 http://milanesitracker.tekcities.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://opentracker.xyz:80/announce
 
-http://pow7.com:80/announce
-
 http://share.camoe.cn:8080/announce
-
-http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
 
@@ -59,6 +51,8 @@ https://trackme.theom.nz:443/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
+
+udp://bt2.archive.org:6969/announce
 
 udp://engplus.ru:6969/announce
 
