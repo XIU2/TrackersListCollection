@@ -1,9 +1,9 @@
 # Error / 错误(故障)
 udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://caramelo.ddns.net:8000/announce
-http://60-fps.org/bt:80/announce.php
 # Suspicious / 可疑(恶意)
 http://213.159.215.198:6970/announce
+http://pow7.com:80/announce
 # Repeat / 重复(副本)
 udp://explodie.org:6969
 http://opentracker.acgnx.se/scrape
