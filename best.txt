@@ -26,9 +26,13 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.hiyj.cn:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -44,8 +48,6 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
 
-https://tr.torland.ga:443/announce
-
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.lilithraws.cf:443/announce
@@ -57,6 +59,8 @@ https://trackme.theom.nz:443/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
+
+udp://bt1.archive.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
@@ -95,6 +99,8 @@ udp://torrentclub.space:6969/announce
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
+
+udp://tracker.babico.name.tr:8000/announce
 
 udp://tracker.beeimg.com:6969/announce
 
