@@ -14,6 +14,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://buny.uk:6969/announce
 
+http://fosstorrents.com:6969/announce
+
 http://milanesitracker.tekcities.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
@@ -36,6 +38,8 @@ http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
 
+http://torrenttracker.nwc.acsalaska.net:6969/announce
+
 http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
@@ -48,19 +52,21 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.hiyj.cn:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
 
+http://tracker.merded.xyz:80/announce
+
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.zerobytes.xyz:1337/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
-
-http://tracker2.dler.org:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -291,8 +297,6 @@ udp://u4.trakx.crim.ist:1337/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://www.torrent.eu.org:451/announce
-
-udp://xarcotic.com:6969/announce
 
 ws://hub.bugout.link:80/announce
 
