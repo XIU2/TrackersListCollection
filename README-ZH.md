@@ -197,17 +197,21 @@ _**更详细、完整的请看这篇文章：[https://zhuanlan.zhihu.com/p/87193
 
 ****
 
-### Tracker来源
+### 赞赏支持
 
-该项目汇集了以下公共跟踪器列表：
+![微信赞赏](https://cdn.dogimg.com/pic/2022/03/28/6241159b1f315.png)![支付宝赞赏](https://cdn.dogimg.com/pic/2022/03/28/6241159b19b2c.png)
+
+****
+
+### 项目来源
+
+该项目受到以下公共 Tracker 项目的帮助，感谢~
 * [https://github.com/ngosang/trackerslist](https://github.com/ngosang/trackerslist)
 * [https://newtrackon.com/list](https://newtrackon.com/list)
 * [http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt](http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt)
 * [https://tinytorrent.net/best-torrent-tracker-list-updated](https://tinytorrent.net/best-torrent-tracker-list-updated/)
 * [http://www.torrenttrackerlist.com/torrent-tracker-list](http://www.torrenttrackerlist.com/torrent-tracker-list)
 * [https://github.com/DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList)
-
-感谢这些项目！
 
 ****
 
