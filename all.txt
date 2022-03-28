@@ -14,13 +14,17 @@ http://bt.okmp3.ru:2710/announce
 
 http://buny.uk:6969/announce
 
-http://fosstorrents.com:6969/announce
+http://ftp.pet:7777/announce
+
+http://fxtt.ru:80/announce
 
 http://milanesitracker.tekcities.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://opentracker.xyz:80/announce
 
@@ -40,8 +44,6 @@ http://t.publictracker.xyz:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -58,8 +60,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
 
-http://tracker.merded.xyz:80/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.openbittorrent.com:80/announce
@@ -67,6 +67,10 @@ http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker2.dler.org:80/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -101,8 +105,6 @@ https://tr.ready4.icu:443/announce
 https://tr.torland.ga:443/announce
 
 https://tracker.babico.name.tr:443/announce
-
-https://tracker.foreverpirates.co:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -170,8 +172,6 @@ udp://exodus.desync.com:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
-udp://inferno.demonoid.is:3391/announce
-
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.babico.name.tr:8000/announce
@@ -179,6 +179,10 @@ udp://ipv6.babico.name.tr:8000/announce
 udp://ipv6.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
+
+udp://leet-tracker.moe:23861/announce
+
+udp://leet-tracker.moe:38151/announce
 
 udp://mirror.aptus.co.tz:6969/announce
 
@@ -191,8 +195,6 @@ udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
-
-udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -211,8 +213,6 @@ udp://retracker.netbynet.ru:2710/announce
 udp://run.publictracker.xyz:6969/announce
 
 udp://torrentclub.space:6969/announce
-
-udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
 
@@ -251,6 +251,8 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
+
+udp://tracker.merded.xyz:8000/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -291,6 +293,8 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.lelux.fi:6969/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
