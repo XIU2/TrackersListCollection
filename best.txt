@@ -52,6 +52,8 @@ https://tracker.imgoingto.icu:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
+https://tracker.moeblog.cn:443/announce
+
 https://tracker.nanoha.org:443/announce
 
 https://trackme.theom.nz:443/announce
@@ -59,6 +61,8 @@ https://trackme.theom.nz:443/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
+
+udp://bt1.archive.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
