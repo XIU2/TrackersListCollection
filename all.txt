@@ -12,6 +12,8 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://buny.uk:6969/announce
+
 http://fxtt.ru:80/announce
 
 http://milanesitracker.tekcities.com:80/announce
@@ -29,6 +31,8 @@ http://opentracker.i2p.rocks:6969/announce
 http://opentracker.xyz:80/announce
 
 http://retracker.hotplug.ru:2710/announce
+
+http://rt.optizone.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -120,6 +124,8 @@ https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
+https://tracker.moeblog.cn:443/announce
+
 https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
@@ -157,6 +163,8 @@ udp://[2a0f:e586:f:f::220]:6969/announce
 udp://abufinzio.monocul.us:6969/announce
 
 udp://admin.videoenpoche.info:6969/announce
+
+udp://bclearning.top:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -305,8 +313,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.lelux.fi:6969/announce
-
-udp://tsundere.pw:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
