@@ -41,11 +41,11 @@ _可通过下载 **[ubuntu-20.04.torrent](https://releases.ubuntu.com/20.04/ubun
 
 ****
 
-### 更新时间: 2022-04-01
+### 更新时间: 2022-04-02
 
-- **精选列表：**(80 个)  
+- **精选列表：**(82 个)  
  _**https://trackerslist.com/best.txt**_  
-- **完整列表：**(162 个)  
+- **完整列表：**(161 个)  
  _**https://trackerslist.com/all.txt**_  
 - **HTTP(S)列表：**(66 个)  
  _**https://trackerslist.com/http.txt**_  
