@@ -16,6 +16,8 @@ http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
 
+http://tr.cili001.com:8070/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
@@ -99,6 +101,8 @@ udp://torrentclub.space:6969/announce
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
+
+udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.beeimg.com:6969/announce
 
