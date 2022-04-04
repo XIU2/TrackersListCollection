@@ -10,6 +10,8 @@ http://open.tracker.ink:6969/announce
 
 http://opentracker.xyz:80/announce
 
+http://p4p.arenabg.com:1337/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
@@ -18,10 +20,6 @@ http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
 
-http://tr.cili001.com:8070/announce
-
-http://tracker.bt4g.com:2095/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -29,8 +27,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -142,23 +138,15 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.zemoj.com:6969/announce
-
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 udp://tracker2.dler.com:80/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
-
-udp://www.torrent.eu.org:451/announce
 
 udp://xxx.xxtor.com:3074/announce
 
