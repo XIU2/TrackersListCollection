@@ -37,7 +37,7 @@ _下图是使用我整理的 Tracker 列表下载BT的速度（完整列表）�
 ![BitComet](https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-01.png)
 ![qBittorrentEE](https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/zh-02.png)
 
-_可通过下载 **[ubuntu-20.04.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.04.4-desktop-amd64.iso.torrent)** **排查 BT 配置、网络**等是否有问题，该资源做种用户众多，正常情况下应该下载速度很快。_
+_可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.04.4-desktop-amd64.iso.torrent)** 下载速度来**判断 BT 配置、网络**是否有问题，该热门资源不缺做种用户，如果**下载速度较慢**则可能有问题。_
 
 ****
 
