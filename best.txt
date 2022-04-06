@@ -20,8 +20,6 @@ http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -77,8 +75,6 @@ udp://ipv6.tracker.monitorit4.me:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 
 udp://movies.zsw.ca:6969/announce
-
-udp://ns-1.x-fins.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
