@@ -6,15 +6,13 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://opentracker.xyz:80/announce
-
 http://share.camoe.cn:8080/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
-
-http://tr.cili001.com:8070/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -23,8 +21,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
