@@ -12,6 +12,8 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://fosstorrents.com:6969/announce
+
 http://milanesitracker.tekcities.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
@@ -34,11 +36,7 @@ http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://t.overflow.biz:6969/announce
-
 http://t.publictracker.xyz:6969/announce
-
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tr.cili001.com:8070/announce
 
@@ -59,6 +57,8 @@ http://tracker.lelux.fi:80/announce
 http://tracker.merded.xyz:8000/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
