@@ -12,19 +12,21 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://fxtt.ru:80/announce
-
 http://milanesitracker.tekcities.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
+http://open.tracker.ink:6969/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
+http://opentracker.xyz:80/announce
+
 http://retracker.hotplug.ru:2710/announce
+
+http://retracker.joxnet.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -54,8 +56,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
 
-http://tracker.loadbt.com:6969/announce
-
 http://tracker.merded.xyz:8000/announce
 
 http://tracker.mywaifu.best:6969/announce
@@ -63,6 +63,8 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -103,6 +105,8 @@ https://tr.ready4.icu:443/announce
 https://tr.torland.ga:443/announce
 
 https://tracker.babico.name.tr:443/announce
+
+https://tracker.foreverpirates.co:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -153,8 +157,6 @@ udp://[2a0f:e586:f:f::220]:6969/announce
 udp://abufinzio.monocul.us:6969/announce
 
 udp://admin.videoenpoche.info:6969/announce
-
-udp://bclearning.top:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -220,6 +222,8 @@ udp://run.publictracker.xyz:6969/announce
 
 udp://torrentclub.space:6969/announce
 
+udp://tr.bangumi.moe:6969/announce
+
 udp://tr.cili001.com:8070/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -245,8 +249,6 @@ udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.edkj.club:6969/announce
 
 udp://tracker.fatkhoala.org:13710/announce
 
@@ -282,8 +284,6 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.zemoj.com:6969/announce
-
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
@@ -303,6 +303,8 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.lelux.fi:6969/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
