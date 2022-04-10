@@ -18,13 +18,13 @@ http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -45,6 +45,8 @@ https://tr.burnabyhighstar.com:443/announce
 https://tr.ready4.icu:443/announce
 
 https://tracker.babico.name.tr:443/announce
+
+https://tracker.feb217.tk:8443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -120,6 +122,8 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
+udp://tracker.farted.net:6969/announce
+
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
@@ -145,8 +149,6 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.zemoj.com:6969/announce
-
-udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 

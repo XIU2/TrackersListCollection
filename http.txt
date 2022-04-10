@@ -22,6 +22,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://open.tracker.ink:6969/announce
 
 http://opentracker.i2p.rocks:6969/announce
@@ -42,8 +44,6 @@ http://t.publictracker.xyz:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -56,11 +56,11 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.k.vu:6969/announce
+
 http://tracker.lelux.fi:80/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -103,6 +103,8 @@ https://tr.ready4.icu:443/announce
 https://tr.torland.ga:443/announce
 
 https://tracker.babico.name.tr:443/announce
+
+https://tracker.feb217.tk:8443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
