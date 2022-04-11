@@ -57,6 +57,7 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 
 \# **以下为完整列表 ` all.txt ` 示例（末尾文件名可自行修改，选择一个速度快的地址）：**  
  
+- _**https://cf.trackerslist.com/all.txt**_  
 - _**https://github.do/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt** ( 国内 CDN_  
 - _**https://ghproxy.fsofso.com/https://github.com/XIU2/TrackersListCollection/blob/master/all.txt** ( 中国香港 CDN_  
 - _**https://hk1.monika.love/XIU2/TrackersListCollection/master/all.txt** ( 中国香港 CDN_  
@@ -77,14 +78,11 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 <details>
 <summary><strong><code>[点击展开] - 查看 Aria2 格式的 Tracker 列表</code></strong></summary>
 
-- **精选列表：**  
- _**[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)**_  
-- **完整列表：**  
- _**[https://trackerslist.com/all_aria2.txt](https://trackerslist.com/all_aria2.txt)**_  
-- **HTTP(S)列表：**  
- _**[https://trackerslist.com/http_aria2.txt](https://trackerslist.com/http_aria2.txt)**_  
+- _**[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)**_  
+- _**[https://trackerslist.com/all_aria2.txt](https://trackerslist.com/all_aria2.txt)**_  
+- _**[https://trackerslist.com/http_aria2.txt](https://trackerslist.com/http_aria2.txt)**_  
 
-> 备用地址和上面的通用，只需要改一下末尾的文件名即可。
+> Aria2 格式的备用地址和上面的一样，只需要改一下末尾的文件名即可。
 
 </details>
 

@@ -26,7 +26,7 @@ _The figure below shows the BT download speed after using Tracker. (ALL Tracker 
 ![BitComet](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-01.png)
 ![qBittorrentEE](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-02.png)
 
-_Those who are interested can download and try **[ubuntu-20.04.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.04.4-desktop-amd64.iso.torrent)** , this resource has thousands of people worldwide to provide uploads , So most people download fast!_
+_You can judge whether there is a problem with the BT configuration and network by observing the download speed of [**ubuntu-20.04.torrent**](https://releases.ubuntu.com/20.04/ubuntu-20.04.4-desktop-amd64.iso.torrent). There are many users of this popular resource, and the download speed should be very fast under normal circumstances._
 
 ****
 
@@ -44,15 +44,12 @@ _Those who are interested can download and try **[ubuntu-20.04.torrent](https://
 
 ****
 
-- **BEST Tracker list:**  
- _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
- _**https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt**_  
-- **ALL Tracker list:**  
- _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
- _**https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt**_  
-- **HTTP(S) Tracker list:**  
- _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/http.txt**_  
- _**https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/http.txt**_  
+\# **The following is an example of the complete list `all.txt` (modify the file name as needed):**  
+
+- _**https://cf.trackerslist.com/all.txt**_  
+- _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
+- _**https://gcore.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
+- _**https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt**_  
 
 </details>
 
@@ -65,15 +62,11 @@ _Those who are interested can download and try **[ubuntu-20.04.torrent](https://
 <details>
 <summary><strong><code>[Click to expand] - View the tracker list in Aria2 format</code> </strong></summary>
 
-- **BEST Tracker list:**  
- _**[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)**_  
- _**[https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best_aria2.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best_aria2.txt)**_  
-- **ALL Tracker list:**  
- _**[https://trackerslist.com/all_aria2.txt](https://trackerslist.com/all_aria2.txt)**_  
- _**[https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/all_aria2.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/all_aria2.txt)**_  
-- **HTTP(S) Tracker list:**  
- _**[https://trackerslist.com/http_aria2.txt](https://trackerslist.com/http_aria2.txt)**_  
-  _**[https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/http_aria2.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/http_aria2.txt)**_  
+- _**[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)**_  
+- _**[https://trackerslist.com/all_aria2.txt](https://trackerslist.com/all_aria2.txt)**_  
+- _**[https://trackerslist.com/http_aria2.txt](https://trackerslist.com/http_aria2.txt)**_  
+
+> The alternate address in Aria2 format is the same as above, just need to change the file name.
 
 </details>
 
