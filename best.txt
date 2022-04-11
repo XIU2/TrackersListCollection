@@ -10,8 +10,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -55,6 +53,8 @@ https://tracker.imgoingto.icu:443/announce
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nanoha.org:443/announce
+
+https://tracker.tamersunion.org:443/announce
 
 https://trackme.theom.nz:443/announce
 
