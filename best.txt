@@ -10,11 +10,11 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -52,8 +52,6 @@ https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nanoha.org:443/announce
 
-https://tracker.tamersunion.org:443/announce
-
 https://trackme.theom.nz:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
@@ -61,8 +59,6 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://9.rarbg.com:2810/announce
 
 udp://abufinzio.monocul.us:6969/announce
-
-udp://borat-tracker.cf:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -127,8 +123,6 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.doko.moe:6969/announce
-
-udp://tracker.farted.net:6969/announce
 
 udp://tracker.jordan.im:6969/announce
 
