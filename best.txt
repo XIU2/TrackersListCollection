@@ -20,6 +20,8 @@ http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
 
+http://tr.cili001.com:8070/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -125,6 +127,8 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.doko.moe:6969/announce
+
+udp://tracker.farted.net:6969/announce
 
 udp://tracker.jordan.im:6969/announce
 
