@@ -12,6 +12,8 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://fxtt.ru:80/announce
+
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
@@ -22,13 +24,15 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
+http://open.tracker.ink:6969/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
 
 http://retracker.hotplug.ru:2710/announce
+
+http://retracker.joxnet.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -48,6 +52,8 @@ http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -55,8 +61,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
-
-http://tracker.lelux.fi:80/announce
 
 http://tracker.merded.xyz:8000/announce
 
@@ -162,6 +166,8 @@ udp://admin.videoenpoche.info:6969/announce
 
 udp://bclearning.top:6969/announce
 
+udp://borat-tracker.cf:6969/announce
+
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
@@ -188,10 +194,6 @@ udp://ipv6.babico.name.tr:8000/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
-udp://leet-tracker.moe:23861/announce
-
-udp://leet-tracker.moe:38151/announce
-
 udp://mirror.aptus.co.tz:6969/announce
 
 udp://movies.zsw.ca:6969/announce
@@ -208,6 +210,8 @@ udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
@@ -217,8 +221,6 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://p4p.arenabg.com:1337/announce
 
 udp://public.publictracker.xyz:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -256,9 +258,9 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.farted.net:6969/announce
+udp://tracker.dump.cl:6969/announce
 
-udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -313,8 +315,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.lelux.fi:6969/announce
-
-udp://tsundere.pw:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
