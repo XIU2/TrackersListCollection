@@ -34,9 +34,9 @@ _You can judge whether there is a problem with the BT configuration and network 
 
 - **BEST Tracker list:** (84 trackers)  
  _**https://trackerslist.com/best.txt**_  
-- **ALL Tracker list:** (160 trackers)  
+- **ALL Tracker list:** (158 trackers)  
  _**https://trackerslist.com/all.txt**_  
-- **HTTP(S) Tracker list:** (64 trackers)  
+- **HTTP(S) Tracker list:** (63 trackers)  
  _**https://trackerslist.com/http.txt**_  
 
 <details>
