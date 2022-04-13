@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://home.yxgz.vip:6969/announce
-
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
@@ -11,8 +9,6 @@ http://milanesitracker.tekcities.com:80/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.tracker.ink:6969/announce
 
 http://opentracker.xyz:80/announce
 
@@ -24,8 +20,6 @@ http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -35,8 +29,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -57,8 +49,6 @@ https://tracker.imgoingto.icu:443/announce
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nanoha.org:443/announce
-
-https://tracker.tamersunion.org:443/announce
 
 https://trackme.theom.nz:443/announce
 
@@ -153,6 +143,8 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
