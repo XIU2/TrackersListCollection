@@ -2,6 +2,8 @@ http://1337.abcvg.info:80/announce
 
 http://home.yxgz.vip:6969/announce
 
+http://i-p-v-6.tk:6969/announce
+
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
@@ -12,8 +14,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -23,8 +23,6 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
-
-http://tr.cili001.com:8070/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -131,6 +129,8 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.doko.moe:6969/announce
+
+udp://tracker.farted.net:6969/announce
 
 udp://tracker.jordan.im:6969/announce
 
