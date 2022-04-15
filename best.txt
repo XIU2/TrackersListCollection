@@ -24,6 +24,8 @@ http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
 
+http://tr.cili001.com:8070/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
