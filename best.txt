@@ -24,8 +24,6 @@ http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -161,6 +159,8 @@ udp://u4.trakx.crim.ist:1337/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://xxx.xxtor.com:3074/announce
 
 ws://hub.bugout.link:80/announce
 
