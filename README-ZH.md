@@ -41,13 +41,13 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 
 ****
 
-### 更新时间: 2022-04-16
+### 更新时间: 2022-04-17
 
 - **精选列表：**(84 个)  
  _**https://trackerslist.com/best.txt**_  
-- **完整列表：**(162 个)  
+- **完整列表：**(164 个)  
  _**https://trackerslist.com/all.txt**_  
-- **HTTP(S)列表：**(66 个)  
+- **HTTP(S)列表：**(69 个)  
  _**https://trackerslist.com/http.txt**_  
 
 <details>

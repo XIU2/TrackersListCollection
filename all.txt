@@ -28,8 +28,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
@@ -45,6 +43,8 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
+
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tr.cili001.com:8070/announce
 
@@ -62,13 +62,15 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
+http://tracker.lelux.fi:80/announce
+
+http://tracker.merded.xyz:8000/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.zerobytes.xyz:1337/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -83,6 +85,8 @@ https://abir0dev.github.io:443/announce
 https://carbon-bonsai-621.appspot.com:443/announce
 
 https://chihaya-heroku.120181311.xyz:443/announce
+
+https://opentracker.cc:443/announce
 
 https://opentracker.i2p.rocks:443/announce
 
@@ -115,6 +119,8 @@ https://tracker.imgoingto.icu:443/announce
 https://tracker.iriseden.fr:443/announce
 
 https://tracker.kuroy.me:443/announce
+
+https://tracker.lelux.fi:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
@@ -218,8 +224,6 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://public.publictracker.xyz:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
@@ -256,8 +260,6 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.dump.cl:6969/announce
-
 udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
@@ -265,6 +267,8 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.leech.ie:1337/announce
+
+udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.merded.xyz:8000/announce
 
