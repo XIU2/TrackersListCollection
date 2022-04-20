@@ -36,8 +36,6 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://vps02.net.orel.ru:80/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
@@ -167,6 +165,8 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://www.torrent.eu.org:451/announce
 
 udp://xxx.xxtor.com:3074/announce
+
+udp://zecircle.xyz:6969/announce
 
 ws://hub.bugout.link:80/announce
 
