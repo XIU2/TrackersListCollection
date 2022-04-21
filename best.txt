@@ -36,8 +36,6 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.openbittorrent.com:80/announce
 
-http://vps02.net.orel.ru:80/announce
-
 https://carbon-bonsai-621.appspot.com:443/announce
 
 https://opentracker.i2p.rocks:443/announce
@@ -99,6 +97,8 @@ udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
+
+udp://public.publictracker.xyz:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 

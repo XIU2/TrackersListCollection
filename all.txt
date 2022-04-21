@@ -10,8 +10,6 @@ http://[2001:470:1:189:0:1:2:3]:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
@@ -36,9 +34,13 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
+
+http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -65,8 +67,6 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.srv00.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -105,8 +105,6 @@ https://tr.ready4.icu:443/announce
 https://tr.torland.ga:443/announce
 
 https://tracker.babico.name.tr:443/announce
-
-https://tracker.feb217.tk:8443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
