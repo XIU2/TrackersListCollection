@@ -10,7 +10,7 @@ http://[2001:470:1:189:0:1:2:3]:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
-http://fosstorrents.com:6969/announce
+http://bt.okmp3.ru:2710/announce
 
 http://fxtt.ru:80/announce
 
@@ -25,6 +25,8 @@ http://milanesitracker.tekcities.com:80/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
@@ -58,13 +60,15 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.lelux.fi:80/announce
 
+http://tracker.loadbt.com:6969/announce
+
+http://tracker.merded.xyz:8000/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.zerobytes.xyz:1337/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -208,8 +212,6 @@ udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
@@ -254,8 +256,6 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.dump.cl:6969/announce
-
 udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
@@ -265,6 +265,8 @@ udp://tracker.jordan.im:6969/announce
 udp://tracker.leech.ie:1337/announce
 
 udp://tracker.lelux.fi:6969/announce
+
+udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.merded.xyz:8000/announce
 
@@ -307,8 +309,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://tsundere.pw:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
