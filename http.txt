@@ -12,8 +12,6 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://fosstorrents.com:6969/announce
-
 http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
@@ -62,7 +60,7 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.lelux.fi:80/announce
 
-http://tracker.loadbt.com:6969/announce
+http://tracker.merded.xyz:8000/announce
 
 http://tracker.mywaifu.best:6969/announce
 
