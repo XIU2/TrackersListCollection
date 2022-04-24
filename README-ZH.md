@@ -46,9 +46,9 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 
 - **精选列表：**(88 个)  
  _**https://trackerslist.com/best.txt**_  
-- **完整列表：**(167 个)  
+- **完整列表：**(144 个)  
  _**https://trackerslist.com/all.txt**_  
-- **HTTP(S)列表：**(68 个)  
+- **HTTP(S)列表：**(61 个)  
  _**https://trackerslist.com/http.txt**_  
 
 <details>

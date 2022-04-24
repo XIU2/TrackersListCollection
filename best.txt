@@ -34,8 +34,6 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 https://carbon-bonsai-621.appspot.com:443/announce
 
 https://opentracker.i2p.rocks:443/announce
@@ -155,6 +153,8 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.yxgz.vip:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
