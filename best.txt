@@ -22,7 +22,7 @@ http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
 
-http://tracker.bt4g.com:2095/announce
+http://tr.cili001.com:8070/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -33,6 +33,14 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
+
+http://tracker2.itzmx.com:6961/announce
+
+http://tracker3.itzmx.com:6961/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
 
@@ -153,8 +161,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.yxgz.vip:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
