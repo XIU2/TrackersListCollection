@@ -36,10 +36,6 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
-http://tracker2.itzmx.com:6961/announce
-
 http://tracker4.itzmx.com:2710/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
@@ -55,6 +51,8 @@ https://tr.ready4.icu:443/announce
 https://tracker.babico.name.tr:443/announce
 
 https://tracker.imgoingto.icu:443/announce
+
+https://tracker.iriseden.fr:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
@@ -81,8 +79,6 @@ udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.69.mu:6969/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
-
-udp://mirror.aptus.co.tz:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
