@@ -26,6 +26,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
@@ -60,9 +62,13 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.lelux.fi:80/announce
 
+http://tracker.loadbt.com:6969/announce
+
 http://tracker.merded.xyz:8000/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -80,15 +86,9 @@ https://1337.abcvg.info:443/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
 
-https://chihaya-heroku.120181311.xyz:443/announce
-
-https://opentracker.cc:443/announce
-
 https://opentracker.i2p.rocks:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.abirxo.cf:443/announce
 
