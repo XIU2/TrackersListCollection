@@ -12,11 +12,11 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://btracker.top:11451/announce
+
 http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
-
-http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
@@ -25,8 +25,6 @@ http://milanesitracker.tekcities.com:80/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
@@ -62,17 +60,11 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.lelux.fi:80/announce
 
-http://tracker.loadbt.com:6969/announce
-
 http://tracker.merded.xyz:8000/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
-
-http://tracker.plop.pm:6969/announce
 
 http://tracker.srv00.com:6969/announce
 
@@ -164,6 +156,8 @@ udp://admin.videoenpoche.info:6969/announce
 
 udp://bclearning.top:6969/announce
 
+udp://bt.oiyo.tk:6969/announce
+
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
@@ -221,6 +215,8 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://p4p.arenabg.com:1337/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 

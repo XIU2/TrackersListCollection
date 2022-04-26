@@ -22,8 +22,6 @@ http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -34,10 +32,6 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
-http://tracker.plop.pm:6969/announce
-
 https://carbon-bonsai-621.appspot.com:443/announce
 
 https://opentracker.i2p.rocks:443/announce
@@ -47,8 +41,6 @@ https://tr.abiir.top:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
-
-https://tracker.babico.name.tr:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
