@@ -16,8 +16,6 @@ http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
@@ -42,6 +40,8 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
 
+https://tracker.babico.name.tr:443/announce
+
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.iriseden.fr:443/announce
@@ -59,8 +59,6 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://9.rarbg.com:2810/announce
 
 udp://bt1.archive.org:6969/announce
-
-udp://engplus.ru:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
