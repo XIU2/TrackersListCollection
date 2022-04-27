@@ -16,9 +16,13 @@ http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
+
+http://tr.cili001.com:8070/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -139,8 +143,6 @@ udp://tracker.pomf.se:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
-
-udp://tracker.srv00.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
