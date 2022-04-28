@@ -26,7 +26,7 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
+http://open.tracker.ink:6969/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
@@ -44,8 +44,6 @@ http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -61,6 +59,8 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 
 http://tracker.lelux.fi:80/announce
+
+http://tracker.loadbt.com:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -84,8 +84,6 @@ https://carbon-bonsai-621.appspot.com:443/announce
 
 https://chihaya-heroku.120181311.xyz:443/announce
 
-https://opentracker.cc:443/announce
-
 https://opentracker.i2p.rocks:443/announce
 
 https://tr.abiir.top:443/announce
@@ -107,6 +105,8 @@ https://tr.torland.ga:443/announce
 https://tracker.babico.name.tr:443/announce
 
 https://tracker.feb217.tk:8443/announce
+
+https://tracker.foreverpirates.co:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -254,8 +254,6 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.dump.cl:6969/announce
-
 udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
@@ -291,8 +289,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
