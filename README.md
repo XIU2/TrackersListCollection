@@ -24,8 +24,8 @@ The more people use Tracker, the faster the BT download speed, **so please recom
 
 _The figure below shows the BT download speed after using Tracker. (ALL Tracker list)_  
 
-![BitComet](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-01.png)
-![qBittorrentEE](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-02.png)
+![BitComet](https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-01.png)
+![qBittorrentEE](https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-02.png)
 
 _You can judge whether there is a problem with the BT configuration and network by observing the download speed of [**ubuntu-20.04.torrent**](https://releases.ubuntu.com/20.04/ubuntu-20.04.4-desktop-amd64.iso.torrent). There are many users of this popular resource, and the download speed should be very fast under normal circumstances._
 
@@ -49,6 +49,7 @@ _You can judge whether there is a problem with the BT configuration and network 
 
 - _**https://cf.trackerslist.com/all.txt**_  
 - _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
+- _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
 - _**https://gcore.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
 - _**https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt**_  
 
@@ -83,7 +84,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 
 > <small>_**http://www.bitcomet.com**_</small>
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-10.png" width="70%">
+<img src="https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-10.png" width="70%">
 
 ****
 
@@ -94,7 +95,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 
 After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-11.png" width="70%">
+<img src="https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-11.png" width="70%">
 
 ****
 
@@ -102,7 +103,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > <small>_**https://www.qbittorrent.org**_</small>
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-12.png" width="70%">
+<img src="https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-12.png" width="70%">
 
 ****
 
@@ -110,7 +111,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > <small>_**https://motrix.app**_</small>
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-13.png" width="70%">
+<img src="https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-13.png" width="70%">
 
 ****
 
@@ -118,7 +119,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > <small>_**http://www.filecxx.com**_</small>
 
-<img src="https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-14.png" width="70%">
+<img src="https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-14.png" width="70%">
 
 ****
 
