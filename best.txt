@@ -44,8 +44,6 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
 
-https://tracker.babico.name.tr:443/announce
-
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.iriseden.fr:443/announce
@@ -53,6 +51,8 @@ https://tracker.iriseden.fr:443/announce
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nanoha.org:443/announce
+
+https://tracker.tamersunion.org:443/announce
 
 https://trackme.theom.nz:443/announce
 
