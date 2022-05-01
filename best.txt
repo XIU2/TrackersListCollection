@@ -104,8 +104,6 @@ udp://thetracker.org:80/announce
 
 udp://torrentclub.space:6969/announce
 
-udp://tr.cili001.com:8070/announce
-
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -125,8 +123,6 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.leech.ie:1337/announce
-
-udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -152,11 +148,13 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.zerobytes.xyz:1337/announce
+
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 udp://tracker2.dler.com:80/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
