@@ -34,11 +34,11 @@ _You can judge whether there is a problem with the BT configuration and network 
 ### Updated: 2022-05-02
 
 - **BEST Tracker list:** (85 trackers)  
- _**https://trackerslist.com/best.txt**_  
+ _**[https://trackerslist.com/best.txt](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 - **ALL Tracker list:** (169 trackers)  
- _**https://trackerslist.com/all.txt**_  
+ _**[https://trackerslist.com/all.txt](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt)**_  
 - **HTTP(S) Tracker list:** (70 trackers)  
- _**https://trackerslist.com/http.txt**_  
+ _**[https://trackerslist.com/http.txt](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/http.txt)**_  
 
 <details>
 <summary><strong><code>[Click to expand] - View alternate address</code></strong></summary>
@@ -64,9 +64,9 @@ _You can judge whether there is a problem with the BT configuration and network 
 <details>
 <summary><strong><code>[Click to expand] - View the tracker list in Aria2 format</code> </strong></summary>
 
-- _**[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)**_  
-- _**[https://trackerslist.com/all_aria2.txt](https://trackerslist.com/all_aria2.txt)**_  
-- _**[https://trackerslist.com/http_aria2.txt](https://trackerslist.com/http_aria2.txt)**_  
+- _**[https://trackerslist.com/best_aria2.txt](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best_aria2.txt)**_  
+- _**[https://trackerslist.com/all_aria2.txt](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all_aria2.txt)**_  
+- _**[https://trackerslist.com/http_aria2.txt](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/http_aria2.txt)**_  
 
 > The alternate address in Aria2 format is the same as above, just need to change the file name.
 
