@@ -34,11 +34,13 @@ _You can judge whether there is a problem with the BT configuration and network 
 ### Updated: 2022-05-02
 
 - **BEST Tracker list:** (85 trackers)  
- _**[https://trackerslist.com/best.txt](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
+ _**[https://trackerslist.com/best.txt](https://cf.trackerslist.com/best.txt)**_  
 - **ALL Tracker list:** (169 trackers)  
- _**[https://trackerslist.com/all.txt](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt)**_  
+ _**[https://trackerslist.com/all.txt](https://cf.trackerslist.com/all.txt)**_  
 - **HTTP(S) Tracker list:** (70 trackers)  
- _**[https://trackerslist.com/http.txt](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/http.txt)**_  
+ _**[https://trackerslist.com/http.txt](https://cf.trackerslist.com/http.txt)**_  
+
+> The above link has been changed to the **Cloudflare CDN** address to improve speed and stability.
 
 <details>
 <summary><strong><code>[Click to expand] - View alternate address</code></strong></summary>
@@ -64,9 +66,9 @@ _You can judge whether there is a problem with the BT configuration and network 
 <details>
 <summary><strong><code>[Click to expand] - View the tracker list in Aria2 format</code> </strong></summary>
 
-- _**[https://trackerslist.com/best_aria2.txt](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best_aria2.txt)**_  
-- _**[https://trackerslist.com/all_aria2.txt](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all_aria2.txt)**_  
-- _**[https://trackerslist.com/http_aria2.txt](https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/http_aria2.txt)**_  
+- _**[https://trackerslist.com/best_aria2.txt](https://cf.trackerslist.com/best_aria2.txt)**_  
+- _**[https://trackerslist.com/all_aria2.txt](https://cf.trackerslist.com/all_aria2.txt)**_  
+- _**[https://trackerslist.com/http_aria2.txt](https://cf.trackerslist.com/http_aria2.txt)**_  
 
 > The alternate address in Aria2 format is the same as above, just need to change the file name.
 
@@ -84,7 +86,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 
 > <small>_**http://www.bitcomet.com**_</small>
 
-<img src="https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-10.png" width="70%">
+<img src="https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-10.png" width="50%">
 
 ****
 
@@ -95,7 +97,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 
 After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
-<img src="https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-11.png" width="70%">
+<img src="https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-11.png" width="50%">
 
 ****
 
@@ -103,7 +105,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > <small>_**https://www.qbittorrent.org**_</small>
 
-<img src="https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-12.png" width="70%">
+<img src="https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-12.png" width="50%">
 
 ****
 
@@ -111,7 +113,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > <small>_**https://motrix.app**_</small>
 
-<img src="https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-13.png" width="70%">
+<img src="https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-13.png" width="50%">
 
 ****
 
@@ -119,7 +121,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > <small>_**http://www.filecxx.com**_</small>
 
-<img src="https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-14.png" width="70%">
+<img src="https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-14.png" width="50%">
 
 ****
 
