@@ -36,6 +36,10 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
+http://tracker2.ctix.cn:6969/announce
+
 https://carbon-bonsai-621.appspot.com:443/announce
 
 https://opentracker.i2p.rocks:443/announce
@@ -154,11 +158,7 @@ udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 udp://tracker2.dler.com:80/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
