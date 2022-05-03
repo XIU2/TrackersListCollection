@@ -42,13 +42,13 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 
 ****
 
-### 更新时间: 2022-05-02
+### 更新时间: 2022-05-03
 
-- **精选列表：**(84 个)  
+- **精选列表：**(85 个)  
  _**[https://trackerslist.com/best.txt](https://github-do.panbaidu.cn/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
-- **完整列表：**(167 个)  
+- **完整列表：**(168 个)  
  _**[https://trackerslist.com/all.txt](https://github-do.panbaidu.cn/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt)**_  
-- **HTTP(S)列表：**(69 个)  
+- **HTTP(S)列表：**(71 个)  
  _**[https://trackerslist.com/http.txt](https://github-do.panbaidu.cn/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/http.txt)**_  
 
 > 上面的链接已改为**国内 CDN 分流**地址，来解决大家反应的速度慢、不稳定等问题。
