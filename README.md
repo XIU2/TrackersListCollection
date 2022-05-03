@@ -18,16 +18,14 @@ Integrated the popular Tracker, after filtering, finally got a high-quality Trac
 
 Tracker is a necessary role in BT download, it can effectively improve BT download speed.  
 
-> Record user information downloading the same resource to help you establish connections with other users.  
+> Record user information that downloads the same resource to **help you connect with other users**.  
 
-The more people use Tracker, the faster the BT download speed, **so please recommend it to your friends!**  
-
-_The figure below shows the BT download speed after using Tracker. (ALL Tracker list)_  
+_The figure below shows the BT download speed after using Tracker. (all.txt)_  
 
 ![BitComet](https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-01.png)
 ![qBittorrentEE](https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/img/en-02.png)
 
-_You can judge whether there is a problem with the BT configuration and network by observing the download speed of [**ubuntu-20.04.torrent**](https://releases.ubuntu.com/20.04/ubuntu-20.04.4-desktop-amd64.iso.torrent). There are many users of this popular resource, and the download speed should be very fast under normal circumstances._
+_You can judge whether there is a problem with the BT configuration and network by observing the download speed of [**ubuntu.torrent**](https://releases.ubuntu.com/20.04/ubuntu-20.04.4-desktop-amd64.iso.torrent). There are many users of this popular resource, and the download speed should be very fast under normal circumstances._
 
 ****
 
@@ -49,7 +47,6 @@ _You can judge whether there is a problem with the BT configuration and network 
 
 \# **The following is an example of the complete list `all.txt` (modify the file name as needed):**  
 
-- _**https://cf.trackerslist.com/all.txt**_  
 - _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
 - _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
 - _**https://gcore.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
@@ -70,7 +67,7 @@ _You can judge whether there is a problem with the BT configuration and network 
 - _**[https://trackerslist.com/all_aria2.txt](https://cf.trackerslist.com/all_aria2.txt)**_  
 - _**[https://trackerslist.com/http_aria2.txt](https://cf.trackerslist.com/http_aria2.txt)**_  
 
-> The alternate address in Aria2 format is the same as above, just need to change the file name.
+> The above link has been changed to the **Cloudflare CDN** address to improve speed and stability.
 
 </details>
 
