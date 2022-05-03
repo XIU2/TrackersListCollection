@@ -80,11 +80,11 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 <details>
 <summary><strong><code>[点击展开] - 查看 Aria2 格式的 Tracker 列表</code></strong></summary>
 
-- _**[https://trackerslist.com/best_aria2.txt](https://github-do.panbaidu.cn/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best_aria2.txt)**_  
-- _**[https://trackerslist.com/all_aria2.txt](https://github-do.panbaidu.cn/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all_aria2.txt)**_  
-- _**[https://trackerslist.com/http_aria2.txt](https://github-do.panbaidu.cn/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/http_aria2.txt)**_  
+- _**[https://trackerslist.../best_aria2.txt](https://github-do.panbaidu.cn/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best_aria2.txt)**_  
+- _**[https://trackerslist.../all_aria2.txt](https://github-do.panbaidu.cn/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all_aria2.txt)**_  
+- _**[https://trackerslist.../http_aria2.txt](https://github-do.panbaidu.cn/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/http_aria2.txt)**_  
 
-> Aria2 格式的备用地址和上面的一样，只需要改一下末尾的文件名即可。
+> 上面链接已改为**国内 CDN 分流**地址（由[小麦云服](https://own-cloud.cn/)提供），来解决大家反应的速度、稳定性问题。
 
 </details>
 
