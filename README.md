@@ -32,11 +32,11 @@ _You can judge whether there is a problem with the BT configuration and network 
 ### Updated: 2022-05-04
 
 - **BEST Tracker list:** (84 trackers)  
- _**[https://cf.trackerslist.com/best.txt](https://cf.trackerslist.com/best.txt)**_  
+ _**[https://trackerslist.../best.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt)**_  
 - **ALL Tracker list:** (169 trackers)  
- _**[https://cf.trackerslist.com/all.txt](https://cf.trackerslist.com/all.txt)**_  
+ _**[https://trackerslist.../all.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt)**_  
 - **HTTP(S) Tracker list:** (71 trackers)  
- _**[https://cf.trackerslist.com/http.txt](https://cf.trackerslist.com/http.txt)**_  
+ _**[https://trackerslist.../http.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/http.txt)**_  
 
 > The above link has been changed to the **Cloudflare CDN** address to improve speed and stability.
 
@@ -63,9 +63,9 @@ _You can judge whether there is a problem with the BT configuration and network 
 <details>
 <summary><strong><code>[Click to expand] - View the tracker list in Aria2 format</code> </strong></summary>
 
-- _**[https://cf.trackerslist.com/best_aria2.txt](https://cf.trackerslist.com/best_aria2.txt)**_  
-- _**[https://cf.trackerslist.com/all_aria2.txt](https://cf.trackerslist.com/all_aria2.txt)**_  
-- _**[https://cf.trackerslist.com/http_aria2.txt](https://cf.trackerslist.com/http_aria2.txt)**_  
+- _**[https://trackerslist.../best_aria2.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best_aria2.txt)**_  
+- _**[https://trackerslist.../all_aria2.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/all_aria2.txt)**_  
+- _**[https://trackerslist.../http_aria2.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/http_aria2.txt)**_  
 
 > The above link has been changed to the **Cloudflare CDN** address to improve speed and stability.
 
