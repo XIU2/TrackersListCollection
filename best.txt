@@ -52,8 +52,6 @@ https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nanoha.org:443/announce
 
-https://tracker.tamersunion.org:443/announce
-
 https://trackme.theom.nz:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
