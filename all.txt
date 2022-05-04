@@ -14,6 +14,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://buny.uk:6969/announce
 
+http://fxtt.ru:80/announce
+
 http://i-p-v-6.tk:6969/announce
 
 http://ipv6.1337.cx:6969/announce
@@ -36,11 +38,15 @@ http://opentracker.xyz:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
+http://retracker.joxnet.ru:80/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
+
+http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
 
@@ -68,6 +74,8 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.srv00.com:6969/announce
@@ -76,7 +84,7 @@ http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-http://tracker2.ctix.cn:6969/announce
+http://tracker2.dler.org:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -109,8 +117,6 @@ https://tr.ready4.icu:443/announce
 https://tr.torland.ga:443/announce
 
 https://tracker.babico.name.tr:443/announce
-
-https://tracker.foreverpirates.co:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -221,8 +227,6 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://p4p.arenabg.com:1337/announce
 
 udp://public.publictracker.xyz:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
