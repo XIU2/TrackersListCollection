@@ -36,8 +36,6 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker2.ctix.cn:6969/announce
 
-http://tracker2.itzmx.com:6961/announce
-
 https://carbon-bonsai-621.appspot.com:443/announce
 
 https://opentracker.i2p.rocks:443/announce
@@ -53,6 +51,8 @@ https://tracker.imgoingto.icu:443/announce
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nanoha.org:443/announce
+
+https://tracker.tamersunion.org:443/announce
 
 https://trackme.theom.nz:443/announce
 
