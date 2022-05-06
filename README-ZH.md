@@ -3,7 +3,6 @@
 [![GitHub license](https://img.shields.io/github/license/XIU2/TrackersListCollection.svg?style=flat-square&color=4285dd&logo=github)](https://github.com/XIU2/TrackersListCollection/)
 [![GitHub Star](https://img.shields.io/github/stars/XIU2/TrackersListCollection.svg?style=flat-square&label=Star&color=4285dd&logo=github)](https://github.com/XIU2/TrackersListCollection/)
 [![GitHub Fork](https://img.shields.io/github/forks/XIU2/TrackersListCollection.svg?style=flat-square&label=Fork&color=4285dd&logo=github)](https://github.com/XIU2/TrackersListCollection/)
-[![jsDelivr](https://data.jsdelivr.com/v1/package/gh/XIU2/TrackersListCollection/badge)](https://www.jsdelivr.com/package/gh/XIU2/TrackersListCollection)
 [![TrackersList.com](https://img.shields.io/static/v1?label=%20&message=TrackersList.com&style=flat-square&labelColor=4B93F1&color=4285dd&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAYUlEQVR42mP0nvzxPwMFgBHdgOYAbji7dsNX0g1IseeEs+cc/E68AVty+Ehyus+UT4PNAGxhEKDLiqGBYCDCYuHh+3/DzYANl38zyAsywfmwRDYIDUAGyGmD6DCgqgHEAADqpnHxT0ZWTwAAAABJRU5ErkJggg==)](https://trackerslist.com)
 
 每天更新！全网热门 BitTorrent Tracker 列表！**觉得好用请点个[⭐](https://github.com/XIU2/TrackersListCollection/stargazers) 鼓励一下叭~**   
@@ -22,12 +21,12 @@
 - _因为 **BT 下载文件**全都是**其他用户上传给你的**。_
 - _所以 **BT 下载速度**就等于**其他用户的上传速度**。_ 
 
-你链接的做种上传用户越多，你的下载速度就越快，而用户通过 **Peer、DHT、Tracker** 获得。  
+链接到的做种上传用户越多，你的下载速度就越快，而用户通过 **Peer、DHT、Tracker** 获得。  
 
 |  |  |
 | :---- | :---- |
 | **Peer** | 在获得一个有效用户后才会起作用，该用户会把它知道的其他用户信息告诉你。 |
-| **DHT** | Peer 威力加强版，分布式储存用户信息，因此获得用户的效率更高，但需要养（下载热门资源）。 |
+| **DHT** | Peer 威力加强版，分布式储存用户信息，因此获得用户的效率更高，但需要下载热门资源来养。 |
 | **Tracker** | 记录下载同一个资源的用户信息并提供给你，帮助你与其他用户建立连接。 |
 
  > _**以上三者的优缺点是互补的，不存在谁替代谁，互相搭配一起使用效果最好~**_   
@@ -60,7 +59,7 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 
 \# **以下为完整列表 ` all.txt ` 示例（末尾文件名可自行修改，选择一个速度快的地址）：**  
  
-- _**https://cf.trackerslist.com/all.txt**_  
+- _**https://cf.trackerslist.com/all.txt** ( Cloudflare CDN_  
 - _**https://ghproxy.fsofso.com/https://github.com/XIU2/TrackersListCollection/blob/master/all.txt** ( 中国香港 CDN，下同_  
 - _**https://hk1.monika.love/XIU2/TrackersListCollection/master/all.txt**_  
 - _**https://raw.iqiq.io/XIU2/TrackersListCollection/master/all.txt**_  
@@ -102,7 +101,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 > <small>_**便携版：https://pan.lanzouq.com/b073c7g4f (已配置 Tracker 并屏蔽迅雷)**_</small>  
 
 - **工具 - 选项 - 任务设置 - BT下载 - Tracker**  
- **勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[立即更新\]** 上面就会显示获取的 Tracker 了。(如下图所示)  
+ **勾选下图红框内的选项** 并填写 Tracker URL 后点击 `立即更新` 上面就会显示获取的 Tracker 了。(如下图所示)  
  
 > <small>比特彗星的 **黄灯 绿灯** 对下载速度影响较小，主要影响上传速度，绿灯需要 **公网IP + 端口映射(UPnP)** 。</small>  
 
@@ -118,7 +117,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 > <small>在 qBittorrent 的基础上增加了很多功能，例如：**屏蔽迅雷、订阅 Tracker URL** ，可以很方便的配合本项目使用。</small>
 
 - **选项[齿轮图标] - BitTorrent**  
- **勾选下图红框内的选项** 并填写 Tracker URL 后点击 **\[Apply\]** 保存，**然后重启 qBittorrentEE 。**(如下图所示)  
+ **勾选下图红框内的选项** 并填写 Tracker URL 后点击 `Apply` 保存，**然后重启 qBittorrentEE 。**(如下图所示)  
 
 <img src="https://github-do.panbaidu.cn/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/img/zh-11.png" width="50%">
 
@@ -130,7 +129,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 > <small>_**便携版：https://pan.lanzouq.com/b073jjwta**_</small>  
 
 - **选项[齿轮图标] - BitTorrent**  
- **勾选下图红框内的选项** 并复制所有 Tracker 后粘贴到下方输入框中，然后点击 **\[Apply\]** 保存。(如下图所示)  
+ **勾选下图红框内的选项** 并复制所有 Tracker 后粘贴到下方输入框中，然后点击 `Apply` 保存。(如下图所示)  
 
 <img src="https://github-do.panbaidu.cn/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/img/zh-12.png" width="50%">
 
@@ -141,7 +140,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 > <small>_**官方网站：https://motrix.app**_</small>
 
 - **选项(左下角) - 进阶设置 - Tracker 服务器 - ﹀**  
- **勾选任意一个选项（如 all.txt）** ，然后点击 **\[保存并应用\]** 保存。(如下图所示)  
+ **勾选任意一个选项（如 all.txt）** ，然后点击 `保存并应用` 保存。(如下图所示)  
 
 <img src="https://github-do.panbaidu.cn/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/img/zh-13.png" width="50%">
 
@@ -152,7 +151,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 > <small>_**官方网站：http://www.filecxx.com**_</small>
 
 - **设置 - BT 追踪器 - 订阅**  
- 右键空白处在右键菜单中选择 **添加**，填写 Tracker URL 后点击 **\[保存\]** 。(如下图所示)  
+ 右键空白处在右键菜单中选择 **添加**，填写 Tracker URL 后点击 `保存` 。(如下图所示)  
 
 <img src="https://github-do.panbaidu.cn/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/img/zh-14.png" width="50%">
 

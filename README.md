@@ -3,7 +3,6 @@
 [![GitHub license](https://img.shields.io/github/license/XIU2/TrackersListCollection.svg?style=flat-square&color=4285dd&logo=github)](https://github.com/XIU2/TrackersListCollection/)
 [![GitHub Star](https://img.shields.io/github/stars/XIU2/TrackersListCollection.svg?style=flat-square&label=Star&color=4285dd&logo=github)](https://github.com/XIU2/TrackersListCollection/)
 [![GitHub Fork](https://img.shields.io/github/forks/XIU2/TrackersListCollection.svg?style=flat-square&label=Fork&color=4285dd&logo=github)](https://github.com/XIU2/TrackersListCollection/)
-[![jsDelivr](https://data.jsdelivr.com/v1/package/gh/XIU2/TrackersListCollection/badge)](https://www.jsdelivr.com/package/gh/XIU2/TrackersListCollection)
 [![TrackersList.com](https://img.shields.io/static/v1?label=%20&message=TrackersList.com&style=flat-square&labelColor=4B93F1&color=4285dd&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAYUlEQVR42mP0nvzxPwMFgBHdgOYAbji7dsNX0g1IseeEs+cc/E68AVty+Ehyus+UT4PNAGxhEKDLiqGBYCDCYuHh+3/DzYANl38zyAsywfmwRDYIDUAGyGmD6DCgqgHEAADqpnHxT0ZWTwAAAABJRU5ErkJggg==)](https://trackerslist.com)
 
 Updated daily! A list of popular BitTorrent Trackers. **If you feel good, please [⭐](https://github.com/XIU2/TrackersListCollection/stargazers)!**  
