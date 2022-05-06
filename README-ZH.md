@@ -26,13 +26,12 @@
 |  |  |
 | :---- | :---- |
 | **Peer** | 在获得一个有效用户后才会起作用，该用户会把它知道的其他用户信息告诉你。 |
-| **DHT** | Peer 威力加强版，分布式储存用户信息，因此获得用户的效率更高，但需要下载热门资源来养。 |
-| **Tracker** | 记录下载同一个资源的用户信息并提供给你，帮助你与其他用户建立连接。 |
+| **DHT** | Peer 加强版，分布式储存用户信息，获得用户的效率更高，但需要下载热门资源来养。 |
+| **Tracker** | 记录所有正在上传/下载同一资源的用户信息并提供给你，帮助你与其他用户建立连接。 |
 
- > _**以上三者的优缺点是互补的，不存在谁替代谁，互相搭配一起使用效果最好~**_   
-> _使用这些 Tracker 的人越多，用户数量就越多，大家的下载速度就越快，多多推荐给他人吧！_  
+ > _**以上三者的优缺点是互补的，不存在谁替代谁，只有互相搭配 一起使用 效果才最好~**_
 
-_下图是使用我整理的 Tracker 列表下载BT的速度（完整列表）。_
+_下图是使用我整理的 Tracker 列表下载BT的速度（all.txt）。_
 
 ![BitComet](https://github-do.panbaidu.cn/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/img/zh-01.png)
 ![qBittorrentEE](https://github-do.panbaidu.cn/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/img/zh-02.png)
@@ -101,7 +100,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 > <small>_**便携版：https://pan.lanzouq.com/b073c7g4f (已配置 Tracker 并屏蔽迅雷)**_</small>  
 
 - **工具 - 选项 - 任务设置 - BT下载 - Tracker**  
- **勾选下图红框内的选项** 并填写 Tracker URL 后点击 `立即更新` 上面就会显示获取的 Tracker 了。(如下图所示)  
+ **勾选下图红框内的选项** 并填写 Tracker URL 后点击 `立即更新` 上面就会显示获取的 Tracker 了。  
  
 > <small>比特彗星的 **黄灯 绿灯** 对下载速度影响较小，主要影响上传速度，绿灯需要 **公网IP + 端口映射(UPnP)** 。</small>  
 
@@ -117,7 +116,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 > <small>在 qBittorrent 的基础上增加了很多功能，例如：**屏蔽迅雷、订阅 Tracker URL** ，可以很方便的配合本项目使用。</small>
 
 - **选项[齿轮图标] - BitTorrent**  
- **勾选下图红框内的选项** 并填写 Tracker URL 后点击 `Apply` 保存，**然后重启 qBittorrentEE 。**(如下图所示)  
+ **勾选下图红框内的选项** 并填写 Tracker URL 后点击 `Apply` 保存，**然后重启 qBittorrentEE 。**  
 
 <img src="https://github-do.panbaidu.cn/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/img/zh-11.png" width="50%">
 
@@ -129,7 +128,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 > <small>_**便携版：https://pan.lanzouq.com/b073jjwta**_</small>  
 
 - **选项[齿轮图标] - BitTorrent**  
- **勾选下图红框内的选项** 并复制所有 Tracker 后粘贴到下方输入框中，然后点击 `Apply` 保存。(如下图所示)  
+ **勾选下图红框内的选项** 并复制所有 Tracker 后粘贴到下方输入框中，然后点击 `Apply` 保存。  
 
 <img src="https://github-do.panbaidu.cn/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/img/zh-12.png" width="50%">
 
@@ -140,7 +139,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 > <small>_**官方网站：https://motrix.app**_</small>
 
 - **选项(左下角) - 进阶设置 - Tracker 服务器 - ﹀**  
- **勾选任意一个选项（如 all.txt）** ，然后点击 `保存并应用` 保存。(如下图所示)  
+ **勾选任意一个选项（如 all.txt）** ，然后点击 `保存并应用` 保存。  
 
 <img src="https://github-do.panbaidu.cn/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/img/zh-13.png" width="50%">
 
@@ -151,7 +150,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 > <small>_**官方网站：http://www.filecxx.com**_</small>
 
 - **设置 - BT 追踪器 - 订阅**  
- 右键空白处在右键菜单中选择 **添加**，填写 Tracker URL 后点击 `保存` 。(如下图所示)  
+ 右键空白处在右键菜单中选择 `添加`，填写 Tracker URL 后点击 `保存` 。  
 
 <img src="https://github-do.panbaidu.cn/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/img/zh-14.png" width="50%">
 
