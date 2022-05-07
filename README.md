@@ -30,11 +30,11 @@ _You can judge whether there is a problem with the BT configuration and network 
 
 ### Updated: 2022-05-07
 
-- **BEST Tracker list:** (89 trackers)  
+- **BEST Tracker list:** (87 trackers)  
  _**[https://trackerslist.../best.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt)**_  
-- **ALL Tracker list:** (143 trackers)  
+- **ALL Tracker list:** (164 trackers)  
  _**[https://trackerslist.../all.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt)**_  
-- **HTTP(S) Tracker list:** (62 trackers)  
+- **HTTP(S) Tracker list:** (68 trackers)  
  _**[https://trackerslist.../http.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/http.txt)**_  
 
 > The above link has been changed to the **Cloudflare CDN** address to improve speed and stability.
