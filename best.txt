@@ -12,6 +12,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -19,8 +21,6 @@ http://share.camoe.cn:8080/announce
 http://t.nyaatracker.com:80/announce
 
 http://t.publictracker.xyz:6969/announce
-
-http://tr.cili001.com:8070/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -31,6 +31,8 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker2.ctix.cn:6969/announce
 
@@ -44,13 +46,13 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
 
+https://tracker.baka.ink:443/announce
+
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nanoha.org:443/announce
-
-https://tracker.tamersunion.org:443/announce
 
 https://trackme.theom.nz:443/announce
 
@@ -65,6 +67,8 @@ udp://exodus.desync.com:6969/announce
 udp://fe.dealclub.de:6969/announce
 
 udp://fgg.pp.ua:6969/announce
+
+udp://inferno.demonoid.is:3391/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
@@ -120,13 +124,13 @@ udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.farted.net:6969/announce
 
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.leech.ie:1337/announce
-
-udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -147,6 +151,8 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
