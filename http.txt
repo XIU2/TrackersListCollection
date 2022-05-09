@@ -40,9 +40,13 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
+
+http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -101,6 +105,8 @@ https://tr.highstar.shop:443/announce
 https://tr.ready4.icu:443/announce
 
 https://tr.torland.ga:443/announce
+
+https://track.plop.pm:8989/announce
 
 https://tracker.babico.name.tr:443/announce
 
