@@ -24,6 +24,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://open.tracker.ink:6969/announce
 
 http://opentracker.i2p.rocks:6969/announce
@@ -62,17 +64,17 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.lelux.fi:80/announce
 
+http://tracker.loadbt.com:6969/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.srv00.com:6969/announce
-
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker2.ctix.cn:6969/announce
+http://tracker2.dler.org:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -139,8 +141,6 @@ udp://207.241.231.226:6969/announce
 udp://212.1.226.176:2710/announce
 
 udp://52.58.128.163:6969/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://78.30.254.12:2710/announce
 
