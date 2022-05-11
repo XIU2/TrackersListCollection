@@ -37,8 +37,6 @@ _You can judge whether there is a problem with the BT configuration and network 
 - **HTTP(S) Tracker list:** (67 trackers)  
  _**[https://trackerslist.../http.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/http.txt)**_  
 
-> The above link has been changed to the **Cloudflare CDN** address to improve speed and stability.
-
 <details>
 <summary><strong><code>[Click to expand] - View alternate address</code></strong></summary>
 
@@ -65,8 +63,6 @@ _You can judge whether there is a problem with the BT configuration and network 
 - _**[https://trackerslist.../best_aria2.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best_aria2.txt)**_  
 - _**[https://trackerslist.../all_aria2.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/all_aria2.txt)**_  
 - _**[https://trackerslist.../http_aria2.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/http_aria2.txt)**_  
-
-> The above link has been changed to the **Cloudflare CDN** address to improve speed and stability.
 
 </details>
 
