@@ -20,8 +20,6 @@ http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.coppersurfer.site:2710/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -41,8 +39,6 @@ https://tr.abiir.top:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
-
-https://tracker.babico.name.tr:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -139,6 +135,8 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
