@@ -49,6 +49,8 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 - **HTTP(S)列表：**(66 个)  
  _**[https://trackerslist.../http.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/http.txt)**_  
 
+> 上面链接已改为 **CDN 分流**地址，来解决大家反应的速度、稳定性问题，如还不行请尝试**备用**地址。
+
 <details>
 <summary><strong><code>[点击展开] - 查看备用地址</code></strong></summary>
 
@@ -57,7 +59,7 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 \# **以下为完整列表 ` all.txt ` 示例（末尾文件名可自行修改，选择一个速度快的地址）：**  
  
 - _**https://cf.trackerslist.com/all.txt** ( Cloudflare CDN_  
-- _**https://ghproxy.fsofso.com/https://github.com/XIU2/TrackersListCollection/blob/master/all.txt** ( 中国香港 CDN，下同_  
+- _**https://ghproxy.futils.com/https://github.com/XIU2/TrackersListCollection/blob/master/all.txt** ( 中国香港 CDN，下同_  
 - _**https://hk1.monika.love/XIU2/TrackersListCollection/master/all.txt**_  
 - _**https://raw.iqiq.io/XIU2/TrackersListCollection/master/all.txt**_  
 - _**https://gcore.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt** ( 国外 CDN，适合移动、电信_  
@@ -79,6 +81,8 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 - _**[https://trackerslist.../best_aria2.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/best_aria2.txt)**_  
 - _**[https://trackerslist.../all_aria2.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/all_aria2.txt)**_  
 - _**[https://trackerslist.../http_aria2.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/http_aria2.txt)**_  
+
+> 上面链接已改为 **CDN 分流**地址，来解决大家反应的速度、稳定性问题，如还不行请尝试**备用**地址。
 
 </details>
 
