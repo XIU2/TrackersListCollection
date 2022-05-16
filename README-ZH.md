@@ -46,7 +46,7 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
  _**[https://trackerslist.../best.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/best.txt)**_  
 - **完整列表：**(158 个)  
  _**[https://trackerslist.../all.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/all.txt)**_  
-- **HTTP(S)列表：**(64 个)  
+- **HTTP(S)列表：**(63 个)  
  _**[https://trackerslist.../http.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/http.txt)**_  
 
 > 上面链接已改为 **CDN 分流**地址，来解决大家反应的速度、稳定性问题，如还不行请尝试**备用**地址。

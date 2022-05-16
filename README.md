@@ -34,7 +34,7 @@ _You can judge whether there is a problem with the BT configuration and network 
  _**[https://trackerslist.../best.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt)**_  
 - **ALL Tracker list:** (158 trackers)  
  _**[https://trackerslist.../all.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt)**_  
-- **HTTP(S) Tracker list:** (64 trackers)  
+- **HTTP(S) Tracker list:** (63 trackers)  
  _**[https://trackerslist.../http.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/http.txt)**_  
 
 <details>
