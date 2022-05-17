@@ -8,11 +8,11 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://t.publictracker.xyz:6969/announce
 
@@ -90,8 +90,6 @@ udp://thetracker.org:80/announce
 
 udp://torrentclub.space:6969/announce
 
-udp://tr.cili001.com:8070/announce
-
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -104,9 +102,9 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
-udp://tracker.dler.com:6969/announce
+udp://tracker.cyberia.is:6969/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.dler.com:6969/announce
 
 udp://tracker.jordan.im:6969/announce
 
@@ -118,6 +116,8 @@ udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
+udp://tracker.monitorit4.me:6969/announce
+
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.openbittorrent.com:80/announce
@@ -128,6 +128,8 @@ udp://tracker.pomf.se:80/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -137,6 +139,8 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://v2.iperson.xyz:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
