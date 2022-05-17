@@ -49,7 +49,7 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 - **HTTP(S)列表：**(66 个)  
  _**[https://trackerslist.../http.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/http.txt)**_  
 
-> 上面链接已改为 **CDN 分流**地址，来解决大家反应的速度、稳定性问题，如还不行请尝试**备用**地址。
+> 上面链接已改为 **CDN 分流**地址，来解决大家反应的速度问题，国内**电信**用户建议使用下面的**备用地址**。
 
 <details>
 <summary><strong><code>[点击展开] - 查看备用地址</code></strong></summary>
@@ -198,7 +198,7 @@ _**更详细、完整的请看这篇文章：[https://zhuanlan.zhihu.com/p/87193
 
 ### 赞赏支持
 
-![微信赞赏](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/zs-01.png)![支付宝赞赏](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/zs-02.png)
+![微信赞赏](https://cdn.staticaly.com/gh/XIU2/XIU2/master/img/zs-01.png)![支付宝赞赏](https://cdn.staticaly.com/gh/XIU2/XIU2/master/img/zs-02.png)
 
 ****
 
