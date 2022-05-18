@@ -20,8 +20,6 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
@@ -37,8 +35,6 @@ http://t.acg.rip:6699/announce
 http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
-
-http://t.publictracker.xyz:6969/announce
 
 http://tr.cili001.com:8070/announce
 
@@ -60,17 +56,13 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.srv00.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker2.ctix.cn:6969/announce
-
-http://tracker2.dler.org:80/announce
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://uraniumhexafluori.de:1919/announce
 
@@ -101,8 +93,6 @@ https://tr.fuckbitcoin.xyz:443/announce
 https://tr.ready4.icu:443/announce
 
 https://tr.torland.ga:443/announce
-
-https://track.plop.pm:8989/announce
 
 https://tracker.babico.name.tr:443/announce
 
