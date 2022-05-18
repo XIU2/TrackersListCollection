@@ -32,9 +32,9 @@ _You can judge whether there is a problem with the BT configuration and network 
 
 - **BEST Tracker list:** (75 trackers)  
  _**[https://trackerslist.../best.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt)**_  
-- **ALL Tracker list:** (156 trackers)  
+- **ALL Tracker list:** (159 trackers)  
  _**[https://trackerslist.../all.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt)**_  
-- **HTTP(S) Tracker list:** (63 trackers)  
+- **HTTP(S) Tracker list:** (66 trackers)  
  _**[https://trackerslist.../http.txt](https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/http.txt)**_  
 
 <details>
