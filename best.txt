@@ -42,6 +42,8 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
 
+https://track.plop.pm:8989/announce
+
 https://tracker.babico.name.tr:443/announce
 
 https://tracker.imgoingto.icu:443/announce
