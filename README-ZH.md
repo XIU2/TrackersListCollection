@@ -9,7 +9,8 @@
 
 本项目整合了全网热门 Tracker，经过筛选过滤，最终得到了一个优质的 Tracker 列表方便大家使用~  
 
-> 「[English](https://github.com/XIU2/TrackersListCollection/#readme)」([trackerslist.com](https://trackerslist.com) visitors, please switch languages in the upper right corner ↗)  
+> 「[English](https://github.com/XIU2/TrackersListCollection/#readme)」(Visitors at [trackerslist.com](https://trackerslist.com/), please switch languages via the top right corner↗)  
+
 
 > _分享我其他开源项目：[Github 高速下载、知乎增强、自动无缝翻页、护眼模式 等**油猴脚本**！](https://github.com/XIU2/UserScript)<img src="https://img.shields.io/github/stars/XIU2/UserScript.svg?style=flat-square&label=Star&color=4285dd&logo=github" height="16px" />_   
 > _[**CloudflareSpeedTest** - 🌩 测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！](https://github.com/XIU2/CloudflareSpeedTest) <img src="https://img.shields.io/github/stars/XIU2/CloudflareSpeedTest.svg?style=flat-square&label=Star&color=4285dd&logo=github" height="16px" />_   
@@ -49,10 +50,10 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 - **HTTP(S)列表：**(63 个)  
  _**[https://trackerslist.../http.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/http.txt)**_  
 
-> 上面链接已改为 **CDN 分流**地址，来解决大家反应的速度问题，国内**电信**用户建议使用下面的**备用地址**。
+> 上面链接已改为 **CDN 分流**地址，来解决大家反应的速度问题（国内**电信**用户建议使用其他备用地址）。
 
 <details>
-<summary><strong><code>[点击展开] - 查看备用地址</code></strong></summary>
+<summary><strong><code>[点击展开] - 查看其他 CDN 分流地址</code></strong></summary>
 
 ****
 
