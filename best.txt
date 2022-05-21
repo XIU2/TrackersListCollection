@@ -56,6 +56,8 @@ https://tracker.tamersunion.org:443/announce
 
 https://trackme.theom.nz:443/announce
 
+https://ttk.pp.ua:443/announce
+
 udp://9.rarbg.com:2810/announce
 
 udp://bt1.archive.org:6969/announce
@@ -107,8 +109,6 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
-
-udp://tracker.dler.com:6969/announce
 
 udp://tracker.dump.cl:6969/announce
 
