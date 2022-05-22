@@ -58,11 +58,15 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.srv00.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker2.ctix.cn:6969/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -123,5 +127,3 @@ https://tracker.tamersunion.org:443/announce
 https://tracker.yarr.pt:443/announce
 
 https://trackme.theom.nz:443/announce
-
-https://ttk.pp.ua:443/announce
