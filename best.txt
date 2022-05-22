@@ -50,11 +50,11 @@ https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nanoha.org:443/announce
 
-https://tracker.tamersunion.org:443/announce
-
 https://trackme.theom.nz:443/announce
 
 udp://9.rarbg.com:2810/announce
+
+udp://960303.xyz:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
