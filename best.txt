@@ -34,8 +34,6 @@ https://carbon-bonsai-621.appspot.com:443/announce
 
 https://hcbt.pp.ua:443/announce
 
-https://luna.jae.su:443/announce
-
 https://opentracker.i2p.rocks:443/announce
 
 https://tr.abiir.top:443/announce
@@ -147,6 +145,8 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://tracker6.lelux.fi:6969/announce
 
 udp://v2.iperson.xyz:6969/announce
 
