@@ -8,6 +8,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -37,8 +39,6 @@ https://tr.abiir.top:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
-
-https://track.plop.pm:8989/announce
 
 https://tracker.babico.name.tr:443/announce
 
