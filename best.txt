@@ -32,8 +32,6 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 https://carbon-bonsai-621.appspot.com:443/announce
 
 https://hcbt.pp.ua:443/announce
