@@ -12,6 +12,8 @@ http://buny.uk:6969/announce
 
 http://cutiegirl.ru:6969/announce
 
+http://fe.dealclub.de:6969/announce
+
 http://fxtt.ru:80/announce
 
 http://milanesitracker.tekcities.com:80/announce
@@ -23,8 +25,6 @@ http://open-v6.demonoid.ch:6969/announce
 http://open.acgnxtracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
-
-http://open.tracker.ink:6969/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
@@ -41,8 +41,6 @@ http://t.acg.rip:6699/announce
 http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
-
-http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
 
