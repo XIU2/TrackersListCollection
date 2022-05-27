@@ -8,6 +8,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -41,6 +43,8 @@ https://tr.abiir.top:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
+
+https://track.plop.pm:8989/announce
 
 https://tracker.babico.name.tr:443/announce
 
@@ -132,8 +136,6 @@ udp://tracker.pomf.se:80/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
-udp://tracker.srv00.com:6969/announce
-
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
@@ -145,6 +147,8 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
