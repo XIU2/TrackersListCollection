@@ -50,8 +50,6 @@ https://tracker.babico.name.tr:443/announce
 
 https://tracker.baka.ink:443/announce
 
-https://tracker.feb217.tk:8443/announce
-
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.lilithraws.cf:443/announce
