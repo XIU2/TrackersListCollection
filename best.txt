@@ -8,6 +8,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -34,8 +36,6 @@ http://uraniumhexafluori.de:1919/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
 
-https://hcbt.pp.ua:443/announce
-
 https://opentracker.i2p.rocks:443/announce
 
 https://tr.abiir.top:443/announce
@@ -61,6 +61,8 @@ https://tracker.tamersunion.org:443/announce
 https://trackme.theom.nz:443/announce
 
 udp://9.rarbg.com:2810/announce
+
+udp://960303.xyz:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
