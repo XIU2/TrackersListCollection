@@ -4,11 +4,11 @@ http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
 
+http://337hhh.tpddns.cn:6969/announce
+
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
-
-http://btracker.top:11451/announce
 
 http://cutiegirl.ru:6969/announce
 
@@ -23,6 +23,10 @@ http://nyaa.tracker.wf:7777/announce
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
+
+http://open.tracker.ink:6969/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
@@ -40,8 +44,6 @@ http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -57,6 +59,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lelux.fi:80/announce
+
+http://tracker.loadbt.com:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
