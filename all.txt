@@ -8,6 +8,8 @@ http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
+http://btracker.top:11451/announce
+
 http://cutiegirl.ru:6969/announce
 
 http://fe.dealclub.de:6969/announce
@@ -28,6 +30,8 @@ http://opentracker.xyz:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
+http://rt.optizone.ru:80/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
@@ -41,6 +45,8 @@ http://tr.cili001.com:8070/announce
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -60,13 +66,17 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.srv00.com:6969/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker1.itzmx.com:8080/announce
+
+http://tracker2.520.jp:2095/announce
 
 http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
+
+http://tracker3.520.jp:2095/announce
+
+http://tracker3.ctix.cn:2095/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -84,6 +94,8 @@ https://opentracker.i2p.rocks:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.abirxo.cf:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
@@ -91,6 +103,8 @@ https://tr.burnabyhighstar.com:443/announce
 https://tr.fuckbitcoin.xyz:443/announce
 
 https://tr.ready4.icu:443/announce
+
+https://track.plop.pm:8989/announce
 
 https://tracker.babico.name.tr:443/announce
 
@@ -115,6 +129,8 @@ https://tracker.nitrix.me:443/announce
 https://tracker.srv00.com:443/announce
 
 https://tracker.tamersunion.org:443/announce
+
+https://tracker1.520.jp:443/announce
 
 https://trackme.theom.nz:443/announce
 
@@ -145,6 +161,8 @@ udp://[2a0f:e586:f:f::220]:6969/announce
 udp://admin.videoenpoche.info:6969/announce
 
 udp://bclearning.top:6969/announce
+
+udp://bt.oiyo.tk:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -179,8 +197,6 @@ udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
-
-udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -265,6 +281,8 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.zemoj.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
