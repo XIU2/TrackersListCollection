@@ -12,13 +12,19 @@ http://btracker.top:11451/announce
 
 http://cutiegirl.ru:6969/announce
 
+http://fe.dealclub.de:6969/announce
+
 http://fxtt.ru:80/announce
 
 http://milanesitracker.tekcities.com:80/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -27,6 +33,8 @@ http://opentracker.i2p.rocks:6969/announce
 http://opentracker.xyz:80/announce
 
 http://retracker.hotplug.ru:2710/announce
+
+http://rt.optizone.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -45,8 +53,6 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.edkj.club:6969/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -77,6 +83,8 @@ http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.520.jp:2095/announce
+
+http://tracker3.ctix.cn:2095/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -119,6 +127,8 @@ https://tracker.lelux.fi:443/announce
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
+
+https://tracker.logirl.moe:443/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -190,6 +200,8 @@ udp://movies.zsw.ca:6969/announce
 
 udp://mts.tvbit.co:6969/announce
 
+udp://oldboystudy.com:6969/announce
+
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
@@ -213,6 +225,8 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://p4p.arenabg.com:1337/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -262,6 +276,10 @@ udp://tracker.leech.ie:1337/announce
 
 udp://tracker.lelux.fi:6969/announce
 
+udp://tracker.loadbt.com:6969/announce
+
+udp://tracker.logirl.moe:17052/announce
+
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
@@ -305,6 +323,8 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.lelux.fi:6969/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
