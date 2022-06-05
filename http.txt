@@ -8,13 +8,11 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
+http://open.tracker.ink:6969/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
-
-http://retracker.joxnet.ru:80/announce
 
 http://t.acg.rip:6699/announce
 
@@ -27,8 +25,6 @@ http://tr.cili001.com:8070/announce
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.edkj.club:6969/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -44,9 +40,9 @@ http://tracker.noobsubs.net:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.zerobytes.xyz:1337/announce
+http://tracker.srv00.com:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -84,6 +80,8 @@ https://tr.fuckbitcoin.xyz:443/announce
 
 https://tr.ready4.icu:443/announce
 
+https://track.plop.pm:8989/announce
+
 https://tracker.babico.name.tr:443/announce
 
 https://tracker.baka.ink:443/announce
@@ -96,17 +94,19 @@ https://tracker.imgoingto.icu:443/announce
 
 https://tracker.kuroy.me:443/announce
 
+https://tracker.lelux.fi:443/announce
+
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
+
+https://tracker.logirl.moe:443/announce
 
 https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
 https://tracker.tamersunion.org:443/announce
-
-https://tracker1.520.jp:443/announce
 
 https://tracker1.loli.co.nz:443/announce
 

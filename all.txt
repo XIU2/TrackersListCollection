@@ -8,13 +8,11 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
+http://open.tracker.ink:6969/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
-
-http://retracker.joxnet.ru:80/announce
 
 http://t.acg.rip:6699/announce
 
@@ -27,8 +25,6 @@ http://tr.cili001.com:8070/announce
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.edkj.club:6969/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -44,9 +40,9 @@ http://tracker.noobsubs.net:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.zerobytes.xyz:1337/announce
+http://tracker.srv00.com:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -84,6 +80,8 @@ https://tr.fuckbitcoin.xyz:443/announce
 
 https://tr.ready4.icu:443/announce
 
+https://track.plop.pm:8989/announce
+
 https://tracker.babico.name.tr:443/announce
 
 https://tracker.baka.ink:443/announce
@@ -96,17 +94,19 @@ https://tracker.imgoingto.icu:443/announce
 
 https://tracker.kuroy.me:443/announce
 
+https://tracker.lelux.fi:443/announce
+
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
+
+https://tracker.logirl.moe:443/announce
 
 https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
 https://tracker.tamersunion.org:443/announce
-
-https://tracker1.520.jp:443/announce
 
 https://tracker1.loli.co.nz:443/announce
 
@@ -174,6 +174,8 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://public.publictracker.xyz:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://run.publictracker.xyz:6969/announce
@@ -208,15 +210,13 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.dump.cl:6969/announce
 
-udp://tracker.edkj.club:6969/announce
-
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
-udp://tracker.loadbt.com:6969/announce
+udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.logirl.moe:17052/announce
 
@@ -242,8 +242,6 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.zemoj.com:6969/announce
 
-udp://tracker.zerobytes.xyz:1337/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
@@ -255,8 +253,6 @@ udp://tracker2.dler.org:80/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.lelux.fi:6969/announce
-
-udp://tsundere.pw:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
