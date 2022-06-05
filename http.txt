@@ -1,17 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://207.241.226.111:6969/announce
-
-http://207.241.231.226:6969/announce
-
-http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
-
-http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
-
-http://cutiegirl.ru:6969/announce
-
-http://fe.dealclub.de:6969/announce
-
 http://fxtt.ru:80/announce
 
 http://milanesitracker.tekcities.com:80/announce
@@ -22,17 +10,11 @@ http://open.acgnxtracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
 
-http://open.tracker.ink:6969/announce
-
 http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
 
-http://retracker.hotplug.ru:2710/announce
-
 http://retracker.joxnet.ru:80/announce
-
-http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
@@ -42,13 +24,11 @@ http://t.overflow.biz:6969/announce
 
 http://tr.cili001.com:8070/announce
 
-http://tracker.birkenwald.de:6969/announce
-
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.dler.com:6969/announce
-
 http://tracker.dler.org:6969/announce
+
+http://tracker.edkj.club:6969/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -63,8 +43,6 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.noobsubs.net:80/announce
 
 http://tracker.opentrackr.org:1337/announce
-
-http://tracker.srv00.com:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
@@ -106,8 +84,6 @@ https://tr.fuckbitcoin.xyz:443/announce
 
 https://tr.ready4.icu:443/announce
 
-https://track.plop.pm:8989/announce
-
 https://tracker.babico.name.tr:443/announce
 
 https://tracker.baka.ink:443/announce
@@ -127,8 +103,6 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.nanoha.org:443/announce
 
 https://tracker.nitrix.me:443/announce
-
-https://tracker.srv00.com:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
