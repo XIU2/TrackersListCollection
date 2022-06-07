@@ -8,23 +8,27 @@ http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
-http://fosstorrents.com:6969/announce
+http://cutiegirl.ru:6969/announce
 
 http://fxtt.ru:80/announce
 
 http://milanesitracker.tekcities.com:80/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
 
 http://retracker.hotplug.ru:2710/announce
+
+http://retracker.joxnet.ru:80/announce
+
+http://rt.optizone.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -42,13 +46,15 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.lelux.fi:80/announce
+http://tracker.loadbt.com:6969/announce
 
 http://tracker.logirl.moe:17052/announce
 
@@ -108,6 +114,8 @@ https://tracker.baka.ink:443/announce
 
 https://tracker.dmhy.pw:443/announce
 
+https://tracker.foreverpirates.co:443/announce
+
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.kuroy.me:443/announce
@@ -117,6 +125,8 @@ https://tracker.lelux.fi:443/announce
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
+
+https://tracker.logirl.moe:443/announce
 
 https://tracker.nanoha.org:443/announce
 
