@@ -8,8 +8,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -19,6 +17,8 @@ http://t.acg.rip:6699/announce
 http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
+
+http://tr.cili001.com:8070/announce
 
 http://tracker.aeerso.space:6969/announce
 
@@ -78,8 +78,6 @@ udp://9.rarbg.com:2810/announce
 
 udp://960303.xyz:6969/announce
 
-udp://bt1.archive.org:6969/announce
-
 udp://exodus.desync.com:6969/announce
 
 udp://fe.dealclub.de:6969/announce
@@ -137,8 +135,6 @@ udp://tracker.bitsearch.to:1337/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
