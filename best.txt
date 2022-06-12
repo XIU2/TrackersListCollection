@@ -8,6 +8,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.nyap2p.com:8080/announce
+
 http://open.tracker.ink:6969/announce
 
 http://opentracker.xyz:80/announce
@@ -15,8 +17,6 @@ http://opentracker.xyz:80/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -31,6 +31,8 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+http://tracker.iro.moe:80/announce
 
 http://tracker.logirl.moe:17052/announce
 
@@ -58,8 +60,6 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
 
-https://tracker.babico.name.tr:443/announce
-
 https://tracker.baka.ink:443/announce
 
 https://tracker.dmhy.pw:443/announce
@@ -67,8 +67,6 @@ https://tracker.dmhy.pw:443/announce
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.lilithraws.cf:443/announce
-
-https://tracker.lilithraws.org:443/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -162,9 +160,9 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
-udp://tracker6.lelux.fi:6969/announce
+udp://tracker2.dler.org:80/announce
 
-udp://u4.trakx.crim.ist:1337/announce
+udp://tracker6.lelux.fi:6969/announce
 
 udp://v2.iperson.xyz:6969/announce
 
