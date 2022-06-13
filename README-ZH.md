@@ -214,11 +214,5 @@ _**更详细、完整的请看这篇文章：[https://zhuanlan.zhihu.com/p/87193
 
 ****
 
-### 帮助项目
-
-* 您知道更好的公共追踪器列表？(例如: ngosang/trackerslist) -> <kbd>[Open a new issue](https://github.com/XIU2/TrackersListCollection/issues/new)</kbd>
-
-****
-
 ### License
 The GPL-3.0 License.  
