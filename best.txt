@@ -36,8 +36,6 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.itzmx.com:6961/announce
