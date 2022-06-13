@@ -10,8 +10,6 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://fe.dealclub.de:6969/announce
 
-http://fosstorrents.com:6969/announce
-
 http://fxtt.ru:80/announce
 
 http://milanesitracker.tekcities.com:80/announce
@@ -58,11 +56,17 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.iro.moe:80/announce
 
+http://tracker.lelux.fi:80/announce
+
+http://tracker.loadbt.com:6969/announce
+
 http://tracker.logirl.moe:17052/announce
 
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.noobsubs.net:80/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -81,8 +85,6 @@ http://tracker2.520.jp:2095/announce
 http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
-
-http://tracker3.520.jp:2095/announce
 
 http://tracker3.ctix.cn:2095/announce
 
@@ -110,13 +112,9 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
 
-https://track.plop.pm:8989/announce
-
 https://tracker.babico.name.tr:443/announce
 
 https://tracker.baka.ink:443/announce
-
-https://tracker.dmhy.pw:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -129,8 +127,6 @@ https://tracker.lelux.fi:443/announce
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
-
-https://tracker.logirl.moe:443/announce
 
 https://tracker.nanoha.org:443/announce
 
