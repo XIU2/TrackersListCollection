@@ -34,8 +34,6 @@ http://tracker.iro.moe:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.noobsubs.net:80/announce
-
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.itzmx.com:6961/announce
@@ -78,6 +76,8 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.babico.name.tr:8000/announce
 
+udp://mirror.aptus.co.tz:6969/announce
+
 udp://movies.zsw.ca:6969/announce
 
 udp://oldboystudy.com:6969/announce
@@ -91,6 +91,8 @@ udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -115,6 +117,8 @@ udp://tracker.0x.tf:6969/announce
 udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
+
+udp://tracker.babico.name.tr:8000/announce
 
 udp://tracker.beeimg.com:6969/announce
 
