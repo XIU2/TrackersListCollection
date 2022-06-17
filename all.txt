@@ -8,8 +8,6 @@ http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
-http://fosstorrents.com:6969/announce
-
 http://fxtt.ru:80/announce
 
 http://milanesitracker.tekcities.com:80/announce
@@ -19,6 +17,8 @@ http://movies.zsw.ca:6969/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://open.nyap2p.com:8080/announce
 
@@ -42,19 +42,17 @@ http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.corpscorp.online:80/announce
+
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.edkj.club:6969/announce
 
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.lelux.fi:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -67,6 +65,8 @@ http://tracker.srv00.com:6969/announce
 http://tracker.srv00.com:80/announce
 
 http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -162,6 +162,10 @@ udp://[2a0f:e586:f:f::220]:6969/announce
 
 udp://admin.videoenpoche.info:6969/announce
 
+udp://bclearning.top:6969/announce
+
+udp://bt.oiyo.tk:6969/announce
+
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
@@ -224,6 +228,8 @@ udp://run.publictracker.xyz:6969/announce
 
 udp://torrentclub.space:6969/announce
 
+udp://tr.bangumi.moe:6969/announce
+
 udp://tr.cili001.com:8070/announce
 
 udp://tracker.0x.tf:6969/announce
@@ -260,6 +266,8 @@ udp://tracker.leech.ie:1337/announce
 
 udp://tracker.lelux.fi:6969/announce
 
+udp://tracker.loadbt.com:6969/announce
+
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
@@ -276,11 +284,15 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.swateam.org.uk:2710/announce
 
+udp://tracker.teambelgium.net:6969/announce
+
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 

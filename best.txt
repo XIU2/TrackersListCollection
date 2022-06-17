@@ -10,11 +10,15 @@ http://open.acgnxtracker.com:80/announce
 
 http://open.nyap2p.com:8080/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -32,9 +36,13 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.itzmx.com:6961/announce
+
+http://tracker3.520.jp:2095/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -128,8 +136,6 @@ udp://tracker.leech.ie:1337/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.monitorit4.me:6969/announce
-
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -149,6 +155,8 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
