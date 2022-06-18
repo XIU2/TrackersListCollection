@@ -14,11 +14,17 @@ http://fxtt.ru:80/announce
 
 http://milanesitracker.tekcities.com:80/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://open.nyap2p.com:8080/announce
+
+http://open.tracker.ink:6969/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
@@ -42,6 +48,10 @@ http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.dler.com:6969/announce
+
+http://tracker.dler.org:6969/announce
+
 http://tracker.edkj.club:6969/announce
 
 http://tracker.files.fm:6969/announce
@@ -49,8 +59,6 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.lelux.fi:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -128,6 +136,8 @@ https://tracker.srv00.com:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
+https://tracker1.520.jp:443/announce
+
 https://tracker1.loli.co.nz:443/announce
 
 https://trackme.theom.nz:443/announce
@@ -192,6 +202,8 @@ udp://movies.zsw.ca:6969/announce
 
 udp://mts.tvbit.co:6969/announce
 
+udp://nextcloud.brandonsli.com:6969/announce
+
 udp://oldboystudy.com:6969/announce
 
 udp://open.demonii.com:1337/announce
@@ -203,8 +215,6 @@ udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
-
-udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -225,8 +235,6 @@ udp://retracker.lanta-net.ru:2710/announce
 udp://run.publictracker.xyz:6969/announce
 
 udp://torrentclub.space:6969/announce
-
-udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
 
@@ -263,8 +271,6 @@ udp://tracker.jordan.im:6969/announce
 udp://tracker.leech.ie:1337/announce
 
 udp://tracker.lelux.fi:6969/announce
-
-udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
