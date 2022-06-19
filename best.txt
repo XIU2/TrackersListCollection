@@ -10,6 +10,8 @@ http://open.acgnxtracker.com:80/announce
 
 http://open.nyap2p.com:8080/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -73,8 +75,6 @@ udp://exodus.desync.com:6969/announce
 udp://fe.dealclub.de:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
-
-udp://ipv6.babico.name.tr:8000/announce
 
 udp://mirror.aptus.co.tz:6969/announce
 
