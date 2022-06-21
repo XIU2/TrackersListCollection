@@ -18,7 +18,11 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://open.nyap2p.com:8080/announce
+
+http://open.tracker.ink:6969/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
@@ -42,11 +46,9 @@ http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.corpscorp.online:80/announce
+http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.edkj.club:6969/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -54,7 +56,7 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.lelux.fi:80/announce
+http://tracker.loadbt.com:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -224,6 +226,8 @@ udp://run.publictracker.xyz:6969/announce
 
 udp://torrentclub.space:6969/announce
 
+udp://tr.bangumi.moe:6969/announce
+
 udp://tr.cili001.com:8070/announce
 
 udp://tracker.0x.tf:6969/announce
@@ -260,8 +264,6 @@ udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.loadbt.com:6969/announce
 
-udp://tracker.logirl.moe:17052/announce
-
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
@@ -288,8 +290,6 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.zemoj.com:6969/announce
 
-udp://tracker.zerobytes.xyz:1337/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.itzmx.com:8080/announce
@@ -307,6 +307,10 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.lelux.fi:6969/announce
+
+udp://tsundere.pw:6969/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 udp://v2.iperson.xyz:6969/announce
 
