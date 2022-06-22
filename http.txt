@@ -10,6 +10,8 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://buny.uk:6969/announce
 
+http://fe.dealclub.de:6969/announce
+
 http://fxtt.ru:80/announce
 
 http://milanesitracker.tekcities.com:80/announce
@@ -50,13 +52,15 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
+http://tracker.edkj.club:6969/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.loadbt.com:6969/announce
+http://tracker.lelux.fi:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -95,6 +99,8 @@ https://tr.abir.ga:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
+
+https://track.plop.pm:8989/announce
 
 https://tracker.babico.name.tr:443/announce
 
