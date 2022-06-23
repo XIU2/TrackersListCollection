@@ -8,15 +8,17 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.nyap2p.com:8080/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.overflow.biz:6969/announce
+http://t.nyaatracker.com:80/announce
 
-http://tr.cili001.com:8070/announce
+http://t.overflow.biz:6969/announce
 
 http://tracker.aeerso.space:6969/announce
 
@@ -37,6 +39,8 @@ https://tr.abiir.top:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
+
+https://tracker.feb217.tk:8443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -61,6 +65,8 @@ udp://exodus.desync.com:6969/announce
 udp://fe.dealclub.de:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
+
+udp://mirror.aptus.co.tz:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
@@ -106,6 +112,8 @@ udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
 
+udp://tracker.dler.com:6969/announce
+
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.jordan.im:6969/announce
@@ -127,6 +135,8 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
