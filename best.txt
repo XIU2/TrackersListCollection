@@ -8,8 +8,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.nyap2p.com:8080/announce
 
-http://open.tracker.ink:6969/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -19,6 +17,8 @@ http://t.acg.rip:6699/announce
 http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
+
+http://tr.cili001.com:8070/announce
 
 http://tracker.aeerso.space:6969/announce
 
@@ -44,11 +44,7 @@ https://tracker.feb217.tk:8443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-https://tracker.lelux.fi:443/announce
-
 https://tracker.lilithraws.cf:443/announce
-
-https://tracker.lilithraws.org:443/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -58,7 +54,7 @@ https://trackme.theom.nz:443/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://bt1.archive.org:6969/announce
+udp://bubu.mapfactor.com:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
@@ -114,8 +110,6 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.leech.ie:1337/announce
@@ -130,15 +124,23 @@ udp://tracker.pomf.se:80/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
+udp://tracker.srv00.com:6969/announce
+
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
