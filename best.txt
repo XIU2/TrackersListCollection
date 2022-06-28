@@ -10,8 +10,6 @@ http://incine.ru:6969/announce
 
 http://milanesitracker.tekcities.com:80/announce
 
-http://ns331480.ip-37-187-121.eu:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.nyap2p.com:8080/announce
@@ -43,8 +41,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.tfile.me:80/announce
 
 http://tracker4.itzmx.com:2710/announce
-
-http://widemus.de:6969/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
 
@@ -102,13 +98,19 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://itera.bz:6969/announce
 
+udp://k1.com.br:6969/announce
+
 udp://keke.re:6969/announce
 
 udp://letsdecentralize.org:6969/announce
 
 udp://linfan.moe:6969/announce
 
-udp://mirror.aptus.co.tz:6969/announce
+udp://lloria.fr:6969/announce
+
+udp://mail.artixlinux.org:6969/announce
+
+udp://mail.zasaonsk.ga:6969/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -148,21 +150,23 @@ udp://qtstm32fan.ru:6969/announce
 
 udp://ransan.tk:6969/announce
 
+udp://rep-art.ynh.fr:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-udp://sanincode.com:6969/announce
-
 udp://shizzle.hammetjus.nl:6969/announce
+
+udp://smtp-relay.odysseylabel.com.au:6969/announce
 
 udp://smtp.flawcra.cc:6969/announce
 
 udp://srv5.digiboy.ir:6969/announce
 
-udp://themaninashed.com:6969/announce
+udp://tamas3.ynh.fr:6969/announce
 
-udp://theodoric.fr:6969/announce
+udp://themaninashed.com:6969/announce
 
 udp://thetracker.org:80/announce
 
@@ -173,8 +177,6 @@ udp://thouvenin.cloud:6969/announce
 udp://torrentclub.space:6969/announce
 
 udp://tracker.0x.tf:6969/announce
-
-udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
@@ -196,7 +198,11 @@ udp://tracker.jordan.im:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
+udp://tracker.lelux.fi:6969/announce
+
 udp://tracker.moeking.me:6969/announce
+
+udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
@@ -206,9 +212,7 @@ udp://tracker.pomf.se:80/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
-udp://tracker.srv00.com:6969/announce
-
-udp://tracker.swateam.org.uk:2710/announce
+udp://tracker.skyts.net:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -219,6 +223,8 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
