@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://appmeter.ru:6969/announce
-
 http://drteam.rocks:6969/announce
 
 http://fxtt.ru:80/announce
@@ -39,8 +37,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.tfile.me:80/announce
-
-http://tracker4.itzmx.com:2710/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
 
