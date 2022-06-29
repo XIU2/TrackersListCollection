@@ -46,7 +46,7 @@ http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
-http://tr.cili001.com:8070/announce
+http://t1.chfs.ch:6969/announce
 
 http://tracker.aeerso.space:6969/announce
 
@@ -76,13 +76,15 @@ http://tracker.noobsubs.net:80/announce
 
 http://tracker.nucozer-tracker.ml:2710/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.srv00.com:6969/announce
 
 http://tracker.tfile.me:80/announce
-
-http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.520.jp:2095/announce
 
@@ -111,8 +113,6 @@ https://tr.abiir.top:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
-
-https://track.plop.pm:8989/announce
 
 https://tracker.baka.ink:443/announce
 
@@ -183,8 +183,6 @@ udp://ben.kerbertools.xyz:6969/announce
 udp://betasoftsp.com.br:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
-
-udp://boysbitte.be:6969/announce
 
 udp://bt.oiyo.tk:6969/announce
 
@@ -272,6 +270,8 @@ udp://open.tracker.ink:6969/announce
 
 udp://open.xxtor.com:3074/announce
 
+udp://open6.demonii.com:1337/announce
+
 udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
@@ -316,6 +316,8 @@ udp://thouvenin.cloud:6969/announce
 
 udp://torrentclub.space:6969/announce
 
+udp://torrents.artixlinux.org:6969/announce
+
 udp://tr.cili001.com:8070/announce
 
 udp://tracker.0x.tf:6969/announce
@@ -323,6 +325,8 @@ udp://tracker.0x.tf:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.altrosky.nl:6969/announce
+
+udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
 
@@ -401,8 +405,6 @@ udp://tracker4.itzmx.com:2710/announce
 udp://tracker6.lelux.fi:6969/announce
 
 udp://transkaroo.joustasie.net:6969/announce
-
-udp://tronml.cf:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
