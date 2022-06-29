@@ -1,16 +1,20 @@
 http://1337.abcvg.info:80/announce
 
-http://drteam.rocks:6969/announce
-
 http://fxtt.ru:80/announce
 
+http://i-p-v-6.tk:6969/announce
+
 http://incine.ru:6969/announce
+
+http://ipv6.1337.cx:6969/announce
+
+http://ipv6.govt.hu:6969/announce
 
 http://milanesitracker.tekcities.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.acgnxtracker.com:80/announce
+http://open-v6.demonoid.ch:6969/announce
 
 http://open.nyap2p.com:8080/announce
 
@@ -24,15 +28,17 @@ http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
-http://tracker.aeerso.space:6969/announce
+http://tr.cili001.com:8070/announce
 
-http://tracker.dler.org:6969/announce
+http://tracker.aeerso.space:6969/announce
 
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+http://tracker.k.vu:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -70,15 +76,13 @@ udp://betasoftsp.com.br:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
-udp://boysbitte.be:6969/announce
+udp://box.ossete.eu.org:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
 
 udp://davidkirkevans.com:6969/announce
 
 udp://epider.me:6969/announce
-
-udp://evert.net:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
@@ -89,6 +93,8 @@ udp://fh2.cmp-gaming.com:6969/announce
 udp://htz3.noho.st:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
+
+udp://ipv6.69.mu:6969/announce
 
 udp://itera.bz:6969/announce
 
@@ -154,7 +160,7 @@ udp://run.publictracker.xyz:6969/announce
 
 udp://shizzle.hammetjus.nl:6969/announce
 
-udp://smtp-relay.odysseylabel.com.au:6969/announce
+udp://smtp.flawcra.cc:6969/announce
 
 udp://srv5.digiboy.ir:6969/announce
 
