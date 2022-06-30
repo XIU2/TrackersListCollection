@@ -28,17 +28,15 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
-http://open.nyap2p.com:8080/announce
+http://open.acgtracker.com:1096/announce
 
-http://open.tracker.ink:6969/announce
+http://open.nyap2p.com:8080/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
 
 http://retracker.hotplug.ru:2710/announce
-
-http://retracker.joxnet.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -62,6 +60,8 @@ http://tracker.corpscorp.online:80/announce
 
 http://tracker.dler.com:6969/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.edkj.club:6969/announce
 
 http://tracker.files.fm:6969/announce
@@ -81,8 +81,6 @@ http://tracker.noobsubs.net:80/announce
 http://tracker.nucozer-tracker.ml:2710/announce
 
 http://tracker.opentrackr.org:1337/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.srv00.com:6969/announce
 
@@ -274,8 +272,6 @@ udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://open.tracker.ink:6969/announce
 
 udp://open.xxtor.com:3074/announce
@@ -291,6 +287,8 @@ udp://p4p.arenabg.com:1337/announce
 udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://puresynergy.com:6969/announce
 
@@ -320,6 +318,8 @@ udp://tamas3.ynh.fr:6969/announce
 
 udp://themaninashed.com:6969/announce
 
+udp://theodoric.fr:6969/announce
+
 udp://thinking.duckdns.org:6969/announce
 
 udp://thouvenin.cloud:6969/announce
@@ -327,6 +327,8 @@ udp://thouvenin.cloud:6969/announce
 udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
+
+udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
 
@@ -354,8 +356,6 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.edkj.club:6969/announce
-
 udp://tracker.encrypted-data.xyz:1337/announce
 
 udp://tracker.exorditech.com.tr:8000/announce
@@ -368,7 +368,7 @@ udp://tracker.leech.ie:1337/announce
 
 udp://tracker.lelux.fi:6969/announce
 
-udp://tracker.moeking.me:6969/announce
+udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
@@ -415,6 +415,8 @@ udp://tracker4.itzmx.com:2710/announce
 udp://tracker6.lelux.fi:6969/announce
 
 udp://transkaroo.joustasie.net:6969/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
