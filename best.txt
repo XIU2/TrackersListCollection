@@ -16,6 +16,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
+http://open.acgnxtracker.com:80/announce
+
 http://open.nyap2p.com:8080/announce
 
 http://opentracker.xyz:80/announce
@@ -39,6 +41,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.tfile.me:80/announce
 
@@ -96,6 +100,8 @@ udp://ipv6.69.mu:6969/announce
 
 udp://itera.bz:6969/announce
 
+udp://k1.com.br:6969/announce
+
 udp://keke.re:6969/announce
 
 udp://letsdecentralize.org:6969/announce
@@ -146,8 +152,6 @@ udp://puresynergy.com:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
 
-udp://ransan.tk:6969/announce
-
 udp://rep-art.ynh.fr:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -155,6 +159,8 @@ udp://retracker.hotplug.ru:2710/announce
 udp://run.publictracker.xyz:6969/announce
 
 udp://shizzle.hammetjus.nl:6969/announce
+
+udp://smtp-relay.odysseylabel.com.au:6969/announce
 
 udp://smtp.flawcra.cc:6969/announce
 
@@ -165,8 +171,6 @@ udp://tamas3.ynh.fr:6969/announce
 udp://themaninashed.com:6969/announce
 
 udp://thetracker.org:80/announce
-
-udp://thinking.duckdns.org:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
