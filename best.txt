@@ -10,13 +10,9 @@ http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
-http://milanesitracker.tekcities.com:80/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
-
-http://open.acgnxtracker.com:80/announce
 
 http://open.nyap2p.com:8080/announce
 
@@ -30,8 +26,6 @@ http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.aeerso.space:6969/announce
 
 http://tracker.files.fm:6969/announce
@@ -41,8 +35,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
-
-http://tracker.tfile.me:80/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
 
@@ -75,8 +67,6 @@ udp://ben.kerbertools.xyz:6969/announce
 udp://betasoftsp.com.br:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
-
-udp://bt.oiyo.tk:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
