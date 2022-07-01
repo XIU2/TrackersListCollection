@@ -16,6 +16,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
+http://open.acgnxtracker.com:80/announce
+
 http://open.nyap2p.com:8080/announce
 
 http://opentracker.xyz:80/announce
@@ -52,13 +54,13 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
 
-https://tracker.baka.ink:443/announce
-
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nanoha.org:443/announce
+
+https://tracker.tamersunion.org:443/announce
 
 https://trackme.theom.nz:443/announce
 
@@ -74,9 +76,9 @@ udp://betasoftsp.com.br:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
-udp://box.ossete.eu.org:6969/announce
-
 udp://bt.oiyo.tk:6969/announce
+
+udp://bubu.mapfactor.com:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
 
