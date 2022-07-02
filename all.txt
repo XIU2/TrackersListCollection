@@ -24,8 +24,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://open.nyap2p.com:8080/announce
 
 http://opentracker.i2p.rocks:6969/announce
@@ -33,6 +31,8 @@ http://opentracker.i2p.rocks:6969/announce
 http://opentracker.xyz:80/announce
 
 http://retracker.hotplug.ru:2710/announce
+
+http://retracker.joxnet.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -56,6 +56,8 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
+http://tracker.edkj.club:6969/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -73,6 +75,8 @@ http://tracker.noobsubs.net:80/announce
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.srv00.com:6969/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -302,8 +306,6 @@ udp://tamas3.ynh.fr:6969/announce
 
 udp://themaninashed.com:6969/announce
 
-udp://theodoric.fr:6969/announce
-
 udp://thouvenin.cloud:6969/announce
 
 udp://torrentclub.space:6969/announce
@@ -319,6 +321,8 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
+
+udp://tracker.6.babico.name.tr:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
@@ -341,8 +345,6 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.encrypted-data.xyz:1337/announce
-
-udp://tracker.exorditech.com.tr:8000/announce
 
 udp://tracker.filemail.com:6969/announce
 

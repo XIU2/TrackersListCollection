@@ -24,11 +24,7 @@ http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://t.overflow.biz:6969/announce
-
 http://t.publictracker.xyz:6969/announce
-
-http://tr.cili001.com:8070/announce
 
 http://tracker.aeerso.space:6969/announce
 
@@ -41,6 +37,8 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.skyts.net:6969/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
 
@@ -79,8 +77,6 @@ udp://betasoftsp.com.br:6969/announce
 udp://black-bird.ynh.fr:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
-
-udp://cutscloud.duckdns.org:6969/announce
 
 udp://davidkirkevans.com:6969/announce
 
@@ -159,8 +155,6 @@ udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 
 udp://run.publictracker.xyz:6969/announce
-
-udp://shizzle.hammetjus.nl:6969/announce
 
 udp://smtp-relay.odysseylabel.com.au:6969/announce
 
