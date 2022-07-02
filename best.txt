@@ -16,8 +16,6 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.nyap2p.com:8080/announce
 
-http://open.tracker.ink:6969/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -27,6 +25,8 @@ http://t.acg.rip:6699/announce
 http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
+
+http://t.publictracker.xyz:6969/announce
 
 http://tr.cili001.com:8070/announce
 
@@ -91,6 +91,8 @@ udp://exodus.desync.com:6969/announce
 udp://fe.dealclub.de:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
+
+udp://h3o2.me:1337/announce
 
 udp://htz3.noho.st:6969/announce
 
@@ -179,6 +181,8 @@ udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker.0x.tf:6969/announce
+
+udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
