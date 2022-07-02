@@ -26,11 +26,15 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.nyap2p.com:8080/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.i2p.rocks:6969/announce
 
 http://opentracker.xyz:80/announce
 
 http://retracker.hotplug.ru:2710/announce
+
+http://retracker.joxnet.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -74,9 +78,9 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.srv00.com:6969/announce
 
-http://tracker1.itzmx.com:8080/announce
+http://tracker1.bt.moack.co.kr:80/announce
 
-http://tracker2.520.jp:2095/announce
+http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -101,6 +105,8 @@ https://chihaya-heroku.120181311.xyz:443/announce
 https://opentracker.i2p.rocks:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -133,3 +139,5 @@ https://tracker1.520.jp:443/announce
 https://tracker1.loli.co.nz:443/announce
 
 https://trackme.theom.nz:443/announce
+
+https://xtremex.herokuapp.com:443/announce
