@@ -14,8 +14,6 @@ http://i-p-v-6.tk:6969/announce
 
 http://incine.ru:6969/announce
 
-http://ipv6.1337.cx:6969/announce
-
 http://ipv6.govt.hu:6969/announce
 
 http://movies.zsw.ca:6969/announce
