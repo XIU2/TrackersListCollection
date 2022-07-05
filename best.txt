@@ -16,8 +16,6 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.nyap2p.com:8080/announce
 
-http://open.tracker.ink:6969/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -30,8 +28,6 @@ http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.aeerso.space:6969/announce
 
 http://tracker.files.fm:6969/announce
@@ -41,6 +37,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
 
