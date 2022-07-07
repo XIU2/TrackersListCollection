@@ -60,6 +60,8 @@ https://tracker.imgoingto.icu:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
+https://tracker.lilithraws.org:443/announce
+
 https://tracker.nanoha.org:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -82,7 +84,7 @@ udp://betasoftsp.com.br:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
-udp://bt2.archive.org:6969/announce
+udp://bt.oiyo.tk:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
@@ -97,6 +99,8 @@ udp://exodus.desync.com:6969/announce
 udp://fe.dealclub.de:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
+
+udp://free.open.tracker.4.starka.st:15480/announce
 
 udp://h3o2.me:1337/announce
 
@@ -115,6 +119,8 @@ udp://itera.bz:6969/announce
 udp://k1.com.br:6969/announce
 
 udp://keke.re:6969/announce
+
+udp://laze.cc:6969/announce
 
 udp://letsdecentralize.org:6969/announce
 
@@ -186,6 +192,8 @@ udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://tr.cili001.com:8070/announce
+
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
@@ -215,8 +223,6 @@ udp://tracker.encrypted-data.xyz:1337/announce
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.leech.ie:1337/announce
-
-udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
