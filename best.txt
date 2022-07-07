@@ -16,8 +16,6 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.nyap2p.com:8080/announce
 
-http://open.tracker.ink:6969/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -31,6 +29,8 @@ http://t.overflow.biz:6969/announce
 http://t.publictracker.xyz:6969/announce
 
 http://tracker.aeerso.space:6969/announce
+
+http://tracker.edkj.club:6969/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -95,8 +95,6 @@ udp://exodus.desync.com:6969/announce
 udp://fe.dealclub.de:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
-
-udp://free.open.tracker.4.starka.st:15480/announce
 
 udp://h3o2.me:1337/announce
 
@@ -180,6 +178,8 @@ udp://thetracker.org:80/announce
 
 udp://thouvenin.cloud:6969/announce
 
+udp://thug.rocks:6969/announce
+
 udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
@@ -209,8 +209,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.encrypted-data.xyz:1337/announce
 
 udp://tracker.jordan.im:6969/announce
 
@@ -247,6 +245,8 @@ udp://uploads.gamecoast.net:6969/announce
 udp://v2.iperson.xyz:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
+
+udp://www.2600.com:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
