@@ -32,8 +32,6 @@ http://tr.cili001.com:8070/announce
 
 http://tracker.aeerso.space:6969/announce
 
-http://tracker.edkj.club:6969/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
