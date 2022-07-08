@@ -16,6 +16,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.nyap2p.com:8080/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -58,8 +60,6 @@ https://tracker.imgoingto.icu:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
-https://tracker.lilithraws.org:443/announce
-
 https://tracker.nanoha.org:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -82,7 +82,11 @@ udp://betasoftsp.com.br:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
+udp://bt.oiyo.tk:6969/announce
+
 udp://bubu.mapfactor.com:6969/announce
+
+udp://chennuo.xyz:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
 
@@ -128,6 +132,8 @@ udp://movies.zsw.ca:6969/announce
 
 udp://mserver.link:6969/announce
 
+udp://mts.tvbit.co:6969/announce
+
 udp://new-line.net:6969/announce
 
 udp://open.demonii.com:1337/announce
@@ -168,8 +174,6 @@ udp://smtp-relay.odysseylabel.com.au:6969/announce
 
 udp://smtp.flawcra.cc:6969/announce
 
-udp://srv5.digiboy.ir:6969/announce
-
 udp://tamas3.ynh.fr:6969/announce
 
 udp://themaninashed.com:6969/announce
@@ -183,8 +187,6 @@ udp://thug.rocks:6969/announce
 udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
-
-udp://tr.cili001.com:8070/announce
 
 udp://tracker.0x.tf:6969/announce
 
