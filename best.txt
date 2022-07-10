@@ -78,8 +78,6 @@ udp://betasoftsp.com.br:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
-udp://bubu.mapfactor.com:6969/announce
-
 udp://chennuo.xyz:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
