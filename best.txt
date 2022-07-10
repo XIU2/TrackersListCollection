@@ -24,6 +24,8 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
@@ -52,11 +54,7 @@ https://tr.ready4.icu:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-https://tracker.lelux.fi:443/announce
-
 https://tracker.lilithraws.cf:443/announce
-
-https://tracker.lilithraws.org:443/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -123,6 +121,8 @@ udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
 
 udp://mserver.link:6969/announce
+
+udp://mts.tvbit.co:6969/announce
 
 udp://new-line.net:6969/announce
 
