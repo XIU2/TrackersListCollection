@@ -2,8 +2,6 @@ http://1337.abcvg.info:80/announce
 
 http://fxtt.ru:80/announce
 
-http://i-p-v-6.tk:6969/announce
-
 http://incine.ru:6969/announce
 
 http://ipv6.1337.cx:6969/announce
@@ -15,8 +13,6 @@ http://nyaa.tracker.wf:7777/announce
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.nyap2p.com:8080/announce
-
-http://open.tracker.ink:6969/announce
 
 http://opentracker.xyz:80/announce
 
@@ -31,8 +27,6 @@ http://t.overflow.biz:6969/announce
 http://t.publictracker.xyz:6969/announce
 
 http://thebytestore.co.uk:6969/announce
-
-http://tr.cili001.com:8070/announce
 
 http://tracker.aeerso.space:6969/announce
 
@@ -78,7 +72,7 @@ udp://astrr.ru:6969/announce
 
 udp://ben.kerbertools.xyz:6969/announce
 
-udp://betasoftsp.com.br:6969/announce
+udp://bt.ktrackers.com:6666/announce
 
 udp://chennuo.xyz:6969/announce
 
@@ -107,6 +101,8 @@ udp://ipv6.tracker.monitorit4.me:6969/announce
 udp://isk.richardsw.club:6969/announce
 
 udp://itera.bz:6969/announce
+
+udp://jiangvps.xyz:6969/announce
 
 udp://keke.re:6969/announce
 
@@ -149,8 +145,6 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://p4p.arenabg.com:1337/announce
 
 udp://psyco.fr:6969/announce
-
-udp://qtstm32fan.ru:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
 
