@@ -16,6 +16,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.nyap2p.com:8080/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -27,6 +29,8 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
+
+http://thebytestore.co.uk:6969/announce
 
 http://tr.cili001.com:8070/announce
 
@@ -75,8 +79,6 @@ udp://astrr.ru:6969/announce
 udp://ben.kerbertools.xyz:6969/announce
 
 udp://betasoftsp.com.br:6969/announce
-
-udp://black-bird.ynh.fr:6969/announce
 
 udp://chennuo.xyz:6969/announce
 
@@ -135,8 +137,6 @@ udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
-
-udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
