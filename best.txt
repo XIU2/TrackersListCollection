@@ -16,6 +16,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.nyap2p.com:8080/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -28,19 +30,19 @@ http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
 
-http://thebytestore.co.uk:6969/announce
-
-http://tr.cili001.com:8070/announce
-
 http://tracker.aeerso.space:6969/announce
 
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.internetwarriors.net:1337/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -57,6 +59,8 @@ https://tr.ready4.icu:443/announce
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.lilithraws.cf:443/announce
+
+https://tracker.lilithraws.org:443/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -77,6 +81,8 @@ udp://astrr.ru:6969/announce
 udp://ben.kerbertools.xyz:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
+
+udp://bt.oiyo.tk:6969/announce
 
 udp://chennuo.xyz:6969/announce
 
@@ -110,8 +116,6 @@ udp://keke.re:6969/announce
 
 udp://laze.cc:6969/announce
 
-udp://letsdecentralize.org:6969/announce
-
 udp://lloria.fr:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
@@ -123,8 +127,6 @@ udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
 
 udp://mserver.link:6969/announce
-
-udp://mts.tvbit.co:6969/announce
 
 udp://new-line.net:6969/announce
 
