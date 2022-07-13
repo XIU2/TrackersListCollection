@@ -16,17 +16,19 @@ http://i-p-v-6.tk:6969/announce
 
 http://incine.ru:6969/announce
 
+http://ipv4announce.sktorrent.eu:6969/announce
+
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
-
-http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://open.nyap2p.com:8080/announce
 
@@ -47,6 +49,8 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
+
+http://torrent-team.net:80/announce.php
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -164,8 +168,6 @@ udp://admin.videoenpoche.info:6969/announce
 
 udp://astrr.ru:6969/announce
 
-udp://bclearning.top:6969/announce
-
 udp://ben.kerbertools.xyz:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
@@ -183,6 +185,8 @@ udp://camera.lei001.com:6969/announce
 udp://chennuo.xyz:6969/announce
 
 udp://concen.org:6969/announce
+
+udp://cutiegirl.ru:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
 
@@ -218,6 +222,8 @@ udp://k1.com.br:6969/announce
 
 udp://keke.re:6969/announce
 
+udp://laze.cc:6969/announce
+
 udp://lloria.fr:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
@@ -244,6 +250,8 @@ udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://open.tracker.ink:6969/announce
 
 udp://open.xxtor.com:3074/announce
@@ -258,11 +266,7 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://qtstm32fan.ru:6969/announce
-
-udp://ransan.tk:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
 
@@ -277,8 +281,6 @@ udp://sanincode.com:6969/announce
 udp://smtp-relay.odysseylabel.com.au:6969/announce
 
 udp://smtp.flawcra.cc:6969/announce
-
-udp://srv5.digiboy.ir:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
@@ -331,6 +333,8 @@ udp://tracker.jordan.im:6969/announce
 udp://tracker.leech.ie:1337/announce
 
 udp://tracker.lelux.fi:6969/announce
+
+udp://tracker.logirl.moe:17052/announce
 
 udp://tracker.moeking.me:6969/announce
 
