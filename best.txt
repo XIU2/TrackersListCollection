@@ -32,6 +32,8 @@ http://t.publictracker.xyz:6969/announce
 
 http://torrent-team.net:80/announce.php
 
+http://tr.cili001.com:8070/announce
+
 http://tracker.aeerso.space:6969/announce
 
 http://tracker.files.fm:6969/announce
