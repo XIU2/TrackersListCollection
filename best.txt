@@ -64,8 +64,6 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.nanoha.org:443/announce
 
-https://tracker.tamersunion.org:443/announce
-
 https://trackme.theom.nz:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
@@ -84,11 +82,9 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://bubu.mapfactor.com:6969/announce
-
 udp://chennuo.xyz:6969/announce
 
-udp://cutscloud.duckdns.org:6969/announce
+udp://chouchou.top:8080/announce
 
 udp://davidkirkevans.com:6969/announce
 
