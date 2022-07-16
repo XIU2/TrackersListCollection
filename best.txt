@@ -18,6 +18,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.nyap2p.com:8080/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -35,6 +37,8 @@ http://torrent-team.net:80/announce.php
 http://tr.cili001.com:8070/announce
 
 http://tracker.aeerso.space:6969/announce
+
+http://tracker.dler.org:6969/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -62,7 +66,11 @@ https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
+https://tracker.moeblog.cn:443/announce
+
 https://tracker.nanoha.org:443/announce
+
+https://tracker.tamersunion.org:443/announce
 
 https://trackme.theom.nz:443/announce
 
@@ -82,9 +90,13 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
 
+udp://bubu.mapfactor.com:6969/announce
+
 udp://chennuo.xyz:6969/announce
 
 udp://chouchou.top:8080/announce
+
+udp://cutscloud.duckdns.org:6969/announce
 
 udp://davidkirkevans.com:6969/announce
 
@@ -121,8 +133,6 @@ udp://mail.zasaonsk.ga:6969/announce
 udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
-
-udp://mserver.link:6969/announce
 
 udp://new-line.net:6969/announce
 
@@ -176,8 +186,6 @@ udp://tracker.6.babico.name.tr:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
-udp://tracker.artixlinux.org:6969/announce
-
 udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.beeimg.com:6969/announce
@@ -189,8 +197,6 @@ udp://tracker.bitsearch.to:1337/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.jordan.im:6969/announce
 
@@ -215,8 +221,6 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
