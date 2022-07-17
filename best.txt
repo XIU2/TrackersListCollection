@@ -164,8 +164,6 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-udp://sanincode.com:6969/announce
-
 udp://smtp-relay.odysseylabel.com.au:6969/announce
 
 udp://smtp.flawcra.cc:6969/announce
