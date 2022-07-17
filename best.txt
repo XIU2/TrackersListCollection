@@ -18,6 +18,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.nyap2p.com:8080/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -43,8 +45,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
-
-http://tracker2.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -72,6 +72,8 @@ https://tracker.tamersunion.org:443/announce
 
 https://trackme.theom.nz:443/announce
 
+udp://6.beyondth.cn:6969/announce
+
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
@@ -79,6 +81,8 @@ udp://9.rarbg.com:2810/announce
 udp://960303.xyz:6969/announce
 
 udp://aarsen.me:6969/announce
+
+udp://adt.adt-textile.ru:6969/announce
 
 udp://astrr.ru:6969/announce
 
