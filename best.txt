@@ -42,10 +42,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker2.itzmx.com:6961/announce
-
-http://tracker3.itzmx.com:6961/announce
-
 http://tracker4.itzmx.com:2710/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -86,15 +82,9 @@ udp://aarsen.me:6969/announce
 
 udp://adt.adt-textile.ru:6969/announce
 
-udp://astrr.ru:6969/announce
-
 udp://ben.kerbertools.xyz:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
-
-udp://bt1.archive.org:6969/announce
-
-udp://bubu.mapfactor.com:6969/announce
 
 udp://chennuo.xyz:6969/announce
 
