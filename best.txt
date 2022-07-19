@@ -30,8 +30,6 @@ http://t.overflow.biz:6969/announce
 
 http://torrent-team.net:80/announce.php
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.aeerso.space:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -43,6 +41,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -64,6 +64,8 @@ https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
+https://tracker.logirl.moe:443/announce
+
 https://tracker.moeblog.cn:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -82,11 +84,11 @@ udp://960303.xyz:6969/announce
 
 udp://aarsen.me:6969/announce
 
-udp://adt.adt-textile.ru:6969/announce
-
 udp://ben.kerbertools.xyz:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
+
+udp://bubu.mapfactor.com:6969/announce
 
 udp://chennuo.xyz:6969/announce
 
@@ -177,8 +179,6 @@ udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker.0x.tf:6969/announce
-
-udp://tracker.6.babico.name.tr:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
