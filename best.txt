@@ -16,8 +16,6 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.nyap2p.com:8080/announce
 
-http://open.tracker.ink:6969/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -30,11 +28,7 @@ http://t.overflow.biz:6969/announce
 
 http://torrent-team.net:80/announce.php
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.aeerso.space:6969/announce
-
-http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -215,8 +209,6 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
