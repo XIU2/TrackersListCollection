@@ -22,8 +22,6 @@ http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
@@ -38,8 +36,6 @@ http://opentracker.xyz:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
-http://share.camoe.cn:8080/announce
-
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
@@ -47,8 +43,6 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://torrent-team.net:80/announce.php
-
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tr.cili001.com:8070/announce
 
@@ -58,11 +52,7 @@ http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.dler.com:6969/announce
-
 http://tracker.dler.org:6969/announce
-
-http://tracker.edkj.club:6969/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -109,8 +99,6 @@ https://tr.abir.ga:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
-
-https://track.plop.pm:8989/announce
 
 https://tracker.4.babico.name.tr:443/announce
 
@@ -264,6 +252,8 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://qtstm32fan.ru:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
@@ -284,6 +274,8 @@ udp://tamas3.ynh.fr:6969/announce
 
 udp://themaninashed.com:6969/announce
 
+udp://theodoric.fr:6969/announce
+
 udp://thouvenin.cloud:6969/announce
 
 udp://torrentclub.space:6969/announce
@@ -295,8 +287,6 @@ udp://tr.cili001.com:8070/announce
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
-
-udp://tracker.6.babico.name.tr:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 

@@ -41,13 +41,13 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 
 ****
 
-### 更新时间: 2022-07-22
+### 更新时间: 2022-07-23
 
-- **精选列表：**(119 个)  
+- **精选列表：**(120 个)  
  _**[https://trackerslist.../best.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/best.txt)**_  
-- **完整列表：**(194 个)  
+- **完整列表：**(189 个)  
  _**[https://trackerslist.../all.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/all.txt)**_  
-- **HTTP(S)列表：**(71 个)  
+- **HTTP(S)列表：**(65 个)  
  _**[https://trackerslist.../http.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/http.txt)**_  
 
 > 上面链接已改为 **CDN 分流**地址，来解决大家反应的速度问题（国内**电信**用户建议使用其他备用地址）。
