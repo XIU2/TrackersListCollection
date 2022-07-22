@@ -16,6 +16,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.nyap2p.com:8080/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -40,6 +42,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
+http://tracker.mywaifu.best:6969/announce
+
 http://tracker4.itzmx.com:2710/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -56,11 +60,11 @@ https://tr.ready4.icu:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-https://tracker.lelux.fi:443/announce
-
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
+
+https://tracker.loligirl.cn:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
@@ -81,8 +85,6 @@ udp://aarsen.me:6969/announce
 udp://ben.kerbertools.xyz:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
-
-udp://bt.oiyo.tk:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -137,8 +139,6 @@ udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
-
-udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -198,23 +198,27 @@ udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
+udp://tracker.openbittorrent.com:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.pomf.se:80/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
 udp://transkaroo.joustasie.net:6969/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
