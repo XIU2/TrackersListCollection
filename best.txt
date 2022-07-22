@@ -16,8 +16,6 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.nyap2p.com:8080/announce
 
-http://open.tracker.ink:6969/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -30,8 +28,6 @@ http://t.overflow.biz:6969/announce
 
 http://torrent-team.net:80/announce.php
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.aeerso.space:6969/announce
 
 http://tracker.files.fm:6969/announce
@@ -43,6 +39,10 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker2.itzmx.com:6961/announce
+
+http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -187,6 +187,8 @@ udp://tracker.bitsearch.to:1337/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.org:6969/announce
+
+udp://tracker.exorditech.com.tr:8000/announce
 
 udp://tracker.jordan.im:6969/announce
 
