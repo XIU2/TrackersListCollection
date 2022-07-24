@@ -16,6 +16,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.nyap2p.com:8080/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -39,8 +41,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.iro.moe:80/announce
 
 http://tracker.k.vu:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -231,6 +231,8 @@ udp://v2.iperson.xyz:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://www.2600.com:6969/announce
+
+udp://yann5.hexanyn.fr:6969/announce
 
 udp://zecircle.xyz:6969/announce
 
