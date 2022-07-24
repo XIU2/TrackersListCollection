@@ -28,8 +28,6 @@ http://t.nyaatracker.com:80/announce
 
 http://torrent-team.net:80/announce.php
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.aeerso.space:6969/announce
 
 http://tracker.files.fm:6969/announce
@@ -66,8 +64,6 @@ https://tracker.lilithraws.cf:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
-https://tracker.moeblog.cn:443/announce
-
 https://tracker.nanoha.org:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -91,6 +87,8 @@ udp://bt1.archive.org:6969/announce
 udp://chennuo.xyz:6969/announce
 
 udp://chouchou.top:8080/announce
+
+udp://creative.7o7.cx:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
 
@@ -221,8 +219,6 @@ udp://tracker2.dler.com:80/announce
 udp://tracker6.lelux.fi:6969/announce
 
 udp://transkaroo.joustasie.net:6969/announce
-
-udp://u4.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
