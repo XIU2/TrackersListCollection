@@ -16,7 +16,7 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.nyap2p.com:8080/announce
 
-http://openbittorrent.com:80/announce
+http://open.tracker.ink:6969/announce
 
 http://opentracker.xyz:80/announce
 
@@ -41,8 +41,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.iro.moe:80/announce
 
 http://tracker.k.vu:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -87,6 +85,8 @@ udp://ben.kerbertools.xyz:6969/announce
 udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
+
+udp://bt2.archive.org:6969/announce
 
 udp://chennuo.xyz:6969/announce
 
