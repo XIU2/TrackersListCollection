@@ -38,7 +38,7 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
+http://tracker.skyts.net:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -191,6 +191,8 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.jordan.im:6969/announce
+
+udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
