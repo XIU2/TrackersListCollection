@@ -12,8 +12,6 @@ http://buny.uk:6969/announce
 
 http://chouchou.top:8080/announce
 
-http://fe.dealclub.de:6969/announce
-
 http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
@@ -34,8 +32,6 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://open.nyap2p.com:8080/announce
 
 http://opentracker.xyz:80/announce
@@ -48,9 +44,13 @@ http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
 
+http://t.overflow.biz:6969/announce
+
 http://torrent-team.net:80/announce.php
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
+
+http://tr.cili001.com:8070/announce
 
 http://tracker.aeerso.space:6969/announce
 
@@ -59,8 +59,6 @@ http://tracker.birkenwald.de:6969/announce
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -71,8 +69,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
-
-http://tracker.lelux.fi:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -99,6 +95,8 @@ https://1337.abcvg.info:443/announce
 https://carbon-bonsai-621.appspot.com:443/announce
 
 https://chihaya-heroku.120181311.xyz:443/announce
+
+https://opentracker.i2p.rocks:443/announce
 
 https://tr.abiir.top:443/announce
 
