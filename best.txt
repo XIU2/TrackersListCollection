@@ -16,6 +16,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.nyap2p.com:8080/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -35,6 +37,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -80,8 +84,6 @@ udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://chennuo.xyz:6969/announce
-
 udp://chouchou.top:8080/announce
 
 udp://creative.7o7.cx:6969/announce
@@ -122,6 +124,8 @@ udp://lloria.fr:6969/announce
 
 udp://mail.zasaonsk.ga:6969/announce
 
+udp://mirror.aptus.co.tz:6969/announce
+
 udp://movies.zsw.ca:6969/announce
 
 udp://new-line.net:6969/announce
@@ -133,6 +137,8 @@ udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -160,15 +166,11 @@ udp://smtp.flawcra.cc:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-udp://themaninashed.com:6969/announce
-
 udp://thetracker.org:80/announce
 
 udp://thouvenin.cloud:6969/announce
 
 udp://torrentclub.space:6969/announce
-
-udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
@@ -208,9 +210,9 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker2.dler.com:80/announce
+udp://tracker1.myporn.club:9337/announce
 
-udp://tracker2.dler.org:80/announce
+udp://tracker2.dler.com:80/announce
 
 udp://tracker6.lelux.fi:6969/announce
 

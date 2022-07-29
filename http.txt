@@ -12,6 +12,8 @@ http://buny.uk:6969/announce
 
 http://chouchou.top:8080/announce
 
+http://fe.dealclub.de:6969/announce
+
 http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
@@ -30,13 +32,15 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://open.nyap2p.com:8080/announce
+
+http://open.tracker.ink:6969/announce
 
 http://opentracker.xyz:80/announce
 
 http://retracker.hotplug.ru:2710/announce
+
+http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
@@ -45,6 +49,8 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://torrent-team.net:80/announce.php
+
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tr.cili001.com:8070/announce
 
@@ -72,13 +78,11 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.skyts.net:6969/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
-
-http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
