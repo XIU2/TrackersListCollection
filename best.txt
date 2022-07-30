@@ -16,8 +16,6 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -39,6 +37,10 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
+
+http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.sakurato.art:23333/announce
 
@@ -62,6 +64,8 @@ https://tracker.imgoingto.icu:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
+https://tracker.lilithraws.org:443/announce
+
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -81,8 +85,6 @@ udp://ben.kerbertools.xyz:6969/announce
 udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
-
-udp://bt2.archive.org:6969/announce
 
 udp://chouchou.top:8080/announce
 
@@ -208,8 +210,6 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 udp://tracker2.dler.com:80/announce
 
 udp://tracker6.lelux.fi:6969/announce
@@ -221,8 +221,6 @@ udp://uploads.gamecoast.net:6969/announce
 udp://v2.iperson.xyz:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
-
-udp://www.2600.com:6969/announce
 
 udp://yann5.hexanyn.fr:6969/announce
 
