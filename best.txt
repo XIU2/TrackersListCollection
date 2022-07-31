@@ -16,8 +16,6 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -44,9 +42,9 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.sakurato.art:23333/announce
+http://tracker.openbittorrent.com:80/announce
 
-http://tracker.skyts.net:6969/announce
+http://tracker.sakurato.art:23333/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -129,6 +127,8 @@ udp://lloria.fr:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 
 udp://movies.zsw.ca:6969/announce
+
+udp://net.richardsw.club:6969/announce
 
 udp://new-line.net:6969/announce
 
