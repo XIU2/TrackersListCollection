@@ -28,6 +28,10 @@ http://t.overflow.biz:6969/announce
 
 http://torrent-team.net:80/announce.php
 
+http://torrenttracker.nwc.acsalaska.net:6969/announce
+
+http://tr.cili001.com:8070/announce
+
 http://tracker.aeerso.space:6969/announce
 
 http://tracker.files.fm:6969/announce
@@ -89,8 +93,6 @@ udp://bt.ktrackers.com:6666/announce
 udp://bt1.archive.org:6969/announce
 
 udp://chouchou.top:8080/announce
-
-udp://creative.7o7.cx:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
 
