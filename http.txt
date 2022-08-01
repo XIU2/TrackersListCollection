@@ -1,5 +1,15 @@
 http://1337.abcvg.info:80/announce
 
+http://207.241.226.111:6969/announce
+
+http://207.241.231.226:6969/announce
+
+http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
+
+http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
+
+http://chouchou.top:8080/announce
+
 http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
@@ -9,6 +19,8 @@ http://incine.ru:6969/announce
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
+
+http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -22,6 +34,10 @@ http://open.tracker.ink:6969/announce
 
 http://opentracker.xyz:80/announce
 
+http://retracker.hotplug.ru:2710/announce
+
+http://share.camoe.cn:8080/announce
+
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
@@ -30,11 +46,15 @@ http://t.overflow.biz:6969/announce
 
 http://torrent-team.net:80/announce.php
 
-http://tr.cili001.com:8070/announce
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tracker.aeerso.space:6969/announce
 
+http://tracker.birkenwald.de:6969/announce
+
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -77,8 +97,6 @@ https://tr.abiir.top:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
-
-https://track.plop.pm:8989/announce
 
 https://tracker.foreverpirates.co:443/announce
 
