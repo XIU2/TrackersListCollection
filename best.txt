@@ -20,13 +20,13 @@ http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://t.overflow.biz:6969/announce
 
 http://torrent-team.net:80/announce.php
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
+
+http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -41,8 +41,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 
 http://tracker.sakurato.art:23333/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -152,6 +150,8 @@ udp://public.publictracker.xyz:6969/announce
 
 udp://public.tracker.vraphim.com:6969/announce
 
+udp://qtstm32fan.ru:6969/announce
+
 udp://rep-art.ynh.fr:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -199,8 +199,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.pomf.se:80/announce
 
 udp://tracker.publictracker.xyz:6969/announce
-
-udp://tracker.skyts.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
