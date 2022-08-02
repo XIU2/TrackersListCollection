@@ -16,6 +16,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -32,8 +34,6 @@ http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.dler.org:6969/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -41,6 +41,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
+
+http://tracker.mywaifu.best:6969/announce
 
 http://tracker.sakurato.art:23333/announce
 
@@ -152,8 +154,6 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://qtstm32fan.ru:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
@@ -174,8 +174,6 @@ udp://thouvenin.cloud:6969/announce
 
 udp://torrentclub.space:6969/announce
 
-udp://tracker.0x.tf:6969/announce
-
 udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
@@ -187,6 +185,8 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.jordan.im:6969/announce
 
@@ -216,11 +216,15 @@ udp://tracker6.lelux.fi:6969/announce
 
 udp://transkaroo.joustasie.net:6969/announce
 
+udp://u6.trakx.crim.ist:1337/announce
+
 udp://uploads.gamecoast.net:6969/announce
 
 udp://v2.iperson.xyz:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
+
+udp://yahor.ftp.sh:6969/announce
 
 udp://zecircle.xyz:6969/announce
 
