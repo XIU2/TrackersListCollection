@@ -24,8 +24,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://t.overflow.biz:6969/announce
-
 http://torrent-team.net:80/announce.php
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
