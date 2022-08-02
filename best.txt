@@ -16,8 +16,6 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -41,6 +39,8 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.sakurato.art:23333/announce
 
@@ -126,8 +126,6 @@ udp://mail.zasaonsk.ga:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://net.richardsw.club:6969/announce
-
 udp://new-line.net:6969/announce
 
 udp://open.demonii.com:1337/announce
@@ -157,8 +155,6 @@ udp://qtstm32fan.ru:6969/announce
 udp://rep-art.ynh.fr:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
-
-udp://run.publictracker.xyz:6969/announce
 
 udp://smtp-relay.odysseylabel.com.au:6969/announce
 
@@ -206,11 +202,7 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://tracker2.dler.com:80/announce
-
-udp://tracker6.lelux.fi:6969/announce
 
 udp://transkaroo.joustasie.net:6969/announce
 

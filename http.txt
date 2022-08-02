@@ -30,8 +30,6 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://open.tracker.ink:6969/announce
 
 http://opentracker.xyz:80/announce
@@ -105,8 +103,6 @@ https://tr.abir.ga:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
-
-https://track.plop.pm:8989/announce
 
 https://tracker.foreverpirates.co:443/announce
 
