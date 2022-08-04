@@ -26,6 +26,8 @@ http://t.nyaatracker.com:80/announce
 
 http://torrent-team.net:80/announce.php
 
+http://torrenttracker.nwc.acsalaska.net:6969/announce
+
 http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -37,8 +39,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
-
-http://tracker.mywaifu.best:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -55,6 +55,8 @@ https://tr.abiir.top:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
+
+https://tracker.baka.ink:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -148,6 +150,8 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://qtstm32fan.ru:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
@@ -182,6 +186,8 @@ udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.leech.ie:1337/announce
@@ -203,6 +209,10 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://tracker2.dler.org:80/announce
+
+udp://tracker6.lelux.fi:6969/announce
 
 udp://transkaroo.joustasie.net:6969/announce
 
