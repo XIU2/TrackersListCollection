@@ -28,8 +28,6 @@ http://torrent-team.net:80/announce.php
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
@@ -39,8 +37,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -183,6 +179,8 @@ udp://tracker.beeimg.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
 
