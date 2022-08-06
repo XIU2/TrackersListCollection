@@ -18,6 +18,8 @@ http://i-p-v-6.tk:6969/announce
 
 http://incine.ru:6969/announce
 
+http://ipv6.1337.cx:6969/announce
+
 http://ipv6.govt.hu:6969/announce
 
 http://movies.zsw.ca:6969/announce
@@ -27,8 +29,6 @@ http://nyaa.tracker.wf:7777/announce
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.tracker.ink:6969/announce
 
 http://opentracker.xyz:80/announce
 
@@ -99,8 +99,6 @@ https://tr.abir.ga:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
-
-https://track.plop.pm:8989/announce
 
 https://tracker.baka.ink:443/announce
 
@@ -287,8 +285,6 @@ udp://tracker.4.babico.name.tr:3131/announce
 udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
-
-udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
