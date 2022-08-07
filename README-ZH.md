@@ -60,8 +60,7 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 \# **以下为完整列表 ` all.txt ` 示例（末尾文件名可自行修改，选择一个速度快的地址）：**  
  
 - _**https://cf.trackerslist.com/all.txt** ( Cloudflare CDN_  
-- _**[https://ghproxy.futils.com/.../XIU2/TrackersListCollection/blob/master/all.txt](https://ghproxy.futils.com/https://github.com/XIU2/TrackersListCollection/blob/master/all.txt)** ( 中国香港 CDN，下同_  
-- _**https://raw.iqiq.io/XIU2/TrackersListCollection/master/all.txt**_  
+- _**https://raw.iqiq.io/XIU2/TrackersListCollection/master/all.txt** ( 中国香港 CDN_  
 - _**https://gcore.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt** ( 国外 CDN，适合移动、电信_  
 - _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt** ( 日本 CDN，适合联通，下同_  
 - _**https://raw.fastgit.org/XIU2/TrackersListCollection/master/all.txt**_  
@@ -97,7 +96,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 #### BitComet (比特彗星):
 
 > <small>_**官方网站：http://www.bitcomet.com**_</small>  
-> <small>_**便携版：https://pan.lanzouq.com/b073c7g4f (已配置 Tracker 并屏蔽迅雷)**_</small>  
+> <small>_**便携版：https://pan.lanzouv.com/b073c7g4f (已配置 Tracker 并屏蔽迅雷)**_</small>  
 
 - **工具 - 选项 - 任务设置 - BT下载 - Tracker**  
  **勾选下图红框内的选项** 并填写 Tracker URL 后点击 `立即更新` 上面就会显示获取的 Tracker 了。  
@@ -111,7 +110,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 #### qBittorrent Enhanced Edition (增强版):
 
 > <small>_**Github：https://github.com/c0re100/qBittorrent-Enhanced-Edition**_</small>  
-> <small>_**便携版：https://pan.lanzouq.com/b073dnr7g (已配置 Tracker 并屏蔽迅雷)**_</small>  
+> <small>_**便携版：https://pan.lanzouv.com/b073dnr7g (已配置 Tracker 并屏蔽迅雷)**_</small>  
 
 > <small>在 qBittorrent 的基础上增加了很多功能，例如：**屏蔽迅雷、订阅 Tracker URL** ，可以很方便的配合本项目使用。</small>
 
@@ -125,7 +124,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 #### qBittorrent:
 
 > <small>_**官方网站：https://www.qbittorrent.org**_</small>  
-> <small>_**便携版：https://pan.lanzouq.com/b073jjwta**_</small>  
+> <small>_**便携版：https://pan.lanzouv.com/b073jjwta**_</small>  
 
 - **选项[齿轮图标] - BitTorrent**  
  **勾选下图红框内的选项** 并复制所有 Tracker 后粘贴到下方输入框中，然后点击 `Apply` 保存。  
