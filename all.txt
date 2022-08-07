@@ -10,8 +10,6 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://chouchou.top:8080/announce
 
-http://fe.dealclub.de:6969/announce
-
 http://fosstorrents.com:6969/announce
 
 http://fxtt.ru:80/announce
@@ -23,6 +21,8 @@ http://incine.ru:6969/announce
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
+
+http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -74,9 +74,13 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
+http://tracker.nucozer-tracker.ml:2710/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.srv00.com:6969/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -85,6 +89,8 @@ http://tracker2.itzmx.com:6961/announce
 http://tracker3.itzmx.com:6961/announce
 
 http://vps02.net.orel.ru:80/announce
+
+http://widemus.de:6969/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -101,6 +107,8 @@ https://tr.abir.ga:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
+
+https://track.plop.pm:8989/announce
 
 https://tracker.baka.ink:443/announce
 
@@ -174,6 +182,8 @@ udp://bubu.mapfactor.com:6969/announce
 
 udp://camera.lei001.com:6969/announce
 
+udp://chennuo.xyz:6969/announce
+
 udp://chouchou.top:8080/announce
 
 udp://concen.org:6969/announce
@@ -237,8 +247,6 @@ udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
-
-udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -332,13 +340,13 @@ udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.tcp.exchange:6969/announce
+
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.zemoj.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -367,8 +375,6 @@ udp://uploads.gamecoast.net:6969/announce
 udp://v2.iperson.xyz:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
-
-udp://www.torrent.eu.org:451/announce
 
 udp://yahor.ftp.sh:6969/announce
 
