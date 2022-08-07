@@ -22,8 +22,6 @@ http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
@@ -47,8 +45,6 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://torrent-team.net:80/announce.php
-
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tracker.aeerso.space:6969/announce
 
@@ -217,8 +213,6 @@ udp://ipv6.tracker.monitorit4.me:6969/announce
 udp://k1.com.br:6969/announce
 
 udp://keke.re:6969/announce
-
-udp://laze.cc:6969/announce
 
 udp://lloria.fr:6969/announce
 
