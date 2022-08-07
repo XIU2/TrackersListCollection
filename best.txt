@@ -16,6 +16,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -38,9 +40,11 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.nucozer-tracker.ml:2710/announce
+
 http://tracker.openbittorrent.com:80/announce
 
-http://tracker2.itzmx.com:6961/announce
+http://tracker1.itzmx.com:8080/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -88,8 +92,6 @@ udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://bubu.mapfactor.com:6969/announce
-
 udp://chouchou.top:8080/announce
 
 udp://creative.7o7.cx:6969/announce
@@ -121,6 +123,8 @@ udp://keke.re:6969/announce
 udp://laze.cc:6969/announce
 
 udp://lloria.fr:6969/announce
+
+udp://mail.artixlinux.org:6969/announce
 
 udp://mail.zasaonsk.ga:6969/announce
 
@@ -178,6 +182,8 @@ udp://torrentclub.space:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
+udp://tracker.artixlinux.org:6969/announce
+
 udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.beeimg.com:6969/announce
@@ -225,6 +231,8 @@ udp://uploads.gamecoast.net:6969/announce
 udp://v2.iperson.xyz:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://zecircle.xyz:6969/announce
 
