@@ -10,7 +10,7 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://chouchou.top:8080/announce
 
-http://fosstorrents.com:6969/announce
+http://fe.dealclub.de:6969/announce
 
 http://fxtt.ru:80/announce
 
@@ -21,8 +21,6 @@ http://incine.ru:6969/announce
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
-
-http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -52,9 +50,9 @@ http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.dler.com:6969/announce
-
 http://tracker.dler.org:6969/announce
+
+http://tracker.edkj.club:6969/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -80,7 +78,7 @@ http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
 
-http://tracker4.itzmx.com:2710/announce
+http://tracker3.itzmx.com:6961/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -166,8 +164,6 @@ udp://black-bird.ynh.fr:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://bt.oiyo.tk:6969/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
@@ -242,6 +238,8 @@ udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://open.tracker.ink:6969/announce
 
 udp://open.xxtor.com:3074/announce
@@ -267,6 +265,8 @@ udp://retracker.lanta-net.ru:2710/announce
 udp://run.publictracker.xyz:6969/announce
 
 udp://sanincode.com:6969/announce
+
+udp://shizzle.hammetjus.nl:6969/announce
 
 udp://smtp-relay.odysseylabel.com.au:6969/announce
 
@@ -342,6 +342,8 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.zemoj.com:6969/announce
+
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.itzmx.com:8080/announce
@@ -356,8 +358,6 @@ udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
-udp://tracker4.itzmx.com:2710/announce
-
 udp://tracker6.lelux.fi:6969/announce
 
 udp://transkaroo.joustasie.net:6969/announce
@@ -371,8 +371,6 @@ udp://uploads.gamecoast.net:6969/announce
 udp://v2.iperson.xyz:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
-
-udp://www.torrent.eu.org:451/announce
 
 udp://yahor.ftp.sh:6969/announce
 
