@@ -10,8 +10,6 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://chouchou.top:8080/announce
 
-http://fe.dealclub.de:6969/announce
-
 http://fosstorrents.com:6969/announce
 
 http://fxtt.ru:80/announce
@@ -24,6 +22,8 @@ http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
@@ -31,6 +31,8 @@ http://open-v6.demonoid.ch:6969/announce
 http://open.acgnxtracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
+
+http://open.tracker.ink:6969/announce
 
 http://opentracker.xyz:80/announce
 
@@ -56,6 +58,8 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
+http://tracker.edkj.club:6969/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -77,6 +81,8 @@ http://tracker.srv00.com:80/announce
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
+
+http://tracker3.itzmx.com:6961/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -170,8 +176,6 @@ udp://bt2.archive.org:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
-udp://camera.lei001.com:6969/announce
-
 udp://chouchou.top:8080/announce
 
 udp://concen.org:6969/announce
@@ -236,6 +240,8 @@ udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://open.tracker.ink:6969/announce
 
 udp://open.xxtor.com:3074/announce
@@ -278,7 +284,7 @@ udp://thouvenin.cloud:6969/announce
 
 udp://torrentclub.space:6969/announce
 
-udp://tr.bangumi.moe:6969/announce
+udp://torrents.artixlinux.org:6969/announce
 
 udp://tr.cili001.com:8070/announce
 
@@ -329,6 +335,8 @@ udp://tracker.pomf.se:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.tcp.exchange:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
