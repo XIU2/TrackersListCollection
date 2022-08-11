@@ -60,8 +60,6 @@ https://tracker.imgoingto.icu:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
-https://tracker.lilithraws.org:443/announce
-
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -204,11 +202,19 @@ udp://tracker.pomf.se:80/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.zemoj.com:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
+
 udp://tracker2.dler.com:80/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
