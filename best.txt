@@ -66,8 +66,6 @@ https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
-https://tracker.loligirl.cn:443/announce
-
 https://tracker.nanoha.org:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -89,6 +87,8 @@ udp://ben.kerbertools.xyz:6969/announce
 udp://black-bird.ynh.fr:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
+
+udp://bt.oiyo.tk:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
