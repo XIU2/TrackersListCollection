@@ -10,8 +10,6 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://chouchou.top:8080/announce
 
-http://fe.dealclub.de:6969/announce
-
 http://fosstorrents.com:6969/announce
 
 http://fxtt.ru:80/announce
@@ -29,10 +27,6 @@ http://nyaa.tracker.wf:7777/announce
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
-
-http://open.tracker.ink:6969/announce
 
 http://opentracker.xyz:80/announce
 
@@ -58,6 +52,8 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
+http://tracker.edkj.club:6969/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -74,13 +70,13 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.srv00.com:6969/announce
 
+http://tracker.srv00.com:80/announce
+
 http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
-
-http://tracker3.itzmx.com:6961/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -93,6 +89,8 @@ https://carbon-bonsai-621.appspot.com:443/announce
 https://opentracker.i2p.rocks:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -161,6 +159,8 @@ udp://ben.kerbertools.xyz:6969/announce
 udp://black-bird.ynh.fr:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
+
+udp://bt.oiyo.tk:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -248,9 +248,9 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
-udp://qtstm32fan.ru:6969/announce
+udp://public.tracker.vraphim.com:6969/announce
 
-udp://rep-art.ynh.fr:6969/announce
+udp://qtstm32fan.ru:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 

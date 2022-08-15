@@ -22,8 +22,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://t.overflow.biz:6969/announce
-
 http://torrent-team.net:80/announce.php
 
 http://tracker.bt4g.com:2095/announce
@@ -40,8 +38,6 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker1.itzmx.com:8080/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -56,8 +52,6 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
 
-https://tracker.baka.ink:443/announce
-
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.lilithraws.cf:443/announce
@@ -69,6 +63,8 @@ https://tracker.nanoha.org:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
+
+https://tracker1.ctix.cn:443/announce
 
 https://trackme.theom.nz:443/announce
 
