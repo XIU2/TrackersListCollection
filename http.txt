@@ -10,7 +10,7 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://chouchou.top:8080/announce
 
-http://fosstorrents.com:6969/announce
+http://fe.dealclub.de:6969/announce
 
 http://fxtt.ru:80/announce
 
@@ -22,11 +22,15 @@ http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://opentracker.xyz:80/announce
 
@@ -72,11 +76,11 @@ http://tracker.srv00.com:6969/announce
 
 http://tracker.srv00.com:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
+
+http://tracker3.itzmx.com:6961/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -99,6 +103,8 @@ https://tr.ready4.icu:443/announce
 https://tracker.baka.ink:443/announce
 
 https://tracker.foreverpirates.co:443/announce
+
+https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
