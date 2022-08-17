@@ -26,8 +26,6 @@ http://torrent-team.net:80/announce.php
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.dler.org:6969/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -39,6 +37,8 @@ http://tracker.k.vu:6969/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.noobsubs.net:80/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -162,8 +162,6 @@ udp://thouvenin.cloud:6969/announce
 
 udp://torrentclub.space:6969/announce
 
-udp://tracker.0x.tf:6969/announce
-
 udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.artixlinux.org:6969/announce
@@ -200,6 +198,8 @@ udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
@@ -214,7 +214,13 @@ udp://u6.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
+udp://v2.iperson.xyz:6969/announce
+
 udp://vibe.sleepyinternetfun.xyz:1738/announce
+
+udp://yahor.ftp.sh:6969/announce
+
+udp://zecircle.xyz:6969/announce
 
 ws://hub.bugout.link:80/announce
 
