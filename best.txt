@@ -42,8 +42,6 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker1.itzmx.com:8080/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -130,6 +128,8 @@ udp://mserver.link:6969/announce
 
 udp://new-line.net:6969/announce
 
+udp://ns-1.x-fins.com:6969/announce
+
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
@@ -184,8 +184,6 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.jordan.im:6969/announce
@@ -211,6 +209,8 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
