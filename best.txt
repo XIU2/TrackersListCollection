@@ -14,8 +14,6 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -127,8 +125,6 @@ udp://movies.zsw.ca:6969/announce
 udp://mserver.link:6969/announce
 
 udp://new-line.net:6969/announce
-
-udp://ns-1.x-fins.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
