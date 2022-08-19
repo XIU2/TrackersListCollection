@@ -38,8 +38,6 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker1.itzmx.com:8080/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -83,8 +81,6 @@ udp://ben.kerbertools.xyz:6969/announce
 udp://black-bird.ynh.fr:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
-
-udp://bt.oiyo.tk:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
