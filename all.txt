@@ -10,6 +10,10 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://chouchou.top:8080/announce
 
+http://fe.dealclub.de:6969/announce
+
+http://fosstorrents.com:6969/announce
+
 http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
@@ -20,13 +24,13 @@ http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -39,6 +43,8 @@ http://share.camoe.cn:8080/announce
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
+
+http://t.overflow.biz:6969/announce
 
 http://torrent-team.net:80/announce.php
 
@@ -64,17 +70,23 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.srv00.com:6969/announce
 
 http://tracker.srv00.com:80/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
 
 http://vps02.net.orel.ru:80/announce
+
+http://widemus.de:6969/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -154,6 +166,8 @@ udp://black-bird.ynh.fr:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
+udp://bt.oiyo.tk:6969/announce
+
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
@@ -214,6 +228,8 @@ udp://mts.tvbit.co:6969/announce
 
 udp://new-line.net:6969/announce
 
+udp://ns-1.x-fins.com:6969/announce
+
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
@@ -259,8 +275,6 @@ udp://shizzle.hammetjus.nl:6969/announce
 udp://smtp-relay.odysseylabel.com.au:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
-
-udp://theodoric.fr:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
