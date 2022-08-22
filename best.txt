@@ -22,6 +22,8 @@ http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
 
+http://t.overflow.biz:6969/announce
+
 http://torrent-team.net:80/announce.php
 
 http://tracker.bt4g.com:2095/announce
@@ -37,8 +39,6 @@ http://tracker.k.vu:6969/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.noobsubs.net:80/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -219,6 +219,8 @@ udp://tracker2.dler.com:80/announce
 udp://tracker6.lelux.fi:6969/announce
 
 udp://transkaroo.joustasie.net:6969/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
