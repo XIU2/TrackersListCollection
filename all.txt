@@ -10,9 +10,9 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://buny.uk:6969/announce
 
-http://chouchou.top:8080/announce
-
 http://fe.dealclub.de:6969/announce
+
+http://fosstorrents.com:6969/announce
 
 http://fxtt.ru:80/announce
 
@@ -68,15 +68,19 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
+http://tracker.mywaifu.best:6969/announce
+
 http://tracker.noobsubs.net:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://tracker1.itzmx.com:8080/announce
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
+
+http://tracker3.itzmx.com:6961/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -145,6 +149,8 @@ udp://[2a03:7220:8083:cd00::1]:451/announce
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 udp://[2a0f:e586:f:f::220]:6969/announce
+
+udp://a.cdd5090t.tk:6969/announce
 
 udp://aarsen.me:6969/announce
 
