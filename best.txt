@@ -52,11 +52,11 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
 
+https://tracker.baka.ink:443/announce
+
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.lilithraws.cf:443/announce
-
-https://tracker.lilithraws.org:443/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -84,8 +84,6 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://chouchou.top:8080/announce
-
 udp://cutscloud.duckdns.org:6969/announce
 
 udp://davidkirkevans.com:6969/announce
@@ -110,8 +108,6 @@ udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://laze.cc:6969/announce
 
-udp://lloria.fr:6969/announce
-
 udp://mail.artixlinux.org:6969/announce
 
 udp://mail.zasaonsk.ga:6969/announce
@@ -129,8 +125,6 @@ udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
-
-udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -203,6 +197,8 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.zemoj.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
