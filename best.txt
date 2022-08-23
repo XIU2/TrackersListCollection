@@ -70,8 +70,6 @@ https://trackme.theom.nz:443/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://a.cdd5090t.tk:6969/announce
-
 udp://aarsen.me:6969/announce
 
 udp://astrr.ru:6969/announce
@@ -111,6 +109,8 @@ udp://laze.cc:6969/announce
 udp://mail.artixlinux.org:6969/announce
 
 udp://mail.zasaonsk.ga:6969/announce
+
+udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
