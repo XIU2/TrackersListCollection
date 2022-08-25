@@ -38,7 +38,11 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
+http://tracker.mywaifu.best:6969/announce
+
 http://tracker.noobsubs.net:80/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -82,7 +86,7 @@ udp://black-bird.ynh.fr:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://bubu.mapfactor.com:6969/announce
+udp://bt.oiyo.tk:6969/announce
 
 udp://chouchou.top:8080/announce
 
@@ -119,6 +123,8 @@ udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
 
 udp://new-line.net:6969/announce
+
+udp://ns-1.x-fins.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
