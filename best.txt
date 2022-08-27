@@ -38,7 +38,7 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.skyts.net:6969/announce
+http://tracker.openbittorrent.com:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
