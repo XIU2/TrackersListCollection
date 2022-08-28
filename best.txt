@@ -138,8 +138,6 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
-udp://qtstm32fan.ru:6969/announce
-
 udp://rep-art.ynh.fr:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
