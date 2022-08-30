@@ -16,6 +16,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -36,7 +38,7 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.openbittorrent.com:80/announce
+http://tracker.skyts.net:6969/announce
 
 http://tracker.vrpnet.org:6969/announce
 
@@ -62,8 +64,6 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
 
-https://tracker1.ctix.cn:443/announce
-
 https://trackme.theom.nz:443/announce
 
 udp://9.rarbg.com:2810/announce
@@ -78,9 +78,7 @@ udp://black-bird.ynh.fr:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://bubu.mapfactor.com:6969/announce
-
-udp://davidkirkevans.com:6969/announce
+udp://cutscloud.duckdns.org:6969/announce
 
 udp://epider.me:6969/announce
 
