@@ -8,6 +8,8 @@ http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
+http://chouchou.top:8080/announce
+
 http://fe.dealclub.de:6969/announce
 
 http://fxtt.ru:80/announce
@@ -22,6 +24,8 @@ http://ipv6.govt.hu:6969/announce
 
 http://mediaclub.tv:80/announce.php
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
@@ -29,6 +33,8 @@ http://open-v6.demonoid.ch:6969/announce
 http://open.acgnxtracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
+
+http://open.tracker.ink:6969/announce
 
 http://opentracker.xyz:80/announce
 
@@ -66,9 +72,15 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.vrpnet.org:6969/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 

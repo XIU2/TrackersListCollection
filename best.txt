@@ -56,6 +56,8 @@ https://tr.ready4.icu:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
+https://tracker.jiesen.life:8443/announce
+
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -77,6 +79,8 @@ udp://ben.kerbertools.xyz:6969/announce
 udp://black-bird.ynh.fr:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
+
+udp://bubu.mapfactor.com:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
 
@@ -167,6 +171,8 @@ udp://tracker.beeimg.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
