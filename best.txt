@@ -36,6 +36,8 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
+http://tracker.tfile.me:80/announce
+
 http://tracker.vrpnet.org:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -70,8 +72,6 @@ udp://astrr.ru:6969/announce
 
 udp://ben.kerbertools.xyz:6969/announce
 
-udp://black-bird.ynh.fr:6969/announce
-
 udp://bt.ktrackers.com:6666/announce
 
 udp://bubu.mapfactor.com:6969/announce
@@ -90,8 +90,6 @@ udp://htz3.noho.st:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
-udp://ipv6.69.mu:6969/announce
-
 udp://ipv6.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
@@ -109,6 +107,8 @@ udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
 
 udp://new-line.net:6969/announce
+
+udp://ns-1.x-fins.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -135,8 +135,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
-
-udp://qtstm32fan.ru:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
 
