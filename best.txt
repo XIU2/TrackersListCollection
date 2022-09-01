@@ -54,8 +54,6 @@ https://tr.ready4.icu:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-https://tracker.jiesen.life:8443/announce
-
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -120,8 +118,6 @@ udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://open.tracker.ink:6969/announce
 
 udp://open.xxtor.com:3074/announce
@@ -164,8 +160,6 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.jonaslsa.com:6969/announce
 
 udp://tracker.joybomb.tw:6969/announce
@@ -186,13 +180,13 @@ udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
+udp://tracker.tcp.exchange:6969/announce
+
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.zemoj.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -204,7 +198,11 @@ udp://transkaroo.joustasie.net:6969/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
+udp://v2.iperson.xyz:6969/announce
+
 udp://vibe.sleepyinternetfun.xyz:1738/announce
+
+udp://yahor.ftp.sh:6969/announce
 
 udp://zecircle.xyz:6969/announce
 
