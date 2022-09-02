@@ -34,8 +34,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.noobsubs.net:80/announce
-
 http://tracker.tfile.me:80/announce
 
 http://tracker.vrpnet.org:6969/announce
@@ -53,8 +51,6 @@ https://tr.burnabyhighstar.com:443/announce
 https://tr.ready4.icu:443/announce
 
 https://tracker.imgoingto.icu:443/announce
-
-https://tracker.jiesen.life:8443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
@@ -107,8 +103,6 @@ udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
 
 udp://new-line.net:6969/announce
-
-udp://ns-1.x-fins.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
