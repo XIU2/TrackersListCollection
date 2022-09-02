@@ -54,6 +54,8 @@ https://tr.ready4.icu:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
+https://tracker.jiesen.life:8443/announce
+
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -69,6 +71,8 @@ udp://aarsen.me:6969/announce
 udp://astrr.ru:6969/announce
 
 udp://ben.kerbertools.xyz:6969/announce
+
+udp://betasoftsp.com.br:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -104,6 +108,8 @@ udp://movies.zsw.ca:6969/announce
 
 udp://new-line.net:6969/announce
 
+udp://ns-1.x-fins.com:6969/announce
+
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
@@ -133,8 +139,6 @@ udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 
 udp://sanincode.com:6969/announce
-
-udp://slicie.icon256.com:8000/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
@@ -187,6 +191,8 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker6.lelux.fi:6969/announce
 

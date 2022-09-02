@@ -32,8 +32,6 @@ http://open.acgnxtracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
 
-http://open.tracker.ink:6969/announce
-
 http://opentracker.xyz:80/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -72,6 +70,8 @@ http://tracker.noobsubs.net:80/announce
 
 http://tracker.nucozer-tracker.ml:2710/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.tfile.me:80/announce
@@ -82,6 +82,12 @@ http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
+http://tracker2.dler.org:80/announce
+
+http://tracker3.itzmx.com:6961/announce
+
+http://tracker4.itzmx.com:2710/announce
+
 http://vps02.net.orel.ru:80/announce
 
 https://1337.abcvg.info:443/announce
@@ -91,6 +97,8 @@ https://carbon-bonsai-621.appspot.com:443/announce
 https://opentracker.i2p.rocks:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -106,6 +114,8 @@ https://tracker.imgoingto.icu:443/announce
 
 https://tracker.jiesen.life:8443/announce
 
+https://tracker.kuroy.me:443/announce
+
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
@@ -119,3 +129,5 @@ https://tracker1.520.jp:443/announce
 https://tracker1.ctix.cn:443/announce
 
 https://trackme.theom.nz:443/announce
+
+https://xtremex.herokuapp.com:443/announce
