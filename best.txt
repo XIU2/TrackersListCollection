@@ -16,8 +16,6 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -72,11 +70,7 @@ udp://astrr.ru:6969/announce
 
 udp://ben.kerbertools.xyz:6969/announce
 
-udp://betasoftsp.com.br:6969/announce
-
 udp://bt.ktrackers.com:6666/announce
-
-udp://bubu.mapfactor.com:6969/announce
 
 udp://chouchou.top:8080/announce
 
@@ -141,8 +135,6 @@ udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 
 udp://sanincode.com:6969/announce
-
-udp://slicie.icon256.com:8000/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
