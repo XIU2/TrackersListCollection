@@ -36,6 +36,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.tfile.me:80/announce
 
 http://tracker.vrpnet.org:6969/announce

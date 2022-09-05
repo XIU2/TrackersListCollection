@@ -24,13 +24,15 @@ http://ipv6.govt.hu:6969/announce
 
 http://mediaclub.tv:80/announce.php
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
+
+http://open.tracker.ink:6969/announce
 
 http://opentracker.xyz:80/announce
 
@@ -45,8 +47,6 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://torrent-team.net:80/announce.php
-
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -64,21 +64,19 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
+http://tracker.mywaifu.best:6969/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.tfile.me:80/announce
 
 http://tracker.vrpnet.org:6969/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker1.itzmx.com:8080/announce
 
-http://tracker2.dler.org:80/announce
-
-http://tracker4.itzmx.com:2710/announce
-
 http://vps02.net.orel.ru:80/announce
-
-http://widemus.de:6969/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -155,8 +153,6 @@ udp://admin.videoenpoche.info:6969/announce
 udp://astrr.ru:6969/announce
 
 udp://ben.kerbertools.xyz:6969/announce
-
-udp://betasoftsp.com.br:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
@@ -319,8 +315,6 @@ udp://tracker.pomf.se:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.tcp.exchange:6969/announce
 
