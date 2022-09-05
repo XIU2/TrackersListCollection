@@ -24,6 +24,8 @@ http://ipv6.govt.hu:6969/announce
 
 http://mediaclub.tv:80/announce.php
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
@@ -44,6 +46,8 @@ http://t.overflow.biz:6969/announce
 
 http://torrent-team.net:80/announce.php
 
+http://torrenttracker.nwc.acsalaska.net:6969/announce
+
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -60,17 +64,17 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.mywaifu.best:6969/announce
-
-http://tracker.nucozer-tracker.ml:2710/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.tfile.me:80/announce
 
 http://tracker.vrpnet.org:6969/announce
 
+http://tracker1.itzmx.com:8080/announce
+
 http://tracker2.dler.org:80/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -95,6 +99,8 @@ https://tracker.baka.ink:443/announce
 https://tracker.expli.top:443/announce
 
 https://tracker.foreverpirates.co:443/announce
+
+https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -156,8 +162,6 @@ udp://black-bird.ynh.fr:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://bt.oiyo.tk:6969/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
@@ -190,8 +194,6 @@ udp://ipv6.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
-udp://k1.com.br:6969/announce
-
 udp://keke.re:6969/announce
 
 udp://laze.cc:6969/announce
@@ -207,8 +209,6 @@ udp://movies.zsw.ca:6969/announce
 udp://mts.tvbit.co:6969/announce
 
 udp://new-line.net:6969/announce
-
-udp://ns-1.x-fins.com:6969/announce
 
 udp://open.4ever.tk:6969/announce
 
@@ -236,6 +236,8 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://qtstm32fan.ru:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
@@ -262,7 +264,11 @@ udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://tr.bangumi.moe:6969/announce
+
 udp://tr.cili001.com:8070/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x.tf:6969/announce
 
@@ -355,6 +361,8 @@ udp://v2.iperson.xyz:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://yahor.ftp.sh:6969/announce
 
 udp://zecircle.xyz:6969/announce
 
