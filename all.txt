@@ -34,6 +34,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://opentracker.xyz:80/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -68,6 +70,8 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.nucozer-tracker.ml:2710/announce
+
 http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
@@ -76,9 +80,13 @@ http://tracker.tfile.me:80/announce
 
 http://tracker.vrpnet.org:6969/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker2.dler.org:80/announce
 
 http://vps02.net.orel.ru:80/announce
+
+http://widemus.de:6969/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -99,8 +107,6 @@ https://tracker.baka.ink:443/announce
 https://tracker.expli.top:443/announce
 
 https://tracker.foreverpirates.co:443/announce
-
-https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -158,7 +164,11 @@ udp://astrr.ru:6969/announce
 
 udp://ben.kerbertools.xyz:6969/announce
 
+udp://black-bird.ynh.fr:6969/announce
+
 udp://bt.ktrackers.com:6666/announce
+
+udp://bt.oiyo.tk:6969/announce
 
 udp://bt.plc.mx:3074/announce
 
@@ -210,6 +220,8 @@ udp://mts.tvbit.co:6969/announce
 
 udp://new-line.net:6969/announce
 
+udp://ns-1.x-fins.com:6969/announce
+
 udp://open.4ever.tk:6969/announce
 
 udp://open.demonii.com:1337/announce
@@ -223,8 +235,6 @@ udp://open.publictracker.xyz:6969/announce
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
-
-udp://open.xxtor.com:3074/announce
 
 udp://opentor.org:2710/announce
 
@@ -265,8 +275,6 @@ udp://torrents.artixlinux.org:6969/announce
 udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x.tf:6969/announce
 
