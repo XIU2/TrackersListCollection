@@ -8,6 +8,8 @@ http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
+http://fe.dealclub.de:6969/announce
+
 http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
@@ -26,8 +28,6 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://opentracker.xyz:80/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -38,11 +38,7 @@ http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://t.overflow.biz:6969/announce
-
 http://torrent-team.net:80/announce.php
-
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -66,15 +62,9 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.tfile.me:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
-http://tracker1.itzmx.com:8080/announce
-
 http://tracker2.dler.org:80/announce
 
 http://vps02.net.orel.ru:80/announce
-
-http://widemus.de:6969/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -97,8 +87,6 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
-
-https://tracker.jiesen.life:8443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -204,6 +192,8 @@ udp://mts.tvbit.co:6969/announce
 
 udp://new-line.net:6969/announce
 
+udp://ns-1.x-fins.com:6969/announce
+
 udp://open.4ever.tk:6969/announce
 
 udp://open.demonii.com:1337/announce
@@ -227,6 +217,8 @@ udp://p4p.arenabg.com:1337/announce
 udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
 
@@ -305,6 +297,8 @@ udp://tracker.pomf.se:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.tcp.exchange:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
