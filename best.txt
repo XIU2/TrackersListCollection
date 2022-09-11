@@ -38,9 +38,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.tfile.me:80/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -74,13 +74,9 @@ udp://960303.xyz:6969/announce
 
 udp://aarsen.me:6969/announce
 
-udp://astrr.ru:6969/announce
-
 udp://ben.kerbertools.xyz:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
-
-udp://bt.oiyo.tk:6969/announce
 
 udp://bt.plc.mx:3074/announce
 
@@ -117,8 +113,6 @@ udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
 
 udp://new-line.net:6969/announce
-
-udp://ns-1.x-fins.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
