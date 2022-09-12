@@ -34,8 +34,6 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
 
-http://tracker.gbitt.info:80/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
@@ -106,6 +104,8 @@ udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://laze.cc:6969/announce
 
+udp://leefafa.tk:6969/announce
+
 udp://mail.artixlinux.org:6969/announce
 
 udp://mirror.aptus.co.tz:6969/announce
@@ -115,6 +115,8 @@ udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
 
 udp://new-line.net:6969/announce
+
+udp://ns-1.x-fins.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
