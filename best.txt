@@ -18,6 +18,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://opentracker.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -34,13 +36,15 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
 
+http://tracker.gbitt.info:80/announce
+
+http://tracker.h0me.cc:8880/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.tfile.me:80/announce
 
@@ -75,6 +79,8 @@ udp://9.rarbg.com:2810/announce
 udp://960303.xyz:6969/announce
 
 udp://aarsen.me:6969/announce
+
+udp://astrr.ru:6969/announce
 
 udp://ben.kerbertools.xyz:6969/announce
 
@@ -155,6 +161,10 @@ udp://thouvenin.cloud:6969/announce
 udp://torrentclub.space:6969/announce
 
 udp://tracker.0x.tf:6969/announce
+
+udp://tracker.4.babico.name.tr:3131/announce
+
+udp://tracker.6.babico.name.tr:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
