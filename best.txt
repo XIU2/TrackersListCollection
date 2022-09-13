@@ -46,8 +46,6 @@ http://tracker.nucozer-tracker.ml:2710/announce
 
 http://tracker.tfile.me:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://vps02.net.orel.ru:80/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
@@ -201,8 +199,6 @@ udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.pomf.se:80/announce
-
-udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
