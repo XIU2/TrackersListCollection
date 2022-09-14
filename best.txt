@@ -18,8 +18,6 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
@@ -49,8 +47,6 @@ http://tracker.mywaifu.best:6969/announce
 http://trackme.theom.nz:80/announce
 
 http://vps02.net.orel.ru:80/announce
-
-http://widemus.de:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
