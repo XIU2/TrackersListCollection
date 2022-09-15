@@ -218,8 +218,6 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.pomf.se:80/announce
 
-udp://tracker.publictracker.xyz:6969/announce
-
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.tcp.exchange:6969/announce
