@@ -38,8 +38,6 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.h0me.cc:8880/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
@@ -88,6 +86,8 @@ https://tracker1.520.jp:443/announce
 
 https://trackme.theom.nz:443/announce
 
+udp://6ahddutb1ucc3cp.ru:6969/announce
+
 udp://9.rarbg.com:2810/announce
 
 udp://960303.xyz:6969/announce
@@ -135,6 +135,8 @@ udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
 
 udp://new-line.net:6969/announce
+
+udp://ns-1.x-fins.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
