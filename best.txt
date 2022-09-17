@@ -186,10 +186,6 @@ udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker.0x.tf:6969/announce
 
-udp://tracker.4.babico.name.tr:3131/announce
-
-udp://tracker.6.babico.name.tr:6969/announce
-
 udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.artixlinux.org:6969/announce
