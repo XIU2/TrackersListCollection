@@ -44,8 +44,6 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.nucozer-tracker.ml:2710/announce
-
 http://trackme.theom.nz:80/announce
 
 http://vps02.net.orel.ru:80/announce
