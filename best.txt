@@ -168,8 +168,6 @@ udp://sanincode.com:6969/announce
 
 udp://slicie.icon256.com:8000/announce
 
-udp://tamas3.ynh.fr:6969/announce
-
 udp://thetracker.org:80/announce
 
 udp://thouvenin.cloud:6969/announce
