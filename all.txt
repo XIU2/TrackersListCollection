@@ -26,6 +26,8 @@ http://ipv6.govt.hu:6969/announce
 
 http://jp.moeweb.pw:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
@@ -66,7 +68,15 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
+http://tracker.mywaifu.best:6969/announce
+
+http://tracker.nucozer-tracker.ml:2710/announce
+
 http://tracker.opentrackr.org:1337/announce
+
+http://tracker1.itzmx.com:8080/announce
+
+http://tracker2.dler.org:80/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -158,6 +168,8 @@ udp://black-bird.ynh.fr:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
+udp://bt.oiyo.tk:6969/announce
+
 udp://bt.plc.mx:3074/announce
 
 udp://bt1.archive.org:6969/announce
@@ -234,8 +246,6 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://qtstm32fan.ru:6969/announce
 
 udp://rekcart.duckdns.org:15480/announce
@@ -262,9 +272,9 @@ udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
-udp://tr.cili001.com:8070/announce
+udp://tr.bangumi.moe:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
+udp://tr.cili001.com:8070/announce
 
 udp://tracker.0x.tf:6969/announce
 
@@ -275,6 +285,8 @@ udp://tracker.altrosky.nl:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
+
+udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -335,6 +347,8 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.lelux.fi:6969/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
