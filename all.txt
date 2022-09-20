@@ -12,8 +12,6 @@ http://bt.endpot.com:80/announce
 
 http://chouchou.top:8080/announce
 
-http://fe.dealclub.de:6969/announce
-
 http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
@@ -25,8 +23,6 @@ http://ipv6.1337.cx:6969/announce
 http://ipv6.govt.hu:6969/announce
 
 http://jp.moeweb.pw:6969/announce
-
-http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -256,7 +252,11 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
+udp://retracker01-msk-virt.corbina.net:80/announce
+
 udp://run.publictracker.xyz:6969/announce
+
+udp://ryjer.com:6969/announce
 
 udp://sanincode.com:6969/announce
 
