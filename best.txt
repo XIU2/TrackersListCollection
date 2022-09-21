@@ -20,8 +20,6 @@ http://open.acgnxtracker.com:80/announce
 
 http://open.tracker.ink:6969/announce
 
-http://share.camoe.cn:8080/announce
-
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
@@ -165,8 +163,6 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://sanincode.com:6969/announce
 
 udp://slicie.icon256.com:8000/announce
-
-udp://thetracker.org:80/announce
 
 udp://thouvenin.cloud:6969/announce
 
