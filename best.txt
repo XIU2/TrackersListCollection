@@ -4,8 +4,6 @@ http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
 
-http://incine.ru:6969/announce
-
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
@@ -62,8 +60,6 @@ https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-https://tracker.baka.ink:443/announce
-
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
@@ -94,6 +90,8 @@ udp://960303.xyz:6969/announce
 
 udp://aarsen.me:6969/announce
 
+udp://app.icon256.com:8000/announce
+
 udp://ben.kerbertools.xyz:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
@@ -103,6 +101,8 @@ udp://bt.plc.mx:3074/announce
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
+
+udp://buddyfly.top:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
 
@@ -235,6 +235,8 @@ udp://v2.iperson.xyz:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://www.zhaohu.love:6969/announce
 
 udp://zecircle.xyz:6969/announce
 
