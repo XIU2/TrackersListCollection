@@ -92,8 +92,6 @@ udp://960303.xyz:6969/announce
 
 udp://aarsen.me:6969/announce
 
-udp://astrr.ru:6969/announce
-
 udp://ben.kerbertools.xyz:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
@@ -164,13 +162,9 @@ udp://sanincode.com:6969/announce
 
 udp://slicie.icon256.com:8000/announce
 
-udp://thouvenin.cloud:6969/announce
-
 udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x.tf:6969/announce
 
@@ -225,6 +219,8 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
