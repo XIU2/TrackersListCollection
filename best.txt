@@ -4,8 +4,6 @@ http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
 
-http://incine.ru:6969/announce
-
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
@@ -35,8 +33,6 @@ http://tracker.electro-torrent.pl:80/announce
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
-
-http://tracker.h0me.cc:8880/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
