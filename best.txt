@@ -104,8 +104,6 @@ udp://bt2.archive.org:6969/announce
 
 udp://buddyfly.top:6969/announce
 
-udp://cutscloud.duckdns.org:6969/announce
-
 udp://exodus.desync.com:6969/announce
 
 udp://fe.dealclub.de:6969/announce
@@ -155,8 +153,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
-
-udp://rekcart.duckdns.org:15480/announce
 
 udp://rep-art.ynh.fr:6969/announce
 
