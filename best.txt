@@ -44,8 +44,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 http://tracker.skyts.net:6969/announce
 
 http://trackme.theom.nz:80/announce
@@ -244,11 +242,11 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.zemoj.com:6969/announce
+
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
@@ -258,7 +256,11 @@ udp://v2.iperson.xyz:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
+udp://wepzone.net:6969/announce
+
 udp://www.torrent.eu.org:451/announce
+
+udp://yahor.ftp.sh:6969/announce
 
 udp://zecircle.xyz:6969/announce
 
