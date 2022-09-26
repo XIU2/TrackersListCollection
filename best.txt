@@ -42,6 +42,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://trackme.theom.nz:80/announce
 
 http://vps-dd0a0715.vps.ovh.net:6969/announce
