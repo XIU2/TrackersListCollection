@@ -16,8 +16,6 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://parag.rs:6969/announce
 
 http://share.camoe.cn:8080/announce
@@ -104,6 +102,8 @@ udp://bananas.space:6969/announce
 
 udp://ben.kerbertools.xyz:6969/announce
 
+udp://bruh.cluster.ws:6969/announce
+
 udp://bt.ktrackers.com:6666/announce
 
 udp://bt.plc.mx:3074/announce
@@ -111,8 +111,6 @@ udp://bt.plc.mx:3074/announce
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
-
-udp://buddyfly.top:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
 
@@ -238,8 +236,6 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.zemoj.com:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
@@ -253,6 +249,8 @@ udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
+
+udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
