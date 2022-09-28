@@ -1,5 +1,17 @@
 http://1337.abcvg.info:80/announce
 
+http://207.241.226.111:6969/announce
+
+http://207.241.231.226:6969/announce
+
+http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
+
+http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
+
+http://chouchou.top:8080/announce
+
+http://fe.dealclub.de:6969/announce
+
 http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
@@ -14,6 +26,8 @@ http://jp.moeweb.pw:6969/announce
 
 http://li1406-230.members.linode.com:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
@@ -23,6 +37,10 @@ http://open.acgnxtracker.com:80/announce
 http://open.tracker.ink:6969/announce
 
 http://parag.rs:6969/announce
+
+http://retracker.hotplug.ru:2710/announce
+
+http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
@@ -34,7 +52,11 @@ http://torrentsmd.com:8080/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
+http://tracker.birkenwald.de:6969/announce
+
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -48,9 +70,15 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
+http://tracker.nucozer-tracker.ml:2710/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.skyts.net:6969/announce
+
+http://tracker.srv00.com:6969/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -99,6 +127,8 @@ https://tracker.loligirl.cn:443/announce
 https://tracker.m-team.cc:443/announce.php
 
 https://tracker.nanoha.org:443/announce
+
+https://tracker.srv00.com:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
