@@ -68,6 +68,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
+http://tracker.lelux.fi:80/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.nucozer-tracker.ml:2710/announce
