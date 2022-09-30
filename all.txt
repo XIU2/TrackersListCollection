@@ -10,8 +10,6 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://chouchou.top:8080/announce
 
-http://fe.dealclub.de:6969/announce
-
 http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
@@ -24,13 +22,13 @@ http://ipv6.govt.hu:6969/announce
 
 http://jp.moeweb.pw:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -68,7 +66,11 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
+http://tracker.lelux.fi:80/announce
+
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -107,8 +109,6 @@ https://tr.fuckbitcoin.xyz:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
-
-https://tracker.jiesen.life:8443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -314,6 +314,8 @@ udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
 
+udp://tracker.beeimg.com:6969/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
@@ -401,7 +403,5 @@ udp://yahor.ftp.sh:6969/announce
 udp://yann5.hexanyn.fr:6969/announce
 
 udp://zecircle.xyz:6969/announce
-
-ws://hub.bugout.link:80/announce
 
 wss://tracker.openwebtorrent.com:443/announce
