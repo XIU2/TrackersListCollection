@@ -10,11 +10,11 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://chouchou.top:8080/announce
 
-http://fe.dealclub.de:6969/announce
-
 http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
+
+http://incine.ru:6969/announce
 
 http://ipv6.1337.cx:6969/announce
 
@@ -22,7 +22,7 @@ http://ipv6.govt.hu:6969/announce
 
 http://jp.moeweb.pw:6969/announce
 
-http://li1406-230.members.linode.com:6969/announce
+http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -30,7 +30,7 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
+http://open.tracker.ink:6969/announce
 
 http://parag.rs:6969/announce
 
@@ -45,8 +45,6 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
-
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -66,21 +64,13 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://tracker.nucozer-tracker.ml:2710/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.srv00.com:6969/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker1.itzmx.com:8080/announce
-
-http://tracker2.dler.org:80/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -109,6 +99,8 @@ https://tr.fuckbitcoin.xyz:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
+
+https://tracker.jiesen.life:8443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -182,6 +174,8 @@ udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
+udp://btt.service.gongt.me:43079/announce
+
 udp://bubu.mapfactor.com:6969/announce
 
 udp://buddyfly.top:6969/announce
@@ -193,8 +187,6 @@ udp://chouchou.top:8080/announce
 udp://concen.org:6969/announce
 
 udp://cutiegirl.ru:6969/announce
-
-udp://cutscloud.duckdns.org:6969/announce
 
 udp://elementsbrowser.com:6969/announce
 
@@ -265,8 +257,6 @@ udp://psyco.fr:6969/announce
 udp://public.publictracker.xyz:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
-
-udp://rekcart.duckdns.org:15480/announce
 
 udp://rep-art.ynh.fr:6969/announce
 
