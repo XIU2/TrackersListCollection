@@ -16,6 +16,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://parag.rs:6969/announce
 
 http://share.camoe.cn:8080/announce
@@ -196,13 +198,13 @@ udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.jonaslsa.com:6969/announce
 
 udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.leech.ie:1337/announce
+
+udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -214,9 +216,13 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.pomf.se:80/announce
 
+udp://tracker.publictracker.xyz:6969/announce
+
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.tcp.exchange:6969/announce
 
@@ -225,6 +231,10 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.zemoj.com:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
