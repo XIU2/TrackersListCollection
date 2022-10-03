@@ -2,8 +2,6 @@ http://1337.abcvg.info:80/announce
 
 http://fxtt.ru:80/announce
 
-http://hzzwly.gq:6969/announce
-
 http://i-p-v-6.tk:6969/announce
 
 http://ipv6.1337.cx:6969/announce
@@ -18,8 +16,6 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://parag.rs:6969/announce
 
 http://share.camoe.cn:8080/announce
@@ -27,6 +23,8 @@ http://share.camoe.cn:8080/announce
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
+
+http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -114,8 +112,6 @@ udp://bt2.archive.org:6969/announce
 
 udp://buddyfly.top:6969/announce
 
-udp://cutscloud.duckdns.org:6969/announce
-
 udp://elementsbrowser.com:6969/announce
 
 udp://exodus.desync.com:6969/announce
@@ -129,8 +125,6 @@ udp://fh2.cmp-gaming.com:6969/announce
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
 
 udp://htz3.noho.st:6969/announce
-
-udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://laze.cc:6969/announce
 
@@ -190,6 +184,8 @@ udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
 
+udp://tracker.beeimg.com:6969/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
@@ -203,8 +199,6 @@ udp://tracker.joybomb.tw:6969/announce
 udp://tracker.leech.ie:1337/announce
 
 udp://tracker.moeking.me:6969/announce
-
-udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
