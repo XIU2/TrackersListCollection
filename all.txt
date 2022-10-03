@@ -10,9 +10,13 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://chouchou.top:8080/announce
 
+http://fe.dealclub.de:6969/announce
+
 http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
+
+http://incine.ru:6969/announce
 
 http://ipv6.1337.cx:6969/announce
 
@@ -27,8 +31,6 @@ http://nyaa.tracker.wf:7777/announce
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -56,8 +58,6 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.edkj.club:6969/announce
-
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -70,7 +70,7 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.lelux.fi:80/announce
 
-http://tracker.openbittorrent.com:80/announce
+http://tracker.nucozer-tracker.ml:2710/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -79,8 +79,6 @@ http://tracker.srv00.com:6969/announce
 http://tracker.vrpnet.org:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
-
-http://tracker2.dler.org:80/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -190,19 +188,21 @@ udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://btt.service.gongt.me:43079/announce
-
 udp://bubu.mapfactor.com:6969/announce
 
 udp://buddyfly.top:6969/announce
 
 udp://camera.lei001.com:6969/announce
 
+udp://cancela-tu.creditofiscal.mx:3074/announce
+
 udp://chouchou.top:8080/announce
 
 udp://concen.org:6969/announce
 
 udp://cutiegirl.ru:6969/announce
+
+udp://cutscloud.duckdns.org:6969/announce
 
 udp://elementsbrowser.com:6969/announce
 
@@ -219,10 +219,6 @@ udp://fh2.cmp-gaming.com:6969/announce
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
 
 udp://htz3.noho.st:6969/announce
-
-udp://ipv4.tracker.harry.lu:80/announce
-
-udp://ipv6.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
@@ -274,6 +270,8 @@ udp://public.publictracker.xyz:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
 
+udp://rekcart.duckdns.org:15480/announce
+
 udp://rep-art.ynh.fr:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -321,8 +319,6 @@ udp://tracker.altrosky.nl:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
-
-udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 

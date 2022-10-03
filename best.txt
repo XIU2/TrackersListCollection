@@ -112,6 +112,10 @@ udp://bt2.archive.org:6969/announce
 
 udp://buddyfly.top:6969/announce
 
+udp://cancela-tu.creditofiscal.mx:3074/announce
+
+udp://cutscloud.duckdns.org:6969/announce
+
 udp://elementsbrowser.com:6969/announce
 
 udp://exodus.desync.com:6969/announce
@@ -127,8 +131,6 @@ udp://h85-235-17-132.cust.a3fiber.se:6969/announce
 udp://htz3.noho.st:6969/announce
 
 udp://laze.cc:6969/announce
-
-udp://leefafa.tk:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
 
@@ -161,8 +163,6 @@ udp://psyco.fr:6969/announce
 udp://public.publictracker.xyz:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://sanincode.com:6969/announce
 
