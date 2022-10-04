@@ -2,6 +2,8 @@ http://1337.abcvg.info:80/announce
 
 http://fxtt.ru:80/announce
 
+http://hzzwly.gq:6969/announce
+
 http://i-p-v-6.tk:6969/announce
 
 http://ipv6.1337.cx:6969/announce
@@ -16,7 +18,7 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://parag.rs:6969/announce
+http://open.tracker.ink:6969/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -102,10 +104,6 @@ udp://ben.kerbertools.xyz:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://bt.oiyo.tk:6969/announce
-
-udp://bt.plc.mx:3074/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
@@ -130,9 +128,15 @@ udp://h85-235-17-132.cust.a3fiber.se:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
+udp://ipv4.tracker.harry.lu:80/announce
+
 udp://laze.cc:6969/announce
 
+udp://leefafa.tk:6969/announce
+
 udp://mail.artixlinux.org:6969/announce
+
+udp://mail.zasaonsk.ga:6969/announce
 
 udp://mirror.aptus.co.tz:6969/announce
 
@@ -189,8 +193,6 @@ udp://tracker.beeimg.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
