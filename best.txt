@@ -2,8 +2,6 @@ http://1337.abcvg.info:80/announce
 
 http://fxtt.ru:80/announce
 
-http://hzzwly.gq:6969/announce
-
 http://i-p-v-6.tk:6969/announce
 
 http://ipv6.1337.cx:6969/announce
@@ -43,8 +41,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 
 http://trackme.theom.nz:80/announce
-
-http://vps-dd0a0715.vps.ovh.net:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -92,8 +88,6 @@ udp://9.rarbg.com:2810/announce
 
 udp://94-227-232-84.access.telenet.be:6969/announce
 
-udp://960303.xyz:6969/announce
-
 udp://aarsen.me:6969/announce
 
 udp://app.icon256.com:8000/announce
@@ -103,6 +97,8 @@ udp://bananas.space:6969/announce
 udp://ben.kerbertools.xyz:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
+
+udp://bt.oiyo.tk:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
