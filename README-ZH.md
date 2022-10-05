@@ -60,7 +60,10 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 \# **以下为完整列表 ` all.txt ` 示例（末尾文件名可自行修改，选择一个速度快的地址）：**  
  
 - _**https://cf.trackerslist.com/all.txt** ( Cloudflare CDN_  
+- _**https://jsd.eagleyao.com/gh/XIU2/TrackersListCollection/all.txt** ( 中国国内 CDN_  
 - _**https://raw.iqiq.io/XIU2/TrackersListCollection/master/all.txt** ( 中国香港 CDN_  
+- _**https://raw.kgithub.com/XIU2/TrackersListCollection/master/all.txt** ( 新加坡 CDN_  
+- _**[https://github.moeyy.xyz/.../XIU2/TrackersListCollection/master/all.txt](https://github.moeyy.xyz/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt)** ( 新加坡 CDN_  
 - _**https://gcore.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt** ( 国外 CDN，适合移动、电信_  
 - _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt** ( 日本 CDN，适合联通，下同_  
 - _**https://raw.fastgit.org/XIU2/TrackersListCollection/master/all.txt**_  
