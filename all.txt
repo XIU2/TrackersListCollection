@@ -26,8 +26,6 @@ http://jp.moeweb.pw:6969/announce
 
 http://kamikazee.duckdns.org:7777/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
@@ -50,13 +48,13 @@ http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
+http://torrenttracker.nwc.acsalaska.net:6969/announce
+
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
@@ -77,8 +75,6 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.srv00.com:6969/announce
 
 http://tracker.vrpnet.org:6969/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -246,6 +242,8 @@ udp://mserver.link:6969/announce
 
 udp://new-line.net:6969/announce
 
+udp://open.4ever.tk:6969/announce
+
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
@@ -287,8 +285,6 @@ udp://sanincode.com:6969/announce
 udp://slicie.icon256.com:8000/announce
 
 udp://smtp-relay.odysseylabel.com.au:6969/announce
-
-udp://static.202.35.76.144.clients.your-server.de:6969/announce
 
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
