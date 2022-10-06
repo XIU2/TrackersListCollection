@@ -16,11 +16,15 @@ http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
 
+http://incine.ru:6969/announce
+
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
 http://jp.moeweb.pw:6969/announce
+
+http://kamikazee.duckdns.org:7777/announce
 
 http://movies.zsw.ca:6969/announce
 
@@ -30,13 +34,13 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://open.nyap2p.com:8080/announce
 
 http://open.tracker.ink:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
+
+http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
@@ -68,8 +72,6 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.nucozer-tracker.ml:2710/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.srv00.com:6969/announce
@@ -85,6 +87,8 @@ http://tracker2.dler.org:80/announce
 http://trackme.theom.nz:80/announce
 
 http://vps-dd0a0715.vps.ovh.net:6969/announce
+
+http://vps02.net.orel.ru:80/announce
 
 http://wepzone.net:6969/announce
 
@@ -131,8 +135,6 @@ https://tracker.srv00.com:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
-
-https://tracker2.ctix.cn:443/announce
 
 https://trackme.theom.nz:443/announce
 
