@@ -40,8 +40,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://trackme.theom.nz:80/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -84,13 +82,13 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
 
+https://tracker2.ctix.cn:443/announce
+
 https://trackme.theom.nz:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
-
-udp://94-227-232-84.access.telenet.be:6969/announce
 
 udp://aarsen.me:6969/announce
 
@@ -101,8 +99,6 @@ udp://bananas.space:6969/announce
 udp://ben.kerbertools.xyz:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
-
-udp://bt.oiyo.tk:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -123,6 +119,8 @@ udp://fh2.cmp-gaming.com:6969/announce
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
 
 udp://htz3.noho.st:6969/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://laze.cc:6969/announce
 
@@ -188,7 +186,7 @@ udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
 
-udp://tracker.filemail.com:6969/announce
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
@@ -196,11 +194,7 @@ udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
-udp://tracker.lelux.fi:6969/announce
-
 udp://tracker.moeking.me:6969/announce
-
-udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
@@ -208,11 +202,7 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.pomf.se:80/announce
 
-udp://tracker.publictracker.xyz:6969/announce
-
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.tcp.exchange:6969/announce
 
@@ -222,13 +212,9 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.zemoj.com:6969/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
+udp://tracker.yangxiaoguozi.cn:6969/announce
 
 udp://tracker2.dler.com:80/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
