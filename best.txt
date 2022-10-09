@@ -172,6 +172,8 @@ udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://tracker.4.babico.name.tr:3131/announce
+
 udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.artixlinux.org:6969/announce
@@ -211,6 +213,8 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
