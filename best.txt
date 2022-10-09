@@ -22,6 +22,8 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
@@ -79,8 +81,6 @@ https://tracker.nanoha.org:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
-
-https://tracker2.ctix.cn:443/announce
 
 https://trackme.theom.nz:443/announce
 
@@ -211,8 +211,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.yangxiaoguozi.cn:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
