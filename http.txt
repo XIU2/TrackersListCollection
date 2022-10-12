@@ -28,7 +28,7 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
+http://open.tracker.ink:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -41,6 +41,8 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
+
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -69,8 +71,6 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.srv00.com:6969/announce
 
 http://tracker.vrpnet.org:6969/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -125,6 +125,8 @@ https://tracker.srv00.com:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
+
+https://tracker2.ctix.cn:443/announce
 
 https://trackme.theom.nz:443/announce
 

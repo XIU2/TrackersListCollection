@@ -16,6 +16,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
@@ -209,8 +211,6 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.swateam.org.uk:2710/announce
-
-udp://tracker.tcp.exchange:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
