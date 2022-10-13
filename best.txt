@@ -40,6 +40,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://trackme.theom.nz:80/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -104,8 +106,6 @@ udp://buddyfly.top:6969/announce
 
 udp://cancela-tu.creditofiscal.mx:3074/announce
 
-udp://elementsbrowser.com:6969/announce
-
 udp://exodus.desync.com:6969/announce
 
 udp://f1sh.de:6969/announce
@@ -114,9 +114,9 @@ udp://fe.dealclub.de:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
 
-udp://h85-235-17-132.cust.a3fiber.se:6969/announce
-
 udp://htz3.noho.st:6969/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://laze.cc:6969/announce
 
@@ -156,8 +156,6 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://rep-art.ynh.fr:6969/announce
 
 udp://sanincode.com:6969/announce
@@ -188,17 +186,15 @@ udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.jonaslsa.com:6969/announce
 
 udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
-udp://tracker.lelux.fi:6969/announce
-
 udp://tracker.moeking.me:6969/announce
-
-udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
@@ -206,17 +202,13 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.pomf.se:80/announce
 
-udp://tracker.publictracker.xyz:6969/announce
-
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.torrent.eu.org:451/announce
+udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.zemoj.com:6969/announce
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker2.dler.com:80/announce
 
