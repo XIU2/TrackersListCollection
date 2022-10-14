@@ -40,7 +40,11 @@ http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
 
+http://t.overflow.biz:6969/announce
+
 http://torrentsmd.com:8080/announce
+
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -75,6 +79,8 @@ http://tracker1.bt.moack.co.kr:80/announce
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -152,6 +158,8 @@ udp://91.216.110.52:451/announce
 
 udp://94-227-232-84.access.telenet.be:6969/announce
 
+udp://960303.xyz:6969/announce
+
 udp://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 udp://[2001:470:1:189:0:1:2:3]:6969/announce
@@ -169,8 +177,6 @@ udp://admin.52ywp.com:6969/announce
 udp://admin.videoenpoche.info:6969/announce
 
 udp://app.icon256.com:8000/announce
-
-udp://astrr.ru:6969/announce
 
 udp://bananas.space:6969/announce
 
@@ -199,6 +205,8 @@ udp://concen.org:6969/announce
 udp://creative.7o7.cx:6969/announce
 
 udp://cutiegirl.ru:6969/announce
+
+udp://cutscloud.duckdns.org:6969/announce
 
 udp://epider.me:6969/announce
 
@@ -290,6 +298,8 @@ udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://tr.bangumi.moe:6969/announce
+
 udp://tr.cili001.com:8070/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -357,6 +367,8 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.yangxiaoguozi.cn:6969/announce
+
+udp://tracker.zemoj.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
