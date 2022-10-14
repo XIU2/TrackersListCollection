@@ -200,8 +200,6 @@ udp://tracker.pomf.se:80/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.tcp.exchange:6969/announce
-
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
