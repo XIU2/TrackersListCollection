@@ -4,10 +4,6 @@ http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
 
-http://ipv6.1337.cx:6969/announce
-
-http://ipv6.govt.hu:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
@@ -36,7 +32,7 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.k.vu:6969/announce
+http://tracker.openbittorrent.com:80/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -81,8 +77,6 @@ https://tracker.nanoha.org:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
-
-https://tracker2.ctix.cn:443/announce
 
 https://trackme.theom.nz:443/announce
 
