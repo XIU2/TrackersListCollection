@@ -42,8 +42,6 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.vrpnet.org:6969/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker1.itzmx.com:8080/announce
 
 http://trackme.theom.nz:80/announce
@@ -74,8 +72,6 @@ https://tr.fuckbitcoin.xyz:443/announce
 
 https://tracker.cyber-hub.net:443/announce
 
-https://tracker.expli.top:443/announce
-
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
@@ -91,8 +87,6 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.m-team.cc:443/announce.php
-
-https://tracker.moeblog.cn:443/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -206,8 +200,6 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://qtstm32fan.ru:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
@@ -246,8 +238,6 @@ udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
 
-udp://tracker.beeimg.com:6969/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
@@ -283,8 +273,6 @@ udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.pomf.se:80/announce
-
-udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
 
@@ -323,6 +311,8 @@ udp://wepzone.net:6969/announce
 udp://www.torrent.eu.org:451/announce
 
 udp://yahor.ftp.sh:6969/announce
+
+udp://yann5.hexanyn.fr:6969/announce
 
 udp://zecircle.xyz:6969/announce
 
