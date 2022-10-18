@@ -10,8 +10,6 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
@@ -96,6 +94,8 @@ udp://bt2.archive.org:6969/announce
 
 udp://buddyfly.top:6969/announce
 
+udp://creative.7o7.cx:6969/announce
+
 udp://cutscloud.duckdns.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
@@ -176,6 +176,8 @@ udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
 
+udp://tracker.cyberia.is:6969/announce
+
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
@@ -223,6 +225,8 @@ udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://wepzone.net:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://yahor.ftp.sh:6969/announce
 
