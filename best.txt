@@ -64,6 +64,8 @@ https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
+https://tracker.lilithraws.org:443/announce
+
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.m-team.cc:443/announce.php
@@ -194,6 +196,8 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.pomf.se:80/announce
 
+udp://tracker.publictracker.xyz:6969/announce
+
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.swateam.org.uk:2710/announce
@@ -206,11 +210,11 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.yangxiaoguozi.cn:6969/announce
 
+udp://tracker.zemoj.com:6969/announce
+
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
