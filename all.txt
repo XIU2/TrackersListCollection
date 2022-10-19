@@ -16,7 +16,7 @@ http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
 
-http://movies.zsw.ca:6969/announce
+http://li1406-230.members.linode.com:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -33,6 +33,8 @@ http://share.camoe.cn:8080/announce
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
+
+http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -62,6 +64,8 @@ http://tracker.vrpnet.org:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
+http://tracker2.dler.org:80/announce
+
 http://trackme.theom.nz:80/announce
 
 http://vps-dd0a0715.vps.ovh.net:6969/announce
@@ -89,6 +93,8 @@ https://tr.burnabyhighstar.com:443/announce
 https://tr.fuckbitcoin.xyz:443/announce
 
 https://tracker.cyber-hub.net:443/announce
+
+https://tracker.expli.top:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -179,6 +185,8 @@ udp://concen.org:6969/announce
 udp://creative.7o7.cx:6969/announce
 
 udp://cutiegirl.ru:6969/announce
+
+udp://cutscloud.duckdns.org:6969/announce
 
 udp://epider.me:6969/announce
 
@@ -347,6 +355,8 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.itzmx.com:8080/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
