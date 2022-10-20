@@ -142,6 +142,8 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
+udp://p4p.arenabg.com:1337/announce
+
 udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
@@ -171,6 +173,8 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
+
+udp://tracker.cubonegro.xyz:6969/announce
 
 udp://tracker.dler.org:6969/announce
 

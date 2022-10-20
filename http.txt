@@ -20,7 +20,7 @@ http://incine.ru:6969/announce
 
 http://jp.moeweb.pw:6969/announce
 
-http://li1406-230.members.linode.com:6969/announce
+http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -29,8 +29,6 @@ http://open-v6.demonoid.ch:6969/announce
 http://open.acgnxtracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
-
-http://open.tracker.ink:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -52,8 +50,6 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.edkj.club:6969/announce
-
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -66,15 +62,11 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.srv00.com:6969/announce
 
 http://tracker.vrpnet.org:6969/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -133,6 +125,8 @@ https://tracker.srv00.com:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
+
+https://tracker2.ctix.cn:443/announce
 
 https://trackme.theom.nz:443/announce
 
