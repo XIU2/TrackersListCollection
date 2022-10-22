@@ -10,13 +10,13 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://chouchou.top:8080/announce
 
-http://fe.dealclub.de:6969/announce
-
 http://fosstorrents.com:6969/announce
 
 http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
+
+http://incine.ru:6969/announce
 
 http://jp.moeweb.pw:6969/announce
 
@@ -27,6 +27,8 @@ http://nyaa.tracker.wf:7777/announce
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.tracker.ink:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -298,8 +300,6 @@ udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
 
-udp://tracker.beeimg.com:6969/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
@@ -355,8 +355,6 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.yangxiaoguozi.cn:6969/announce
-
-udp://tracker.zemoj.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
