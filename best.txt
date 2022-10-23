@@ -30,8 +30,6 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://trackme.theom.nz:80/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -84,8 +82,6 @@ udp://9.rarbg.com:2810/announce
 
 udp://aarsen.me:6969/announce
 
-udp://app.icon256.com:8000/announce
-
 udp://ben.kerbertools.xyz:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
@@ -97,6 +93,8 @@ udp://bt2.archive.org:6969/announce
 udp://buddyfly.top:6969/announce
 
 udp://creative.7o7.cx:6969/announce
+
+udp://cutscloud.duckdns.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
