@@ -10,8 +10,6 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://chouchou.top:8080/announce
 
-http://fe.dealclub.de:6969/announce
-
 http://fosstorrents.com:6969/announce
 
 http://fxtt.ru:80/announce
@@ -30,6 +28,8 @@ http://open.acgnxtracker.com:80/announce
 
 http://open.tracker.ink:6969/announce
 
+http://parag.rs:6969/announce
+
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
@@ -42,8 +42,6 @@ http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -52,8 +50,6 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.edkj.club:6969/announce
-
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -61,8 +57,6 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.lelux.fi:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -77,6 +71,8 @@ http://tracker.zerobytes.xyz:1337/announce
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
+
+http://tracker3.itzmx.com:6961/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -107,6 +103,8 @@ https://tracker.cyber-hub.net:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
+
+https://tracker.jiesen.life:8443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -278,15 +276,11 @@ udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-udp://theodoric.fr:6969/announce
-
 udp://thouvenin.cloud:6969/announce
 
 udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
-
-udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
 
@@ -341,8 +335,6 @@ udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.pomf.se:80/announce
-
-udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
 

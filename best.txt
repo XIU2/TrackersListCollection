@@ -58,6 +58,8 @@ https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
 
+https://tracker.jiesen.life:8443/announce
+
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
@@ -105,6 +107,8 @@ udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 
 udp://htz3.noho.st:6969/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://jutone.com:6969/announce
 
@@ -174,6 +178,8 @@ udp://tracker.cubonegro.xyz:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.encrypted-data.xyz:1337/announce
 
 udp://tracker.jonaslsa.com:6969/announce
@@ -186,15 +192,11 @@ udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.monitorit4.me:6969/announce
-
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.pomf.se:80/announce
-
-udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -205,10 +207,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.zerobytes.xyz:1337/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
