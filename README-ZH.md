@@ -44,13 +44,13 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 ### 更新时间: 2022-10-24
 
 - **精选列表：**(114 个)  
- _**[https://trackerslist.../best.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/best.txt)**_  
+ _**[https://trackerslist.../best.txt](https://jsd.cdn.zzko.cn/gh/XIU2/TrackersListCollection/best.txt)**_  
 - **完整列表：**(193 个)  
- _**[https://trackerslist.../all.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/all.txt)**_  
+ _**[https://trackerslist.../all.txt](https://jsd.cdn.zzko.cn/gh/XIU2/TrackersListCollection/all.txt)**_  
 - **HTTP(S)列表：**(61 个)  
- _**[https://trackerslist.../http.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/http.txt)**_  
+ _**[https://trackerslist.../http.txt](https://jsd.cdn.zzko.cn/gh/XIU2/TrackersListCollection/http.txt)**_  
 
-> 上面链接已改为 **CDN 分流**地址，来解决大家反应的速度问题（国内**电信**用户建议使用其他备用地址）。
+> 上面链接已改为 **国内 CDN 分流**地址，来解决大家反应的速度、稳定性等网络问题。
 
 <details>
 <summary><strong><code>[点击展开] - 查看其他 CDN 分流地址</code></strong></summary>
@@ -60,8 +60,9 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 \# **以下为完整列表 ` all.txt ` 示例（末尾文件名可自行修改，选择一个速度快的地址）：**  
  
 - _**https://cf.trackerslist.com/all.txt** ( Cloudflare CDN_  
-- _**https://jsd.eagleyao.com/gh/XIU2/TrackersListCollection/all.txt** ( 中国国内 CDN_  
-- _**https://raw.iqiq.io/XIU2/TrackersListCollection/master/all.txt** ( 中国香港 CDN_  
+- _**https://js.cdn.haah.net/gh/XIU2/TrackersListCollection/all.txt** ( 国内 CDN，下同_  
+- _**https://jsd.cdn.zzko.cn/gh/XIU2/TrackersListCollection/all.txt**_
+- _**https://raw.iqiq.io/XIU2/TrackersListCollection/master/all.txt**_  
 - _**https://raw.kgithub.com/XIU2/TrackersListCollection/master/all.txt** ( 新加坡 CDN_  
 - _**[https://github.moeyy.xyz/.../XIU2/TrackersListCollection/master/all.txt](https://github.moeyy.xyz/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt)** ( 新加坡 CDN_  
 - _**https://gcore.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt** ( 国外 CDN，适合移动、电信_  
