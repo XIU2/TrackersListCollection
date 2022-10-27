@@ -28,8 +28,6 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://trackme.theom.nz:80/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -114,6 +112,8 @@ udp://laze.cc:6969/announce
 
 udp://leefafa.tk:6969/announce
 
+udp://madiator.com:6969/announce
+
 udp://mail.artixlinux.org:6969/announce
 
 udp://mail.zasaonsk.ga:6969/announce
@@ -137,6 +137,8 @@ udp://open.publictracker.xyz:6969/announce
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
+
+udp://open6.demonii.com:1337/announce
 
 udp://opentor.org:2710/announce
 
