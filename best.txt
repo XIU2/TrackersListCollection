@@ -2,6 +2,8 @@ http://1337.abcvg.info:80/announce
 
 http://fxtt.ru:80/announce
 
+http://i-p-v-6.tk:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
@@ -15,8 +17,6 @@ http://t.acg.rip:6699/announce
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
-
-http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -112,6 +112,8 @@ udp://jutone.com:6969/announce
 
 udp://laze.cc:6969/announce
 
+udp://leefafa.tk:6969/announce
+
 udp://mail.artixlinux.org:6969/announce
 
 udp://mail.zasaonsk.ga:6969/announce
@@ -121,6 +123,8 @@ udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
 
 udp://new-line.net:6969/announce
+
+udp://open.4ever.tk:6969/announce
 
 udp://open.demonii.com:1337/announce
 
