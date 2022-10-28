@@ -30,8 +30,6 @@ http://tracker.skyts.net:6969/announce
 
 http://trackme.theom.nz:80/announce
 
-http://vps02.net.orel.ru:80/announce
-
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
@@ -114,8 +112,6 @@ udp://laze.cc:6969/announce
 
 udp://leefafa.tk:6969/announce
 
-udp://madiator.com:6969/announce
-
 udp://mail.artixlinux.org:6969/announce
 
 udp://mail.zasaonsk.ga:6969/announce
@@ -184,8 +180,6 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.encrypted-data.xyz:1337/announce
-
 udp://tracker.jonaslsa.com:6969/announce
 
 udp://tracker.joybomb.tw:6969/announce
@@ -199,8 +193,6 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
-
-udp://tracker.pimpmyworld.to:6969/announce
 
 udp://tracker.pomf.se:80/announce
 
