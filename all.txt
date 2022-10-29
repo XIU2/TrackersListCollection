@@ -12,19 +12,23 @@ http://chouchou.top:8080/announce
 
 http://fe.dealclub.de:6969/announce
 
+http://fosstorrents.com:6969/announce
+
 http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
 
 http://incine.ru:6969/announce
 
+http://li1406-230.members.linode.com:6969/announce
+
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -60,11 +64,11 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.lelux.fi:80/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.srv00.com:6969/announce
 
@@ -73,6 +77,8 @@ http://tracker.vrpnet.org:6969/announce
 http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
+
+http://tracker2.dler.org:80/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -105,8 +111,6 @@ https://tracker.expli.top:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
-
-https://tracker.jiesen.life:8443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -188,7 +192,7 @@ udp://creative.7o7.cx:6969/announce
 
 udp://cutiegirl.ru:6969/announce
 
-udp://cutscloud.duckdns.org:6969/announce
+udp://dns.xxtor.com:53/announce
 
 udp://epider.me:6969/announce
 
@@ -199,8 +203,6 @@ udp://f1sh.de:6969/announce
 udp://fe.dealclub.de:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
-
-udp://ftp.pet:2710/announce
 
 udp://htz3.noho.st:6969/announce
 
@@ -274,8 +276,6 @@ udp://slicie.icon256.com:8000/announce
 
 udp://smtp-relay.odysseylabel.com.au:6969/announce
 
-udp://static.202.35.76.144.clients.your-server.de:6969/announce
-
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
@@ -287,6 +287,8 @@ udp://thouvenin.cloud:6969/announce
 udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
+
+udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
 
@@ -340,11 +342,7 @@ udp://tracker.openbtba.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker.pimpmyworld.to:6969/announce
-
 udp://tracker.pomf.se:80/announce
-
-udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
 

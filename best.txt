@@ -10,6 +10,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://t.acg.rip:6699/announce
 
 http://t.overflow.biz:6969/announce
@@ -70,6 +72,8 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
 
+https://tracker2.ctix.cn:443/announce
+
 https://trackme.theom.nz:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
@@ -92,6 +96,8 @@ udp://creative.7o7.cx:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
 
+udp://dns.xxtor.com:53/announce
+
 udp://exodus.desync.com:6969/announce
 
 udp://f1sh.de:6969/announce
@@ -100,11 +106,7 @@ udp://fe.dealclub.de:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
 
-udp://ftp.pet:2710/announce
-
 udp://htz3.noho.st:6969/announce
-
-udp://ipv4.tracker.harry.lu:80/announce
 
 udp://jutone.com:6969/announce
 
@@ -121,8 +123,6 @@ udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
 
 udp://new-line.net:6969/announce
-
-udp://open.4ever.tk:6969/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -156,8 +156,6 @@ udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
-udp://tr.cili001.com:8070/announce
-
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -178,7 +176,7 @@ udp://tracker.cubonegro.xyz:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.encrypted-data.xyz:1337/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
@@ -190,7 +188,7 @@ udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.openbittorrent.com:6969/announce
+udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -200,13 +198,23 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.swateam.org.uk:2710/announce
+
 udp://tracker.tcp.exchange:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.zerobytes.xyz:1337/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
+
 udp://tracker2.dler.com:80/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
