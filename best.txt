@@ -42,8 +42,6 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
-https://opentracker.i2p.rocks:443/announce
-
 https://t1.hloli.org:443/announce
 
 https://tr.abiir.top:443/announce
@@ -97,8 +95,6 @@ udp://buddyfly.top:6969/announce
 udp://creative.7o7.cx:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
-
-udp://dns.xxtor.com:53/announce
 
 udp://exodus.desync.com:6969/announce
 
@@ -218,11 +214,11 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.wellknownclub.net:8100/announce
-
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 

@@ -10,13 +10,15 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://chouchou.top:8080/announce
 
+http://fe.dealclub.de:6969/announce
+
+http://fosstorrents.com:6969/announce
+
 http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
 
 http://incine.ru:6969/announce
-
-http://li1406-230.members.linode.com:6969/announce
 
 http://movies.zsw.ca:6969/announce
 
@@ -25,8 +27,6 @@ http://nyaa.tracker.wf:7777/announce
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -92,8 +92,6 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
-https://opentracker.i2p.rocks:443/announce
-
 https://t1.hloli.org:443/announce
 
 https://tr.abiir.top:443/announce
@@ -129,8 +127,6 @@ https://tracker.nanoha.org:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
-
-https://tracker2.ctix.cn:443/announce
 
 https://trackme.theom.nz:443/announce
 
@@ -169,8 +165,6 @@ udp://admin.52ywp.com:6969/announce
 udp://admin.videoenpoche.info:6969/announce
 
 udp://astrr.ru:6969/announce
-
-udp://ben.kerbertools.xyz:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
@@ -363,8 +357,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.wellknownclub.net:8100/announce
 
 udp://tracker.yangxiaoguozi.cn:6969/announce
 
