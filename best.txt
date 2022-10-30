@@ -22,8 +22,6 @@ http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -61,6 +59,8 @@ https://tracker.cyber-hub.net:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
+
+https://tracker.jiesen.life:8443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -208,8 +208,6 @@ udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
-udp://tracker.srv00.com:6969/announce
-
 udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.tcp.exchange:6969/announce
@@ -237,6 +235,8 @@ udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://wepzone.net:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://yahor.ftp.sh:6969/announce
 
