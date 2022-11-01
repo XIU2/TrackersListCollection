@@ -56,6 +56,10 @@ https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
 
+https://tracker.imgoingto.icu:443/announce
+
+https://tracker.jiesen.life:8443/announce
+
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
@@ -85,6 +89,8 @@ udp://bt.ktrackers.com:6666/announce
 udp://bt1.archive.org:6969/announce
 
 udp://buddyfly.top:6969/announce
+
+udp://chouchou.top:8080/announce
 
 udp://creative.7o7.cx:6969/announce
 
