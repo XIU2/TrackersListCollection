@@ -12,6 +12,8 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://chouchou.top:8080/announce
 
+http://fe.dealclub.de:6969/announce
+
 http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
@@ -19,6 +21,8 @@ http://i-p-v-6.tk:6969/announce
 http://incine.ru:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
+
+http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -52,13 +56,13 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
+http://tracker.encrypted-data.xyz:1337/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.lelux.fi:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -66,7 +70,7 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.srv00.com:6969/announce
 
-http://tracker.vrpnet.org:6969/announce
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -89,6 +93,8 @@ http://www.all4nothin.net:80/announce.php
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
+
+https://opentracker.i2p.rocks:443/announce
 
 https://t1.hloli.org:443/announce
 
@@ -129,6 +135,8 @@ https://tracker.tamersunion.org:443/announce
 https://tracker1.520.jp:443/announce
 
 https://trackme.theom.nz:443/announce
+
+https://xtremex.herokuapp.com:443/announce
 
 udp://184.105.151.166:6969/announce
 
@@ -208,8 +216,6 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.harry.lu:80/announce
 
-udp://ipv6.tracker.monitorit4.me:6969/announce
-
 udp://jutone.com:6969/announce
 
 udp://keke.re:6969/announce
@@ -245,6 +251,8 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
+
+udp://opentracker.i2p.rocks:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -331,8 +339,6 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.novaopcj.eu.org:6969/announce
-
-udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.openbtba.com:6969/announce
 
