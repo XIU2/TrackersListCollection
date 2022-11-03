@@ -62,8 +62,6 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-https://tracker.jiesen.life:8443/announce
-
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
@@ -229,6 +227,8 @@ udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://wepzone.net:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://zecircle.xyz:6969/announce
 
