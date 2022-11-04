@@ -1,5 +1,3 @@
-http://00.xxtor.com:443/announce
-
 http://1337.abcvg.info:80/announce
 
 http://207.241.226.111:6969/announce
@@ -12,7 +10,7 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://chouchou.top:8080/announce
 
-http://fe.dealclub.de:6969/announce
+http://fosstorrents.com:6969/announce
 
 http://fxtt.ru:80/announce
 
@@ -20,7 +18,7 @@ http://i-p-v-6.tk:6969/announce
 
 http://incine.ru:6969/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
+http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -41,8 +39,6 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
-
-http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -68,9 +64,11 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.srv00.com:6969/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -111,6 +109,8 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
+
+https://tracker.jiesen.life:8443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -210,8 +210,6 @@ udp://ipv6.tracker.harry.lu:80/announce
 
 udp://jutone.com:6969/announce
 
-udp://keke.re:6969/announce
-
 udp://laze.cc:6969/announce
 
 udp://leefafa.tk:6969/announce
@@ -272,6 +270,8 @@ udp://smtp-relay.odysseylabel.com.au:6969/announce
 
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
+udp://sx.xxtor.com:6969/announce
+
 udp://tamas3.ynh.fr:6969/announce
 
 udp://theodoric.fr:6969/announce
@@ -281,8 +281,6 @@ udp://thouvenin.cloud:6969/announce
 udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
-
-udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
 
@@ -328,6 +326,8 @@ udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.novaopcj.eu.org:6969/announce
 
+udp://tracker.openbittorrent.com:6969/announce
+
 udp://tracker.openbtba.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -358,6 +358,8 @@ udp://tracker.wellknownclub.net:8100/announce
 
 udp://tracker.yangxiaoguozi.cn:6969/announce
 
+udp://tracker.zemoj.com:6969/announce
+
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
@@ -377,8 +379,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.lelux.fi:6969/announce
-
-udp://u4.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
