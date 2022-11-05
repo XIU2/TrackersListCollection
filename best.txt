@@ -88,8 +88,6 @@ udp://aarsen.me:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://bt1.archive.org:6969/announce
-
 udp://buddyfly.top:6969/announce
 
 udp://creative.7o7.cx:6969/announce
@@ -180,8 +178,6 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.encrypted-data.xyz:1337/announce
 
 udp://tracker.jonaslsa.com:6969/announce
@@ -191,6 +187,8 @@ udp://tracker.joybomb.tw:6969/announce
 udp://tracker.leech.ie:1337/announce
 
 udp://tracker.moeking.me:6969/announce
+
+udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.novaopcj.eu.org:6969/announce
 
@@ -220,8 +218,6 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.zemoj.com:6969/announce
-
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
@@ -231,6 +227,8 @@ udp://tracker1.myporn.club:9337/announce
 udp://tracker2.dler.com:80/announce
 
 udp://tracker2.dler.org:80/announce
+
+udp://tracker6.lelux.fi:6969/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
