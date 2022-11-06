@@ -12,6 +12,8 @@ http://chouchou.top:8080/announce
 
 http://fxtt.ru:80/announce
 
+http://i-p-v-6.tk:6969/announce
+
 http://incine.ru:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -23,8 +25,6 @@ http://nyaa.tracker.wf:7777/announce
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://parag.rs:6969/announce
 
@@ -52,6 +52,8 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
+http://tracker.encrypted-data.xyz:1337/announce
+
 http://tracker.fansub.id:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -62,13 +64,13 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.novaopcj.eu.org:6969/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.srv00.com:6969/announce
 
 http://tracker.vrpnet.org:6969/announce
-
-http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -113,6 +115,8 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
+
+https://tracker.jiesen.life:8443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -331,8 +335,6 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.novaopcj.eu.org:6969/announce
-
-udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.openbtba.com:6969/announce
 
