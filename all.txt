@@ -10,19 +10,23 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://chouchou.top:8080/announce
 
-http://fxtt.ru:80/announce
+http://fe.dealclub.de:6969/announce
 
-http://i-p-v-6.tk:6969/announce
+http://fosstorrents.com:6969/announce
+
+http://fxtt.ru:80/announce
 
 http://incine.ru:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
-http://open-v6.demonoid.ch:6969/announce
-
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://parag.rs:6969/announce
 
@@ -37,6 +41,8 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
+
+http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -64,7 +70,15 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.srv00.com:6969/announce
 
+http://tracker.swateam.org.uk:2710/announce
+
 http://tracker.vrpnet.org:6969/announce
+
+http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker1.itzmx.com:8080/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -73,8 +87,6 @@ http://tracker4.itzmx.com:2710/announce
 http://trackme.theom.nz:80/announce
 
 http://vps02.net.orel.ru:80/announce
-
-http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -150,7 +162,7 @@ udp://[2a03:7220:8083:cd00::1]:451/announce
 
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
-udp://[2a0f:e586:f:f::220]:6969/announce
+udp://[2a0f:e586:f:f::81]:6969/announce
 
 udp://aarsen.me:6969/announce
 
@@ -177,8 +189,6 @@ udp://chouchou.top:8080/announce
 udp://concen.org:6969/announce
 
 udp://creative.7o7.cx:6969/announce
-
-udp://cutiegirl.ru:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
 
@@ -240,8 +250,6 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://qtstm32fan.ru:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
@@ -249,6 +257,8 @@ udp://rep-art.ynh.fr:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run.publictracker.xyz:6969/announce
 
@@ -316,7 +326,7 @@ udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
-udp://tracker.novaopcj.eu.org:6969/announce
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.openbtba.com:6969/announce
 
@@ -369,6 +379,8 @@ udp://tracker6.lelux.fi:6969/announce
 udp://uploads.gamecoast.net:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
+
+udp://v2.iperson.xyz:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 

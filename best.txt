@@ -28,6 +28,8 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker4.itzmx.com:2710/announce
+
 http://trackme.theom.nz:80/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -99,8 +101,6 @@ udp://htz3.noho.st:6969/announce
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.harry.lu:80/announce
-
-udp://jutone.com:6969/announce
 
 udp://laze.cc:6969/announce
 
@@ -188,7 +188,7 @@ udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
-udp://tracker.novaopcj.eu.org:6969/announce
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.openbtba.com:6969/announce
 
@@ -201,6 +201,8 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
+
+udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.tcp.exchange:6969/announce
 
@@ -217,8 +219,6 @@ udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://tracker6.lelux.fi:6969/announce
 

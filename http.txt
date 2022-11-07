@@ -10,19 +10,23 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://chouchou.top:8080/announce
 
-http://fxtt.ru:80/announce
+http://fe.dealclub.de:6969/announce
 
-http://i-p-v-6.tk:6969/announce
+http://fosstorrents.com:6969/announce
+
+http://fxtt.ru:80/announce
 
 http://incine.ru:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
-http://open-v6.demonoid.ch:6969/announce
-
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://parag.rs:6969/announce
 
@@ -37,6 +41,8 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
+
+http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -64,7 +70,15 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.srv00.com:6969/announce
 
+http://tracker.swateam.org.uk:2710/announce
+
 http://tracker.vrpnet.org:6969/announce
+
+http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker1.itzmx.com:8080/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -73,8 +87,6 @@ http://tracker4.itzmx.com:2710/announce
 http://trackme.theom.nz:80/announce
 
 http://vps02.net.orel.ru:80/announce
-
-http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
