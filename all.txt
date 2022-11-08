@@ -18,6 +18,8 @@ http://incine.ru:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -38,6 +40,8 @@ http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.cili001.com:8070/announce
+
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -48,7 +52,7 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
-http://tracker.fansub.id:80/announce
+http://tracker.encrypted-data.xyz:1337/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -69,6 +73,8 @@ http://tracker.vrpnet.org:6969/announce
 http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -204,8 +210,6 @@ udp://ipv6.tracker.harry.lu:80/announce
 
 udp://jutone.com:6969/announce
 
-udp://laze.cc:6969/announce
-
 udp://leefafa.tk:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
@@ -244,6 +248,8 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://qtstm32fan.ru:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
@@ -275,8 +281,6 @@ udp://thouvenin.cloud:6969/announce
 udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
-
-udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
 
@@ -320,7 +324,7 @@ udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
-udp://tracker.openbittorrent.com:6969/announce
+udp://tracker.novaopcj.eu.org:6969/announce
 
 udp://tracker.openbtba.com:6969/announce
 
