@@ -92,6 +92,8 @@ udp://fe.dealclub.de:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
 
+udp://htz3.noho.st:6969/announce
+
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.harry.lu:80/announce

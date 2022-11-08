@@ -12,13 +12,11 @@ http://bt.endpot.com:80/announce
 
 http://chouchou.top:8080/announce
 
+http://fosstorrents.com:6969/announce
+
 http://fxtt.ru:80/announce
 
 http://incine.ru:6969/announce
-
-http://ipv4announce.sktorrent.eu:6969/announce
-
-http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -48,8 +46,6 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
-http://tracker.encrypted-data.xyz:1337/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -67,8 +63,6 @@ http://tracker.srv00.com:6969/announce
 http://tracker.swateam.org.uk:2710/announce
 
 http://tracker.vrpnet.org:6969/announce
-
-http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -168,6 +162,8 @@ udp://admin.videoenpoche.info:6969/announce
 
 udp://astrr.ru:6969/announce
 
+udp://black-bird.ynh.fr:6969/announce
+
 udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
@@ -179,6 +175,8 @@ udp://buddyfly.top:6969/announce
 udp://camera.lei001.com:6969/announce
 
 udp://chouchou.top:8080/announce
+
+udp://concen.org:6969/announce
 
 udp://creative.7o7.cx:6969/announce
 
@@ -193,6 +191,8 @@ udp://f1sh.de:6969/announce
 udp://fe.dealclub.de:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
+
+udp://htz3.noho.st:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
@@ -244,6 +244,8 @@ udp://public.tracker.vraphim.com:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
 
+udp://rep-art.ynh.fr:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
@@ -261,6 +263,8 @@ udp://smtp-relay.odysseylabel.com.au:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 udp://sx.xxtor.com:6969/announce
+
+udp://tamas3.ynh.fr:6969/announce
 
 udp://thinking.duckdns.org:6969/announce
 
