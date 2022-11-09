@@ -54,8 +54,6 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-https://tracker.jiesen.life:8443/announce
-
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
@@ -77,6 +75,8 @@ https://trackme.theom.nz:443/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
+
+udp://960303.xyz:6969/announce
 
 udp://aarsen.me:6969/announce
 
