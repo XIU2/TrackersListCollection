@@ -10,6 +10,8 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
@@ -84,6 +86,8 @@ udp://aarsen.me:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
+udp://bt1.archive.org:6969/announce
+
 udp://buddyfly.top:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
@@ -113,6 +117,8 @@ udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
 
 udp://new-line.net:6969/announce
+
+udp://open.4ever.tk:6969/announce
 
 udp://open.demonii.com:1337/announce
 
