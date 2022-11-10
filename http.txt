@@ -38,6 +38,8 @@ http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.cili001.com:8070/announce
+
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -48,8 +50,6 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
-http://tracker.encrypted-data.xyz:1337/announce
-
 http://tracker.fansub.id:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -59,6 +59,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.novaopcj.eu.org:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -125,8 +127,6 @@ https://tracker.nanoha.org:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
-
-https://tracker2.ctix.cn:443/announce
 
 https://trackme.theom.nz:443/announce
 
