@@ -12,15 +12,13 @@ http://bt.endpot.com:80/announce
 
 http://chouchou.top:8080/announce
 
-http://fe.dealclub.de:6969/announce
-
-http://fosstorrents.com:6969/announce
-
 http://fxtt.ru:80/announce
 
 http://incine.ru:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
+
+http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -39,8 +37,6 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
-
-http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -129,6 +125,8 @@ https://tracker.nanoha.org:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
+
+https://tracker2.ctix.cn:443/announce
 
 https://trackme.theom.nz:443/announce
 
