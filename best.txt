@@ -86,8 +86,6 @@ udp://aarsen.me:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://bt1.archive.org:6969/announce
-
 udp://buddyfly.top:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
@@ -209,6 +207,8 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
