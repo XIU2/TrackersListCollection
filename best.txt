@@ -32,6 +32,8 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.mywaifu.best:6969/announce
+
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker3.itzmx.com:6961/announce
@@ -116,8 +118,6 @@ udp://htz3.noho.st:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
-udp://ipv6.tracker.harry.lu:80/announce
-
 udp://kristof.bartanet.cz:6969/announce
 
 udp://laze.cc:6969/announce
@@ -126,13 +126,13 @@ udp://leefafa.tk:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
 
-udp://mail.zasaonsk.ga:6969/announce
-
 udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
 udp://new-line.net:6969/announce
+
+udp://open-tracker.demonoid.ch:6969/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -143,6 +143,8 @@ udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -202,8 +204,6 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.edkj.club:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
@@ -213,8 +213,6 @@ udp://tracker.joybomb.tw:6969/announce
 udp://tracker.leech.ie:1337/announce
 
 udp://tracker.moeking.me:6969/announce
-
-udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.openbtba.com:6969/announce
 
