@@ -6,6 +6,8 @@ http://dn42.smrsh.net:6969/announce
 
 http://fxtt.ru:80/announce
 
+http://incine.ru:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -126,11 +128,11 @@ udp://leefafa.tk:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
 
+udp://mail.zasaonsk.ga:6969/announce
+
 udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
-
-udp://new-line.net:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
