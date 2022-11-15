@@ -14,11 +14,11 @@ http://chouchou.top:8080/announce
 
 http://dn42.smrsh.net:6969/announce
 
-http://fosstorrents.com:6969/announce
-
 http://fxtt.ru:80/announce
 
 http://incine.ru:6969/announce
+
+http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -34,11 +34,11 @@ http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
 
+http://t.overflow.biz:6969/announce
+
 http://torrentsmd.com:8080/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
-
-http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -74,9 +74,9 @@ http://tracker.vrpnet.org:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker1.itzmx.com:8080/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -134,6 +134,8 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
 
+https://tracker2.ctix.cn:443/announce
+
 https://trackme.theom.nz:443/announce
 
 https://xtremex.herokuapp.com:443/announce
@@ -174,8 +176,6 @@ udp://admin.videoenpoche.info:6969/announce
 
 udp://aegir.sexy:6969/announce
 
-udp://astrr.ru:6969/announce
-
 udp://bedro.cloud:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
@@ -195,8 +195,6 @@ udp://chouchou.top:8080/announce
 udp://concen.org:6969/announce
 
 udp://creative.7o7.cx:6969/announce
-
-udp://cutscloud.duckdns.org:6969/announce
 
 udp://dht.bt251.com:6969/announce
 
@@ -244,6 +242,8 @@ udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
 
+udp://open.free-tracker.ga:6969/announce
+
 udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
@@ -265,8 +265,6 @@ udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
 
@@ -296,7 +294,7 @@ udp://tamas3.ynh.fr:6969/announce
 
 udp://thagoat.rocks:6969/announce
 
-udp://theodoric.fr:6969/announce
+udp://themaninashed.com:6969/announce
 
 udp://thinking.duckdns.org:6969/announce
 
@@ -305,8 +303,6 @@ udp://thouvenin.cloud:6969/announce
 udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
-
-udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
 
