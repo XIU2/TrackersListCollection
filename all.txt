@@ -14,15 +14,17 @@ http://chouchou.top:8080/announce
 
 http://dn42.smrsh.net:6969/announce
 
+http://fe.dealclub.de:6969/announce
+
 http://fxtt.ru:80/announce
 
 http://incine.ru:6969/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://parag.rs:6969/announce
 
@@ -40,6 +42,8 @@ http://torrentsmd.com:8080/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
+http://tr.cili001.com:8070/announce
+
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -51,8 +55,6 @@ http://tracker.dler.org:6969/announce
 http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
-
-http://tracker.encrypted-data.xyz:1337/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -134,8 +136,6 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
 
-https://tracker2.ctix.cn:443/announce
-
 https://trackme.theom.nz:443/announce
 
 https://xtremex.herokuapp.com:443/announce
@@ -195,6 +195,8 @@ udp://chouchou.top:8080/announce
 udp://concen.org:6969/announce
 
 udp://creative.7o7.cx:6969/announce
+
+udp://cutscloud.duckdns.org:6969/announce
 
 udp://dht.bt251.com:6969/announce
 
@@ -285,6 +287,8 @@ udp://slicie.icon256.com:8000/announce
 udp://smtp-relay.odysseylabel.com.au:6969/announce
 
 udp://srv5.digiboy.ir:6969/announce
+
+udp://stargrave.org:6969/announce
 
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
