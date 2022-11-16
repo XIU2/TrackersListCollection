@@ -43,11 +43,11 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 
 ### 更新时间: 2022-11-16
 
-- **精选列表：**(131 个)  
+- **精选列表：**(130 个)  
  _**[https://trackerslist.../best.txt](https://jsd.cdn.zzko.cn/gh/XIU2/TrackersListCollection/best.txt)**_  
-- **完整列表：**(214 个)  
+- **完整列表：**(210 个)  
  _**[https://trackerslist.../all.txt](https://jsd.cdn.zzko.cn/gh/XIU2/TrackersListCollection/all.txt)**_  
-- **HTTP(S)列表：**(72 个)  
+- **HTTP(S)列表：**(68 个)  
  _**[https://trackerslist.../http.txt](https://jsd.cdn.zzko.cn/gh/XIU2/TrackersListCollection/http.txt)**_  
 
 > 上面链接已改为 **国内 CDN 分流**地址，来解决大家反应的速度、稳定性等网络问题。

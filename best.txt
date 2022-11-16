@@ -34,6 +34,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.noobsubs.net:80/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker3.itzmx.com:6961/announce
@@ -126,8 +128,6 @@ udp://leefafa.tk:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
 
-udp://mail.zasaonsk.ga:6969/announce
-
 udp://mirror.aptus.co.tz:6969/announce
 
 udp://moonburrow.club:6969/announce
@@ -135,8 +135,6 @@ udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
-
-udp://open.4ever.tk:6969/announce
 
 udp://open.demonii.com:1337/announce
 
