@@ -38,12 +38,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker1.itzmx.com:8080/announce
-
-http://tracker3.itzmx.com:6961/announce
-
-http://tracker4.itzmx.com:2710/announce
-
 http://trackme.theom.nz:80/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -85,8 +79,6 @@ https://tracker.nanoha.org:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
-
-https://tracker2.ctix.cn:443/announce
 
 https://trackme.theom.nz:443/announce
 
@@ -157,8 +149,6 @@ udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
 udp://private.anonseed.com:6969/announce
 
 udp://psyco.fr:6969/announce
-
-udp://public.publictracker.xyz:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
 
