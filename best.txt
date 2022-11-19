@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://504e163a.host.njalla.net:6969/announce
-
 http://dn42.smrsh.net:6969/announce
 
 http://fxtt.ru:80/announce
@@ -25,6 +23,8 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
+
+http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -237,6 +237,8 @@ udp://uploads.gamecoast.net:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
+
+udp://www.peckservers.com:9000/announce
 
 udp://www.torrent.eu.org:451/announce
 

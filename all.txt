@@ -4,8 +4,6 @@ http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
 
-http://504e163a.host.njalla.net:6969/announce
-
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
@@ -13,8 +11,6 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 http://chouchou.top:8080/announce
 
 http://dn42.smrsh.net:6969/announce
-
-http://fosstorrents.com:6969/announce
 
 http://fxtt.ru:80/announce
 
@@ -50,19 +46,15 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
+http://tracker.encrypted-data.xyz:1337/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://tracker.noobsubs.net:80/announce
-
-http://tracker.novaopcj.eu.org:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -72,9 +64,9 @@ http://tracker.swateam.org.uk:2710/announce
 
 http://tracker.vrpnet.org:6969/announce
 
-http://tracker2.dler.org:80/announce
+http://tracker1.bt.moack.co.kr:80/announce
 
-http://tracker4.itzmx.com:2710/announce
+http://tracker3.itzmx.com:6961/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -110,8 +102,6 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-https://tracker.jiesen.life:8443/announce
-
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
@@ -129,8 +119,6 @@ https://tracker.nanoha.org:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
-
-https://tracker2.ctix.cn:443/announce
 
 https://trackme.theom.nz:443/announce
 
@@ -215,6 +203,8 @@ udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu:80/announce
 
 udp://jutone.com:6969/announce
+
+udp://kristof.bartanet.cz:6969/announce
 
 udp://laze.cc:6969/announce
 
@@ -330,8 +320,6 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.edkj.club:6969/announce
-
 udp://tracker.encrypted-data.xyz:1337/announce
 
 udp://tracker.filemail.com:6969/announce
@@ -380,8 +368,6 @@ udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker1.itzmx.com:8080/announce
-
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
@@ -403,6 +389,8 @@ udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
+
+udp://www.peckservers.com:9000/announce
 
 udp://www.torrent.eu.org:451/announce
 
