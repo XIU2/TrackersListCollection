@@ -38,6 +38,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.noobsubs.net:80/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://trackme.theom.nz:80/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -64,6 +66,8 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
+https://tracker.jiesen.life:8443/announce
+
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
@@ -85,6 +89,8 @@ https://trackme.theom.nz:443/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
+
+udp://94-227-232-84.access.telenet.be:6969/announce
 
 udp://aarsen.me:6969/announce
 
@@ -170,6 +176,8 @@ udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://tr.cili001.com:8070/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
@@ -192,8 +200,6 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.edkj.club:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
@@ -203,8 +209,6 @@ udp://tracker.joybomb.tw:6969/announce
 udp://tracker.leech.ie:1337/announce
 
 udp://tracker.moeking.me:6969/announce
-
-udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.openbtba.com:6969/announce
 
@@ -218,6 +222,8 @@ udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
+udp://tracker.srv00.com:6969/announce
+
 udp://tracker.tcp.exchange:6969/announce
 
 udp://tracker.theoks.net:6969/announce
@@ -225,8 +231,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
