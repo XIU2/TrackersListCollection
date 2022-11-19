@@ -38,8 +38,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://trackme.theom.nz:80/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -199,8 +197,6 @@ udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
-
-udp://tracker.edkj.club:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
