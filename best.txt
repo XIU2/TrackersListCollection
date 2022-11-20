@@ -62,6 +62,8 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
+https://tracker.jiesen.life:8443/announce
+
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
@@ -112,6 +114,8 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://laze.cc:6969/announce
 
+udp://leefafa.tk:6969/announce
+
 udp://mail.artixlinux.org:6969/announce
 
 udp://mirror.aptus.co.tz:6969/announce
@@ -119,6 +123,8 @@ udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
+
+udp://open.4ever.tk:6969/announce
 
 udp://open.demonii.com:1337/announce
 
