@@ -36,8 +36,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://trackme.theom.nz:80/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -98,8 +96,6 @@ udp://bedro.cloud:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://buddyfly.top:6969/announce
-
 udp://cutscloud.duckdns.org:6969/announce
 
 udp://dht.bt251.com:6969/announce
@@ -116,8 +112,6 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://laze.cc:6969/announce
 
-udp://leefafa.tk:6969/announce
-
 udp://mail.artixlinux.org:6969/announce
 
 udp://mirror.aptus.co.tz:6969/announce
@@ -125,8 +119,6 @@ udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
-
-udp://open.4ever.tk:6969/announce
 
 udp://open.demonii.com:1337/announce
 
