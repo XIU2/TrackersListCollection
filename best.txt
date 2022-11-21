@@ -20,8 +20,6 @@ http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://t.overflow.biz:6969/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -35,8 +33,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.noobsubs.net:80/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -97,8 +93,6 @@ udp://aegir.sexy:6969/announce
 udp://bedro.cloud:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
-
-udp://cutscloud.duckdns.org:6969/announce
 
 udp://dht.bt251.com:6969/announce
 
@@ -233,8 +227,6 @@ udp://uploads.gamecoast.net:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
-
-udp://www.peckservers.com:9000/announce
 
 udp://www.torrent.eu.org:451/announce
 
