@@ -24,8 +24,6 @@ http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -65,6 +63,8 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
+
+https://tracker.jiesen.life:8443/announce
 
 https://tracker.kuroy.me:443/announce
 
