@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://dn42.smrsh.net:6969/announce
-
 http://fxtt.ru:80/announce
 
 http://incine.ru:6969/announce
@@ -20,7 +18,11 @@ http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
 
+http://t.overflow.biz:6969/announce
+
 http://torrentsmd.com:8080/announce
+
+http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -82,6 +84,8 @@ https://trackme.theom.nz:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
+udp://9.rarbg.com:2810/announce
+
 udp://94-227-232-84.access.telenet.be:6969/announce
 
 udp://aarsen.me:6969/announce
@@ -93,6 +97,8 @@ udp://aegir.sexy:6969/announce
 udp://bedro.cloud:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
+
+udp://cutscloud.duckdns.org:6969/announce
 
 udp://dht.bt251.com:6969/announce
 
@@ -156,6 +162,8 @@ udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 udp://sx.xxtor.com:6969/announce
 
+udp://tamas3.ynh.fr:6969/announce
+
 udp://thagoat.rocks:6969/announce
 
 udp://thetracker.org:80/announce
@@ -193,8 +201,6 @@ udp://tracker.joybomb.tw:6969/announce
 udp://tracker.leech.ie:1337/announce
 
 udp://tracker.moeking.me:6969/announce
-
-udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.openbtba.com:6969/announce
 
