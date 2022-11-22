@@ -1,4 +1,18 @@
+http://107.189.10.20.sslip.io:7777/announce
+
 http://1337.abcvg.info:80/announce
+
+http://207.241.226.111:6969/announce
+
+http://207.241.231.226:6969/announce
+
+http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
+
+http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
+
+http://bt.okmp3.ru:2710/announce
+
+http://chouchou.top:8080/announce
 
 http://fosstorrents.com:6969/announce
 
@@ -14,6 +28,10 @@ http://p2p.0g.cx:6969/announce
 
 http://parag.rs:6969/announce
 
+http://retracker.hotplug.ru:2710/announce
+
+http://share.camoe.cn:8080/announce
+
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
@@ -24,9 +42,17 @@ http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
 
+http://tracker.birkenwald.de:6969/announce
+
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.dler.com:6969/announce
+
+http://tracker.dler.org:6969/announce
+
 http://tracker.electro-torrent.pl:80/announce
+
+http://tracker.encrypted-data.xyz:1337/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -40,6 +66,12 @@ http://tracker.noobsubs.net:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.sakurato.art:23333/announce
+
+http://tracker.srv00.com:6969/announce
+
+http://tracker.swateam.org.uk:2710/announce
+
 http://tracker.vrpnet.org:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
@@ -51,8 +83,6 @@ http://trackme.theom.nz:80/announce
 http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -75,6 +105,8 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
+
+https://tracker.jiesen.life:8443/announce
 
 https://tracker.kuroy.me:443/announce
 
