@@ -42,6 +42,8 @@ http://tracker.noobsubs.net:80/announce
 
 http://trackme.theom.nz:80/announce
 
+http://v6-tracker.0g.cx:6969/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
@@ -49,6 +51,8 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://opentracker.i2p.rocks:443/announce
+
+https://t1.hloli.org:443/announce
 
 https://tr.abiir.top:443/announce
 
@@ -111,8 +115,6 @@ udp://exodus.desync.com:6969/announce
 udp://f1sh.de:6969/announce
 
 udp://fe.dealclub.de:6969/announce
-
-udp://freedom.1776.ga:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
