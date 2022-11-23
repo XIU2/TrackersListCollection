@@ -1,8 +1,8 @@
-http://107.189.10.20.sslip.io:7777/announce
-
 http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
+
+http://bz.tracker.bz:80/announce
 
 http://fxtt.ru:80/announce
 
@@ -112,11 +112,15 @@ udp://f1sh.de:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
+udp://freedom.1776.ga:6969/announce
+
 udp://htz3.noho.st:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://laze.cc:6969/announce
+
+udp://leefafa.tk:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
 
@@ -129,8 +133,6 @@ udp://movies.zsw.ca:6969/announce
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
@@ -199,6 +201,8 @@ udp://tracker.joybomb.tw:6969/announce
 udp://tracker.leech.ie:1337/announce
 
 udp://tracker.moeking.me:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.openbtba.com:6969/announce
 
