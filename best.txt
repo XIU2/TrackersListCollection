@@ -22,6 +22,8 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
@@ -41,6 +43,8 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.noobsubs.net:80/announce
 
 http://tracker.sakurato.art:23333/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -90,8 +94,6 @@ https://tracker1.520.jp:443/announce
 
 https://trackme.theom.nz:443/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://9.rarbg.com:2810/announce
 
 udp://94-227-232-84.access.telenet.be:6969/announce
@@ -109,6 +111,8 @@ udp://bt.ktrackers.com:6666/announce
 udp://cutscloud.duckdns.org:6969/announce
 
 udp://dht.bt251.com:6969/announce
+
+udp://epider.me:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
