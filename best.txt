@@ -6,6 +6,8 @@ http://bz.tracker.bz:80/announce
 
 http://fxtt.ru:80/announce
 
+http://incine.ru:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -17,8 +19,6 @@ http://parag.rs:6969/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -126,8 +126,6 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://laze.cc:6969/announce
 
-udp://leefafa.tk:6969/announce
-
 udp://mail.artixlinux.org:6969/announce
 
 udp://mirror.aptus.co.tz:6969/announce
@@ -151,8 +149,6 @@ udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
-
-udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
 
 udp://private.anonseed.com:6969/announce
 
@@ -231,6 +227,8 @@ udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://trackerb.jonaslsa.com:6969/announce
 
 udp://uploads.gamecoast.net:6969/announce
 

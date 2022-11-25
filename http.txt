@@ -18,8 +18,6 @@ http://chouchou.top:8080/announce
 
 http://fe.dealclub.de:6969/announce
 
-http://fosstorrents.com:6969/announce
-
 http://fxtt.ru:80/announce
 
 http://incine.ru:6969/announce
@@ -45,8 +43,6 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
-
-http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
 

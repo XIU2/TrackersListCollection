@@ -18,8 +18,6 @@ http://chouchou.top:8080/announce
 
 http://fe.dealclub.de:6969/announce
 
-http://fosstorrents.com:6969/announce
-
 http://fxtt.ru:80/announce
 
 http://incine.ru:6969/announce
@@ -45,8 +43,6 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
-
-http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -226,8 +222,6 @@ udp://kristof.bartanet.cz:6969/announce
 
 udp://laze.cc:6969/announce
 
-udp://leefafa.tk:6969/announce
-
 udp://mail.artixlinux.org:6969/announce
 
 udp://mail.zasaonsk.ga:6969/announce
@@ -382,6 +376,8 @@ udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
+udp://tracker1.itzmx.com:8080/announce
+
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
@@ -395,6 +391,8 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker6.lelux.fi:6969/announce
+
+udp://trackerb.jonaslsa.com:6969/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
