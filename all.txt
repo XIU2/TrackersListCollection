@@ -16,17 +16,17 @@ http://bz.tracker.bz:80/announce
 
 http://chouchou.top:8080/announce
 
-http://fe.dealclub.de:6969/announce
-
 http://fxtt.ru:80/announce
 
 http://incine.ru:6969/announce
+
+http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
+http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -38,11 +38,11 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
+
+http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -62,11 +62,13 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.mywaifu.best:6969/announce
+
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.novaopcj.eu.org:6969/announce
-
 http://tracker.opentrackr.org:1337/announce
+
+http://tracker.sakurato.art:23333/announce
 
 http://tracker.skyts.net:6969/announce
 
