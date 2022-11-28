@@ -186,6 +186,8 @@ udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://tr.cili001.com:8070/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
