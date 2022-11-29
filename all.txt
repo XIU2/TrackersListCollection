@@ -16,11 +16,17 @@ http://bz.tracker.bz:80/announce
 
 http://chouchou.top:8080/announce
 
+http://fe.dealclub.de:6969/announce
+
 http://fxtt.ru:80/announce
+
+http://incine.ru:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -28,13 +34,19 @@ http://p2p.0g.cx:6969/announce
 
 http://parag.rs:6969/announce
 
+http://retracker.hotplug.ru:2710/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
+
+http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -58,11 +70,9 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.novaopcj.eu.org:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
+
+http://tracker.sakurato.art:23333/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -70,7 +80,17 @@ http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
 
+http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
+
+http://tracker1.itzmx.com:8080/announce
+
 http://tracker2.dler.org:80/announce
+
+http://tracker3.itzmx.com:6961/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -98,8 +118,6 @@ https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-https://tr.fuckbitcoin.xyz:443/announce
-
 https://tracker.cyber-hub.net:443/announce
 
 https://tracker.foreverpirates.co:443/announce
@@ -126,6 +144,8 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
 
+https://tracker2.ctix.cn:443/announce
+
 https://trackme.theom.nz:443/announce
 
 udp://184.105.151.166:6969/announce
@@ -135,8 +155,6 @@ udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 
 udp://52.58.128.163:6969/announce
-
-udp://9.rarbg.com:2810/announce
 
 udp://91.216.110.52:451/announce
 
@@ -365,8 +383,6 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.yangxiaoguozi.cn:6969/announce
-
-udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 

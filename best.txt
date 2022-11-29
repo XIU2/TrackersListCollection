@@ -64,8 +64,6 @@ https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-https://tr.fuckbitcoin.xyz:443/announce
-
 https://tracker.cyber-hub.net:443/announce
 
 https://tracker.foreverpirates.co:443/announce
@@ -80,8 +78,6 @@ https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
-https://tracker.lilithraws.org:443/announce
-
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.m-team.cc:443/announce.php
@@ -93,8 +89,6 @@ https://tracker.tamersunion.org:443/announce
 https://tracker1.520.jp:443/announce
 
 https://trackme.theom.nz:443/announce
-
-udp://9.rarbg.com:2810/announce
 
 udp://94-227-232-84.access.telenet.be:6969/announce
 
@@ -163,6 +157,8 @@ udp://p4p.arenabg.com:1337/announce
 udp://private.anonseed.com:6969/announce
 
 udp://psyco.fr:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
 
