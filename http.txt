@@ -16,13 +16,21 @@ http://bz.tracker.bz:80/announce
 
 http://chouchou.top:8080/announce
 
+http://fe.dealclub.de:6969/announce
+
+http://fosstorrents.com:6969/announce
+
 http://fxtt.ru:80/announce
 
 http://incine.ru:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -60,9 +68,9 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://tracker.noobsubs.net:80/announce
+
+http://tracker.novaopcj.eu.org:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -73,6 +81,8 @@ http://tracker.skyts.net:6969/announce
 http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
+
+http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -116,8 +126,6 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-https://tracker.jiesen.life:8443/announce
-
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
@@ -133,5 +141,7 @@ https://tracker.nanoha.org:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
+
+https://tracker2.ctix.cn:443/announce
 
 https://trackme.theom.nz:443/announce
