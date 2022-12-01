@@ -40,6 +40,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.noobsubs.net:80/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.skyts.net:6969/announce
 
 http://trackme.theom.nz:80/announce
@@ -67,8 +69,6 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
-
-https://tracker.jiesen.life:8443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -221,6 +221,8 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.tcp.exchange:6969/announce
+
+udp://tracker.texoviva.com:9898/announce
 
 udp://tracker.theoks.net:6969/announce
 
