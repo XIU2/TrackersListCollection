@@ -40,8 +40,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 http://tracker.skyts.net:6969/announce
 
 http://trackme.theom.nz:80/announce
@@ -198,7 +196,7 @@ udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.encrypted-data.xyz:1337/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
