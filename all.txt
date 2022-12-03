@@ -16,17 +16,15 @@ http://bz.tracker.bz:80/announce
 
 http://chouchou.top:8080/announce
 
-http://fe.dealclub.de:6969/announce
-
 http://fosstorrents.com:6969/announce
 
 http://fxtt.ru:80/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -46,6 +44,8 @@ http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.cili001.com:8070/announce
+
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -55,8 +55,6 @@ http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
-
-http://tracker.encrypted-data.xyz:1337/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -76,7 +74,7 @@ http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
 
-http://tracker2.dler.org:80/announce
+http://tracker.zerobytes.xyz:1337/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -130,11 +128,7 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
 
-https://tracker2.ctix.cn:443/announce
-
 https://trackme.theom.nz:443/announce
-
-https://xtremex.herokuapp.com:443/announce
 
 udp://184.105.151.166:6969/announce
 
@@ -165,8 +159,6 @@ udp://aarsen.me:6969/announce
 udp://acxx.de:6969/announce
 
 udp://admin.52ywp.com:6969/announce
-
-udp://admin.videoenpoche.info:6969/announce
 
 udp://aegir.sexy:6969/announce
 
@@ -332,6 +324,8 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
+udp://tracker.encrypted-data.xyz:1337/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
@@ -343,6 +337,8 @@ udp://tracker.leech.ie:1337/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
+
+udp://tracker.novaopcj.eu.org:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
@@ -365,8 +361,6 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.tcp.exchange:6969/announce
-
-udp://tracker.texoviva.com:9898/announce
 
 udp://tracker.theoks.net:6969/announce
 
