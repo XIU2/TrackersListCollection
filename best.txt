@@ -74,6 +74,8 @@ https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
+https://tracker.lilithraws.org:443/announce
+
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.m-team.cc:443/announce.php
@@ -101,8 +103,6 @@ udp://bedro.cloud:6969/announce
 udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
-
-udp://bt2.archive.org:6969/announce
 
 udp://creative.7o7.cx:6969/announce
 
@@ -212,8 +212,6 @@ udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 udp://tracker.openbtba.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -244,11 +242,11 @@ udp://trackerb.jonaslsa.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
+udp://u6.trakx.crim.ist:1337/announce
+
 udp://uploads.gamecoast.net:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
-
-udp://v2.iperson.xyz:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
