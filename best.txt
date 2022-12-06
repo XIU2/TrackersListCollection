@@ -24,8 +24,6 @@ http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -233,8 +231,6 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
