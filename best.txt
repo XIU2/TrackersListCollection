@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://bz.tracker.bz:80/announce
 
 http://fxtt.ru:80/announce
@@ -25,6 +23,8 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
+
+http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -61,8 +61,6 @@ https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://tracker.crawfish.cf:443/announce
 
 https://tracker.cyber-hub.net:443/announce
 
