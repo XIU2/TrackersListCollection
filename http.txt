@@ -16,15 +16,17 @@ http://bz.tracker.bz:80/announce
 
 http://chouchou.top:8080/announce
 
+http://fe.dealclub.de:6969/announce
+
 http://fxtt.ru:80/announce
 
 http://incine.ru:6969/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -44,6 +46,8 @@ http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.cili001.com:8070/announce
+
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -53,8 +57,6 @@ http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
-
-http://tracker.encrypted-data.xyz:1337/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -78,13 +80,9 @@ http://tracker.swateam.org.uk:2710/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker1.itzmx.com:8080/announce
+http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
-
-http://tracker3.itzmx.com:6961/announce
-
-http://tracker4.itzmx.com:2710/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -111,6 +109,8 @@ https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
+
+https://tracker.crawfish.cf:443/announce
 
 https://tracker.cyber-hub.net:443/announce
 
