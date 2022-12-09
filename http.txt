@@ -28,6 +28,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
@@ -66,8 +68,6 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.novaopcj.eu.org:6969/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.servequake.com:9999/announce
@@ -79,6 +79,8 @@ http://tracker.srv00.com:6969/announce
 http://tracker.swateam.org.uk:2710/announce
 
 http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -95,6 +97,8 @@ http://vps02.net.orel.ru:80/announce
 http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
+
+http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
 
