@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://bz.tracker.bz:80/announce
 
 http://fxtt.ru:80/announce
@@ -10,6 +8,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://p2p.0g.cx:6969/announce
 
 http://parag.rs:6969/announce
@@ -17,8 +17,6 @@ http://parag.rs:6969/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -107,8 +105,6 @@ udp://epider.me:6969/announce
 udp://exodus.desync.com:6969/announce
 
 udp://f1sh.de:6969/announce
-
-udp://fe.dealclub.de:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
