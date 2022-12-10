@@ -20,8 +20,6 @@ http://fxtt.ru:80/announce
 
 http://incine.ru:6969/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
@@ -29,8 +27,6 @@ http://open-v6.demonoid.ch:6969/announce
 http://open.acgnxtracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
-
-http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -41,6 +37,8 @@ http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -76,15 +74,11 @@ http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
 
-http://tracker.zerobytes.xyz:1337/announce
-
 http://tracker2.dler.org:80/announce
 
 http://trackme.theom.nz:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
-
-http://vps-dd0a0715.vps.ovh.net:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -137,8 +131,6 @@ https://tracker.nanoha.org:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
-
-https://tracker2.ctix.cn:443/announce
 
 https://trackme.theom.nz:443/announce
 
@@ -209,6 +201,8 @@ udp://f1sh.de:6969/announce
 udp://fe.dealclub.de:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
+
+udp://free.publictracker.xyz:6969/announce
 
 udp://freedom.1776.ga:6969/announce
 
