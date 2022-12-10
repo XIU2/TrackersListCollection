@@ -72,8 +72,6 @@ https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
-https://tracker.lilithraws.org:443/announce
-
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.m-team.cc:443/announce.php
@@ -99,8 +97,6 @@ udp://aegir.sexy:6969/announce
 udp://bedro.cloud:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
-
-udp://bt1.archive.org:6969/announce
 
 udp://creative.7o7.cx:6969/announce
 
@@ -210,6 +206,8 @@ udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
+udp://tracker.openbittorrent.com:6969/announce
+
 udp://tracker.openbtba.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -231,6 +229,8 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
