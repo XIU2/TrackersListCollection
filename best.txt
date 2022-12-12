@@ -22,13 +22,9 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
-
-http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -101,8 +97,6 @@ udp://aegir.sexy:6969/announce
 udp://bedro.cloud:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
-
-udp://bt1.archive.org:6969/announce
 
 udp://creative.7o7.cx:6969/announce
 
@@ -209,6 +203,8 @@ udp://tracker.leech.ie:1337/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.openbtba.com:6969/announce
 
