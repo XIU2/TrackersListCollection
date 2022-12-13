@@ -28,6 +28,8 @@ http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.cili001.com:8070/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
@@ -39,6 +41,8 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.servequake.com:9999/announce
 
 http://tracker.skyts.net:6969/announce
+
+http://tracker.yoshi210.com:6969/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -71,8 +75,6 @@ https://tracker.imgoingto.icu:443/announce
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
-
-https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
@@ -152,6 +154,8 @@ udp://private.anonseed.com:6969/announce
 
 udp://psyco.fr:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://rep-art.ynh.fr:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -205,8 +209,6 @@ udp://tracker.leech.ie:1337/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
-
-udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.openbtba.com:6969/announce
 
