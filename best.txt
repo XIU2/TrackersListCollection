@@ -80,6 +80,8 @@ https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
+https://tracker.lilithraws.org:443/announce
+
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.m-team.cc:443/announce.php
@@ -186,6 +188,8 @@ udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://tr.cili001.com:8070/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
@@ -203,8 +207,6 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
