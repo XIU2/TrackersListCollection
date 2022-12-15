@@ -16,13 +16,11 @@ http://bz.tracker.bz:80/announce
 
 http://chouchou.top:8080/announce
 
-http://fe.dealclub.de:6969/announce
+http://fosstorrents.com:6969/announce
 
 http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
-
-http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -59,6 +57,8 @@ http://tracker.computel.fr:80/announce
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
+
+http://tracker.edkj.club:6969/announce
 
 http://tracker.files.fm:6969/announce
 

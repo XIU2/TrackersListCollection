@@ -41,7 +41,7 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 
 ****
 
-### 更新时间: 2022-12-14
+### 更新时间: 2022-12-15
 
 - **精选列表：**(132 个)  
  _**[https://trackerslist.../best.txt](https://jsd.cdn.zzko.cn/gh/XIU2/TrackersListCollection/best.txt)**_  
