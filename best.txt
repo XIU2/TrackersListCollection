@@ -28,8 +28,6 @@ http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.computel.fr:80/announce
@@ -40,13 +38,9 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://tracker.servequake.com:9999/announce
 
 http://tracker.skyts.net:6969/announce
-
-http://tracker.yoshi210.com:6969/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -79,8 +73,6 @@ https://tracker.imgoingto.icu:443/announce
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
-
-https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
@@ -119,6 +111,8 @@ udp://epider.me:6969/announce
 udp://exodus.desync.com:6969/announce
 
 udp://f1sh.de:6969/announce
+
+udp://fe.dealclub.de:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
@@ -204,17 +198,19 @@ udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.jonaslsa.com:6969/announce
 
 udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
+udp://tracker.lelux.fi:6969/announce
+
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.openbtba.com:6969/announce
 
@@ -239,6 +235,8 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://trackerb.jonaslsa.com:6969/announce
 

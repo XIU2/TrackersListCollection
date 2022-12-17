@@ -16,6 +16,8 @@ http://bz.tracker.bz:80/announce
 
 http://chouchou.top:8080/announce
 
+http://fe.dealclub.de:6969/announce
+
 http://fosstorrents.com:6969/announce
 
 http://fxtt.ru:80/announce
@@ -40,8 +42,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
@@ -59,6 +59,8 @@ http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
+
+http://tracker.fansub.id:80/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -81,6 +83,8 @@ http://tracker.srv00.com:6969/announce
 http://tracker.swateam.org.uk:2710/announce
 
 http://tracker.yoshi210.com:6969/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
