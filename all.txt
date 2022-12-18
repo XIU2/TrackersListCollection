@@ -16,7 +16,7 @@ http://bz.tracker.bz:80/announce
 
 http://chouchou.top:8080/announce
 
-http://fosstorrents.com:6969/announce
+http://fe.dealclub.de:6969/announce
 
 http://fxtt.ru:80/announce
 
@@ -77,8 +77,6 @@ http://tracker.servequake.com:9999/announce
 http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
-
-http://tracker.yoshi210.com:6969/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -268,6 +266,8 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://qtstm32fan.ru:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
@@ -317,6 +317,8 @@ udp://tracker.altrosky.nl:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
+
+udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
