@@ -12,6 +12,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://p2p.0g.cx:6969/announce
 
 http://parag.rs:6969/announce
@@ -19,6 +21,8 @@ http://parag.rs:6969/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -62,8 +66,6 @@ https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-https://tracker.cangku.moe:443/announce
-
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
@@ -90,8 +92,6 @@ https://trackme.theom.nz:443/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://94-227-232-84.access.telenet.be:6969/announce
-
 udp://aarsen.me:6969/announce
 
 udp://acxx.de:6969/announce
@@ -113,6 +113,8 @@ udp://epider.me:6969/announce
 udp://exodus.desync.com:6969/announce
 
 udp://f1sh.de:6969/announce
+
+udp://free.publictracker.xyz:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
