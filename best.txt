@@ -12,8 +12,6 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://p2p.0g.cx:6969/announce
 
 http://parag.rs:6969/announce
@@ -21,8 +19,6 @@ http://parag.rs:6969/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -40,11 +36,7 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://tracker.servequake.com:9999/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -136,6 +128,8 @@ udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
+udp://new-line.net:6969/announce
+
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
@@ -156,6 +150,8 @@ udp://private.anonseed.com:6969/announce
 
 udp://psyco.fr:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://rep-art.ynh.fr:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -165,8 +161,6 @@ udp://sanincode.com:6969/announce
 udp://slicie.icon256.com:8000/announce
 
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
-
-udp://sx.xxtor.com:6969/announce
 
 udp://t.133335.xyz:6969/announce
 
@@ -199,6 +193,8 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
@@ -249,8 +245,6 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-udp://zecircle.xyz:6969/announce
 
 ws://hub.bugout.link:80/announce
 
