@@ -38,15 +38,11 @@ http://p2p.0g.cx:6969/announce
 
 http://parag.rs:6969/announce
 
-http://retracker.hotplug.ru:2710/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
-
-http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -83,8 +79,6 @@ http://tracker.servequake.com:9999/announce
 http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -194,8 +188,6 @@ udp://concen.org:6969/announce
 
 udp://creative.7o7.cx:6969/announce
 
-udp://cutscloud.duckdns.org:6969/announce
-
 udp://dht.bt251.com:6969/announce
 
 udp://epider.me:6969/announce
@@ -290,8 +282,6 @@ udp://thagoat.rocks:6969/announce
 
 udp://themaninashed.com:6969/announce
 
-udp://thinking.duckdns.org:6969/announce
-
 udp://thouvenin.cloud:6969/announce
 
 udp://torrentclub.space:6969/announce
@@ -311,6 +301,8 @@ udp://tracker.altrosky.nl:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
+
+udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
