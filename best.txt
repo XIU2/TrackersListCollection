@@ -20,11 +20,11 @@ http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
-http://parag.rs:6969/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -51,6 +51,8 @@ http://trackme.theom.nz:80/announce
 http://v6-tracker.0g.cx:6969/announce
 
 http://www.all4nothin.net:80/announce.php
+
+http://www.nartlof.com.br:6969/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -98,11 +100,11 @@ udp://acxx.de:6969/announce
 
 udp://aegir.sexy:6969/announce
 
+udp://astrr.ru:6969/announce
+
 udp://bedro.cloud:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
-
-udp://bt2.archive.org:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
 
@@ -196,6 +198,8 @@ udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.jonaslsa.com:6969/announce
 
 udp://tracker.joybomb.tw:6969/announce
@@ -205,6 +209,8 @@ udp://tracker.leech.ie:1337/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.openbtba.com:6969/announce
 
