@@ -22,8 +22,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
@@ -43,6 +41,8 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 
 http://tracker.servequake.com:9999/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -103,6 +103,8 @@ udp://astrr.ru:6969/announce
 udp://bedro.cloud:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
+
+udp://creative.7o7.cx:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
 
