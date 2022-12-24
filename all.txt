@@ -2,19 +2,11 @@ http://107.189.10.20.sslip.io:7777/announce
 
 http://1337.abcvg.info:80/announce
 
-http://207.241.226.111:6969/announce
-
-http://207.241.231.226:6969/announce
-
-http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
-
-http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://bz.tracker.bz:80/announce
 
-http://chouchou.top:8080/announce
+http://fosstorrents.com:6969/announce
 
 http://fxtt.ru:80/announce
 
@@ -24,35 +16,25 @@ http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://p2p.0g.cx:6969/announce
 
-http://retracker.hotplug.ru:2710/announce
-
-http://share.camoe.cn:8080/announce
-
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tracker.birkenwald.de:6969/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.computel.fr:80/announce
-
-http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -68,15 +50,11 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.lelux.fi:80/announce
 
+http://tracker.mywaifu.best:6969/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.servequake.com:9999/announce
-
-http://tracker.skyts.net:6969/announce
-
-http://tracker.srv00.com:6969/announce
-
-http://tracker.swateam.org.uk:2710/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -140,27 +118,7 @@ https://tracker1.520.jp:443/announce
 
 https://trackme.theom.nz:443/announce
 
-udp://184.105.151.166:6969/announce
-
-udp://207.241.226.111:6969/announce
-
-udp://207.241.231.226:6969/announce
-
-udp://52.58.128.163:6969/announce
-
 udp://9.rarbg.com:2810/announce
-
-udp://91.216.110.52:451/announce
-
-udp://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
-
-udp://[2001:470:1:189:0:1:2:3]:6969/announce
-
-udp://[2a03:7220:8083:cd00::1]:451/announce
-
-udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
-
-udp://[2a0f:e586:f:f::81]:6969/announce
 
 udp://aarsen.me:6969/announce
 
@@ -199,8 +157,6 @@ udp://epider.me:6969/announce
 udp://exodus.desync.com:6969/announce
 
 udp://f1sh.de:6969/announce
-
-udp://fe.dealclub.de:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
 
@@ -270,8 +226,6 @@ udp://rep-art.ynh.fr:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://retracker.lanta-net.ru:2710/announce
-
 udp://run.publictracker.xyz:6969/announce
 
 udp://sanincode.com:6969/announce
@@ -312,6 +266,8 @@ udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
 
+udp://tracker.beeimg.com:6969/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
@@ -338,6 +294,8 @@ udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
+udp://tracker.openbittorrent.com:6969/announce
+
 udp://tracker.openbtba.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -359,8 +317,6 @@ udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.tcp.exchange:6969/announce
 
 udp://tracker.theoks.net:6969/announce
-
-udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
