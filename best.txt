@@ -30,8 +30,6 @@ http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.computel.fr:80/announce
@@ -43,6 +41,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
+
+http://tracker.mywaifu.best:6969/announce
 
 http://tracker.servequake.com:9999/announce
 
@@ -119,8 +119,6 @@ udp://f1sh.de:6969/announce
 udp://free.publictracker.xyz:6969/announce
 
 udp://htz3.noho.st:6969/announce
-
-udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
@@ -200,8 +198,6 @@ udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.jonaslsa.com:6969/announce
 
 udp://tracker.joybomb.tw:6969/announce
@@ -211,8 +207,6 @@ udp://tracker.leech.ie:1337/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
-
-udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.openbtba.com:6969/announce
 
@@ -227,8 +221,6 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
-
-udp://tracker.tcp.exchange:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -251,6 +243,8 @@ udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://zecircle.xyz:6969/announce
 
 ws://hub.bugout.link:80/announce
 
