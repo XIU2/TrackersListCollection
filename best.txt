@@ -2,6 +2,8 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://bt1.letpo.com:80/announce
+
 http://bz.tracker.bz:80/announce
 
 http://fxtt.ru:80/announce
@@ -28,6 +30,8 @@ http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.cili001.com:8070/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.computel.fr:80/announce
@@ -40,9 +44,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://tracker.servequake.com:9999/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://trackme.theom.nz:80/announce
 
