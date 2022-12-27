@@ -18,8 +18,6 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
@@ -82,11 +80,15 @@ https://tracker.loligirl.cn:443/announce
 
 https://tracker.m-team.cc:443/announce.php
 
+https://tracker.mlsub.net:443/announce
+
 https://tracker.nanoha.org:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
+
+https://trackers.mlsub.net:443/announce
 
 https://trackme.theom.nz:443/announce
 
@@ -155,8 +157,6 @@ udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
-
-udp://retracker.hotplug.ru:2710/announce
 
 udp://sanincode.com:6969/announce
 
