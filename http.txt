@@ -12,15 +12,9 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://bt1.letpo.com:80/announce
-
 http://bz.tracker.bz:80/announce
 
 http://chouchou.top:8080/announce
-
-http://fe.dealclub.de:6969/announce
-
-http://fosstorrents.com:6969/announce
 
 http://fxtt.ru:80/announce
 
@@ -30,15 +24,13 @@ http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
+http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -47,6 +39,8 @@ http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -79,6 +73,8 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.servequake.com:9999/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.srv00.com:6969/announce
 
