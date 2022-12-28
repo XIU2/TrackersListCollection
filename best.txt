@@ -24,9 +24,13 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
+
+http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -39,6 +43,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.servequake.com:9999/announce
 
@@ -88,9 +94,13 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
 
+https://tracker2.ctix.cn:443/announce
+
 https://trackers.mlsub.net:443/announce
 
 https://trackme.theom.nz:443/announce
+
+udp://9.rarbg.com:2810/announce
 
 udp://aarsen.me:6969/announce
 
@@ -103,6 +113,8 @@ udp://astrr.ru:6969/announce
 udp://bedro.cloud:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
+
+udp://bt2.archive.org:6969/announce
 
 udp://creative.7o7.cx:6969/announce
 
@@ -143,6 +155,8 @@ udp://open.dstud.io:6969/announce
 udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
