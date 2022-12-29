@@ -1,5 +1,7 @@
 http://1337.abcvg.info:80/announce
 
+http://147job.com:6969/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://bt1.letpo.com:80/announce
@@ -24,10 +26,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.nyaatracker.com:80/announce
-
-http://t.overflow.biz:6969/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -45,8 +43,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 
 http://tracker.servequake.com:9999/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://trackme.theom.nz:80/announce
 
