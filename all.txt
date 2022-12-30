@@ -16,7 +16,7 @@ http://bt1.letpo.com:80/announce
 
 http://chouchou.top:8080/announce
 
-http://fe.dealclub.de:6969/announce
+http://fosstorrents.com:6969/announce
 
 http://fxtt.ru:80/announce
 
@@ -25,8 +25,6 @@ http://i-p-v-6.tk:6969/announce
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
-
-http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -80,8 +78,6 @@ http://tracker.servequake.com:9999/announce
 
 http://tracker.srv00.com:6969/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker2.dler.org:80/announce
 
 http://trackme.theom.nz:80/announce
@@ -105,6 +101,8 @@ https://opentracker.i2p.rocks:443/announce
 https://t1.hloli.org:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -207,8 +205,6 @@ udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
-
-udp://freedom.1776.ga:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
@@ -357,8 +353,6 @@ udp://tracker.tcp.exchange:6969/announce
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
-
-udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.yangxiaoguozi.cn:6969/announce
 
