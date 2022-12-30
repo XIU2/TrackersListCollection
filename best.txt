@@ -1,10 +1,6 @@
 http://1337.abcvg.info:80/announce
 
-http://147job.com:6969/announce
-
 http://bt.okmp3.ru:2710/announce
-
-http://bt1.letpo.com:80/announce
 
 http://fxtt.ru:80/announce
 
@@ -29,6 +25,8 @@ http://t.acg.rip:6699/announce
 http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
+
+http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -91,6 +89,8 @@ https://tracker.nanoha.org:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
+
+https://tracker2.ctix.cn:443/announce
 
 https://trackers.mlsub.net:443/announce
 
