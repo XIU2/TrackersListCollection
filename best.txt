@@ -4,8 +4,6 @@ http://bt.okmp3.ru:2710/announce
 
 http://fxtt.ru:80/announce
 
-http://i-p-v-6.tk:6969/announce
-
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
@@ -16,13 +14,13 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -41,8 +39,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 
 http://tracker.servequake.com:9999/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -138,8 +134,6 @@ udp://movies.zsw.ca:6969/announce
 
 udp://new-line.net:6969/announce
 
-udp://open.4ever.tk:6969/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
@@ -184,8 +178,6 @@ udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -204,8 +196,6 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.jonaslsa.com:6969/announce
 
 udp://tracker.joybomb.tw:6969/announce
@@ -215,6 +205,8 @@ udp://tracker.leech.ie:1337/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.openbtba.com:6969/announce
 
@@ -235,6 +227,8 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
