@@ -42,6 +42,8 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.servequake.com:9999/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://trackme.theom.nz:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
@@ -88,6 +90,8 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
 
+https://tracker2.ctix.cn:443/announce
+
 https://trackers.mlsub.net:443/announce
 
 https://trackme.theom.nz:443/announce
@@ -105,8 +109,6 @@ udp://astrr.ru:6969/announce
 udp://bedro.cloud:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
-
-udp://cutscloud.duckdns.org:6969/announce
 
 udp://dht.bt251.com:6969/announce
 
