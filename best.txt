@@ -4,6 +4,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://fxtt.ru:80/announce
 
+http://i-p-v-6.tk:6969/announce
+
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
@@ -110,8 +112,6 @@ udp://dht.bt251.com:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://f1sh.de:6969/announce
-
 udp://free.publictracker.xyz:6969/announce
 
 udp://htz3.noho.st:6969/announce
@@ -133,6 +133,8 @@ udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
 
 udp://new-line.net:6969/announce
+
+udp://open.4ever.tk:6969/announce
 
 udp://open.demonii.com:1337/announce
 
