@@ -32,7 +32,7 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
+http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -79,8 +79,6 @@ http://tracker.servequake.com:9999/announce
 http://tracker.skyts.net:6969/announce
 
 http://tracker.srv00.com:6969/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -194,6 +192,8 @@ udp://concen.org:6969/announce
 
 udp://creative.7o7.cx:6969/announce
 
+udp://cutscloud.duckdns.org:6969/announce
+
 udp://dht.bt251.com:6969/announce
 
 udp://epider.me:6969/announce
@@ -211,8 +211,6 @@ udp://htz3.noho.st:6969/announce
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
-
-udp://jutone.com:6969/announce
 
 udp://laze.cc:6969/announce
 
