@@ -12,11 +12,11 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://bt1.letpo.com:80/announce
-
 http://chouchou.top:8080/announce
 
 http://fe.dealclub.de:6969/announce
+
+http://fosstorrents.com:6969/announce
 
 http://fxtt.ru:80/announce
 
@@ -26,15 +26,13 @@ http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
+http://open.acgtracker.com:1096/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -47,6 +45,8 @@ http://t.acg.rip:6699/announce
 http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
+
+http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -79,6 +79,8 @@ http://tracker.servequake.com:9999/announce
 http://tracker.skyts.net:6969/announce
 
 http://tracker.srv00.com:6969/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -192,15 +194,11 @@ udp://concen.org:6969/announce
 
 udp://creative.7o7.cx:6969/announce
 
-udp://cutscloud.duckdns.org:6969/announce
-
 udp://dht.bt251.com:6969/announce
 
 udp://epider.me:6969/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://f1sh.de:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
