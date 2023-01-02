@@ -16,6 +16,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
@@ -25,6 +27,8 @@ http://t.acg.rip:6699/announce
 http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
+
+http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -39,6 +43,8 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 
 http://tracker.servequake.com:9999/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -68,8 +74,6 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-https://tracker.jiesen.life:8443/announce
-
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
@@ -80,8 +84,6 @@ https://tracker.loligirl.cn:443/announce
 
 https://tracker.m-team.cc:443/announce.php
 
-https://tracker.mlsub.net:443/announce
-
 https://tracker.moeblog.cn:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -90,7 +92,7 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
 
-https://trackers.mlsub.net:443/announce
+https://tracker2.ctix.cn:443/announce
 
 https://trackme.theom.nz:443/announce
 
