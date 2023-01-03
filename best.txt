@@ -18,15 +18,17 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://torrentsmd.com:8080/announce
+http://t.nyaatracker.com:80/announce
 
-http://tr.cili001.com:8070/announce
+http://torrentsmd.com:8080/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -41,8 +43,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.servequake.com:9999/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -107,8 +107,6 @@ udp://acxx.de:6969/announce
 udp://aegir.sexy:6969/announce
 
 udp://astrr.ru:6969/announce
-
-udp://bedro.cloud:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -226,8 +224,6 @@ udp://tracker.pomf.se:80/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
@@ -251,6 +247,8 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://uploads.gamecoast.net:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
+
+udp://v2.iperson.xyz:6969/announce
 
 udp://wepzone.net:6969/announce
 
