@@ -18,15 +18,11 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -235,6 +231,8 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
+
+udp://tracker.tcp.exchange:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
