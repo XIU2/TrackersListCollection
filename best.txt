@@ -10,6 +10,8 @@ http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
+http://montreal.nyap2p.com:8080/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
@@ -28,6 +30,8 @@ http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.cili001.com:8070/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.computel.fr:80/announce
@@ -40,9 +44,13 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
+http://tracker.mywaifu.best:6969/announce
+
 http://tracker.servequake.com:9999/announce
 
 http://tracker.skyts.net:6969/announce
+
+http://tracker2.dler.org:80/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -71,8 +79,6 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
-
-https://tracker.jiesen.life:8443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -110,6 +116,8 @@ udp://bedro.cloud:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
+udp://bt2.archive.org:6969/announce
+
 udp://cutscloud.duckdns.org:6969/announce
 
 udp://dht.bt251.com:6969/announce
@@ -119,8 +127,6 @@ udp://exodus.desync.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 
 udp://htz3.noho.st:6969/announce
-
-udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
@@ -192,6 +198,8 @@ udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
 
+udp://tracker.beeimg.com:6969/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
@@ -199,8 +207,6 @@ udp://tracker.bitsearch.to:1337/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
@@ -213,8 +219,6 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
-
-udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.openbtba.com:6969/announce
 
@@ -237,8 +241,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
