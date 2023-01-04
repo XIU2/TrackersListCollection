@@ -22,15 +22,11 @@ http://i-p-v-6.tk:6969/announce
 
 http://incine.ru:6969/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
-
-http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -40,8 +36,6 @@ http://open.acgnxtracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
 
-http://open.tracker.ink:6969/announce
-
 http://p2p.0g.cx:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -49,6 +43,8 @@ http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -85,8 +81,6 @@ http://tracker.skyts.net:6969/announce
 http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -214,8 +208,6 @@ udp://freedom.1776.ga:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
-
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://laze.cc:6969/announce
@@ -263,6 +255,8 @@ udp://psyco.fr:6969/announce
 udp://public-tracker.ml:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
 
