@@ -18,6 +18,8 @@ http://dn42.smrsh.net:6969/announce
 
 http://fe.dealclub.de:6969/announce
 
+http://fosstorrents.com:6969/announce
+
 http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
@@ -29,6 +31,8 @@ http://ipv6.1337.cx:6969/announce
 http://ipv6.govt.hu:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
+
+http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -50,9 +54,13 @@ http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.cili001.com:8070/announce
+
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.computel.fr:80/announce
 
 http://tracker.dler.com:6969/announce
 
@@ -74,11 +82,15 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.qu.ax:6969/announce
+
 http://tracker.skyts.net:6969/announce
 
 http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -134,9 +146,9 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
-https://tracker1.520.jp:443/announce
+https://tracker.tvgc.win:443/announce
 
-https://tracker2.ctix.cn:443/announce
+https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
 
@@ -149,6 +161,8 @@ udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 
 udp://52.58.128.163:6969/announce
+
+udp://9.rarbg.com:2810/announce
 
 udp://91.216.110.52:451/announce
 
@@ -208,6 +222,8 @@ udp://freedom.1776.ga:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
+udp://ipv4.tracker.harry.lu:80/announce
+
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://laze.cc:6969/announce
@@ -238,8 +254,6 @@ udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
@@ -255,8 +269,6 @@ udp://psyco.fr:6969/announce
 udp://public-tracker.ml:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
 
@@ -333,8 +345,6 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
-
-udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.openbtba.com:6969/announce
 
