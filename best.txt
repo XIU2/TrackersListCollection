@@ -28,13 +28,11 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://torrentsmd.com:8080/announce
 
-http://tracker.bt4g.com:2095/announce
+http://tr.cili001.com:8070/announce
 
-http://tracker.dler.org:6969/announce
+http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -43,8 +41,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
-
-http://tracker.mywaifu.best:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -128,8 +124,6 @@ udp://free.publictracker.xyz:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
-
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://laze.cc:6969/announce
@@ -188,6 +182,8 @@ udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://tr.cili001.com:8070/announce
+
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -205,6 +201,8 @@ udp://tracker.bitsearch.to:1337/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
@@ -240,6 +238,8 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
+udp://tracker2.dler.org:80/announce
+
 udp://trackerb.jonaslsa.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
@@ -252,11 +252,7 @@ udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://wepzone.net:6969/announce
 
-udp://www.peckservers.com:9000/announce
-
 udp://www.torrent.eu.org:451/announce
-
-udp://zecircle.xyz:6969/announce
 
 ws://hub.bugout.link:80/announce
 
