@@ -28,7 +28,11 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://torrentsmd.com:8080/announce
+
+http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -39,6 +43,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
+
+http://tracker.letpo.com:80/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -90,11 +96,7 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
-https://tracker.tvgc.win:443/announce
-
 https://tracker1.520.jp:443/announce
-
-https://tracker2.ctix.cn:443/announce
 
 https://trackers.mlsub.net:443/announce
 
@@ -127,8 +129,6 @@ udp://htz3.noho.st:6969/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://laze.cc:6969/announce
-
-udp://leet-tracker.moe:1337/announce
 
 udp://mail.artixlinux.org:6969/announce
 
