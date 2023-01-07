@@ -30,8 +30,6 @@ http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
@@ -86,8 +84,6 @@ https://tracker.loligirl.cn:443/announce
 
 https://tracker.m-team.cc:443/announce.php
 
-https://tracker.mlsub.net:443/announce
-
 https://tracker.moeblog.cn:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -124,6 +120,8 @@ udp://free.publictracker.xyz:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
+udp://ipv6.69.mu:6969/announce
+
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://laze.cc:6969/announce
@@ -143,6 +141,8 @@ udp://open.4ever.tk:6969/announce
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
@@ -195,8 +195,6 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
-
-udp://tracker.dler.com:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
