@@ -1,5 +1,7 @@
 http://1337.abcvg.info:80/announce
 
+http://504e163a.host.njalla.net:6969/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://dn42.smrsh.net:6969/announce
@@ -29,6 +31,8 @@ http://t.acg.rip:6699/announce
 http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
+
+http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -84,6 +88,8 @@ https://tracker.loligirl.cn:443/announce
 
 https://tracker.m-team.cc:443/announce.php
 
+https://tracker.mlsub.net:443/announce
+
 https://tracker.moeblog.cn:443/announce
 
 https://tracker.nanoha.org:443/announce
@@ -109,8 +115,6 @@ udp://astrr.ru:6969/announce
 udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
-
-udp://cutscloud.duckdns.org:6969/announce
 
 udp://dht.bt251.com:6969/announce
 
@@ -235,8 +239,6 @@ udp://tracker2.dler.com:80/announce
 udp://trackerb.jonaslsa.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
-
-udp://u6.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
