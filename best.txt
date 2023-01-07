@@ -12,8 +12,6 @@ http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
-http://montreal.nyap2p.com:8080/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
@@ -146,8 +144,6 @@ udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://open.free-tracker.ga:6969/announce
-
 udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
@@ -184,8 +180,6 @@ udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
-udp://tr.cili001.com:8070/announce
-
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -203,8 +197,6 @@ udp://tracker.bitsearch.to:1337/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
@@ -230,6 +222,8 @@ udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
+udp://tracker.swateam.org.uk:2710/announce
+
 udp://tracker.tcp.exchange:6969/announce
 
 udp://tracker.theoks.net:6969/announce
@@ -239,8 +233,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://trackerb.jonaslsa.com:6969/announce
 
@@ -252,9 +244,13 @@ udp://uploads.gamecoast.net:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
+udp://v2.iperson.xyz:6969/announce
+
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://zecircle.xyz:6969/announce
 
 ws://hub.bugout.link:80/announce
 

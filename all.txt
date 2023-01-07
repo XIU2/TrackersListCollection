@@ -20,8 +20,6 @@ http://dn42.smrsh.net:6969/announce
 
 http://fe.dealclub.de:6969/announce
 
-http://fosstorrents.com:6969/announce
-
 http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
@@ -31,8 +29,6 @@ http://incine.ru:6969/announce
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
-
-http://montreal.nyap2p.com:8080/announce
 
 http://movies.zsw.ca:6969/announce
 
@@ -54,6 +50,8 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -63,10 +61,6 @@ http://tracker.birkenwald.de:6969/announce
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.computel.fr:80/announce
-
-http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -206,8 +200,6 @@ udp://concen.org:6969/announce
 
 udp://creative.7o7.cx:6969/announce
 
-udp://cutscloud.duckdns.org:6969/announce
-
 udp://dht.bt251.com:6969/announce
 
 udp://epider.me:6969/announce
@@ -232,11 +224,7 @@ udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://laze.cc:6969/announce
 
-udp://leet-tracker.moe:1337/announce
-
 udp://mail.artixlinux.org:6969/announce
-
-udp://mail.zasaonsk.ga:6969/announce
 
 udp://mirror.aptus.co.tz:6969/announce
 
@@ -308,6 +296,8 @@ udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://tr.bangumi.moe:6969/announce
+
 udp://tr.cili001.com:8070/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -373,8 +363,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.yangxiaoguozi.cn:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
