@@ -14,12 +14,6 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://cn.pcfreetime.com:6969/announce
-
-http://fe.dealclub.de:6969/announce
-
-http://fxtt.ru:80/announce
-
 http://i-p-v-6.tk:6969/announce
 
 http://incine.ru:6969/announce
@@ -28,8 +22,6 @@ http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
@@ -37,6 +29,8 @@ http://open-v6.demonoid.ch:6969/announce
 http://open.acgnxtracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
+
+http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -50,8 +44,6 @@ http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -61,6 +53,8 @@ http://tracker.computel.fr:80/announce
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
+
+http://tracker.edkj.club:6969/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -79,6 +73,8 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
+
+http://tracker.sakurato.art:23333/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -141,6 +137,8 @@ https://tracker.nanoha.org:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
+
+https://tracker2.ctix.cn:443/announce
 
 https://trackers.mlsub.net:443/announce
 
@@ -312,8 +310,6 @@ udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
 
-udp://tracker.beeimg.com:6969/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
@@ -377,8 +373,6 @@ udp://tracker2.dler.org:80/announce
 udp://trackerb.jonaslsa.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
-
-udp://u6.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
