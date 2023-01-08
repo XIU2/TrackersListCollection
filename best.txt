@@ -4,8 +4,6 @@ http://504e163a.host.njalla.net:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://dn42.smrsh.net:6969/announce
-
 http://fxtt.ru:80/announce
 
 http://i-p-v-6.tk:6969/announce
@@ -20,15 +18,11 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
