@@ -16,11 +16,15 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -41,8 +45,6 @@ http://tracker.skyts.net:6969/announce
 http://trackme.theom.nz:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
-
-http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -132,8 +134,6 @@ udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://new-line.net:6969/announce
-
 udp://open.4ever.tk:6969/announce
 
 udp://open.demonii.com:1337/announce
@@ -157,6 +157,8 @@ udp://p4p.arenabg.com:1337/announce
 udp://private.anonseed.com:6969/announce
 
 udp://psyco.fr:6969/announce
+
+udp://public-tracker.ml:6969/announce
 
 udp://public.tracker.vraphim.com:6969/announce
 
@@ -239,6 +241,8 @@ udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
 
 udp://wepzone.net:6969/announce
+
+udp://zecircle.xyz:6969/announce
 
 ws://hub.bugout.link:80/announce
 
