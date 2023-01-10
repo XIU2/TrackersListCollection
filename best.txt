@@ -16,15 +16,11 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -105,6 +101,8 @@ udp://aegir.sexy:6969/announce
 udp://astrr.ru:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
+
+udp://bt1.archive.org:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
 
@@ -229,6 +227,8 @@ udp://uploads.gamecoast.net:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://wepzone.net:6969/announce
+
+udp://www.peckservers.com:9000/announce
 
 udp://zecircle.xyz:6969/announce
 
