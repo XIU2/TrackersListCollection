@@ -22,6 +22,8 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -37,6 +39,8 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 
 http://tracker.letpo.com:80/announce
+
+http://tracker.mywaifu.best:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -154,8 +158,6 @@ udp://private.anonseed.com:6969/announce
 
 udp://psyco.fr:6969/announce
 
-udp://public-tracker.ml:6969/announce
-
 udp://rep-art.ynh.fr:6969/announce
 
 udp://sanincode.com:6969/announce
@@ -172,6 +174,8 @@ udp://torrentclub.space:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://tr.cili001.com:8070/announce
+
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -187,6 +191,8 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
@@ -217,8 +223,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
