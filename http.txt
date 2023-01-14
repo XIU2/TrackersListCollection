@@ -10,13 +10,13 @@ http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
+http://bt.endpot.com:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://chouchou.top:8080/announce
 
 http://fe.dealclub.de:6969/announce
-
-http://fosstorrents.com:6969/announce
 
 http://i-p-v-6.tk:6969/announce
 
@@ -25,8 +25,6 @@ http://incine.ru:6969/announce
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
-
-http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -42,17 +40,15 @@ http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
 
-http://t.acg.rip:6699/announce
-
 http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.cili001.com:8070/announce
+
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -80,8 +76,6 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.srv00.com:6969/announce
 
-http://tracker.swateam.org.uk:2710/announce
-
 http://tracker2.dler.org:80/announce
 
 http://trackme.theom.nz:80/announce
@@ -93,8 +87,6 @@ http://vps02.net.orel.ru:80/announce
 http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
 
