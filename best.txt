@@ -16,8 +16,6 @@ http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
-http://share.camoe.cn:8080/announce
-
 http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
@@ -34,7 +32,13 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
+http://tracker.letpo.com:80/announce
+
+http://tracker.mywaifu.best:6969/announce
+
 http://tracker.skyts.net:6969/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -45,6 +49,8 @@ http://www.all4nothin.net:80/announce.php
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
+
+https://opentracker.i2p.rocks:443/announce
 
 https://t1.hloli.org:443/announce
 
@@ -80,8 +86,6 @@ https://tracker1.520.jp:443/announce
 
 https://trackme.theom.nz:443/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://9.rarbg.com:2810/announce
 
 udp://aarsen.me:6969/announce
@@ -96,15 +100,11 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://bt2.archive.org:6969/announce
-
 udp://cutscloud.duckdns.org:6969/announce
 
 udp://dht.bt251.com:6969/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://fe.dealclub.de:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
@@ -153,8 +153,6 @@ udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 
 udp://public-tracker.ml:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
 

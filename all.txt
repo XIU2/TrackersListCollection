@@ -28,23 +28,21 @@ http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
-
-http://share.camoe.cn:8080/announce
-
-http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -72,13 +70,15 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.letpo.com:80/announce
 
+http://tracker.mywaifu.best:6969/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker.srv00.com:6969/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -194,6 +194,8 @@ udp://concen.org:6969/announce
 
 udp://creative.7o7.cx:6969/announce
 
+udp://cutscloud.duckdns.org:6969/announce
+
 udp://dht.bt251.com:6969/announce
 
 udp://epider.me:6969/announce
@@ -215,8 +217,6 @@ udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.69.mu:6969/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
-
-udp://kokodayo.site:6969/announce
 
 udp://laze.cc:6969/announce
 
@@ -259,6 +259,8 @@ udp://psyco.fr:6969/announce
 udp://public-tracker.ml:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
 
@@ -331,8 +333,6 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
-
-udp://tracker.openbtba.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
