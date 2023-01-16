@@ -2,6 +2,8 @@ http://107.189.10.20.sslip.io:7777/announce
 
 http://1337.abcvg.info:80/announce
 
+http://bt.endpot.com:80/announce
+
 http://i-p-v-6.tk:6969/announce
 
 http://ipv6.1337.cx:6969/announce
@@ -95,8 +97,6 @@ udp://aegir.sexy:6969/announce
 udp://astrr.ru:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
-
-udp://bt1.archive.org:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
 
@@ -231,3 +231,5 @@ udp://www.peckservers.com:9000/announce
 udp://zecircle.xyz:6969/announce
 
 ws://hub.bugout.link:80/announce
+
+wss://tracker.openwebtorrent.com:443/announce
