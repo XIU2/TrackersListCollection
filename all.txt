@@ -16,13 +16,15 @@ http://bt.okmp3.ru:2710/announce
 
 http://chouchou.top:8080/announce
 
+http://fe.dealclub.de:6969/announce
+
 http://i-p-v-6.tk:6969/announce
+
+http://incine.ru:6969/announce
 
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
-
-http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -38,9 +40,13 @@ http://p2p.0g.cx:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
-http://torrentsmd.com:8080/announce
+http://share.camoe.cn:8080/announce
 
-http://tr.cili001.com:8070/announce
+http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
+
+http://torrentsmd.com:8080/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -64,8 +70,6 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.letpo.com:80/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
@@ -84,8 +88,6 @@ http://vps-dd0a0715.vps.ovh.net:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
-http://wepzone.net:6969/announce
-
 http://www.all4nothin.net:80/announce.php
 
 http://www.peckservers.com:9000/announce
@@ -103,6 +105,8 @@ https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
+
+https://tr.ready4.icu:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
