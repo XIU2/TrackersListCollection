@@ -18,7 +18,7 @@ https://t1.leech.ie:443/announce
 https://t2.leech.ie:443/announce
 https://t3.leech.ie:443/announce
 https://tp.m-team.cc:443/announce.php
-http://tracker.m-team.cc:443/announce.php
+http://tracker.m-team.cc:80/announce.php
 https://tracker.m-team.cc:443/announce.php
-http://ipv6.tracker.m-team.cc:443/announce.php
+http://ipv6.tracker.m-team.cc:80/announce.php
 https://ipv6.tracker.m-team.cc:443/announce.php
