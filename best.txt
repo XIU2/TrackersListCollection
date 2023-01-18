@@ -26,8 +26,6 @@ http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
@@ -37,8 +35,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -127,6 +123,8 @@ udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
 
 udp://new-line.net:6969/announce
+
+udp://open.4ever.tk:6969/announce
 
 udp://open.demonii.com:1337/announce
 
