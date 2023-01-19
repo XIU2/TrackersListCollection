@@ -2,8 +2,6 @@ http://107.189.10.20.sslip.io:7777/announce
 
 http://1337.abcvg.info:80/announce
 
-http://bt.endpot.com:80/announce
-
 http://i-p-v-6.tk:6969/announce
 
 http://ipv6.1337.cx:6969/announce
@@ -22,11 +20,7 @@ http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://torrentsmd.com:8080/announce
-
-http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -37,8 +31,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
-
-http://tracker.mywaifu.best:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -155,6 +147,8 @@ udp://public-tracker.ml:6969/announce
 udp://rep-art.ynh.fr:6969/announce
 
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
+
+udp://sx.xxtor.com:6969/announce
 
 udp://t.133335.xyz:6969/announce
 
