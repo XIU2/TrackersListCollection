@@ -36,8 +36,6 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://trackme.theom.nz:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
@@ -197,8 +195,6 @@ udp://tracker.monitorit4.me:6969/announce
 udp://tracker.openbtba.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
-
-udp://tracker.pimpmyworld.to:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
 
