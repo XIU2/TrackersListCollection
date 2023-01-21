@@ -20,9 +20,9 @@ http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://torrentsmd.com:8080/announce
+
+http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -34,7 +34,7 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.mywaifu.best:6969/announce
+http://tracker.skyts.net:6969/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -102,8 +102,6 @@ udp://free.publictracker.xyz:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
-
 udp://ipv6.69.mu:6969/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
@@ -111,8 +109,6 @@ udp://ipv6.tracker.monitorit4.me:6969/announce
 udp://laze.cc:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
-
-udp://mirror.aptus.co.tz:6969/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -145,6 +141,8 @@ udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
+
+udp://stargrave.org:6969/announce
 
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
@@ -207,6 +205,12 @@ udp://trackerb.jonaslsa.com:6969/announce
 udp://uploads.gamecoast.net:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
+
+udp://v2.iperson.xyz:6969/announce
+
+udp://vibe.sleepyinternetfun.xyz:1738/announce
+
+udp://wepzone.net:6969/announce
 
 udp://www.peckservers.com:9000/announce
 

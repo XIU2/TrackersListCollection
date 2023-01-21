@@ -42,9 +42,9 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://torrentsmd.com:8080/announce
+
+http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -200,8 +200,6 @@ udp://fh2.cmp-gaming.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
-udp://freedom.1776.ga:6969/announce
-
 udp://htz3.noho.st:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
@@ -288,6 +286,8 @@ udp://thouvenin.cloud:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://tr.bangumi.moe:6969/announce
+
 udp://tr.cili001.com:8070/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -299,6 +299,8 @@ udp://tracker.altrosky.nl:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
+
+udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -351,8 +353,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.yangxiaoguozi.cn:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
