@@ -16,21 +16,19 @@ http://bt.okmp3.ru:2710/announce
 
 http://chouchou.top:8080/announce
 
-http://i-p-v-6.tk:6969/announce
-
 http://incine.ru:6969/announce
 
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -41,6 +39,8 @@ http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -88,8 +88,6 @@ http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.peckservers.com:9000/announce
-
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
@@ -103,8 +101,6 @@ https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.expli.top:443/announce
 
@@ -222,8 +218,6 @@ udp://movies.zsw.ca:6969/announce
 
 udp://new-line.net:6969/announce
 
-udp://open.4ever.tk:6969/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
@@ -249,8 +243,6 @@ udp://psyco.fr:6969/announce
 udp://public-tracker.ml:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
 
@@ -299,8 +291,6 @@ udp://tracker.altrosky.nl:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
-
-udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -353,6 +343,8 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.yangxiaoguozi.cn:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
