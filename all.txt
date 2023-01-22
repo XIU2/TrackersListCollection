@@ -30,6 +30,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
@@ -66,11 +68,11 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.letpo.com:80/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.srv00.com:6969/announce
 
@@ -85,8 +87,6 @@ http://vps02.net.orel.ru:80/announce
 http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -249,8 +249,6 @@ udp://psyco.fr:6969/announce
 udp://public-tracker.ml:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
 
