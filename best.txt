@@ -2,6 +2,8 @@ http://107.189.10.20.sslip.io:7777/announce
 
 http://1337.abcvg.info:80/announce
 
+http://bt.okmp3.ru:2710/announce
+
 http://i-p-v-6.tk:6969/announce
 
 http://ipv6.1337.cx:6969/announce
@@ -106,6 +108,8 @@ udp://free.publictracker.xyz:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
+udp://ipv4.tracker.harry.lu:80/announce
+
 udp://ipv6.69.mu:6969/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
@@ -209,10 +213,6 @@ udp://trackerb.jonaslsa.com:6969/announce
 udp://uploads.gamecoast.net:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
-
-udp://v2.iperson.xyz:6969/announce
-
-udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://wepzone.net:6969/announce
 
