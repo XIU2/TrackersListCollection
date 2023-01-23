@@ -22,11 +22,7 @@ http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://torrentsmd.com:8080/announce
-
-http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -165,6 +161,8 @@ udp://t.133335.xyz:6969/announce
 udp://thagoat.rocks:6969/announce
 
 udp://thetracker.org:80/announce
+
+udp://thouvenin.cloud:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
