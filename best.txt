@@ -2,8 +2,6 @@ http://107.189.10.20.sslip.io:7777/announce
 
 http://1337.abcvg.info:80/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://i-p-v-6.tk:6969/announce
 
 http://incine.ru:6969/announce
@@ -26,6 +24,8 @@ http://share.camoe.cn:8080/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.cili001.com:8070/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
@@ -35,8 +35,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
-
-http://tracker.mywaifu.best:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -211,6 +209,10 @@ udp://trackerb.jonaslsa.com:6969/announce
 udp://uploads.gamecoast.net:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
+
+udp://v2.iperson.xyz:6969/announce
+
+udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://wepzone.net:6969/announce
 
