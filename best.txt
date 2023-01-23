@@ -22,6 +22,8 @@ http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -80,6 +82,8 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
 
+https://trackers.mlsub.net:443/announce
+
 https://trackme.theom.nz:443/announce
 
 udp://9.rarbg.com:2810/announce
@@ -91,6 +95,8 @@ udp://acxx.de:6969/announce
 udp://aegir.sexy:6969/announce
 
 udp://astrr.ru:6969/announce
+
+udp://bedro.cloud:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
