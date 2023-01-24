@@ -16,15 +16,19 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://torrentsmd.com:8080/announce
 
+http://tr.cili001.com:8070/announce
+
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.dler.org:6969/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -34,11 +38,13 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.skyts.net:6969/announce
+http://tracker.mywaifu.best:6969/announce
 
 http://trackme.theom.nz:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
+
+http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -108,8 +114,6 @@ udp://free.publictracker.xyz:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
-
 udp://ipv6.69.mu:6969/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
@@ -148,6 +152,8 @@ udp://private.anonseed.com:6969/announce
 
 udp://psyco.fr:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://rep-art.ynh.fr:6969/announce
 
 udp://stargrave.org:6969/announce
@@ -182,8 +188,6 @@ udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.jonaslsa.com:6969/announce
 
 udp://tracker.leech.ie:1337/announce
@@ -213,12 +217,6 @@ udp://trackerb.jonaslsa.com:6969/announce
 udp://uploads.gamecoast.net:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
-
-udp://v2.iperson.xyz:6969/announce
-
-udp://vibe.sleepyinternetfun.xyz:1738/announce
-
-udp://wepzone.net:6969/announce
 
 udp://www.peckservers.com:9000/announce
 
