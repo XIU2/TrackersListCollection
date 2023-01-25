@@ -16,15 +16,13 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
-http://torrentsmd.com:8080/announce
+http://t.nyaatracker.com:80/announce
 
-http://tr.cili001.com:8070/announce
+http://torrentsmd.com:8080/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -35,6 +33,10 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
+
+http://tracker.mywaifu.best:6969/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -94,9 +96,9 @@ udp://astrr.ru:6969/announce
 
 udp://bedro.cloud:6969/announce
 
-udp://bt.ktrackers.com:6666/announce
+udp://boysbitte.be:6969/announce
 
-udp://cutscloud.duckdns.org:6969/announce
+udp://bt.ktrackers.com:6666/announce
 
 udp://dht.bt251.com:6969/announce
 
@@ -191,8 +193,6 @@ udp://tracker.leech.ie:1337/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
-
-udp://tracker.openbtba.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
