@@ -10,11 +10,11 @@ http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
-http://bt.endpot.com:80/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://chouchou.top:8080/announce
+
+http://dht.dhtclub.com:666/announce
 
 http://i-p-v-6.tk:6969/announce
 
