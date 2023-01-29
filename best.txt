@@ -34,6 +34,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://trackme.theom.nz:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
@@ -66,15 +68,11 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
-https://tracker.mlsub.net:443/announce
-
 https://tracker.nanoha.org:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
-
-https://trackers.mlsub.net:443/announce
 
 https://trackme.theom.nz:443/announce
 
@@ -122,8 +120,6 @@ udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://open.4ever.tk:6969/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
@@ -157,8 +153,6 @@ udp://stargrave.org:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 udp://t.133335.xyz:6969/announce
-
-udp://tamas3.ynh.fr:6969/announce
 
 udp://thagoat.rocks:6969/announce
 
