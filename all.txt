@@ -8,6 +8,8 @@ http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
+http://bt.okmp3.ru:2710/announce
+
 http://dht.dhtclub.com:666/announce
 
 http://i-p-v-6.tk:6969/announce
@@ -17,8 +19,6 @@ http://incine.ru:6969/announce
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
-
-http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -68,17 +68,19 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker2.dler.org:80/announce
 
 http://trackme.theom.nz:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
-http://vps02.net.orel.ru:80/announce
-
 http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
+
+http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -171,8 +173,6 @@ udp://bt.ktrackers.com:6666/announce
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
-
-udp://camera.lei001.com:6969/announce
 
 udp://chouchou.top:8080/announce
 
@@ -319,6 +319,8 @@ udp://tracker.leech.ie:1337/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.openbtba.com:6969/announce
 
