@@ -20,6 +20,8 @@ http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -132,8 +134,6 @@ udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
-udp://open.xxtor.com:3074/announce
-
 udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
@@ -145,8 +145,6 @@ udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 
 udp://public.tracker.vraphim.com:6969/announce
-
-udp://rep-art.ynh.fr:6969/announce
 
 udp://stargrave.org:6969/announce
 
