@@ -4,8 +4,6 @@ http://dht.dhtclub.com:666/announce
 
 http://i-p-v-6.tk:6969/announce
 
-http://incine.ru:6969/announce
-
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
@@ -24,8 +22,6 @@ http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
@@ -35,6 +31,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
+
+http://tracker.mywaifu.best:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -82,6 +80,8 @@ https://tracker1.520.jp:443/announce
 
 https://trackme.theom.nz:443/announce
 
+udp://6ahddutb1ucc3cp.ru:6969/announce
+
 udp://9.rarbg.com:2810/announce
 
 udp://aarsen.me:6969/announce
@@ -109,6 +109,8 @@ udp://exodus.desync.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 
 udp://htz3.noho.st:6969/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.69.mu:6969/announce
 
@@ -144,8 +146,6 @@ udp://private.anonseed.com:6969/announce
 
 udp://psyco.fr:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://stargrave.org:6969/announce
 
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
@@ -159,6 +159,8 @@ udp://thetracker.org:80/announce
 udp://thouvenin.cloud:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
+
+udp://tr.cili001.com:8070/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
 
