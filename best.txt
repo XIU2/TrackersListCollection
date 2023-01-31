@@ -22,6 +22,8 @@ http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.cili001.com:8070/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
@@ -31,8 +33,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -148,6 +148,8 @@ udp://psyco.fr:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
+udp://slicie.icon256.com:8000/announce
+
 udp://stargrave.org:6969/announce
 
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
@@ -215,8 +217,6 @@ udp://trackerb.jonaslsa.com:6969/announce
 udp://uploads.gamecoast.net:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
-
-udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://www.peckservers.com:9000/announce
 
