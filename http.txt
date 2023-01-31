@@ -12,13 +12,13 @@ http://bt.okmp3.ru:2710/announce
 
 http://chouchou.top:8080/announce
 
-http://debuz.com:6969/announce
-
 http://dht.dhtclub.com:666/announce
 
 http://fosstorrents.com:6969/announce
 
 http://i-p-v-6.tk:6969/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 http://ipv6.1337.cx:6969/announce
 
@@ -66,15 +66,17 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.letpo.com:80/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://tracker.swateam.org.uk:2710/announce
+http://tracker.srv00.com:6969/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker.swateam.org.uk:2710/announce
 
 http://tracker2.dler.org:80/announce
 
