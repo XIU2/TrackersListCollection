@@ -22,8 +22,6 @@ http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
@@ -33,6 +31,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -110,8 +110,6 @@ udp://free.publictracker.xyz:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
-
 udp://ipv6.69.mu:6969/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
@@ -164,8 +162,6 @@ udp://thouvenin.cloud:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
-udp://tr.cili001.com:8070/announce
-
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -202,11 +198,11 @@ udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
-udp://tracker.tcp.exchange:6969/announce
-
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
@@ -219,8 +215,6 @@ udp://uploads.gamecoast.net:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://www.peckservers.com:9000/announce
-
-udp://zecircle.xyz:6969/announce
 
 ws://hub.bugout.link:80/announce
 
