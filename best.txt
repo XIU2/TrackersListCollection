@@ -78,7 +78,11 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
 
+https://trackers.mlsub.net:443/announce
+
 https://trackme.theom.nz:443/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
 
