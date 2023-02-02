@@ -1,3 +1,5 @@
+http://00.xxtor.com:443/announce
+
 http://1337.abcvg.info:80/announce
 
 http://dht.dhtclub.com:666/announce
@@ -77,8 +79,6 @@ https://tracker.tamersunion.org:443/announce
 https://tracker1.520.jp:443/announce
 
 https://trackme.theom.nz:443/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
 
@@ -176,8 +176,6 @@ udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.jonaslsa.com:6969/announce
 
 udp://tracker.leech.ie:1337/announce
@@ -200,8 +198,6 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://tracker2.dler.com:80/announce
 
 udp://tracker6.lelux.fi:6969/announce
@@ -213,6 +209,8 @@ udp://uploads.gamecoast.net:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://www.peckservers.com:9000/announce
+
+udp://zecircle.xyz:6969/announce
 
 ws://hub.bugout.link:80/announce
 
