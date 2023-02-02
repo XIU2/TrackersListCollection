@@ -92,8 +92,6 @@ udp://acxx.de:6969/announce
 
 udp://aegir.sexy:6969/announce
 
-udp://astrr.ru:6969/announce
-
 udp://bedro.cloud:6969/announce
 
 udp://boysbitte.be:6969/announce
