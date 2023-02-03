@@ -66,8 +66,6 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.letpo.com:80/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
@@ -190,6 +188,8 @@ udp://chouchou.top:8080/announce
 
 udp://concen.org:6969/announce
 
+udp://cutscloud.duckdns.org:6969/announce
+
 udp://dht.bt251.com:6969/announce
 
 udp://epider.me:6969/announce
@@ -239,6 +239,8 @@ udp://open.publictracker.xyz:6969/announce
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
+
+udp://open.xxtor.com:3074/announce
 
 udp://opentor.org:2710/announce
 
@@ -351,8 +353,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.yangxiaoguozi.cn:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 

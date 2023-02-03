@@ -76,6 +76,8 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
+https://tracker.tvgc.win:443/announce
+
 https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce

@@ -66,8 +66,6 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.letpo.com:80/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
