@@ -22,11 +22,15 @@ http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -35,8 +39,6 @@ http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -49,8 +51,6 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.edkj.club:6969/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -73,6 +73,8 @@ http://tracker.skyts.net:6969/announce
 http://tracker.swateam.org.uk:2710/announce
 
 http://tracker2.dler.org:80/announce
+
+http://trackers.ydns.eu:10036/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -120,7 +122,7 @@ https://tracker.mlsub.net:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
-https://tracker.nanoha.org:443/announce
+https://tracker.nitrix.me:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -234,8 +236,6 @@ udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
-udp://open.xxtor.com:3074/announce
-
 udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
@@ -249,6 +249,8 @@ udp://psyco.fr:6969/announce
 udp://public-tracker.ml:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
 
