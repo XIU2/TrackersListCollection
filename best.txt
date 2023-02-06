@@ -20,6 +20,8 @@ http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -100,6 +102,8 @@ udp://boysbitte.be:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
+udp://bt1.archive.org:6969/announce
+
 udp://chihaya.de:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
@@ -149,6 +153,8 @@ udp://p4p.arenabg.com:1337/announce
 udp://private.anonseed.com:6969/announce
 
 udp://psyco.fr:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run.publictracker.xyz:6969/announce
 
@@ -203,6 +209,8 @@ udp://tracker.monitorit4.me:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.pimpmyworld.to:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
