@@ -28,8 +28,6 @@ http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.edkj.club:6969/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -38,8 +36,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://tracker.skyts.net:6969/announce
 
 http://trackers.ydns.eu:10036/announce
@@ -47,6 +43,8 @@ http://trackers.ydns.eu:10036/announce
 http://trackme.theom.nz:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
+
+http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -106,8 +104,6 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://chihaya.de:6969/announce
 
-udp://chouchou.top:8080/announce
-
 udp://cutscloud.duckdns.org:6969/announce
 
 udp://dht.bt251.com:6969/announce
@@ -119,6 +115,8 @@ udp://exodus.desync.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 
 udp://htz3.noho.st:6969/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.69.mu:6969/announce
 
@@ -158,6 +156,8 @@ udp://run.publictracker.xyz:6969/announce
 
 udp://slicie.icon256.com:8000/announce
 
+udp://smtp.loki.tel:25/announce
+
 udp://stargrave.org:6969/announce
 
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
@@ -188,6 +188,10 @@ udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
 
+udp://tracker.dler.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.jonaslsa.com:6969/announce
 
 udp://tracker.joybomb.tw:6969/announce
@@ -210,13 +214,9 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.zaluan.xyz:6969/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
