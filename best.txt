@@ -18,6 +18,8 @@ http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -34,7 +36,9 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker.openbittorrent.com:80/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://trackers.ydns.eu:10036/announce
 
@@ -132,8 +136,6 @@ udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://open.free-tracker.ga:6969/announce
-
 udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
@@ -229,6 +231,8 @@ udp://uploads.gamecoast.net:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://www.peckservers.com:9000/announce
+
+udp://z.mercax.com:53/announce
 
 udp://zecircle.xyz:6969/announce
 
