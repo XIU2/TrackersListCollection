@@ -68,15 +68,9 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
-
-http://tracker.sakurato.art:23333/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
 
