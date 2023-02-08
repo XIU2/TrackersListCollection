@@ -40,8 +40,6 @@ http://tracker.openbittorrent.com:80/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://trackers.ydns.eu:10036/announce
 
 http://trackme.theom.nz:80/announce
@@ -229,8 +227,6 @@ udp://u4.trakx.crim.ist:1337/announce
 udp://uploads.gamecoast.net:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
-
-udp://wepzone.net:6969/announce
 
 udp://www.peckservers.com:9000/announce
 
