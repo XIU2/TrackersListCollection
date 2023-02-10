@@ -100,8 +100,6 @@ udp://boysbitte.be:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://bt1.archive.org:6969/announce
-
 udp://chihaya.de:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
