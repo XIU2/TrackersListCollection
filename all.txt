@@ -12,17 +12,17 @@ http://bt.okmp3.ru:2710/announce
 
 http://bt1.letpo.com:80/announce
 
-http://chouchou.top:8080/announce
-
 http://dht.dhtclub.com:666/announce
-
-http://fosstorrents.com:6969/announce
 
 http://i-p-v-6.tk:6969/announce
 
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
+
+http://movies.zsw.ca:6969/announce
+
+http://multi.open-tracker.cf:8000/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -39,6 +39,8 @@ http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -361,8 +363,6 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://uploads.gamecoast.net:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
-
-udp://v2.iperson.xyz:6969/announce
 
 udp://wepzone.net:6969/announce
 
