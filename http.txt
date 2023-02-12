@@ -14,23 +14,19 @@ http://bt1.letpo.com:80/announce
 
 http://dht.dhtclub.com:666/announce
 
+http://fosstorrents.com:6969/announce
+
 http://i-p-v-6.tk:6969/announce
 
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
-http://movies.zsw.ca:6969/announce
-
-http://multi.open-tracker.cf:8000/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -54,6 +50,8 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
+http://tracker.edkj.club:6969/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -64,15 +62,11 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.skyts.net:6969/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -83,6 +77,8 @@ http://trackme.theom.nz:80/announce
 http://v6-tracker.0g.cx:6969/announce
 
 http://vps02.net.orel.ru:80/announce
+
+http://web.open-tracker.cf:6969/announce
 
 http://wepzone.net:6969/announce
 
