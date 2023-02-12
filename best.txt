@@ -76,8 +76,6 @@ https://tracker.loligirl.cn:443/announce
 
 https://tracker.mlsub.net:443/announce
 
-https://tracker.nitrix.me:443/announce
-
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
@@ -176,6 +174,8 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
+udp://tracker.cubonegro.xyz:6969/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
@@ -213,8 +213,6 @@ udp://tracker2.dler.com:80/announce
 udp://tracker6.lelux.fi:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
-
-udp://u6.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
