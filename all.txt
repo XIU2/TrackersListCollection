@@ -14,23 +14,17 @@ http://bt1.letpo.com:80/announce
 
 http://dht.dhtclub.com:666/announce
 
-http://fosstorrents.com:6969/announce
-
 http://i-p-v-6.tk:6969/announce
 
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -86,8 +80,6 @@ http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.peckservers.com:9000/announce
-
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
@@ -109,8 +101,6 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
-
-https://tracker.jiesen.life:8443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -180,6 +170,8 @@ udp://camera.lei001.com:6969/announce
 
 udp://chouchou.top:8080/announce
 
+udp://concen.org:6969/announce
+
 udp://cutscloud.duckdns.org:6969/announce
 
 udp://dht.bt251.com:6969/announce
@@ -241,8 +233,6 @@ udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
 
@@ -373,7 +363,5 @@ udp://www.peckservers.com:9000/announce
 udp://www.torrent.eu.org:451/announce
 
 udp://zecircle.xyz:6969/announce
-
-ws://hub.bugout.link:80/announce
 
 wss://tracker.openwebtorrent.com:443/announce
