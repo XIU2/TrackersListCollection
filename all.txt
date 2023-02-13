@@ -14,6 +14,8 @@ http://bt1.letpo.com:80/announce
 
 http://dht.dhtclub.com:666/announce
 
+http://fosstorrents.com:6969/announce
+
 http://i-p-v-6.tk:6969/announce
 
 http://ipv6.1337.cx:6969/announce
@@ -37,6 +39,8 @@ http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -68,8 +72,6 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker2.dler.org:80/announce
 
 http://trackers.ydns.eu:10036/announce
@@ -83,6 +85,8 @@ http://vps02.net.orel.ru:80/announce
 http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
+
+http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -162,8 +166,6 @@ udp://aegir.sexy:6969/announce
 
 udp://astrr.ru:6969/announce
 
-udp://bedro.cloud:6969/announce
-
 udp://black-bird.ynh.fr:6969/announce
 
 udp://boysbitte.be:6969/announce
@@ -178,8 +180,6 @@ udp://camera.lei001.com:6969/announce
 
 udp://chouchou.top:8080/announce
 
-udp://concen.org:6969/announce
-
 udp://cutscloud.duckdns.org:6969/announce
 
 udp://dht.bt251.com:6969/announce
@@ -192,6 +192,8 @@ udp://fe.dealclub.de:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
 
+udp://free.publictracker.xyz:6969/announce
+
 udp://freedom.1776.ga:6969/announce
 
 udp://htz3.noho.st:6969/announce
@@ -201,6 +203,8 @@ udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.69.mu:6969/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
+
+udp://laze.cc:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
 
@@ -237,6 +241,8 @@ udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
 
