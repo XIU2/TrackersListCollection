@@ -14,6 +14,8 @@ http://bt1.letpo.com:80/announce
 
 http://dht.dhtclub.com:666/announce
 
+http://fosstorrents.com:6969/announce
+
 http://i-p-v-6.tk:6969/announce
 
 http://ipv6.1337.cx:6969/announce
@@ -33,8 +35,6 @@ http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -63,8 +63,6 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -234,6 +232,8 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://qtstm32fan.ru:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
@@ -363,5 +363,7 @@ udp://www.peckservers.com:9000/announce
 udp://www.torrent.eu.org:451/announce
 
 udp://zecircle.xyz:6969/announce
+
+ws://hub.bugout.link:80/announce
 
 wss://tracker.openwebtorrent.com:443/announce
