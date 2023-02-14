@@ -16,15 +16,11 @@ http://chouchou.top:8080/announce
 
 http://dht.dhtclub.com:666/announce
 
-http://fosstorrents.com:6969/announce
-
 http://i-p-v-6.tk:6969/announce
 
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
-
-http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -93,6 +89,8 @@ https://1337.abcvg.info:443/announce
 https://opentracker.i2p.rocks:443/announce
 
 https://t1.hloli.org:443/announce
+
+https://torrent-tracker.hama3.net:443/announce
 
 https://tr.abiir.top:443/announce
 
