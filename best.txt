@@ -34,7 +34,7 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
+http://tracker.skyts.net:6969/announce
 
 http://trackers.ydns.eu:10036/announce
 
@@ -49,8 +49,6 @@ http://www.all4nothin.net:80/announce.php
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
 https://opentracker.i2p.rocks:443/announce
 

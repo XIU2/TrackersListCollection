@@ -24,13 +24,13 @@ http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -39,6 +39,8 @@ http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -87,8 +89,6 @@ http://www.all4nothin.net:80/announce.php
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
 https://opentracker.i2p.rocks:443/announce
 
@@ -173,8 +173,6 @@ udp://bt2.archive.org:6969/announce
 udp://camera.lei001.com:6969/announce
 
 udp://chouchou.top:8080/announce
-
-udp://concen.org:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
 
