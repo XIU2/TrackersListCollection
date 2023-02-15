@@ -42,8 +42,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -113,6 +111,8 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.mlsub.net:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
