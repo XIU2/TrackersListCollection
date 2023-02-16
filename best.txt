@@ -20,6 +20,8 @@ http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -33,10 +35,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
-
-http://tracker.mywaifu.best:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://trackers.ydns.eu:10036/announce
 
@@ -99,6 +97,8 @@ udp://boysbitte.be:6969/announce
 udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
+
+udp://bt2.archive.org:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
 
@@ -188,6 +188,8 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.jonaslsa.com:6969/announce
 
 udp://tracker.joybomb.tw:6969/announce
@@ -209,8 +211,6 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.theoks.net:6969/announce
-
-udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 

@@ -8,11 +8,15 @@ http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
+http://bt.okmp3.ru:2710/announce
+
 http://bt1.letpo.com:80/announce
 
 http://chouchou.top:8080/announce
 
 http://dht.dhtclub.com:666/announce
+
+http://fosstorrents.com:6969/announce
 
 http://i-p-v-6.tk:6969/announce
 
@@ -66,7 +70,11 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker2.dler.org:80/announce
+
+http://trackers.ydns.eu:10036/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -231,8 +239,6 @@ udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
 
