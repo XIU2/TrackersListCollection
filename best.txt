@@ -36,6 +36,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://trackers.ydns.eu:10036/announce
 
 http://trackme.theom.nz:80/announce
