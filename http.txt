@@ -70,6 +70,8 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker2.dler.org:80/announce
 
 http://trackers.ydns.eu:10036/announce
@@ -97,6 +99,8 @@ https://torrent-tracker.hama3.net:443/announce
 https://tr.abiir.top:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
+
+https://tracker.expli.top:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
