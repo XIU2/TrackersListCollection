@@ -26,15 +26,11 @@ http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.tracker.ink:6969/announce
 
 http://opentracker.io:80/announce
 
@@ -123,8 +119,6 @@ https://tracker.loligirl.cn:443/announce
 https://tracker.mlsub.net:443/announce
 
 https://tracker.moeblog.cn:443/announce
-
-https://tracker.nitrix.me:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -245,6 +239,8 @@ udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
 
