@@ -36,8 +36,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://trackers.ydns.eu:10036/announce
 
 http://trackme.theom.nz:80/announce
@@ -102,11 +100,15 @@ udp://cutscloud.duckdns.org:6969/announce
 
 udp://dht.bt251.com:6969/announce
 
+udp://dns.xxtor.com:53/announce
+
 udp://epider.me:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
 udp://htz3.noho.st:6969/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.69.mu:6969/announce
 
@@ -182,6 +184,8 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.jonaslsa.com:6969/announce
 
 udp://tracker.joybomb.tw:6969/announce
@@ -196,8 +200,6 @@ udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker.pimpmyworld.to:6969/announce
-
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
@@ -205,6 +207,8 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -220,13 +224,9 @@ udp://uploads.gamecoast.net:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
-udp://v2.iperson.xyz:6969/announce
-
-udp://wepzone.net:6969/announce
-
 udp://www.peckservers.com:9000/announce
 
-udp://zecircle.xyz:6969/announce
+udp://z.mercax.com:53/announce
 
 ws://hub.bugout.link:80/announce
 
