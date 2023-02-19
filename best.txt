@@ -18,7 +18,7 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://opentracker.io:80/announce
+http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -81,8 +81,6 @@ https://tracker.mlsub.net:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
-
-https://trackers.mlsub.net:443/announce
 
 https://trackme.theom.nz:443/announce
 
@@ -211,8 +209,6 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.zaluan.xyz:6969/announce
 
 udp://tracker2.dler.com:80/announce
 
