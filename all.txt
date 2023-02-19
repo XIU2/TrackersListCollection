@@ -16,6 +16,8 @@ http://chouchou.top:8080/announce
 
 http://dht.dhtclub.com:666/announce
 
+http://fosstorrents.com:6969/announce
+
 http://i-p-v-6.tk:6969/announce
 
 http://incine.ru:6969/announce
@@ -43,6 +45,8 @@ http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -196,6 +200,8 @@ udp://fe.dealclub.de:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
 
+udp://free.publictracker.xyz:6969/announce
+
 udp://freedom.1776.ga:6969/announce
 
 udp://htz3.noho.st:6969/announce
@@ -275,8 +281,6 @@ udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
-
-udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
 

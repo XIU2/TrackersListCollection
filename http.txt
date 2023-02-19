@@ -16,6 +16,8 @@ http://chouchou.top:8080/announce
 
 http://dht.dhtclub.com:666/announce
 
+http://fosstorrents.com:6969/announce
+
 http://i-p-v-6.tk:6969/announce
 
 http://incine.ru:6969/announce
@@ -43,6 +45,8 @@ http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
