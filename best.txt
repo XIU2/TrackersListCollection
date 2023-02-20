@@ -40,8 +40,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://trackers.ydns.eu:10036/announce
 
 http://trackme.theom.nz:80/announce
@@ -53,8 +51,6 @@ http://www.all4nothin.net:80/announce.php
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://opentracker.i2p.rocks:443/announce
 
 https://torrent-tracker.hama3.net:443/announce
 
@@ -81,6 +77,8 @@ https://tracker.mlsub.net:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
+
+https://trackers.mlsub.net:443/announce
 
 https://trackme.theom.nz:443/announce
 
@@ -209,6 +207,10 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
