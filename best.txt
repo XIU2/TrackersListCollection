@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://bt.endpot.com:80/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://dht.dhtclub.com:666/announce
@@ -51,8 +49,6 @@ http://www.all4nothin.net:80/announce.php
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://torrent-tracker.hama3.net:443/announce
 
 https://tr.abiir.top:443/announce
 

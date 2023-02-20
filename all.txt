@@ -24,13 +24,15 @@ http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
+http://open.acgtracker.com:1096/announce
 
 http://opentracker.io:80/announce
 
@@ -97,8 +99,6 @@ https://1337.abcvg.info:443/announce
 https://opentracker.i2p.rocks:443/announce
 
 https://t1.hloli.org:443/announce
-
-https://torrent-tracker.hama3.net:443/announce
 
 https://tr.abiir.top:443/announce
 
@@ -180,15 +180,11 @@ udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://camera.lei001.com:6969/announce
-
 udp://chouchou.top:8080/announce
 
 udp://concen.org:6969/announce
 
 udp://creative.7o7.cx:6969/announce
-
-udp://cutscloud.duckdns.org:6969/announce
 
 udp://dht.bt251.com:6969/announce
 
@@ -247,6 +243,8 @@ udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
 
