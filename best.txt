@@ -2,8 +2,6 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://dht.dhtclub.com:666/announce
-
 http://i-p-v-6.tk:6969/announce
 
 http://ipv6.1337.cx:6969/announce
@@ -21,8 +19,6 @@ http://open.tracker.ink:6969/announce
 http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
