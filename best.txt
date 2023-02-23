@@ -14,6 +14,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
@@ -68,8 +70,6 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
 
-https://trackers.mlsub.net:443/announce
-
 https://trackme.theom.nz:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
@@ -113,8 +113,6 @@ udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
-
-udp://open.4ever.tk:6969/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -207,8 +205,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.zaluan.xyz:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
