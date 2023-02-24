@@ -20,6 +20,8 @@ http://i-p-v-6.tk:6969/announce
 
 http://incine.ru:6969/announce
 
+http://ipv6.1337.cx:6969/announce
+
 http://ipv6.govt.hu:6969/announce
 
 http://movies.zsw.ca:6969/announce
@@ -29,6 +31,8 @@ http://nyaa.tracker.wf:7777/announce
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -68,6 +72,8 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
@@ -75,6 +81,8 @@ http://tracker.qu.ax:6969/announce
 http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -158,8 +166,6 @@ udp://aarsen.me:6969/announce
 
 udp://acxx.de:6969/announce
 
-udp://admin.52ywp.com:6969/announce
-
 udp://aegir.sexy:6969/announce
 
 udp://astrr.ru:6969/announce
@@ -197,8 +203,6 @@ udp://exodus.desync.com:6969/announce
 udp://fe.dealclub.de:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
-
-udp://free.publictracker.xyz:6969/announce
 
 udp://freedom.1776.ga:6969/announce
 
@@ -246,6 +250,8 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://qtstm32fan.ru:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
@@ -277,8 +283,6 @@ udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
-
-udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
 
@@ -362,11 +366,11 @@ udp://tracker6.lelux.fi:6969/announce
 
 udp://trackerb.jonaslsa.com:6969/announce
 
-udp://u4.trakx.crim.ist:1337/announce
-
 udp://uploads.gamecoast.net:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
+
+udp://v2.iperson.xyz:6969/announce
 
 udp://www.peckservers.com:9000/announce
 
