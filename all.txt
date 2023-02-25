@@ -30,7 +30,7 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
+http://open.tracker.ink:6969/announce
 
 http://opentracker.io:80/announce
 
@@ -190,8 +190,6 @@ udp://concen.org:6969/announce
 
 udp://creative.7o7.cx:6969/announce
 
-udp://cutscloud.duckdns.org:6969/announce
-
 udp://dht.bt251.com:6969/announce
 
 udp://dns.xxtor.com:53/announce
@@ -279,8 +277,6 @@ udp://t.133335.xyz:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 
 udp://thagoat.rocks:6969/announce
-
-udp://thinking.duckdns.org:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 

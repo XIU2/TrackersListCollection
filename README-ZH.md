@@ -45,7 +45,7 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 
 - **精选列表：**(116 个)  
  _**[https://trackerslist.../best.txt](https://jsd.cdn.zzko.cn/gh/XIU2/TrackersListCollection/best.txt)**_  
-- **完整列表：**(193 个)  
+- **完整列表：**(191 个)  
  _**[https://trackerslist.../all.txt](https://jsd.cdn.zzko.cn/gh/XIU2/TrackersListCollection/all.txt)**_  
 - **HTTP(S)列表：**(69 个)  
  _**[https://trackerslist.../http.txt](https://jsd.cdn.zzko.cn/gh/XIU2/TrackersListCollection/http.txt)**_  
