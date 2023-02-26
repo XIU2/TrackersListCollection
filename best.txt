@@ -20,8 +20,6 @@ http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -43,6 +41,8 @@ http://trackers.ydns.eu:10036/announce
 http://trackme.theom.nz:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
+
+http://vps-dd0a0715.vps.ovh.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -180,6 +180,8 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.jonaslsa.com:6969/announce
 
 udp://tracker.joybomb.tw:6969/announce
@@ -203,8 +205,6 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.theoks.net:6969/announce
 
