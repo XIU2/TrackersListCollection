@@ -22,8 +22,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -140,7 +138,7 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
+udp://rep-art.ynh.fr:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
@@ -176,11 +174,11 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
+udp://tracker.bittor.pw:1337/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
@@ -205,6 +203,8 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.theoks.net:6969/announce
 

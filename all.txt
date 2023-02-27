@@ -46,8 +46,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -252,8 +250,6 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://qtstm32fan.ru:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
@@ -381,5 +377,7 @@ udp://www.peckservers.com:9000/announce
 udp://www.torrent.eu.org:451/announce
 
 udp://zecircle.xyz:6969/announce
+
+ws://hub.bugout.link:80/announce
 
 wss://tracker.openwebtorrent.com:443/announce
