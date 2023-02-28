@@ -84,6 +84,8 @@ http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker2.dler.org:80/announce
 
 http://trackers.ydns.eu:10036/announce
@@ -93,6 +95,8 @@ http://trackme.theom.nz:80/announce
 http://v6-tracker.0g.cx:6969/announce
 
 http://vps02.net.orel.ru:80/announce
+
+http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -208,6 +212,8 @@ udp://fe.dealclub.de:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
 
+udp://free.publictracker.xyz:6969/announce
+
 udp://freedom.1776.ga:6969/announce
 
 udp://htz3.noho.st:6969/announce
@@ -253,6 +259,8 @@ udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
 
@@ -301,6 +309,8 @@ udp://tracker.auctor.tv:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.cubonegro.xyz:6969/announce
 
@@ -371,6 +381,8 @@ udp://uploads.gamecoast.net:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://v2.iperson.xyz:6969/announce
+
+udp://wepzone.net:6969/announce
 
 udp://www.peckservers.com:9000/announce
 

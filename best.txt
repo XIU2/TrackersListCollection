@@ -30,8 +30,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://trackers.ydns.eu:10036/announce
 
 http://trackme.theom.nz:80/announce
@@ -128,6 +126,8 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://rep-art.ynh.fr:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
@@ -195,8 +195,6 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.theoks.net:6969/announce
-
-udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
