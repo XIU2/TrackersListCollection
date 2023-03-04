@@ -16,8 +16,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -126,6 +124,8 @@ udp://private.anonseed.com:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://run.publictracker.xyz:6969/announce
 
 udp://sanincode.com:6969/announce
@@ -162,11 +162,11 @@ udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.bittor.pw:1337/announce
 
+udp://tracker.ccp.ovh:6969/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.joybomb.tw:6969/announce
 
@@ -190,6 +190,8 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.swateam.org.uk:2710/announce
+
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
@@ -197,6 +199,8 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
