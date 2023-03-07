@@ -24,8 +24,6 @@ http://fosstorrents.com:6969/announce
 
 http://incine.ru:6969/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -44,8 +42,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -53,10 +49,6 @@ http://tr.cili001.com:8070/announce
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -70,17 +62,17 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
-http://tracker.sakurato.art:23333/announce
+http://tracker.skyts.net:6969/announce
 
 http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
+
+http://tracker2.dler.org:80/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -187,6 +179,8 @@ udp://bt.ktrackers.com:6666/announce
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
+
+udp://camera.lei001.com:6969/announce
 
 udp://chouchou.top:8080/announce
 
@@ -323,8 +317,6 @@ udp://tracker.joybomb.tw:6969/announce
 udp://tracker.leech.ie:1337/announce
 
 udp://tracker.lelux.fi:6969/announce
-
-udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
