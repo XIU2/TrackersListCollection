@@ -6,8 +6,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
@@ -81,8 +79,6 @@ udp://boysbitte.be:6969/announce
 udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
-
-udp://cutscloud.duckdns.org:6969/announce
 
 udp://dns.xxtor.com:53/announce
 
