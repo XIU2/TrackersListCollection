@@ -10,8 +10,6 @@ http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -41,6 +39,8 @@ https://opentracker.i2p.rocks:443/announce
 https://tr.abiir.top:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
+
+https://tracker.expli.top:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -118,6 +118,8 @@ udp://private.anonseed.com:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://run.publictracker.xyz:6969/announce
 
 udp://sanincode.com:6969/announce
@@ -162,8 +164,6 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.leech.ie:1337/announce
@@ -193,8 +193,6 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
