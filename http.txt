@@ -24,6 +24,8 @@ http://fosstorrents.com:6969/announce
 
 http://incine.ru:6969/announce
 
+http://montreal.nyap2p.com:8080/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -52,6 +54,8 @@ http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.dler.com:6969/announce
+
 http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
@@ -71,6 +75,8 @@ http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.srv00.com:6969/announce
 
@@ -98,6 +104,8 @@ https://opentracker.i2p.rocks:443/announce
 
 https://t1.hloli.org:443/announce
 
+https://torrent-tracker.hama3.net:443/announce
+
 https://tr.abiir.top:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
@@ -121,6 +129,8 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.mlsub.net:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
