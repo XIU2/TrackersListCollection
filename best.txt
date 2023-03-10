@@ -6,6 +6,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
@@ -25,8 +27,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.swifte.space:2710/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -73,6 +73,8 @@ udp://acxx.de:6969/announce
 udp://aegir.sexy:6969/announce
 
 udp://astrr.ru:6969/announce
+
+udp://bedro.cloud:6969/announce
 
 udp://boysbitte.be:6969/announce
 
@@ -177,6 +179,8 @@ udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.publictracker.xyz:6969/announce
+
+udp://tracker.renfei.net:8080/announce
 
 udp://tracker.skynetcloud.site:6969/announce
 
