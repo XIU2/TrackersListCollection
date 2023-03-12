@@ -46,6 +46,8 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -53,6 +55,8 @@ http://tr.cili001.com:8070/announce
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -75,8 +79,6 @@ http://tracker.qu.ax:6969/announce
 http://tracker.skyts.net:6969/announce
 
 http://tracker.srv00.com:6969/announce
-
-http://tracker2.dler.org:80/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -292,8 +294,6 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.bitsearch.to:1337/announce
-
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
@@ -348,8 +348,6 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.yangxiaoguozi.cn:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
@@ -359,6 +357,8 @@ udp://tracker2.dler.org:80/announce
 udp://tracker6.lelux.fi:6969/announce
 
 udp://trackerb.jonaslsa.com:6969/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
