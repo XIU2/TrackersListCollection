@@ -30,9 +30,13 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.openbittorrent.com:80/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://trackme.theom.nz:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
+
+http://web.open-tracker.cf:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -122,6 +126,8 @@ udp://private.anonseed.com:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://run.publictracker.xyz:6969/announce
 
 udp://sanincode.com:6969/announce
@@ -156,8 +162,6 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.bitsearch.to:1337/announce
-
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
@@ -189,8 +193,6 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.theoks.net:6969/announce
 
