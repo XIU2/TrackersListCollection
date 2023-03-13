@@ -44,6 +44,7 @@ _You can judge whether there is a problem with the BT configuration and network 
 
 \# **The following is an example of the complete list `all.txt` (modify the file name as needed):**  
 
+- _**https://cf.trackerslist.com/all.txt**_  
 - _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
 - _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
 - _**https://gcore.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  

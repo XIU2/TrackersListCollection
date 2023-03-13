@@ -44,13 +44,13 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 ### 更新时间: 2023-03-13
 
 - **精选列表：**(106 个)  
- _**[https://trackerslist.../best.txt](https://jsd.cdn.zzko.cn/gh/XIU2/TrackersListCollection/best.txt)**_  
+ _**[https://trackerslist.../best.txt](https://js.cdn.haah.net/gh/XIU2/TrackersListCollection/best.txt)**_  
 - **完整列表：**(189 个)  
- _**[https://trackerslist.../all.txt](https://jsd.cdn.zzko.cn/gh/XIU2/TrackersListCollection/all.txt)**_  
+ _**[https://trackerslist.../all.txt](https://js.cdn.haah.net/gh/XIU2/TrackersListCollection/all.txt)**_  
 - **HTTP(S)列表：**(68 个)  
- _**[https://trackerslist.../http.txt](https://jsd.cdn.zzko.cn/gh/XIU2/TrackersListCollection/http.txt)**_  
+ _**[https://trackerslist.../http.txt](https://js.cdn.haah.net/gh/XIU2/TrackersListCollection/http.txt)**_  
 
-> 上面链接已改为 **国内 CDN 分流**地址，来解决大家反应的速度、稳定性等网络问题。
+> 上面的链接地址已改为 **国内 CDN 分流**地址，以缓解因使用人数过多而导致的网络问题。
 
 <details>
 <summary><strong><code>[点击展开] - 查看其他 CDN 分流地址</code></strong></summary>
@@ -61,11 +61,10 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
  
 - _**https://cf.trackerslist.com/all.txt** ( Cloudflare CDN_  
 - _**https://js.cdn.haah.net/gh/XIU2/TrackersListCollection/all.txt** ( 国内 CDN，下同_  
-- _**https://jsd.cdn.zzko.cn/gh/XIU2/TrackersListCollection/all.txt**_
+- _**https://cdn.jsdelivr.ren/gh/XIU2/TrackersListCollection/all.txt**_  
 - _**https://raw.iqiq.io/XIU2/TrackersListCollection/master/all.txt**_  
 - _**https://raw.kgithub.com/XIU2/TrackersListCollection/master/all.txt** ( 新加坡 CDN_  
 - _**[https://github.moeyy.xyz/.../XIU2/TrackersListCollection/master/all.txt](https://github.moeyy.xyz/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt)** ( 新加坡 CDN_  
-- _**https://gcore.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt** ( 国外 CDN，适合移动、电信_  
 - _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt** ( 日本 CDN，适合联通，下同_  
 - _**https://raw.fastgit.org/XIU2/TrackersListCollection/master/all.txt**_  
 - _**https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/all.txt**_  
@@ -81,11 +80,11 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 <details>
 <summary><strong><code>[点击展开] - 查看 Aria2 格式的 Tracker 列表</code></strong></summary>
 
-- _**[https://trackerslist.../best_aria2.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/best_aria2.txt)**_  
-- _**[https://trackerslist.../all_aria2.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/all_aria2.txt)**_  
-- _**[https://trackerslist.../http_aria2.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/http_aria2.txt)**_  
+- _**[https://trackerslist.../best_aria2.txt](https://js.cdn.haah.net/gh/XIU2/TrackersListCollection/best_aria2.txt)**_  
+- _**[https://trackerslist.../all_aria2.txt](https://js.cdn.haah.net/gh/XIU2/TrackersListCollection/all_aria2.txt)**_  
+- _**[https://trackerslist.../http_aria2.txt](https://js.cdn.haah.net/gh/XIU2/TrackersListCollection/http_aria2.txt)**_  
 
-> 上面链接已改为 **CDN 分流**地址，来解决大家反应的速度、稳定性问题，如还不行请尝试**备用**地址。
+> 上面的链接地址已改为 **国内 CDN 分流**地址，以缓解因使用人数过多而导致的网络问题。
 
 </details>
 
