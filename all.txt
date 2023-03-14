@@ -10,6 +10,8 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.endpot.com:80/announce
 
+http://bt.okmp3.ru:2710/announce
+
 http://bt1.letpo.com:80/announce
 
 http://chouchou.top:8080/announce
@@ -22,17 +24,13 @@ http://fosstorrents.com:6969/announce
 
 http://incine.ru:6969/announce
 
-http://montreal.nyap2p.com:8080/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 
-http://movies.zsw.ca:6969/announce
+http://montreal.nyap2p.com:8080/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
-
-http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -43,8 +41,6 @@ http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -172,8 +168,6 @@ udp://bedro.cloud:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
-udp://boysbitte.be:6969/announce
-
 udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
@@ -239,6 +233,8 @@ udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
 
