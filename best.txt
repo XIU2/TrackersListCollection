@@ -26,13 +26,13 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.skyts.net:6969/announce
-
-http://tracker.tfile.co:80/announce
+http://tracker.openbittorrent.com:80/announce
 
 http://trackme.theom.nz:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
+
+http://vps02.net.orel.ru:80/announce
 
 http://web.open-tracker.cf:6969/announce
 
@@ -41,6 +41,8 @@ http://www.all4nothin.net:80/announce.php
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
+
+https://opentracker.i2p.rocks:443/announce
 
 https://tr.abiir.top:443/announce
 
@@ -82,11 +84,15 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
 
+udp://cutscloud.duckdns.org:6969/announce
+
 udp://epider.me:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
 udp://htz3.noho.st:6969/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
@@ -120,7 +126,7 @@ udp://private.anonseed.com:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run.publictracker.xyz:6969/announce
 
@@ -138,8 +144,6 @@ udp://thetracker.org:80/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -154,15 +158,11 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
-
-udp://tracker.doko.moe:6969/announce
 
 udp://tracker.joybomb.tw:6969/announce
 
@@ -186,15 +186,9 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
