@@ -10,8 +10,6 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.endpot.com:80/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://bt1.letpo.com:80/announce
 
 http://chouchou.top:8080/announce
@@ -24,7 +22,11 @@ http://fosstorrents.com:6969/announce
 
 http://incine.ru:6969/announce
 
+http://ipv4announce.sktorrent.eu:6969/announce
+
 http://montreal.nyap2p.com:8080/announce
+
+http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -42,6 +44,8 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -49,6 +53,8 @@ http://tr.cili001.com:8070/announce
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -196,8 +202,6 @@ udp://fe.dealclub.de:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
 
-udp://freedom.1776.ga:6969/announce
-
 udp://htz3.noho.st:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
@@ -274,6 +278,8 @@ udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -314,8 +320,6 @@ udp://tracker.leech.ie:1337/announce
 
 udp://tracker.lelux.fi:6969/announce
 
-udp://tracker.moeking.me:6969/announce
-
 udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
@@ -341,6 +345,8 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.yangxiaoguozi.cn:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
