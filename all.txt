@@ -10,8 +10,6 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.endpot.com:80/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://bt1.letpo.com:80/announce
 
 http://chouchou.top:8080/announce
@@ -26,13 +24,9 @@ http://incine.ru:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -70,8 +64,6 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.qu.ax:6969/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://tracker.srv00.com:6969/announce
@@ -91,6 +83,8 @@ http://web.open-tracker.cf:6969/announce
 http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
+
+http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -205,6 +199,8 @@ udp://htz3.noho.st:6969/announce
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
+
+udp://laze.cc:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
 
