@@ -24,6 +24,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.tfile.co:80/announce
 
 http://trackme.theom.nz:80/announce
@@ -41,6 +43,8 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://opentracker.i2p.rocks:443/announce
+
+https://t1.hloli.org:443/announce
 
 https://tr.abiir.top:443/announce
 
@@ -114,6 +118,8 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
+udp://opentracker.io:6969/announce
+
 udp://p4p.arenabg.com:1337/announce
 
 udp://private.anonseed.com:6969/announce
@@ -151,6 +157,8 @@ udp://tracker.auctor.tv:6969/announce
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
+
+udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
