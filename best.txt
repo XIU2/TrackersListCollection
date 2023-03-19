@@ -10,6 +10,8 @@ http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -156,8 +158,6 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.bitsearch.to:1337/announce
-
 udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
@@ -189,8 +189,6 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
