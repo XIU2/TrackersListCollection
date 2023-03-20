@@ -26,6 +26,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.tfile.co:80/announce
 
 http://trackme.theom.nz:80/announce
@@ -166,6 +168,8 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
 udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.leech.ie:1337/announce
@@ -187,6 +191,8 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
