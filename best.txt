@@ -190,8 +190,6 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.pimpmyworld.to:6969/announce
 
-udp://tracker.renfei.net:8080/announce
-
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
