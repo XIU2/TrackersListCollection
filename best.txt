@@ -30,7 +30,11 @@ http://trackme.theom.nz:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
+http://vps-dd0a0715.vps.ovh.net:6969/announce
+
 http://vps02.net.orel.ru:80/announce
+
+http://web.open-tracker.cf:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -63,6 +67,8 @@ https://tracker.tamersunion.org:443/announce
 https://tracker1.520.jp:443/announce
 
 https://trackme.theom.nz:443/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
 
@@ -111,8 +117,6 @@ udp://open.dstud.io:6969/announce
 udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
-
-udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
