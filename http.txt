@@ -18,6 +18,8 @@ http://chouchou.top:8080/announce
 
 http://dht.dhtclub.com:666/announce
 
+http://fe.dealclub.de:6969/announce
+
 http://fosstorrents.com:6969/announce
 
 http://incine.ru:6969/announce
@@ -39,8 +41,6 @@ http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -78,7 +78,11 @@ http://trackme.theom.nz:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
+http://vps-dd0a0715.vps.ovh.net:6969/announce
+
 http://vps02.net.orel.ru:80/announce
+
+http://web.open-tracker.cf:6969/announce
 
 http://wepzone.net:6969/announce
 
