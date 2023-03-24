@@ -20,8 +20,6 @@ http://dht.dhtclub.com:666/announce
 
 http://fe.dealclub.de:6969/announce
 
-http://fosstorrents.com:6969/announce
-
 http://incine.ru:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
@@ -29,8 +27,6 @@ http://montreal.nyap2p.com:8080/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -41,6 +37,8 @@ http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -60,9 +58,9 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -71,6 +69,8 @@ http://tracker.renfei.net:8080/announce
 http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -125,8 +125,6 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.mlsub.net:443/announce
-
-https://tracker.moeblog.cn:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
