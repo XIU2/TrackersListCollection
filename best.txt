@@ -6,11 +6,11 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -85,8 +85,6 @@ udp://bedro.cloud:6969/announce
 udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
-
-udp://chouchou.top:8080/announce
 
 udp://epider.me:6969/announce
 
@@ -165,6 +163,8 @@ udp://tracker.auctor.tv:6969/announce
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
+
+udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
