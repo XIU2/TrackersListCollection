@@ -44,11 +44,11 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 ### 更新时间: 2023-03-26
 
 - **精选列表：**(109 个)  
- _**[https://trackerslist.../best.txt](https://cdn.jsdelivr.ren/gh/XIU2/TrackersListCollection/best.txt)**_  
+ _**[https://trackerslist.../best.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/best.txt)**_  
 - **完整列表：**(186 个)  
- _**[https://trackerslist.../all.txt](https://cdn.jsdelivr.ren/gh/XIU2/TrackersListCollection/all.txt)**_  
+ _**[https://trackerslist.../all.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/all.txt)**_  
 - **HTTP(S)列表：**(67 个)  
- _**[https://trackerslist.../http.txt](https://cdn.jsdelivr.ren/gh/XIU2/TrackersListCollection/http.txt)**_  
+ _**[https://trackerslist.../http.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/http.txt)**_  
 
 > 上面的链接地址已改为 **CDN 分流**地址，以缓解因使用人数过多而导致的网络问题。
 
@@ -60,6 +60,8 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 \# **以下为完整列表 ` all.txt ` 示例（末尾文件名可自行修改，选择一个速度快的地址）：**  
  
 - _**https://cf.trackerslist.com/all.txt**_  
+- _**https://bitbucket.org/xiu2/trackerslistcollection/raw/master/all.txt**_  
+- _**https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/all.txt**_  
 - _**https://cdn.jsdelivr.ren/gh/XIU2/TrackersListCollection/all.txt**_  
 - _**https://raw.iqiq.io/XIU2/TrackersListCollection/master/all.txt**_  
 - _**https://raw.kgithub.com/XIU2/TrackersListCollection/master/all.txt**_  
@@ -79,9 +81,9 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 <details>
 <summary><strong><code>[点击展开] - 查看 Aria2 格式的 Tracker 列表</code></strong></summary>
 
-- _**[https://trackerslist.../best_aria2.txt](https://cdn.jsdelivr.ren/gh/XIU2/TrackersListCollection/best_aria2.txt)**_  
-- _**[https://trackerslist.../all_aria2.txt](https://cdn.jsdelivr.ren/gh/XIU2/TrackersListCollection/all_aria2.txt)**_  
-- _**[https://trackerslist.../http_aria2.txt](https://cdn.jsdelivr.ren/gh/XIU2/TrackersListCollection/http_aria2.txt)**_  
+- _**[https://trackerslist.../best_aria2.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/best_aria2.txt)**_  
+- _**[https://trackerslist.../all_aria2.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/all_aria2.txt)**_  
+- _**[https://trackerslist.../http_aria2.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/http_aria2.txt)**_  
 
 > 上面的链接地址已改为 **国内 CDN 分流**地址，以缓解因使用人数过多而导致的网络问题。
 
