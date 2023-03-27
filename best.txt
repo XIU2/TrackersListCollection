@@ -34,7 +34,7 @@ http://trackme.theom.nz:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
-http://vps02.net.orel.ru:80/announce
+http://web.open-tracker.cf:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -90,6 +90,8 @@ udp://epider.me:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://fe.dealclub.de:6969/announce
+
 udp://htz3.noho.st:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
@@ -131,8 +133,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://private.anonseed.com:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
-
-udp://run.publictracker.xyz:6969/announce
 
 udp://slicie.icon256.com:8000/announce
 
