@@ -67,7 +67,6 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 - _**https://raw.kgithub.com/XIU2/TrackersListCollection/master/all.txt**_  
 - _**[https://github.moeyy.xyz/.../XIU2/TrackersListCollection/master/all.txt](https://github.moeyy.xyz/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt)**_  
 - _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
-- _**https://raw.fastgit.org/XIU2/TrackersListCollection/master/all.txt**_  
 - _**https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/all.txt**_  
 
 </details>
