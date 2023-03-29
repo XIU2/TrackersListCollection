@@ -6,6 +6,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://p2p.0g.cx:6969/announce
 
 http://parag.rs:6969/announce
@@ -35,8 +37,6 @@ http://trackme.theom.nz:80/announce
 http://v6-tracker.0g.cx:6969/announce
 
 http://vps02.net.orel.ru:80/announce
-
-http://web.open-tracker.cf:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
