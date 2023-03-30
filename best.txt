@@ -14,6 +14,8 @@ http://parag.rs:6969/announce
 
 http://share.camoe.cn:8080/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -37,6 +39,8 @@ http://trackme.theom.nz:80/announce
 http://v6-tracker.0g.cx:6969/announce
 
 http://vps02.net.orel.ru:80/announce
+
+http://web.open-tracker.cf:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -124,8 +128,6 @@ udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
@@ -199,6 +201,8 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
