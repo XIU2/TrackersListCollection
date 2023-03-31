@@ -18,19 +18,17 @@ http://chouchou.top:8080/announce
 
 http://dht.dhtclub.com:666/announce
 
-http://fosstorrents.com:6969/announce
-
 http://incine.ru:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
-
-http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
+
+http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -50,13 +48,19 @@ http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.dler.com:6969/announce
+
 http://tracker.dler.org:6969/announce
+
+http://tracker.edkj.club:6969/announce
 
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -71,10 +75,6 @@ http://tracker.swateam.org.uk:2710/announce
 http://trackme.theom.nz:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
-
-http://vps02.net.orel.ru:80/announce
-
-http://web.open-tracker.cf:6969/announce
 
 http://wepzone.net:6969/announce
 
@@ -168,8 +168,6 @@ udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://camera.lei001.com:6969/announce
-
 udp://chouchou.top:8080/announce
 
 udp://concen.org:6969/announce
@@ -193,8 +191,6 @@ udp://ipv6.tracker.monitorit4.me:6969/announce
 udp://laze.cc:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
-
-udp://mirror.aptus.co.tz:6969/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -244,8 +240,6 @@ udp://sanincode.com:6969/announce
 
 udp://slicie.icon256.com:8000/announce
 
-udp://stargrave.org:6969/announce
-
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 udp://t.133335.xyz:6969/announce
@@ -259,8 +253,6 @@ udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
-
-udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
 
@@ -283,6 +275,8 @@ udp://tracker.beeimg.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
