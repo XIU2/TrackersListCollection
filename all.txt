@@ -24,9 +24,13 @@ http://incine.ru:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
-http://open.acgnxtracker.com:80/announce
+http://open.acgtracker.com:1096/announce
+
+http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -72,19 +76,19 @@ http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
 
-http://tracker2.dler.org:80/announce
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://trackme.theom.nz:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
+
+http://vps02.net.orel.ru:80/announce
 
 http://web.open-tracker.cf:6969/announce
 
 http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -339,8 +343,6 @@ udp://tracker1.myporn.club:9337/announce
 udp://tracker2.dler.com:80/announce
 
 udp://tracker2.dler.org:80/announce
-
-udp://tracker6.lelux.fi:6969/announce
 
 udp://trackerb.jonaslsa.com:6969/announce
 
