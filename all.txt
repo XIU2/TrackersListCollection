@@ -10,13 +10,13 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.endpot.com:80/announce
 
+http://bt.okmp3.ru:2710/announce
+
 http://bt1.letpo.com:80/announce
 
 http://chouchou.top:8080/announce
 
 http://dht.dhtclub.com:666/announce
-
-http://fosstorrents.com:6969/announce
 
 http://incine.ru:6969/announce
 
@@ -62,9 +62,9 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.qu.ax:6969/announce
-
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.srv00.com:6969/announce
 
@@ -323,8 +323,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.yangxiaoguozi.cn:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 

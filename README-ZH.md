@@ -41,11 +41,11 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 
 ****
 
-### 更新时间: 2023-04-02
+### 更新时间: 2023-04-03
 
-- **精选列表：**(108 个)  
+- **精选列表：**(109 个)  
  _**[https://trackerslist.../best.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/best.txt)**_  
-- **完整列表：**(180 个)  
+- **完整列表：**(179 个)  
  _**[https://trackerslist.../all.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/all.txt)**_  
 - **HTTP(S)列表：**(63 个)  
  _**[https://trackerslist.../http.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/http.txt)**_  
