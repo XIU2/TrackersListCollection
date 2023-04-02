@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://incine.ru:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
@@ -29,8 +27,6 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -107,8 +103,6 @@ udp://mail.artixlinux.org:6969/announce
 udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
-
-udp://new-line.net:6969/announce
 
 udp://open.4ever.tk:6969/announce
 
