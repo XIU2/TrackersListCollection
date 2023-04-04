@@ -2,11 +2,11 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://incine.ru:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -29,6 +29,8 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.openbittorrent.com:80/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -81,6 +83,8 @@ udp://aegir.sexy:6969/announce
 udp://astrr.ru:6969/announce
 
 udp://bedro.cloud:6969/announce
+
+udp://boysbitte.be:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -142,8 +146,6 @@ udp://thetracker.org:80/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
-udp://tr2.cubonegro.lol:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
@@ -181,8 +183,6 @@ udp://tracker.monitorit4.me:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
-
-udp://tracker.pimpmyworld.to:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
