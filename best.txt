@@ -1,5 +1,7 @@
 http://1337.abcvg.info:80/announce
 
+http://bt.endpot.com:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://incine.ru:6969/announce
@@ -7,8 +9,6 @@ http://incine.ru:6969/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -30,9 +30,9 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.renfei.net:8080/announce
+http://tracker.openbittorrent.com:80/announce
 
-http://tracker.skyts.net:6969/announce
+http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -100,6 +100,8 @@ udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://laze.cc:6969/announce
 
+udp://linfan.moe:6969/announce
+
 udp://mail.artixlinux.org:6969/announce
 
 udp://moonburrow.club:6969/announce
@@ -128,13 +130,9 @@ udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://private.anonseed.com:6969/announce
-
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run.publictracker.xyz:6969/announce
-
-udp://slicie.icon256.com:8000/announce
 
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
@@ -174,6 +172,8 @@ udp://tracker.doko.moe:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
+udp://tracker.jonaslsa.com:6969/announce
+
 udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.leech.ie:1337/announce
@@ -193,6 +193,8 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
