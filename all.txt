@@ -12,9 +12,13 @@ http://bt.endpot.com:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://bt1.letpo.com:80/announce
+
 http://chouchou.top:8080/announce
 
 http://dht.dhtclub.com:666/announce
+
+http://fosstorrents.com:6969/announce
 
 http://incine.ru:6969/announce
 
@@ -23,8 +27,6 @@ http://montreal.nyap2p.com:8080/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -35,6 +37,8 @@ http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -52,17 +56,15 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.lelux.fi:80/announce
-
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.srv00.com:6969/announce
 
@@ -71,8 +73,6 @@ http://tracker.swateam.org.uk:2710/announce
 http://tracker2.dler.org:80/announce
 
 http://trackme.theom.nz:80/announce
-
-http://uraniumhexafluori.de:1919/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
@@ -158,6 +158,8 @@ udp://aegir.sexy:6969/announce
 
 udp://astrr.ru:6969/announce
 
+udp://bedro.cloud:6969/announce
+
 udp://black-bird.ynh.fr:6969/announce
 
 udp://boysbitte.be:6969/announce
@@ -207,8 +209,6 @@ udp://open.dstud.io:6969/announce
 udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
-
-udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -262,8 +262,6 @@ udp://tr.cili001.com:8070/announce
 
 udp://tr2.cubonegro.lol:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -277,8 +275,6 @@ udp://tracker.beeimg.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
@@ -349,6 +345,8 @@ udp://v2.iperson.xyz:6969/announce
 udp://wepzone.net:6969/announce
 
 udp://www.peckservers.com:9000/announce
+
+udp://zecircle.xyz:6969/announce
 
 ws://hub.bugout.link:80/announce
 
