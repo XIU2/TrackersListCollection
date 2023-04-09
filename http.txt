@@ -1,6 +1,10 @@
 http://1337.abcvg.info:80/announce
 
+http://147job.com:6969/announce
+
 http://207.241.226.111:6969/announce
+
+http://207.241.231.226:6969/announce
 
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
@@ -10,11 +14,11 @@ http://bt.endpot.com:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://bt1.letpo.com:80/announce
+
 http://chouchou.top:8080/announce
 
 http://dht.dhtclub.com:666/announce
-
-http://fosstorrents.com:6969/announce
 
 http://incine.ru:6969/announce
 
@@ -33,8 +37,6 @@ http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -55,8 +57,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.lelux.fi:80/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -115,6 +115,8 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.mlsub.net:443/announce
 
 https://tracker.moeblog.cn:443/announce
 

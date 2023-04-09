@@ -32,6 +32,8 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.tfile.co:80/announce
 
 http://trackme.theom.nz:80/announce
@@ -201,6 +203,8 @@ udp://uploads.gamecoast.net:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://wepzone.net:6969/announce
+
+udp://zecircle.xyz:6969/announce
 
 ws://hub.bugout.link:80/announce
 
