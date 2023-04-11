@@ -6,8 +6,6 @@ http://bt.okmp3.ru:2710/announce
 
 http://dn42.smrsh.net:6969/announce
 
-http://incine.ru:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -32,7 +30,11 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -179,6 +181,8 @@ udp://tracker.leech.ie:1337/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
+
+udp://tracker.nullrouted.me:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
