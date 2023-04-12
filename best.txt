@@ -30,8 +30,6 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
@@ -51,8 +49,6 @@ https://1337.abcvg.info:443/announce
 https://opentracker.i2p.rocks:443/announce
 
 https://t1.hloli.org:443/announce
-
-https://tr.abiir.top:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
