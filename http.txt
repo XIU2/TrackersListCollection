@@ -12,15 +12,13 @@ http://bt.endpot.com:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://bt1.letpo.com:80/announce
-
 http://chouchou.top:8080/announce
+
+http://dn42.smrsh.net:6969/announce
 
 http://fe.dealclub.de:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
-
-http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -35,8 +33,6 @@ http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -53,6 +49,8 @@ http://tracker.dler.org:6969/announce
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
+
+http://tracker.lelux.fi:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -107,8 +105,6 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
-
-https://tracker.mlsub.net:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
