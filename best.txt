@@ -32,8 +32,6 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
