@@ -12,15 +12,23 @@ http://bt.endpot.com:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://bt1.letpo.com:80/announce
+
 http://chouchou.top:8080/announce
 
 http://dn42.smrsh.net:6969/announce
+
+http://fe.dealclub.de:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
+
+http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -31,6 +39,8 @@ http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -50,8 +60,6 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.lelux.fi:80/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
@@ -63,8 +71,6 @@ http://tracker.renfei.net:8080/announce
 http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -86,6 +92,8 @@ https://1337.abcvg.info:443/announce
 
 https://opentracker.i2p.rocks:443/announce
 
+https://t.zerg.pw:443/announce
+
 https://t1.hloli.org:443/announce
 
 https://torrent-tracker.hama3.net:443/announce
@@ -102,13 +110,13 @@ https://tracker.imgoingto.icu:443/announce
 
 https://tracker.kuroy.me:443/announce
 
+https://tracker.lelux.fi:443/announce
+
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
-
-https://tracker.mlsub.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
