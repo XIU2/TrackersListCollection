@@ -12,8 +12,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -21,6 +19,8 @@ http://tr.cili001.com:8070/announce
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
+
+http://tracker.gbitt.info:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -43,6 +43,8 @@ https://t1.hloli.org:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
+
+https://tracker.gbitt.info:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -130,6 +132,8 @@ udp://thouvenin.cloud:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -151,6 +155,8 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
+
+udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
