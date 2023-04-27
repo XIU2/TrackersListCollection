@@ -43,11 +43,11 @@ _可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.
 
 ### 更新时间: 2023-04-27
 
-- **精选列表：**(102 个)  
+- **精选列表：**(106 个)  
  _**[https://trackerslist.../best.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/best.txt)**_  
-- **完整列表：**(174 个)  
+- **完整列表：**(172 个)  
  _**[https://trackerslist.../all.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/all.txt)**_  
-- **HTTP(S)列表：**(57 个)  
+- **HTTP(S)列表：**(56 个)  
  _**[https://trackerslist.../http.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/http.txt)**_  
 
 > 上面的链接地址已改为 **CDN 分流**地址，以缓解因使用人数过多而导致的网络问题。
