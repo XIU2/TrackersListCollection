@@ -4,8 +4,6 @@ http://bt.okmp3.ru:2710/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.acgnxtracker.com:80/announce
-
 http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
@@ -15,8 +13,6 @@ http://parag.rs:6969/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -190,7 +186,11 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker1.bt.moack.co.kr:80/announce
+
 udp://tracker2.dler.com:80/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
