@@ -48,6 +48,8 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.edkj.club:6969/announce
 
 http://tracker.files.fm:6969/announce
@@ -63,6 +65,8 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.srv00.com:6969/announce
 
@@ -108,6 +112,8 @@ https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
+https://tracker.logirl.moe:443/announce
+
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -139,8 +145,6 @@ udp://[2a0f:e586:f:f::81]:6969/announce
 udp://aarsen.me:6969/announce
 
 udp://acxx.de:6969/announce
-
-udp://admin.52ywp.com:6969/announce
 
 udp://aegir.sexy:6969/announce
 
@@ -178,6 +182,8 @@ udp://inferno.demonoid.is:3391/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
+udp://laze.cc:6969/announce
+
 udp://linfan.moe:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
@@ -193,8 +199,6 @@ udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
-
-udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
