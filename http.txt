@@ -18,8 +18,6 @@ http://fe.dealclub.de:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -70,6 +68,8 @@ http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
 
+http://tracker2.dler.org:80/announce
+
 http://v6-tracker.0g.cx:6969/announce
 
 http://vps-dd0a0715.vps.ovh.net:6969/announce
@@ -85,8 +85,6 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://opentracker.i2p.rocks:443/announce
-
-https://t.zerg.pw:443/announce
 
 https://t1.hloli.org:443/announce
 
