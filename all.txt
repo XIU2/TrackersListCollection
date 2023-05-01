@@ -14,13 +14,15 @@ http://bt.okmp3.ru:2710/announce
 
 http://chouchou.top:8080/announce
 
-http://fe.dealclub.de:6969/announce
-
 http://montreal.nyap2p.com:8080/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
+
+http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -54,6 +56,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
@@ -66,7 +70,7 @@ http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker2.dler.org:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
@@ -106,6 +110,8 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
+https://tracker.mlsub.net:443/announce
+
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
@@ -141,6 +147,8 @@ udp://aegir.sexy:6969/announce
 udp://astrr.ru:6969/announce
 
 udp://bedro.cloud:6969/announce
+
+udp://black-bird.ynh.fr:6969/announce
 
 udp://boysbitte.be:6969/announce
 
@@ -188,6 +196,8 @@ udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
@@ -233,6 +243,8 @@ udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
+
+udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
 
@@ -317,8 +329,6 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://uploads.gamecoast.net:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
-
-udp://v2.iperson.xyz:6969/announce
 
 udp://wepzone.net:6969/announce
 
