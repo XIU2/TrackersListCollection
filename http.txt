@@ -14,7 +14,11 @@ http://bt.okmp3.ru:2710/announce
 
 http://chouchou.top:8080/announce
 
+http://fe.dealclub.de:6969/announce
+
 http://montreal.nyap2p.com:8080/announce
+
+http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -56,15 +60,11 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.srv00.com:6969/announce
 

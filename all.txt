@@ -14,7 +14,11 @@ http://bt.okmp3.ru:2710/announce
 
 http://chouchou.top:8080/announce
 
+http://fe.dealclub.de:6969/announce
+
 http://montreal.nyap2p.com:8080/announce
+
+http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -56,15 +60,11 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.srv00.com:6969/announce
 
@@ -178,8 +178,6 @@ udp://inferno.demonoid.is:3391/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
-udp://laze.cc:6969/announce
-
 udp://linfan.moe:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
@@ -213,6 +211,8 @@ udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
 
