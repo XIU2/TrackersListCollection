@@ -34,6 +34,8 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
 
+http://tracker.tfile.co:80/announce
+
 http://v6-tracker.0g.cx:6969/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -192,8 +194,6 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
-udp://tracker6.lelux.fi:6969/announce
-
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
@@ -203,8 +203,6 @@ udp://uploads.gamecoast.net:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://wepzone.net:6969/announce
-
-udp://zecircle.xyz:6969/announce
 
 ws://hub.bugout.link:80/announce
 
