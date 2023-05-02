@@ -14,6 +14,8 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -29,8 +31,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -103,8 +103,6 @@ udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
-
-udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -185,6 +183,8 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
