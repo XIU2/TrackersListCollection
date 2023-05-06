@@ -14,11 +14,15 @@ http://bt.okmp3.ru:2710/announce
 
 http://chouchou.top:8080/announce
 
-http://fe.dealclub.de:6969/announce
-
 http://montreal.nyap2p.com:8080/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
+
+http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -62,8 +66,6 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
@@ -87,8 +89,6 @@ https://opentracker.i2p.rocks:443/announce
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
