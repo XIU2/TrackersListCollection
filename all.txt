@@ -16,11 +16,15 @@ http://chouchou.top:8080/announce
 
 http://fe.dealclub.de:6969/announce
 
+http://incine.ru:6969/announce
+
 http://montreal.nyap2p.com:8080/announce
 
 http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
+
+http://open.acgnxtracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -34,8 +38,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -43,6 +45,8 @@ http://tr.cili001.com:8070/announce
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -53,6 +57,8 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -67,6 +73,10 @@ http://tracker.skyts.net:6969/announce
 http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
+
+http://tracker2.dler.org:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
@@ -87,6 +97,8 @@ https://opentracker.i2p.rocks:443/announce
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
+
+https://tr.ready4.icu:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -262,6 +274,8 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
+udp://tracker.bittor.pw:1337/announce
+
 udp://tracker.cubonegro.lol:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
@@ -279,6 +293,8 @@ udp://tracker.jonaslsa.com:6969/announce
 udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.leech.ie:1337/announce
+
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
