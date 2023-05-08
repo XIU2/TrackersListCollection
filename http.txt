@@ -24,8 +24,6 @@ http://open.acgnxtracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
 
-http://open.tracker.ink:6969/announce
-
 http://p2p.0g.cx:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -61,6 +59,8 @@ http://tracker.k.vu:6969/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
+
+http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -111,6 +111,8 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.mlsub.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
