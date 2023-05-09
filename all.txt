@@ -14,8 +14,6 @@ http://bt.okmp3.ru:2710/announce
 
 http://chouchou.top:8080/announce
 
-http://fe.dealclub.de:6969/announce
-
 http://incine.ru:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
@@ -64,6 +62,8 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.peckservers.com:9000/announce
+
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
@@ -84,13 +84,13 @@ http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
+http://www.peckservers.com:9000/announce
+
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
 https://opentracker.i2p.rocks:443/announce
-
-https://t.zerg.pw:443/announce
 
 https://t1.hloli.org:443/announce
 
@@ -113,8 +113,6 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
-
-https://tracker.mlsub.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -175,6 +173,8 @@ udp://exodus.desync.com:6969/announce
 udp://fe.dealclub.de:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
+
+udp://freedom.1776.ga:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
@@ -237,8 +237,6 @@ udp://stargrave.org:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 udp://t.133335.xyz:6969/announce
-
-udp://t.zerg.pw:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
@@ -337,8 +335,6 @@ udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
 
 udp://wepzone.net:6969/announce
-
-udp://www.peckservers.com:9000/announce
 
 udp://www.torrent.eu.org:451/announce
 
