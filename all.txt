@@ -14,6 +14,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://chouchou.top:8080/announce
 
+http://fe.dealclub.de:6969/announce
+
 http://incine.ru:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
@@ -23,8 +25,6 @@ http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
-
-http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -69,6 +69,8 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
+
+http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
 
@@ -172,8 +174,6 @@ udp://fe.dealclub.de:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
 
-udp://freedom.1776.ga:6969/announce
-
 udp://htz3.noho.st:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
@@ -199,6 +199,8 @@ udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -267,6 +269,8 @@ udp://tracker.auctor.tv:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 

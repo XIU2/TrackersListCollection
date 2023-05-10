@@ -4,8 +4,6 @@ http://bt.okmp3.ru:2710/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.tracker.ink:6969/announce
-
 http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
@@ -35,8 +33,6 @@ http://tracker.openbittorrent.com:80/announce
 http://tracker.peckservers.com:9000/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -108,6 +104,8 @@ udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
@@ -142,6 +140,8 @@ udp://thouvenin.cloud:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -162,9 +162,7 @@ udp://tracker.doko.moe:6969/announce
 
 udp://tracker.farted.net:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
-udp://tracker.joybomb.tw:6969/announce
+udp://tracker.jonaslsa.com:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
