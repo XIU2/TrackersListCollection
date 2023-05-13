@@ -14,6 +14,8 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -31,8 +33,6 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.peckservers.com:9000/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -61,6 +61,8 @@ https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
 
