@@ -14,9 +14,13 @@ http://bt.okmp3.ru:2710/announce
 
 http://chouchou.top:8080/announce
 
+http://fe.dealclub.de:6969/announce
+
 http://incine.ru:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
+
+http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
