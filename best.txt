@@ -6,8 +6,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
@@ -51,8 +49,6 @@ https://tr.burnabyhighstar.com:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
-
-https://tracker.ipfsscan.io:443/announce
 
 https://tracker.jiesen.life:8443/announce
 
