@@ -20,8 +20,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://p2p.0g.cx:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -62,7 +60,7 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.srv00.com:6969/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker.swateam.org.uk:2710/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -214,6 +212,8 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://rep-art.ynh.fr:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -326,12 +326,8 @@ udp://uploads.gamecoast.net:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
-udp://v2.iperson.xyz:6969/announce
-
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-ws://hub.bugout.link:80/announce
 
 wss://tracker.openwebtorrent.com:443/announce
