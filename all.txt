@@ -30,6 +30,8 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -51,6 +53,8 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -78,11 +82,11 @@ https://1337.abcvg.info:443/announce
 
 https://opentracker.i2p.rocks:443/announce
 
+https://t.zerg.pw:443/announce
+
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -107,6 +111,8 @@ https://tracker.moeblog.cn:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
+
+udp://1337.la:6969/announce
 
 udp://184.105.151.166:6969/announce
 
@@ -228,6 +234,8 @@ udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 udp://t.133335.xyz:6969/announce
 
+udp://t.zerg.pw:6969/announce
+
 udp://tamas3.ynh.fr:6969/announce
 
 udp://thagoat.rocks:6969/announce
@@ -241,6 +249,8 @@ udp://torrents.artixlinux.org:6969/announce
 udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
 
