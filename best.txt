@@ -68,8 +68,6 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://1337.la:6969/announce
-
 udp://9.rarbg.com:2810/announce
 
 udp://aarsen.me:6969/announce
@@ -79,8 +77,6 @@ udp://acxx.de:6969/announce
 udp://aegir.sexy:6969/announce
 
 udp://astrr.ru:6969/announce
-
-udp://bedro.cloud:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
