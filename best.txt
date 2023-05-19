@@ -12,6 +12,8 @@ http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
+http://shogiroom.com:6969/announce
+
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
@@ -76,8 +78,6 @@ udp://aarsen.me:6969/announce
 
 udp://acxx.de:6969/announce
 
-udp://aegir.sexy:6969/announce
-
 udp://astrr.ru:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
@@ -111,8 +111,6 @@ udp://open.dstud.io:6969/announce
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
-
-udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
