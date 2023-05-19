@@ -180,6 +180,8 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.trojangogogo.site:8080/announce
