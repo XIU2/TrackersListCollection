@@ -14,8 +14,6 @@ http://shogiroom.com:6969/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -78,8 +76,6 @@ udp://acxx.de:6969/announce
 
 udp://astrr.ru:6969/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://epider.me:6969/announce
@@ -141,8 +137,6 @@ udp://thouvenin.cloud:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
-
-udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.artixlinux.org:6969/announce
 
