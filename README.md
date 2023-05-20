@@ -24,7 +24,7 @@ _The figure below shows the BT download speed after using Tracker. (all.txt)_
 ![BitComet](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-01.png)
 ![qBittorrentEE](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-02.png)
 
-_You can judge whether there is a problem with the BT configuration and network by observing the download speed of [**ubuntu.torrent**](https://releases.ubuntu.com/20.04/ubuntu-20.04.4-desktop-amd64.iso.torrent). There are many users of this popular resource, and the download speed should be very fast under normal circumstances._
+_You can judge whether there is a problem with the BT configuration and network by observing the download speed of [**ubuntu.torrent**](https://ubuntu.com/download/alternative-downloads#bittorrent). There are many users of this popular resource, and the download speed should be very fast under normal circumstances._
 
 ****
 
