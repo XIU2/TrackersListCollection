@@ -5,9 +5,9 @@
 [![GitHub Fork](https://img.shields.io/github/forks/XIU2/TrackersListCollection.svg?style=flat-square&label=Fork&color=4285dd&logo=github)](https://github.com/XIU2/TrackersListCollection/)
 [![TrackersList.com](https://img.shields.io/static/v1?label=%20&message=TrackersList.com&style=flat-square&labelColor=4B93F1&color=4285dd&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAYUlEQVR42mP0nvzxPwMFgBHdgOYAbji7dsNX0g1IseeEs+cc/E68AVty+Ehyus+UT4PNAGxhEKDLiqGBYCDCYuHh+3/DzYANl38zyAsywfmwRDYIDUAGyGmD6DCgqgHEAADqpnHxT0ZWTwAAAABJRU5ErkJggg==)](https://trackerslist.com)
 
-每天更新！全网热门 BitTorrent Tracker 列表！**觉得好用请点个[⭐](https://github.com/XIU2/TrackersListCollection/stargazers) 鼓励一下叭~**   
+每天更新！全网热门 BitTorrent Tracker 列表！**觉得好用请点个[⭐](https://github.com/XIU2/TrackersListCollection/stargazers) 叭~**   
 
-本项目整合了全网热门 Tracker，经过筛选过滤，最终得到了一个优质的 Tracker 列表方便大家使用~  
+本项目整合了全网热门 Tracker，经过筛选过滤，最终得到了一个优质的 Tracker 列表，自用的同时也顺便分享给大家~  
 
 > 「[English](https://github.com/XIU2/TrackersListCollection/#readme)」(Visitors at [trackerslist.com](https://trackerslist.com/), please switch languages via the top right corner↗)  
 
@@ -196,8 +196,12 @@ _**更详细、完整的请看我写的这篇文章：[为什么国内 BT 环境
 
 ****
 
-说实话，这个项目起初只是为了解决我个人的小需求**自给自足自用**的，没啥技术含量，结果没想到几年过去了，用的人越来越多了，⭐Star 竟然都突破了 **10k**！成为了我所有开源项目中数据最高的项目，属实把我惊到了。。。  
-总之，能帮到这么多和我有相同需求的人，感觉挺不错~
+说实话，该项目起初只是为了解决我平时下载 BT 时的一点小需求而随手制作自用的，完全没有技术含量，结果没想到几年过去了，莫名其妙用的人越来越多了，⭐Star 竟然都有几十K了！属实把我惊到了。。。后续又整了个域名看起来顺眼多了~  
+总之，我是个爱分享的人，因此该项目能帮到这么多和我有相同需求的人，还挺有意思~
+
+> 另外，考虑到该项目只是个功能简单的小项目，因此不想牵扯我过多精力，因此干脆**关闭了 Issues 不再接受提交 Tracker 地址**。  
+
+> 如果你发现了明显错误，或想要删除某条 Tracker，可以提交 **Pull requests** 提醒我。
 
 ****
 

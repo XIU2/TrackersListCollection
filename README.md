@@ -7,7 +7,7 @@
 
 Updated daily! A list of popular BitTorrent Trackers. **If you feel good, please [⭐](https://github.com/XIU2/TrackersListCollection/stargazers)!**  
 
-Integrated the popular Tracker, after filtering, finally got a high-quality Tracker list collection ~  
+I've put together a kick-ass list of top-notch trackers by scouring the web and handpicking only the best ones. It's good enough for my own use, so I thought I'd share it with y'all~  
 
 > 「[简体中文](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md)」(位于 [trackerslist.com](https://trackerslist.com/#/zh) 的访客，可通过右上角切换语言 ↗)  
 
@@ -118,6 +118,12 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 > <small>_**http://www.filecxx.com**_</small>
 
 <img src="https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-14.png" width="50%">
+
+****
+
+> In addition, considering that the project is just a small project with simple functions, I don't want to involve too much energy, **so I closed Issues and no longer accept submission Tracker addresses.**  
+
+> If you find an obvious error, or want to delete a Tracker, you can submit a **Pull request** to alert me.
 
 ****
 
