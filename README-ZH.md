@@ -32,7 +32,7 @@
 
  > _**以上三者的优缺点是互补的，不存在谁替代谁，只有互相搭配 一起使用 效果才最好~**_
 
-_下图是使用我整理的 Tracker 列表下载BT的速度（all.txt）。_
+_下图是使用我整理的 Tracker 列表下载BT的速度（best.txt）。_
 
 ![BitComet](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/zh-01.png)
 ![qBittorrentEE](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/zh-02.png)
@@ -57,18 +57,18 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 
 ****
 
-\# **以下为完整列表 ` all.txt ` 示例（末尾文件名可自行修改，选择一个速度快的地址）：**  
+\# **以下为完整列表 ` best.txt ` 示例（末尾文件名可自行修改，选择一个速度快的地址）：**  
  
-- _**https://cf.trackerslist.com/all.txt**_  
-- _**https://bitbucket.org/xiu2/trackerslistcollection/raw/master/all.txt**_  
-- _**https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/all.txt**_  
-- _**https://cdn.jsdelivr.ren/gh/XIU2/TrackersListCollection/all.txt**_  
-- _**https://raw.iqiq.io/XIU2/TrackersListCollection/master/all.txt**_  
-- _**https://raw.kgithub.com/XIU2/TrackersListCollection/master/all.txt**_  
-- _**[https://github.moeyy.xyz/.../XIU2/TrackersListCollection/master/all.txt](https://github.moeyy.xyz/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt)**_  
-- _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
-- _**https://raw.fastgit.org/XIU2/TrackersListCollection/master/all.txt**_  
-- _**https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/all.txt**_  
+- _**https://cf.trackerslist.com/best.txt**_  
+- _**https://bitbucket.org/xiu2/trackerslistcollection/raw/master/best.txt**_  
+- _**https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/best.txt**_  
+- _**https://cdn.jsdelivr.ren/gh/XIU2/TrackersListCollection/best.txt**_  
+- _**https://raw.iqiq.io/XIU2/TrackersListCollection/master/best.txt**_  
+- _**https://raw.kgithub.com/XIU2/TrackersListCollection/master/best.txt**_  
+- _**[https://github.moeyy.xyz/.../XIU2/TrackersListCollection/master/best.txt](https://github.moeyy.xyz/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
+- _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
+- _**https://raw.fastgit.org/XIU2/TrackersListCollection/master/best.txt**_  
+- _**https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/best.txt**_  
 
 </details>
 
@@ -85,7 +85,7 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 - _**[https://trackerslist.../all_aria2.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/all_aria2.txt)**_  
 - _**[https://trackerslist.../http_aria2.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/http_aria2.txt)**_  
 
-> 上面的链接地址已改为 **国内 CDN 分流**地址，以缓解因使用人数过多而导致的网络问题。
+> 上面的链接地址已改为 **国内 CDN 分流**地址，其他分流地址和上面的一样（只需改下文件名）。
 
 </details>
 
@@ -164,7 +164,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 这是很常见的情况，很多因素都会导致这种情况的出现。
 
 - **首先**，目前热门 Tracker 基本都是国外服务器（毕竟国内要备案），因此可能会出现链接问题 ...  
-_（一般 HTTPS 的链接成功率更高，HTTP、UDP 这种明文的容易被运营商干扰、屏蔽 ..._
+_（HTTPS 的链接成功率更高，但太少了，而 HTTP、UDP 这种明文的容易被运营商干扰、屏蔽 ..._
 - **其次**，一些 Tracker 域名/ IP 可能被你当地运营商屏蔽了（特别是移动这个问题比较严重 ...  
 - **相应**，一些 Tracker 服务器也可能屏蔽了 国内用户 / 你的 BT 软件（这就要问问迅雷了~  
 - **最后**，一些 Tracker 服务器没有你当前正在下载资源的相关信息。  
@@ -182,7 +182,7 @@ _（一般 HTTPS 的链接成功率更高，HTTP、UDP 这种明文的容易被�
 
 > 另外，不仅要关注**用户数量**，还要关注**用户质量**，因为国内绝大部分家庭宽带都没有公网 IP，因此上传速度比较捉急，另一方面也是运营商上传不对等，还老是干扰 BT、限制 UDP 协议，这也是国内BT环境这么差的主要原因之一。  
 
-> 申请不到**公网 IPv4** 的用户，建议改用 **IPv6**（这个都是公网），也能有效**提高下载/上传速度**。
+> 申请不到**公网 IPv4** 的用户，建议改用 **IPv6**（这个都是公网，注意开放防火墙），也能有效**提高下载/上传速度**。
 
 迅雷会员加速的本质就是**解除连接用户限制**，让你可以连接到更多的用户，来 `有效` 提高下载速度。
 
@@ -205,7 +205,7 @@ _**更详细、完整的请看我写的这篇文章：[为什么国内 BT 环境
 
 ****
 
-### 赞赏支持
+### 赞赏支持 👍
 
 ![微信赞赏](https://cdn.staticaly.com/gh/XIU2/XIU2/master/img/zs-01.png)![支付宝赞赏](https://cdn.staticaly.com/gh/XIU2/XIU2/master/img/zs-02.png)
 
