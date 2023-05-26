@@ -28,11 +28,17 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.k.vu:6969/announce
 
+http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
+
+http://vps-dd0a0715.vps.ovh.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -57,8 +63,6 @@ https://tracker.jiesen.life:8443/announce
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
-
-https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
@@ -136,6 +140,8 @@ udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
 
+udp://tracker.altrosky.nl:6969/announce
+
 udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -173,8 +179,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.trojangogogo.site:8080/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
