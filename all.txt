@@ -70,7 +70,7 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.swateam.org.uk:2710/announce
 
-http://tracker2.dler.org:80/announce
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
@@ -239,6 +239,8 @@ udp://t.133335.xyz:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 
 udp://thagoat.rocks:6969/announce
+
+udp://thinking.duckdns.org:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
