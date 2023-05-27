@@ -24,9 +24,9 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
 
-http://tracker.gbitt.info:80/announce
-
 http://tracker.k.vu:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -47,8 +47,6 @@ https://opentracker.i2p.rocks:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
-
-https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -170,9 +168,13 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.trojangogogo.site:8080/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
