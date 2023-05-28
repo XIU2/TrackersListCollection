@@ -8,6 +8,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://p2p.0g.cx:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
@@ -29,6 +31,10 @@ http://tr.cili001.com:8070/announce
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
+
+http://tracker.gbitt.info:80/announce
+
+http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
@@ -52,6 +58,8 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
+https://tracker.gbitt.info:443/announce
+
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
@@ -61,6 +69,8 @@ https://tracker.jiesen.life:8443/announce
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
+
+https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
@@ -103,6 +113,8 @@ udp://htz3.noho.st:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
+
+udp://laze.cc:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
 
@@ -169,6 +181,8 @@ udp://tracker.artixlinux.org:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
