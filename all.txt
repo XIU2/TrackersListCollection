@@ -10,9 +10,13 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.endpot.com:80/announce
 
+http://bt.okmp3.ru:2710/announce
+
 http://chouchou.top:8080/announce
 
 http://fe.dealclub.de:6969/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
 
@@ -47,6 +51,8 @@ http://tr.cili001.com:8070/announce
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -89,6 +95,10 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://opentracker.i2p.rocks:443/announce
+
+https://t.zerg.pw:443/announce
+
+https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -200,6 +210,8 @@ udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
+udp://netmap.top:6969/announce
+
 udp://new-line.net:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
@@ -232,8 +244,6 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://rep-art.ynh.fr:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -254,6 +264,8 @@ udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 udp://t.133335.xyz:6969/announce
 
+udp://t.zerg.pw:6969/announce
+
 udp://tamas3.ynh.fr:6969/announce
 
 udp://thagoat.rocks:6969/announce
@@ -267,6 +279,8 @@ udp://torrents.artixlinux.org:6969/announce
 udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
 
