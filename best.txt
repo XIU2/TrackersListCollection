@@ -10,8 +10,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://p2p.0g.cx:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
@@ -126,8 +124,6 @@ udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://laze.cc:6969/announce
 
-udp://mail.artixlinux.org:6969/announce
-
 udp://market-re.quest:6969/announce
 
 udp://moonburrow.club:6969/announce
@@ -193,8 +189,6 @@ udp://thouvenin.cloud:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.altrosky.nl:6969/announce
-
-udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
