@@ -14,19 +14,19 @@ http://bt.okmp3.ru:2710/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
+http://ch3oh.ru:6969/announce
+
 http://chouchou.top:8080/announce
 
-http://fe.dealclub.de:6969/announce
+http://ipv4announce.sktorrent.eu:6969/announce
+
+http://li2021-95.members.linode.com:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
-
-http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -40,21 +40,17 @@ http://smurfsoft.com:6969/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://thitgaluoc.dynu.net:6969/announce
 
 http://torrentsmd.com:8080/announce
-
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -66,6 +62,8 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
@@ -76,7 +74,11 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker2.dler.org:80/announce
+
+http://unknownsite.de:6969/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
@@ -85,6 +87,8 @@ http://vps-dd0a0715.vps.ovh.net:6969/announce
 http://vps02.net.orel.ru:80/announce
 
 http://wepzone.net:6969/announce
+
+http://wg.mortis.me:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
