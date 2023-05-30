@@ -26,7 +26,7 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
+http://open.acgtracker.com:1096/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -39,8 +39,6 @@ http://share.camoe.cn:8080/announce
 http://smurfsoft.com:6969/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://thitgaluoc.dynu.net:6969/announce
 
@@ -59,6 +57,8 @@ http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 
 http://tracker.files.fm:6969/announce
+
+http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -105,6 +105,8 @@ https://tr.burnabyhighstar.com:443/announce
 https://tr.ready4.icu:443/announce
 
 https://tracker.foreverpirates.co:443/announce
+
+https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
