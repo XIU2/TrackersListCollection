@@ -44,6 +44,8 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.tfile.co:80/announce
 
 http://unknownsite.de:6969/announce
@@ -99,10 +101,6 @@ udp://aarsen.me:6969/announce
 udp://acxx.de:6969/announce
 
 udp://astrr.ru:6969/announce
-
-udp://astrra.space:6969/announce
-
-udp://axell24.ru:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
