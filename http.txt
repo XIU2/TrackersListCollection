@@ -14,9 +14,9 @@ http://bt.okmp3.ru:2710/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
-http://ch3oh.ru:6969/announce
-
 http://chouchou.top:8080/announce
+
+http://fe.dealclub.de:6969/announce
 
 http://li2021-95.members.linode.com:6969/announce
 
@@ -40,8 +40,6 @@ http://smurfsoft.com:6969/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://thitgaluoc.dynu.net:6969/announce
 
 http://torrentsmd.com:8080/announce
@@ -52,7 +50,7 @@ http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.dler.com:6969/announce
+http://tracker.dler.org:6969/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -63,6 +61,8 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
