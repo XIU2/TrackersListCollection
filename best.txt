@@ -42,6 +42,8 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.tfile.co:80/announce
 
 http://unknownsite.de:6969/announce
