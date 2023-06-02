@@ -14,6 +14,10 @@ http://bt.okmp3.ru:2710/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
+http://ch3oh.ru:6969/announce
+
+http://fe.dealclub.de:6969/announce
+
 http://li2021-95.members.linode.com:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
@@ -21,6 +25,8 @@ http://montreal.nyap2p.com:8080/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -33,8 +39,6 @@ http://share.camoe.cn:8080/announce
 http://smurfsoft.com:6969/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://thitgaluoc.dynu.net:6969/announce
 
@@ -50,6 +54,10 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
+http://tracker.edkj.club:6969/announce
+
+http://tracker.fansub.id:80/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -60,17 +68,15 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.swateam.org.uk:2710/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -93,8 +99,6 @@ http://www.peckservers.com:9000/announce
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://opentracker.i2p.rocks:443/announce
 
 https://t.zerg.pw:443/announce
 
@@ -139,6 +143,8 @@ udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 
 udp://52.58.128.163:6969/announce
+
+udp://6.pocketnet.app:6969/announce
 
 udp://62-210-114-129.rev.poneytelecom.eu:6969/announce
 
@@ -218,6 +224,8 @@ udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://laze.cc:6969/announce
 
+udp://lopatins.ru:5972/announce
+
 udp://mail.artixlinux.org:6969/announce
 
 udp://mail.segso.net:6969/announce
@@ -251,8 +259,6 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
-
-udp://opentracker.i2p.rocks:6969/announce
 
 udp://opentracker.io:6969/announce
 
@@ -396,9 +402,13 @@ udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://v2.iperson.xyz:6969/announce
 
+udp://vm3268418.24ssd.had.wf:6969/announce
+
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://yahor.of.by:6969/announce
 
 ws://hub.bugout.link:80/announce
 

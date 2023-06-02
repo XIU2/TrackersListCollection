@@ -10,8 +10,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://p2p.0g.cx:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
@@ -42,8 +40,6 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.tfile.co:80/announce
 
 http://unknownsite.de:6969/announce
@@ -59,8 +55,6 @@ http://www.all4nothin.net:80/announce.php
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://opentracker.i2p.rocks:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -82,8 +76,6 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
-https://tracker.moeblog.cn:443/announce
-
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
@@ -91,6 +83,8 @@ https://tracker1.520.jp:443/announce
 udp://107.182.30.76.16clouds.com:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
+
+udp://6.pocketnet.app:6969/announce
 
 udp://62-210-114-129.rev.poneytelecom.eu:6969/announce
 
@@ -130,6 +124,8 @@ udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://laze.cc:6969/announce
 
+udp://lopatins.ru:5972/announce
+
 udp://mail.segso.net:6969/announce
 
 udp://market-re.quest:6969/announce
@@ -159,8 +155,6 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
-
-udp://opentracker.i2p.rocks:6969/announce
 
 udp://opentracker.io:6969/announce
 
@@ -194,8 +188,6 @@ udp://thetracker.org:80/announce
 
 udp://thouvenin.cloud:6969/announce
 
-udp://tracker.altrosky.nl:6969/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
@@ -228,6 +220,8 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.trojangogogo.site:8080/announce
@@ -245,6 +239,10 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://uploads.gamecoast.net:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
+
+udp://vm3268418.24ssd.had.wf:6969/announce
+
+udp://yahor.of.by:6969/announce
 
 ws://hub.bugout.link:80/announce
 
