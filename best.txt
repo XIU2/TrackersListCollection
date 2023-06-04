@@ -4,8 +4,6 @@ http://bt.okmp3.ru:2710/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
-http://ch3oh.ru:6969/announce
-
 http://li2021-95.members.linode.com:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
@@ -39,8 +37,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -100,6 +96,10 @@ udp://acxx.de:6969/announce
 
 udp://astrr.ru:6969/announce
 
+udp://astrra.space:6969/announce
+
+udp://axell24.ru:6969/announce
+
 udp://bt1.archive.org:6969/announce
 
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
@@ -127,8 +127,6 @@ udp://htz3.noho.st:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
-
-udp://lopatins.ru:5972/announce
 
 udp://mail.segso.net:6969/announce
 
@@ -158,6 +156,8 @@ udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
+udp://opentor.org:2710/announce
+
 udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
@@ -165,6 +165,8 @@ udp://p4p.arenabg.com:1337/announce
 udp://private.anonseed.com:6969/announce
 
 udp://public-tracker.cf:6969/announce
+
+udp://public.publictracker.xyz:6969/announce
 
 udp://pxnet.ru:6969/announce
 
