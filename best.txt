@@ -34,8 +34,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
@@ -164,6 +162,8 @@ udp://private.anonseed.com:6969/announce
 
 udp://public-tracker.cf:6969/announce
 
+udp://public.publictracker.xyz:6969/announce
+
 udp://pxnet.ru:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -205,8 +205,6 @@ udp://tracker.doko.moe:6969/announce
 udp://tracker.farted.net:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
-
-udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
