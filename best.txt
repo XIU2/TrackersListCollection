@@ -10,8 +10,6 @@ http://montreal.nyap2p.com:8080/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.acgnxtracker.com:80/announce
-
 http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
@@ -19,8 +17,6 @@ http://p2p.0g.cx:6969/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -38,11 +34,7 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.tfile.co:80/announce
-
-http://unknownsite.de:6969/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
@@ -102,8 +94,6 @@ udp://astrr.ru:6969/announce
 
 udp://astrra.space:6969/announce
 
-udp://axell24.ru:6969/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
@@ -159,6 +149,8 @@ udp://open.dstud.io:6969/announce
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
+
+udp://open.u-p.pw:6969/announce
 
 udp://opentor.org:2710/announce
 
@@ -237,8 +229,6 @@ udp://tracker.trojangogogo.site:8080/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
-
-udp://ts.populargamers.co.za:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
