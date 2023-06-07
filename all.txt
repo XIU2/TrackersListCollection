@@ -24,7 +24,13 @@ http://li2021-95.members.linode.com:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
+
+http://open.acgnxtracker.com:80/announce
+
+http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -33,6 +39,8 @@ http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -52,8 +60,6 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.k.vu:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
@@ -61,6 +67,8 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
@@ -181,8 +189,6 @@ udp://bt2.archive.org:6969/announce
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 
 udp://city21.pk:6969/announce
-
-udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
