@@ -34,11 +34,11 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
-
-http://tracker.tfile.co:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
@@ -65,6 +65,8 @@ https://tracker.imgoingto.icu:443/announce
 https://tracker.ipfsscan.io:443/announce
 
 https://tracker.jiesen.life:8443/announce
+
+https://tracker.kawaii.id:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -97,6 +99,8 @@ udp://acxx.de:6969/announce
 udp://astrr.ru:6969/announce
 
 udp://astrra.space:6969/announce
+
+udp://axell24.ru:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -153,8 +157,6 @@ udp://open.dstud.io:6969/announce
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
-
-udp://open.u-p.pw:6969/announce
 
 udp://opentor.org:2710/announce
 
@@ -215,6 +217,8 @@ udp://tracker.leech.ie:1337/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
+
+udp://tracker.ocnix.net:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
