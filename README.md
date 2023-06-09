@@ -113,14 +113,6 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 ****
 
-#### File Centipede:
-
-> <small>_**http://www.filecxx.com**_</small>
-
-<img src="https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-14.png" width="50%">
-
-****
-
 > In addition, considering that the project is just a small project with simple functions, I don't want to involve too much energy, **so I closed Issues and no longer accept submission Tracker addresses.**  
 
 > If you find an obvious error, or want to delete a Tracker, you can submit a **Pull request** to alert me.
