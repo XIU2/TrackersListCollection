@@ -12,6 +12,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
@@ -34,11 +36,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
+http://tracker.tfile.co:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
@@ -55,6 +55,8 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
+
+https://tr.ready4.icu:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -75,8 +77,6 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
-
-https://tracker.moeblog.cn:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -109,8 +109,6 @@ udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 udp://city21.pk:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
-
-udp://dex.email:6969/announce
 
 udp://dmitrynegoda.com:6969/announce
 
@@ -196,6 +194,10 @@ udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
+udp://tracker.4.babico.name.tr:3131/announce
+
+udp://tracker.auctor.tv:6969/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
@@ -229,6 +231,8 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
