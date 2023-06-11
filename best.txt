@@ -12,7 +12,7 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
+http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -36,8 +36,6 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.tfile.co:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
@@ -57,8 +55,6 @@ https://1337.abcvg.info:443/announce
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://tracker.cloudit.top:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -205,8 +201,6 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.farted.net:6969/announce
-
-udp://tracker.jonaslsa.com:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
