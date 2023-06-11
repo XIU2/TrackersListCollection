@@ -12,13 +12,11 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://p2p.0g.cx:6969/announce
+http://open.tracker.ink:6969/announce
 
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -80,6 +78,8 @@ https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
 
+https://www.peckservers.com:9443/announce
+
 udp://107.182.30.76.16clouds.com:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
@@ -130,8 +130,6 @@ udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://netmap.top:6969/announce
-
 udp://ns1.monolithindustries.com:6969/announce
 
 udp://ns557939.ip-54-39-48.net:6969/announce
@@ -141,6 +139,8 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 udp://nullzone.fr:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
+
+udp://open.8a.is:6969/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -153,6 +153,8 @@ udp://open.tracker.ink:6969/announce
 udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
+
+udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
