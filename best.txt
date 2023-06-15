@@ -96,8 +96,6 @@ udp://astrr.ru:6969/announce
 
 udp://astrra.space:6969/announce
 
-udp://axell24.ru:6969/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
@@ -159,8 +157,6 @@ udp://retracker.hotplug.ru:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run.publictracker.xyz:6969/announce
-
-udp://sanincode.com:6969/announce
 
 udp://static.110.82.76.144.clients.your-server.de:6969/announce
 
