@@ -1,5 +1,7 @@
 http://1337.abcvg.info:80/announce
 
+http://147job.com:6969/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://canardscitrons.nohost.me:6969/announce
@@ -11,6 +13,8 @@ http://montreal.nyap2p.com:8080/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -36,11 +40,13 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.renfei.net:8080/announce
 
-http://tracker.tfile.co:80/announce
+http://tracker.skyts.net:6969/announce
 
-http://v6-tracker.0g.cx:6969/announce
+http://tracker.tfile.co:80/announce
 
 http://vps-dd0a0715.vps.ovh.net:6969/announce
 
@@ -167,8 +173,6 @@ udp://static.110.82.76.144.clients.your-server.de:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 udp://su-data.com:6969/announce
-
-udp://t.133335.xyz:6969/announce
 
 udp://thagoat.rocks:6969/announce
 
