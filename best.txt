@@ -36,8 +36,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
@@ -49,8 +47,6 @@ http://vps-dd0a0715.vps.ovh.net:6969/announce
 http://wg.mortis.me:6969/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.chouchou.club:8080/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -77,6 +73,8 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.moeblog.cn:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -164,8 +162,6 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-udp://sanincode.com:6969/announce
-
 udp://static.110.82.76.144.clients.your-server.de:6969/announce
 
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
@@ -185,10 +181,6 @@ udp://tk1.trackerservers.com:8080/announce
 udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tracker.0x7c0.com:6969/announce
-
-udp://tracker.4.babico.name.tr:3131/announce
-
-udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -227,6 +219,8 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
