@@ -16,8 +16,6 @@ http://open.acgnxtracker.com:80/announce
 
 http://open.tracker.ink:6969/announce
 
-http://p2p.0g.cx:6969/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
@@ -45,8 +43,6 @@ http://tracker.renfei.net:8080/announce
 http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
-
-http://v6-tracker.0g.cx:6969/announce
 
 http://vps-dd0a0715.vps.ovh.net:6969/announce
 
@@ -116,8 +112,6 @@ udp://epider.me:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://freedomalternative.com:6969/announce
-
 udp://htz3.noho.st:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
@@ -178,11 +172,15 @@ udp://thagoat.rocks:6969/announce
 
 udp://thetracker.org:80/announce
 
+udp://thouvenin.cloud:6969/announce
+
 udp://tk1.trackerservers.com:8080/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.auctor.tv:6969/announce
 
