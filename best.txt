@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://147job.com:6969/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://canardscitrons.nohost.me:6969/announce
@@ -36,21 +34,19 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.k.vu:6969/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
 
+http://v6-tracker.0g.cx:6969/announce
+
 http://vps-dd0a0715.vps.ovh.net:6969/announce
 
 http://wg.mortis.me:6969/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -77,8 +73,6 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.tamersunion.org:443/announce
-
-https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
 
@@ -188,15 +182,9 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
-udp://tracker.ccp.ovh:6969/announce
-
 udp://tracker.cyberia.is:6969/announce
 
-udp://tracker.dler.com:6969/announce
-
 udp://tracker.doko.moe:6969/announce
-
-udp://tracker.leech.ie:1337/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -217,8 +205,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 

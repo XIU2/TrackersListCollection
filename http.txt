@@ -1,6 +1,6 @@
 http://119.28.71.45:8080/announce
 
-http://147job.com:6969/announce
+http://1337.abcvg.info:80/announce
 
 http://207.241.226.111:6969/announce
 
@@ -29,10 +29,6 @@ http://movies.zsw.ca:6969/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.tracker.ink:6969/announce
-
-http://p2p.0g.cx:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -72,15 +68,9 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.qu.ax:6969/announce
-
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.swateam.org.uk:2710/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -125,6 +115,8 @@ https://tracker.ipfsscan.io:443/announce
 https://tracker.jiesen.life:8443/announce
 
 https://tracker.kuroy.me:443/announce
+
+https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
