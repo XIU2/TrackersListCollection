@@ -38,12 +38,6 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.openbittorrent.com:80/announce
-
-http://tracker.renfei.net:8080/announce
-
 http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
@@ -144,7 +138,11 @@ udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
+udp://open.tracker.ink:6969/announce
+
 udp://opentor.org:2710/announce
+
+udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -162,11 +160,7 @@ udp://soundmovie.ru:6969/announce
 
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
-udp://su-data.com:6969/announce
-
 udp://t.133335.xyz:6969/announce
-
-udp://thagoat.rocks:6969/announce
 
 udp://thetracker.org:80/announce
 
@@ -177,8 +171,6 @@ udp://tk1.trackerservers.com:8080/announce
 udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tracker.0x7c0.com:6969/announce
-
-udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -202,8 +194,6 @@ udp://tracker.ocnix.net:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
-udp://tracker.opentrackr.org:1337/announce
-
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.skyts.net:6969/announce
@@ -212,8 +202,6 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
@@ -221,6 +209,8 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
@@ -231,6 +221,8 @@ udp://uploads.gamecoast.net:6969/announce
 udp://vm3268418.24ssd.had.wf:6969/announce
 
 udp://wepzone.net:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 ws://hub.bugout.link:80/announce
 
