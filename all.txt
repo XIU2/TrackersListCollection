@@ -20,7 +20,11 @@ http://bt.okmp3.ru:2710/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
+http://fe.dealclub.de:6969/announce
+
 http://home.kray.pw:6969/announce
+
+http://ipv6.govt.hu:6969/announce
 
 http://li2021-95.members.linode.com:6969/announce
 
@@ -32,7 +36,9 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://p2p.0g.cx:6969/announce
+http://open.acgtracker.com:1096/announce
+
+http://open.tracker.ink:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -52,15 +58,19 @@ http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.dler.com:6969/announce
+
+http://tracker.dler.org:6969/announce
+
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
 
+http://tracker.gbitt.info:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
-
-http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -194,6 +204,8 @@ udp://epider.me:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://fe.dealclub.de:6969/announce
+
 udp://fh2.cmp-gaming.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
@@ -217,8 +229,6 @@ udp://mail.segso.net:6969/announce
 udp://market-re.quest:6969/announce
 
 udp://moonburrow.club:6969/announce
-
-udp://movies.zsw.ca:6969/announce
 
 udp://netmap.top:6969/announce
 
@@ -300,6 +310,8 @@ udp://torrents.artixlinux.org:6969/announce
 
 udp://tr.bangumi.moe:6969/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
@@ -311,8 +323,6 @@ udp://tracker.auctor.tv:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
@@ -333,8 +343,6 @@ udp://tracker.jonaslsa.com:6969/announce
 udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.leech.ie:1337/announce
-
-udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 

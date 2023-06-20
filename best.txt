@@ -114,7 +114,7 @@ udp://globalwave.no-ip.org:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
-udp://ipv6.tracker.monitorit4.me:6969/announce
+udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://market-re.quest:6969/announce
 
