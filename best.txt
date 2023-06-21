@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://bt.endpot.com:80/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://canardscitrons.nohost.me:6969/announce
@@ -17,6 +15,8 @@ http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
 
 http://open.tracker.ink:6969/announce
+
+http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -53,8 +53,6 @@ http://www.all4nothin.net:80/announce.php
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -116,6 +114,8 @@ udp://htz3.noho.st:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
+udp://ipv6.tracker.monitorit4.me:6969/announce
+
 udp://market-re.quest:6969/announce
 
 udp://moonburrow.club:6969/announce
@@ -174,6 +174,8 @@ udp://tk1.trackerservers.com:8080/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -208,6 +210,8 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
@@ -218,15 +222,19 @@ udp://tracker2.dler.com:80/announce
 
 udp://tracker2.dler.org:80/announce
 
+udp://trackerb.jonaslsa.com:6969/announce
+
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
+udp://v1046920.hosted-by-vdsina.ru:6969/announce
+
 udp://vm3268418.24ssd.had.wf:6969/announce
 
-udp://wepzone.net:6969/announce
+udp://yahor.of.by:6969/announce
 
 ws://hub.bugout.link:80/announce
 
