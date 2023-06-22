@@ -14,6 +14,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
@@ -38,7 +40,7 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
+http://tracker.tfile.co:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
@@ -231,7 +233,5 @@ udp://uploads.gamecoast.net:6969/announce
 udp://vm3268418.24ssd.had.wf:6969/announce
 
 udp://yahor.of.by:6969/announce
-
-ws://hub.bugout.link:80/announce
 
 wss://tracker.openwebtorrent.com:443/announce
