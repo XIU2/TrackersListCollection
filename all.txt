@@ -30,8 +30,6 @@ http://li2021-95.members.linode.com:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
@@ -60,6 +58,8 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -80,7 +80,11 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.swateam.org.uk:2710/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -105,8 +109,6 @@ https://t.zerg.pw:443/announce
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://tracker.cloudit.top:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -189,6 +191,8 @@ udp://bt.ktrackers.com:6666/announce
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
+
+udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 
 udp://city21.pk:6969/announce
 
@@ -360,13 +364,13 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
+udp://tracker.qu.ax:6969/announce
+
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.swateam.org.uk:2710/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 

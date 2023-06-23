@@ -1,3 +1,7 @@
+http://1337.abcvg.info:80/announce
+
+http://bt.endpot.com:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://canardscitrons.nohost.me:6969/announce
@@ -18,8 +22,6 @@ http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://torrentsmd.com:8080/announce
-
 http://tr.cili001.com:8070/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -39,8 +41,6 @@ http://tracker.skyts.net:6969/announce
 http://tracker.tfile.co:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
-
-http://wg.mortis.me:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -79,6 +79,8 @@ https://www.peckservers.com:9443/announce
 udp://107.182.30.76.16clouds.com:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
+
+udp://6.pocketnet.app:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
@@ -154,13 +156,9 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-udp://soundmovie.ru:6969/announce
-
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 udp://su-data.com:6969/announce
-
-udp://t.133335.xyz:6969/announce
 
 udp://thagoat.rocks:6969/announce
 
@@ -176,11 +174,11 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
-udp://tracker.birkenwald.de:6969/announce
-
 udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -197,8 +195,6 @@ udp://tracker.ocnix.net:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
-
-udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
