@@ -28,9 +28,13 @@ http://li2021-95.members.linode.com:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
+
+http://open.acgnxtracker.com:80/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -74,8 +78,6 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.qu.ax:6969/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
@@ -87,6 +89,10 @@ http://tracker2.dler.org:80/announce
 http://tracker4.itzmx.com:2710/announce
 
 http://v6-tracker.0g.cx:6969/announce
+
+http://wepzone.net:6969/announce
+
+http://wg.mortis.me:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -103,6 +109,8 @@ https://t.zerg.pw:443/announce
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
+
+https://tr.ready4.icu:443/announce
 
 https://tracker.cloudit.top:443/announce
 
