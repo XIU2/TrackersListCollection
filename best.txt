@@ -1,5 +1,7 @@
 http://1337.abcvg.info:80/announce
 
+http://bt.endpot.com:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://canardscitrons.nohost.me:6969/announce
@@ -11,8 +13,6 @@ http://montreal.nyap2p.com:8080/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -36,15 +36,13 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
+
+http://wg.mortis.me:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -68,8 +66,6 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
-https://tracker.moeblog.cn:443/announce
-
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
@@ -87,6 +83,8 @@ udp://6.pocketnet.app:6969/announce
 udp://aarsen.me:6969/announce
 
 udp://acxx.de:6969/announce
+
+udp://astrra.space:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -110,13 +108,9 @@ udp://htz3.noho.st:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
-udp://ipv6.tracker.monitorit4.me:6969/announce
-
 udp://market-re.quest:6969/announce
 
 udp://moonburrow.club:6969/announce
-
-udp://movies.zsw.ca:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
@@ -182,15 +176,11 @@ udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.doko.moe:6969/announce
-
 udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
 udp://tracker.moeking.me:6969/announce
-
-udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.ocnix.net:6969/announce
 
@@ -201,6 +191,8 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
@@ -219,8 +211,6 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
-
-udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://vm3268418.24ssd.had.wf:6969/announce
 
