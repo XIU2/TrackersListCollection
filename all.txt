@@ -20,6 +20,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
+http://ch3oh.ru:6969/announce
+
 http://fe.dealclub.de:6969/announce
 
 http://ipv6.govt.hu:6969/announce
@@ -27,6 +29,8 @@ http://ipv6.govt.hu:6969/announce
 http://li2021-95.members.linode.com:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
+
+http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -56,8 +60,6 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
 
-http://tracker.dler.org:6969/announce
-
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -78,8 +80,6 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker2.dler.org:80/announce
-
 http://tracker4.itzmx.com:2710/announce
 
 http://v6-tracker.0g.cx:6969/announce
@@ -92,8 +92,6 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.chouchou.club:8080/announce
 
-http://www.peckservers.com:9000/announce
-
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
@@ -103,8 +101,6 @@ https://t.zerg.pw:443/announce
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -125,6 +121,8 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.moeblog.cn:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -216,6 +214,8 @@ udp://inferno.demonoid.is:3391/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
+udp://isk.richardsw.club:6969/announce
+
 udp://mail.artixlinux.org:6969/announce
 
 udp://mail.segso.net:6969/announce
@@ -233,8 +233,6 @@ udp://ns1.monolithindustries.com:6969/announce
 udp://odd-hd.fr:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
-
-udp://open.8a.is:6969/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -373,6 +371,8 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
