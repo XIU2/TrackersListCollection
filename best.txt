@@ -16,6 +16,8 @@ http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
+http://rfc5746.mywaifu.best:6969/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
@@ -35,8 +37,6 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -59,6 +59,8 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
+
+https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
@@ -150,8 +152,6 @@ udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 udp://su-data.com:6969/announce
 
-udp://t.133335.xyz:6969/announce
-
 udp://thagoat.rocks:6969/announce
 
 udp://thetracker.org:80/announce
@@ -215,5 +215,7 @@ udp://uploads.gamecoast.net:6969/announce
 udp://vm3268418.24ssd.had.wf:6969/announce
 
 udp://yahor.of.by:6969/announce
+
+ws://hub.bugout.link:80/announce
 
 wss://tracker.openwebtorrent.com:443/announce
