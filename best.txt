@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://bt.endpot.com:80/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://canardscitrons.nohost.me:6969/announce
@@ -13,6 +11,8 @@ http://montreal.nyap2p.com:8080/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -36,6 +36,8 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
@@ -57,8 +59,6 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
-
-https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
@@ -112,6 +112,8 @@ udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
+udp://ns1.monolithindustries.com:6969/announce
+
 udp://odd-hd.fr:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
@@ -129,6 +131,8 @@ udp://open.tracker.ink:6969/announce
 udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
+
+udp://p4p.arenabg.com:1337/announce
 
 udp://private.anonseed.com:6969/announce
 
@@ -200,6 +204,8 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
+udp://tracker2.dler.org:80/announce
+
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
@@ -209,7 +215,5 @@ udp://uploads.gamecoast.net:6969/announce
 udp://vm3268418.24ssd.had.wf:6969/announce
 
 udp://yahor.of.by:6969/announce
-
-ws://hub.bugout.link:80/announce
 
 wss://tracker.openwebtorrent.com:443/announce
