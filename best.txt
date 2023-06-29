@@ -2,9 +2,9 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 http://li2021-95.members.linode.com:6969/announce
+
+http://montreal.nyap2p.com:8080/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -36,11 +36,7 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -156,8 +152,6 @@ udp://su-data.com:6969/announce
 
 udp://t.133335.xyz:6969/announce
 
-udp://thagoat.rocks:6969/announce
-
 udp://thetracker.org:80/announce
 
 udp://thouvenin.cloud:6969/announce
@@ -181,6 +175,8 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.leech.ie:1337/announce
+
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.ocnix.net:6969/announce
 
