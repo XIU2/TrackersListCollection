@@ -10,8 +10,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
@@ -33,6 +31,8 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -96,9 +96,13 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://epider.me:6969/announce
 
+udp://escalaenbernal.com:3074/announce
+
 udp://exodus.desync.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
+
+udp://globalwave.no-ip.org:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
@@ -117,6 +121,8 @@ udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://open.dstud.io:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
@@ -154,8 +160,6 @@ udp://thouvenin.cloud:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://tk1v6.trackerservers.com:8080/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -184,7 +188,11 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.t-rb.org:6969/announce
+
 udp://tracker.theoks.net:6969/announce
+
+udp://tracker.therarbg.com:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
@@ -193,8 +201,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
