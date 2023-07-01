@@ -38,6 +38,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.tfile.co:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
@@ -184,8 +186,6 @@ udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker.skynetcloud.site:6969/announce
-
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
@@ -213,8 +213,6 @@ udp://uploads.gamecoast.net:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://vm3268418.24ssd.had.wf:6969/announce
-
-udp://yahor.of.by:6969/announce
 
 ws://hub.bugout.link:80/announce
 
