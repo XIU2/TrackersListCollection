@@ -24,8 +24,6 @@ http://t.publictracker.xyz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.cili001.com:8070/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -38,11 +36,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
+http://tracker.tfile.co:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
@@ -85,6 +81,8 @@ udp://6.pocketnet.app:6969/announce
 udp://aarsen.me:6969/announce
 
 udp://acxx.de:6969/announce
+
+udp://astrra.space:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
