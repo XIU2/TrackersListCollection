@@ -12,6 +12,8 @@ http://open.acgnxtracker.com:80/announce
 
 http://open.tracker.ink:6969/announce
 
+http://p2p.0g.cx:6969/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
@@ -78,8 +80,6 @@ https://trackers.mlsub.net:443/announce
 
 udp://107.182.30.76.16clouds.com:6969/announce
 
-udp://1c.premierzal.ru:6969/announce
-
 udp://6.pocketnet.app:6969/announce
 
 udp://aarsen.me:6969/announce
@@ -117,6 +117,8 @@ udp://movies.zsw.ca:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
+
+udp://oh.fuuuuuck.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
