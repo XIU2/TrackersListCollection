@@ -28,11 +28,11 @@ http://li2021-95.members.linode.com:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -44,13 +44,9 @@ http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
 
-http://shubt.net:2710/announce
-
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
-
-http://t.publictracker.xyz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -64,6 +60,8 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
+http://tracker.edkj.club:6969/announce
+
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -74,6 +72,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
@@ -81,6 +81,8 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -109,6 +111,8 @@ https://tr.burnabyhighstar.com:443/announce
 https://tr.ready4.icu:443/announce
 
 https://tracker.bangumi.zip:443/announce
+
+https://tracker.cloudit.top:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -157,8 +161,6 @@ udp://49.12.76.8:8080/announce
 udp://52.58.128.163:6969/announce
 
 udp://6.pocketnet.app:6969/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://91.216.110.52:451/announce
 
@@ -244,6 +246,8 @@ udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
 
+udp://open.free-tracker.ga:6969/announce
+
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
@@ -261,8 +265,6 @@ udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 
 udp://public-tracker.cf:6969/announce
-
-udp://public.publictracker.xyz:6969/announce
 
 udp://public.tracker.vraphim.com:6969/announce
 
@@ -319,8 +321,6 @@ udp://tracker.auctor.tv:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
