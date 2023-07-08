@@ -26,13 +26,11 @@ http://li2021-95.members.linode.com:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
+http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -41,8 +39,6 @@ http://region.nl1.privex.cc:6969/announce
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
-
-http://shubt.net:2710/announce
 
 http://t.acg.rip:6699/announce
 
@@ -182,8 +178,6 @@ udp://acxx.de:6969/announce
 
 udp://aegir.sexy:6969/announce
 
-udp://astrra.space:6969/announce
-
 udp://black-bird.ynh.fr:6969/announce
 
 udp://boysbitte.be:6969/announce
@@ -239,8 +233,6 @@ udp://new-line.net:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
-
-udp://oh.fuuuuuck.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -373,8 +365,6 @@ udp://tracker.therarbg.com:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
