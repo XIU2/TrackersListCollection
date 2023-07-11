@@ -96,7 +96,7 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://epider.me:6969/announce
 
-udp://escalaenbernal.com:3074/announce
+udp://exodus.desync.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
