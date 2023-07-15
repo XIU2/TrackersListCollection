@@ -42,8 +42,6 @@ http://open.acgtracker.com:1096/announce
 
 http://p2p.0g.cx:6969/announce
 
-http://region.nl1.privex.cc:6969/announce
-
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
@@ -107,8 +105,6 @@ https://t.zerg.pw:443/announce
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.bangumi.zip:443/announce
 
