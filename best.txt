@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://bt.endpot.com:80/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://li2021-95.members.linode.com:6969/announce
@@ -33,6 +31,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -68,6 +68,8 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
+https://tracker.moeblog.cn:443/announce
+
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
@@ -98,6 +100,8 @@ udp://free.publictracker.xyz:6969/announce
 
 udp://globalwave.no-ip.org:6969/announce
 
+udp://htz3.noho.st:6969/announce
+
 udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://mail.segso.net:6969/announce
@@ -120,8 +124,6 @@ udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
@@ -138,13 +140,9 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://run-2.publictracker.xyz:6969/announce
-
 udp://sanincode.com:6969/announce
 
 udp://soundmovie.ru:6969/announce
-
-udp://ssb14.nohost.me:6969/announce
 
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
@@ -164,8 +162,6 @@ udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://tracker.4.babico.name.tr:3131/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
@@ -179,8 +175,6 @@ udp://tracker.doko.moe:6969/announce
 udp://tracker.leech.ie:1337/announce
 
 udp://tracker.moeking.me:6969/announce
-
-udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
