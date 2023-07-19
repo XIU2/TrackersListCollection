@@ -2,6 +2,8 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://ipv6.1337.cx:6969/announce
+
 http://ipv6.govt.hu:6969/announce
 
 http://li2021-95.members.linode.com:6969/announce
