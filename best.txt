@@ -4,6 +4,8 @@ http://bt.endpot.com:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://canardscitrons.nohost.me:6969/announce
+
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
