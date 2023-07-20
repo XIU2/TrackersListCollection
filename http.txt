@@ -14,6 +14,8 @@ http://[2a01:4f8:c012:8025::1]:8080/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
+http://bt.endpot.com:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://canardscitrons.nohost.me:6969/announce
@@ -41,6 +43,8 @@ http://p2p.0g.cx:6969/announce
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
+
+http://shubt.net:2710/announce
 
 http://t.acg.rip:6699/announce
 
@@ -78,10 +82,6 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
-http://tracker2.dler.org:80/announce
-
 http://tracker4.itzmx.com:2710/announce
 
 http://v6-tracker.0g.cx:6969/announce
@@ -105,6 +105,8 @@ https://t.zerg.pw:443/announce
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
+
+https://tr.ready4.icu:443/announce
 
 https://tracker.bangumi.zip:443/announce
 

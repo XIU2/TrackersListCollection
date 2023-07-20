@@ -1,5 +1,7 @@
 http://1337.abcvg.info:80/announce
 
+http://bt.endpot.com:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://ipv6.1337.cx:6969/announce
@@ -11,6 +13,8 @@ http://li2021-95.members.linode.com:6969/announce
 http://montreal.nyap2p.com:8080/announce
 
 http://nyaa.tracker.wf:7777/announce
+
+http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
@@ -92,8 +96,6 @@ udp://acxx.de:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://city21.pk:6969/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -105,8 +107,6 @@ udp://exodus.desync.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 
 udp://globalwave.no-ip.org:6969/announce
-
-udp://htz3.noho.st:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
@@ -170,10 +170,6 @@ udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://tracker.4.babico.name.tr:3131/announce
-
-udp://tracker.auctor.tv:6969/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
@@ -184,9 +180,15 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
+udp://tracker.jonaslsa.com:6969/announce
+
 udp://tracker.leech.ie:1337/announce
 
 udp://tracker.moeking.me:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -206,9 +208,15 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
+udp://tracker2.dler.org:80/announce
+
+udp://trackerb.jonaslsa.com:6969/announce
+
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://uploads.gamecoast.net:6969/announce
+
+udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://vm3268418.24ssd.had.wf:6969/announce
 
