@@ -78,8 +78,6 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
-https://tracker.moeblog.cn:443/announce
-
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
@@ -95,6 +93,8 @@ udp://aarsen.me:6969/announce
 udp://acxx.de:6969/announce
 
 udp://bt1.archive.org:6969/announce
+
+udp://city21.pk:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
