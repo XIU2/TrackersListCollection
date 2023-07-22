@@ -6,8 +6,6 @@ http://bt.okmp3.ru:2710/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
-http://ipv6.1337.cx:6969/announce
-
 http://ipv6.govt.hu:6969/announce
 
 http://li2021-95.members.linode.com:6969/announce
@@ -15,8 +13,6 @@ http://li2021-95.members.linode.com:6969/announce
 http://montreal.nyap2p.com:8080/announce
 
 http://nyaa.tracker.wf:7777/announce
-
-http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
@@ -131,8 +127,6 @@ udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
-
-udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
 
