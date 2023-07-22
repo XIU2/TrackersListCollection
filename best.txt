@@ -84,6 +84,8 @@ https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
 
+udp://107.182.30.76.16clouds.com:6969/announce
+
 udp://6.pocketnet.app:6969/announce
 
 udp://aarsen.me:6969/announce
