@@ -4,8 +4,6 @@ http://bt.okmp3.ru:2710/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
-http://ipv6.govt.hu:6969/announce
-
 http://li2021-95.members.linode.com:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
@@ -13,6 +11,8 @@ http://montreal.nyap2p.com:8080/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -39,6 +39,8 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
+
+http://tracker.yuelili.com:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
