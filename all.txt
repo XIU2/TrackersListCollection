@@ -34,13 +34,9 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://p2p.0g.cx:6969/announce
-
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
-
-http://shubt.net:2710/announce
 
 http://t.acg.rip:6699/announce
 
@@ -381,6 +377,8 @@ udp://v2.iperson.xyz:6969/announce
 udp://vm3268418.24ssd.had.wf:6969/announce
 
 udp://wepzone.net:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://yahor.of.by:6969/announce
 
