@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://bt.endpot.com:80/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://li2021-95.members.linode.com:6969/announce
@@ -156,8 +154,6 @@ udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://tracker.4.babico.name.tr:3131/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
@@ -167,6 +163,8 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
+
+udp://tracker.dump.cl:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
@@ -179,8 +177,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.sheesh.rip:6969/announce
 
 udp://tracker.skyts.net:6969/announce
-
-udp://tracker.srv00.com:6969/announce
 
 udp://tracker.t-rb.org:6969/announce
 
