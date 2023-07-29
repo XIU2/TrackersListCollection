@@ -4,8 +4,6 @@ http://bt.endpot.com:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://ch3oh.ru:6969/announce
-
 http://li2021-95.members.linode.com:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
@@ -13,6 +11,10 @@ http://montreal.nyap2p.com:8080/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.tracker.ink:6969/announce
+
+http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -35,6 +37,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -174,8 +178,6 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
-udp://tracker.dump.cl:6969/announce
-
 udp://tracker.leech.ie:1337/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -190,11 +192,7 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.t-rb.org:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.therarbg.com:6969/announce
-
-udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -202,13 +200,11 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
-udp://tracker2.dler.org:80/announce
+udp://tracker3.itzmx.com:6961/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://uploads.gamecoast.net:6969/announce
-
-udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://vm3268418.24ssd.had.wf:6969/announce
 
