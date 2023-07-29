@@ -14,7 +14,11 @@ http://[2a01:4f8:c012:8025::1]:8080/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
+http://bt.endpot.com:80/announce
+
 http://bt.okmp3.ru:2710/announce
+
+http://ch3oh.ru:6969/announce
 
 http://ipv6.1337.cx:6969/announce
 
@@ -28,15 +32,13 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
+http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
-
-http://shubt.net:2710/announce
 
 http://t.acg.rip:6699/announce
 
@@ -54,8 +56,6 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
 
-http://tracker.dler.org:6969/announce
-
 http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -70,11 +70,15 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -204,8 +208,6 @@ udp://htz3.noho.st:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
-udp://isk.richardsw.club:6969/announce
-
 udp://mail.artixlinux.org:6969/announce
 
 udp://mail.segso.net:6969/announce
@@ -282,8 +284,6 @@ udp://t.zerg.pw:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-udp://thinking.duckdns.org:6969/announce
-
 udp://thouvenin.cloud:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
@@ -322,6 +322,8 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
+udp://tracker.dump.cl:6969/announce
+
 udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
@@ -331,6 +333,8 @@ udp://tracker.leech.ie:1337/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.ocnix.net:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -354,6 +358,8 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.tryhackx.org:6969/announce
+
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
@@ -361,8 +367,6 @@ udp://tracker1.myporn.club:9337/announce
 udp://tracker2.dler.com:80/announce
 
 udp://tracker2.dler.org:80/announce
-
-udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker3.itzmx.com:6961/announce
 

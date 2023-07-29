@@ -14,7 +14,11 @@ http://[2a01:4f8:c012:8025::1]:8080/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
+http://bt.endpot.com:80/announce
+
 http://bt.okmp3.ru:2710/announce
+
+http://ch3oh.ru:6969/announce
 
 http://ipv6.1337.cx:6969/announce
 
@@ -28,15 +32,13 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
+http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
-
-http://shubt.net:2710/announce
 
 http://t.acg.rip:6699/announce
 
@@ -54,8 +56,6 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
 
-http://tracker.dler.org:6969/announce
-
 http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -70,11 +70,15 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker4.itzmx.com:2710/announce
 
