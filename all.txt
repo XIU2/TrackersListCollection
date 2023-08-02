@@ -36,17 +36,15 @@ http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
-http://region.nl1.privex.cc:6969/announce
-
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
 
-http://shubt.net:2710/announce
-
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
+
+http://t.publictracker.xyz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -116,6 +114,8 @@ https://tracker.ipfsscan.io:443/announce
 
 https://tracker.jiesen.life:8443/announce
 
+https://tracker.kuroy.me:443/announce
+
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
@@ -127,8 +127,6 @@ https://tracker.moeblog.cn:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
-
-https://trackers.mlsub.net:443/announce
 
 udp://119.28.71.45:8080/announce
 
@@ -280,8 +278,6 @@ udp://t.zerg.pw:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-udp://thinking.duckdns.org:6969/announce
-
 udp://thouvenin.cloud:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
@@ -335,6 +331,8 @@ udp://tracker.ocnix.net:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.qu.ax:6969/announce
 
 udp://tracker.sheesh.rip:6969/announce
 
