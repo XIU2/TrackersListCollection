@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://bt.endpot.com:80/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://li2021-95.members.linode.com:6969/announce
@@ -201,8 +199,6 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
-
-udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://vm3268418.24ssd.had.wf:6969/announce
 
