@@ -30,11 +30,17 @@ http://open.8a.is:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://p2p.0g.cx:6969/announce
+
+http://region.nl1.privex.cc:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
+
+http://shubt.net:2710/announce
 
 http://t.acg.rip:6699/announce
 
@@ -72,6 +78,10 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.sheesh.rip:6969/announce
 
+http://tracker.skyts.net:6969/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker4.itzmx.com:2710/announce
 
 http://v6-tracker.0g.cx:6969/announce
@@ -90,7 +100,11 @@ https://t.zerg.pw:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
+https://tr.ready4.icu:443/announce
+
 https://tracker.bangumi.zip:443/announce
+
+https://tracker.cloudit.top:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
