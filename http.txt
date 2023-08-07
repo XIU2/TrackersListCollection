@@ -74,7 +74,7 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.sheesh.rip:6969/announce
 
-http://tracker.swateam.org.uk:2710/announce
+http://tracker.skyts.net:6969/announce
 
 http://tracker2.dler.org:80/announce
 
