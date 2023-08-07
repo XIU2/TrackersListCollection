@@ -14,6 +14,8 @@ http://[2a01:4f8:c012:8025::1]:8080/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
+http://bt.endpot.com:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://canardscitrons.nohost.me:6969/announce
@@ -30,10 +32,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
-
-http://open.tracker.ink:6969/announce
-
 http://p2p.0g.cx:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -45,6 +43,8 @@ http://shubt.net:2710/announce
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
+
+http://t.publictracker.xyz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -74,6 +74,10 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.sheesh.rip:6969/announce
 
+http://tracker.swateam.org.uk:2710/announce
+
+http://tracker2.dler.org:80/announce
+
 http://tracker4.itzmx.com:2710/announce
 
 http://v6-tracker.0g.cx:6969/announce
@@ -101,8 +105,6 @@ https://tracker.bangumi.zip:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
-
-https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
