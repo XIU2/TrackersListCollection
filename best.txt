@@ -30,8 +30,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
@@ -97,8 +95,6 @@ udp://free.publictracker.xyz:6969/announce
 udp://globalwave.no-ip.org:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
-
-udp://isk.richardsw.club:6969/announce
 
 udp://mail.segso.net:6969/announce
 
@@ -185,6 +181,8 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
+
+udp://tracker.fnix.net:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
