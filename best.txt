@@ -30,6 +30,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.nartlof.com.br:6969/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
@@ -96,8 +98,6 @@ udp://globalwave.no-ip.org:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
-udp://isk.richardsw.club:6969/announce
-
 udp://mail.segso.net:6969/announce
 
 udp://market-re.quest:6969/announce
@@ -115,8 +115,6 @@ udp://oh.fuuuuuck.com:6969/announce
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
@@ -174,11 +172,11 @@ udp://tracker.6.babico.name.tr:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
+
+udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
@@ -195,8 +193,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.t-rb.org:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
 
