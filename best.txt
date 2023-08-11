@@ -170,8 +170,6 @@ udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.6.babico.name.tr:6969/announce
 
-udp://tracker.birkenwald.de:6969/announce
-
 udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce

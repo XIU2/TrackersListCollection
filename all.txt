@@ -20,13 +20,13 @@ http://buny.uk:6969/announce
 
 http://incine.ru:6969/announce
 
-http://li2021-95.members.linode.com:6969/announce
-
 http://montreal.nyap2p.com:8080/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -41,8 +41,6 @@ http://shubt.net:2710/announce
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
-
-http://t.publictracker.xyz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -75,10 +73,6 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.sheesh.rip:6969/announce
-
-http://tracker.skyts.net:6969/announce
-
-http://tracker2.dler.org:80/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -287,6 +281,8 @@ udp://t.133335.xyz:6969/announce
 udp://t.zerg.pw:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
+
+udp://thinking.duckdns.org:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
