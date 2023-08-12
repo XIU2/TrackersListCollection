@@ -18,17 +18,21 @@ http://bt.okmp3.ru:2710/announce
 
 http://buny.uk:6969/announce
 
+http://canardscitrons.nohost.me:6969/announce
+
 http://incine.ru:6969/announce
 
 http://li2021-95.members.linode.com:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
+http://open.8a.is:6969/announce
+
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -68,13 +72,9 @@ http://tracker.nartlof.com.br:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.qu.ax:6969/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://tracker.sheesh.rip:6969/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -204,6 +204,8 @@ udp://globalwave.no-ip.org:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
+udp://ipv6.fuuuuuck.com:6969/announce
+
 udp://mail.artixlinux.org:6969/announce
 
 udp://mail.segso.net:6969/announce
@@ -227,6 +229,8 @@ udp://oh.fuuuuuck.com:6969/announce
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
@@ -261,6 +265,8 @@ udp://run-2.publictracker.xyz:6969/announce
 udp://run.publictracker.xyz:6969/announce
 
 udp://ryjer.com:6969/announce
+
+udp://sanincode.com:6969/announce
 
 udp://soundmovie.ru:6969/announce
 
@@ -303,8 +309,6 @@ udp://tracker.artixlinux.org:6969/announce
 udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
