@@ -14,9 +14,13 @@ http://[2a01:4f8:c012:8025::1]:8080/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
+http://bt.endpot.com:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://canardscitrons.nohost.me:6969/announce
+
+http://ch3oh.ru:6969/announce
 
 http://incine.ru:6969/announce
 
@@ -28,11 +32,11 @@ http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.8a.is:6969/announce
-
 http://open.acgnxtracker.com:80/announce
 
 http://p2p.0g.cx:6969/announce
+
+http://region.nl1.privex.cc:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -52,8 +56,6 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.edkj.club:6969/announce
-
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -68,11 +70,17 @@ http://tracker.nartlof.com.br:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.qu.ax:6969/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://tracker.sheesh.rip:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -84,6 +92,8 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.chouchou.club:8080/announce
 
+http://www.peckservers.com:9000/announce
+
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
@@ -93,8 +103,6 @@ https://t.zerg.pw:443/announce
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.bangumi.zip:443/announce
 
@@ -116,8 +124,6 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
-https://tracker.moeblog.cn:443/announce
-
 https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -125,6 +131,8 @@ https://tracker.tamersunion.org:443/announce
 https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
+
+https://www.peckservers.com:9443/announce
 
 udp://119.28.71.45:8080/announce
 
@@ -228,6 +236,8 @@ udp://open.dstud.io:6969/announce
 
 udp://open.free-tracker.ga:6969/announce
 
+udp://open.publictracker.xyz:6969/announce
+
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
@@ -247,6 +257,8 @@ udp://psyco.fr:6969/announce
 udp://public-tracker.cf:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -304,6 +316,8 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
+udp://tracker.bittor.pw:1337/announce
+
 udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cubonegro.lol:6969/announce
@@ -315,8 +329,6 @@ udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.farted.net:6969/announce
 
