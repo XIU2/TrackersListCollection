@@ -16,6 +16,8 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://canardscitrons.nohost.me:6969/announce
+
 http://incine.ru:6969/announce
 
 http://li2021-95.members.linode.com:6969/announce
@@ -33,6 +35,8 @@ http://p2p.0g.cx:6969/announce
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
+
+http://shubt.net:2710/announce
 
 http://t.acg.rip:6699/announce
 
@@ -66,7 +70,7 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.sheesh.rip:6969/announce
 
-http://tracker.swateam.org.uk:2710/announce
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker4.itzmx.com:2710/announce
 

@@ -68,8 +68,6 @@ udp://1c.premierzal.ru:6969/announce
 
 udp://6.pocketnet.app:6969/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://aarsen.me:6969/announce
 
 udp://acxx.de:6969/announce
@@ -164,8 +162,6 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
 
-udp://tracker.6.babico.name.tr:6969/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
@@ -217,6 +213,8 @@ udp://uploads.gamecoast.net:6969/announce
 udp://vm3268418.24ssd.had.wf:6969/announce
 
 udp://wepzone.net:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://yahor.of.by:6969/announce
 
