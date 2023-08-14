@@ -14,8 +14,6 @@ http://[2a01:4f8:c012:8025::1]:8080/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
-http://bt.endpot.com:80/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://incine.ru:6969/announce
@@ -23,6 +21,8 @@ http://incine.ru:6969/announce
 http://li2021-95.members.linode.com:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
+
+http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -32,7 +32,7 @@ http://p2p.0g.cx:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
-http://shubt.net:2710/announce
+http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
@@ -89,6 +89,8 @@ https://t.zerg.pw:443/announce
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
+
+https://tr.ready4.icu:443/announce
 
 https://tracker.bangumi.zip:443/announce
 
