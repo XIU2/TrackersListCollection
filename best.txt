@@ -188,8 +188,6 @@ udp://tracker.t-rb.org:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.therarbg.com:6969/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
