@@ -104,6 +104,8 @@ udp://movies.zsw.ca:6969/announce
 
 udp://new-line.net:6969/announce
 
+udp://odd-hd.fr:6969/announce
+
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://open.demonii.com:1337/announce
