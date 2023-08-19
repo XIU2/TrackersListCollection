@@ -148,8 +148,6 @@ udp://sx.xxtor.com:6969/announce
 
 udp://t.133335.xyz:6969/announce
 
-udp://tamas3.ynh.fr:6969/announce
-
 udp://thetracker.org:80/announce
 
 udp://thouvenin.cloud:6969/announce
@@ -209,8 +207,6 @@ udp://u4.trakx.crim.ist:1337/announce
 udp://uploads.gamecoast.net:6969/announce
 
 udp://vm3268418.24ssd.had.wf:6969/announce
-
-udp://wepzone.net:6969/announce
 
 udp://yahor.of.by:6969/announce
 
