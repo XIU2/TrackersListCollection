@@ -26,8 +26,6 @@ http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.8a.is:6969/announce
-
 http://open.acgnxtracker.com:80/announce
 
 http://p2p.0g.cx:6969/announce
@@ -62,6 +60,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
@@ -71,8 +71,6 @@ http://tracker.renfei.net:8080/announce
 http://tracker.sheesh.rip:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
-
-http://tracker2.dler.org:80/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -269,8 +267,6 @@ udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://su-data.com:6969/announce
 
 udp://sx.xxtor.com:6969/announce
-
-udp://t.133335.xyz:6969/announce
 
 udp://t.zerg.pw:6969/announce
 
