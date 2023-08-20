@@ -150,6 +150,8 @@ udp://thouvenin.cloud:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
+udp://tk1v6.trackerservers.com:8080/announce
+
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -161,6 +163,8 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
+
+udp://tracker.fnix.net:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -185,6 +189,8 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 

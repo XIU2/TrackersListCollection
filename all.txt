@@ -16,9 +16,9 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://buny.uk:6969/announce
-
 http://montreal.nyap2p.com:8080/announce
+
+http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -42,8 +42,6 @@ http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.dler.com:6969/announce
-
 http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
@@ -54,6 +52,8 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.ipv6tracker.ru:80/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
@@ -63,12 +63,6 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.sheesh.rip:6969/announce
-
-http://tracker.swateam.org.uk:2710/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
-
-http://tracker4.itzmx.com:2710/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
@@ -109,6 +103,8 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -169,6 +165,8 @@ udp://bt2.archive.org:6969/announce
 udp://city21.pk:6969/announce
 
 udp://concen.org:6969/announce
+
+udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
@@ -341,6 +339,8 @@ udp://tracker1.myporn.club:9337/announce
 udp://tracker2.dler.com:80/announce
 
 udp://tracker2.dler.org:80/announce
+
+udp://tracker4.itzmx.com:2710/announce
 
 udp://ts.populargamers.co.za:6969/announce
 
