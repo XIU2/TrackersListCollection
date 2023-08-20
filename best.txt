@@ -48,8 +48,6 @@ https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
 
-https://tracker.jiesen.life:8443/announce
-
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
@@ -100,6 +98,8 @@ udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
+udp://netmap.top:6969/announce
+
 udp://new-line.net:6969/announce
 
 udp://odd-hd.fr:6969/announce
@@ -139,8 +139,6 @@ udp://soundmovie.ru:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 udp://su-data.com:6969/announce
-
-udp://sx.xxtor.com:6969/announce
 
 udp://t.133335.xyz:6969/announce
 
