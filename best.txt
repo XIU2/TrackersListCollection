@@ -26,6 +26,8 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.mywaifu.best:6969/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
@@ -148,6 +150,8 @@ udp://thouvenin.cloud:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
+udp://tk1v6.trackerservers.com:8080/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -197,6 +201,8 @@ udp://tracker2.dler.org:80/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
+
+udp://u6.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
