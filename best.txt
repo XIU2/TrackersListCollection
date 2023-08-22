@@ -130,8 +130,6 @@ udp://public-tracker.cf:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://run-2.publictracker.xyz:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
@@ -205,8 +203,6 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
-
-udp://uploads.gamecoast.net:6969/announce
 
 udp://vm3268418.24ssd.had.wf:6969/announce
 
