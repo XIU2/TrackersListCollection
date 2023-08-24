@@ -44,7 +44,11 @@ http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.dler.com:6969/announce
+
 http://tracker.dler.org:6969/announce
+
+http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
@@ -66,7 +70,7 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.sheesh.rip:6969/announce
 
-http://tracker2.dler.org:80/announce
+http://tracker.swateam.org.uk:2710/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -192,6 +196,8 @@ udp://htz3.noho.st:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
+udp://isk.richardsw.club:6969/announce
+
 udp://mail.artixlinux.org:6969/announce
 
 udp://mail.segso.net:6969/announce
@@ -292,8 +298,6 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cubonegro.lol:6969/announce
@@ -355,6 +359,8 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
+
+udp://uploads.gamecoast.net:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 

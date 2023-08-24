@@ -8,6 +8,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://p2p.0g.cx:6969/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
@@ -27,8 +29,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -71,6 +71,8 @@ udp://6.pocketnet.app:6969/announce
 udp://aarsen.me:6969/announce
 
 udp://acxx.de:6969/announce
+
+udp://anzix.net:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -161,8 +163,6 @@ udp://tracker.4.babico.name.tr:3131/announce
 udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
