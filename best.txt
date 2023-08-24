@@ -72,8 +72,6 @@ udp://aarsen.me:6969/announce
 
 udp://acxx.de:6969/announce
 
-udp://anzix.net:6969/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://city21.pk:6969/announce
