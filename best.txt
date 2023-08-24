@@ -8,8 +8,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://p2p.0g.cx:6969/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
@@ -29,6 +27,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -95,6 +95,8 @@ udp://ipv6.fuuuuuck.com:6969/announce
 udp://mail.segso.net:6969/announce
 
 udp://mikrotik2.draatman.net:6969/announce
+
+udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
