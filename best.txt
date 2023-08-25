@@ -8,6 +8,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
@@ -92,13 +94,13 @@ udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://mail.segso.net:6969/announce
 
-udp://mikrotik2.draatman.net:6969/announce
-
 udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
 udp://netmap.top:6969/announce
+
+udp://new-line.net:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
@@ -161,6 +163,8 @@ udp://tracker.auctor.tv:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
