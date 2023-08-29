@@ -24,27 +24,25 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://open.tracker.ink:6969/announce
+
+http://p2p.0g.cx:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
 
-http://shubt.net:2710/announce
-
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
-
-http://torrentsmd.com:8080/announce
 
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
-
-http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -54,9 +52,15 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
+
+http://tracker.swateam.org.uk:2710/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -64,21 +68,13 @@ http://tracker4.itzmx.com:2710/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
-http://www.all4nothin.net:80/announce.php
-
 http://www.chouchou.club:8080/announce
-
-http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.bangumi.zip:443/announce
-
-https://tracker.foreverpirates.co:443/announce
-
-https://tracker.gbitt.info:443/announce
 
 https://tracker.kuroy.me:443/announce
 
