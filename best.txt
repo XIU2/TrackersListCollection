@@ -10,8 +10,6 @@ http://open.acgnxtracker.com:80/announce
 
 http://open.tracker.ink:6969/announce
 
-http://p2p.0g.cx:6969/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
@@ -67,6 +65,8 @@ https://tracker.tamersunion.org:443/announce
 https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
+
+udp://107.182.30.76.16clouds.com:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
