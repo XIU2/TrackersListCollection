@@ -8,13 +8,9 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
-
-http://shubt.net:2710/announce
 
 http://t.acg.rip:6699/announce
 
@@ -34,9 +30,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.renfei.net:8080/announce
+http://tracker.openbittorrent.com:80/announce
 
-http://tracker.skyts.net:6969/announce
+http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -79,8 +75,6 @@ udp://6.pocketnet.app:6969/announce
 udp://aarsen.me:6969/announce
 
 udp://acxx.de:6969/announce
-
-udp://anzix.net:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
