@@ -14,6 +14,8 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.endpot.com:80/announce
 
+http://bt.okmp3.ru:2710/announce
+
 http://montreal.nyap2p.com:8080/announce
 
 http://movies.zsw.ca:6969/announce
@@ -21,12 +23,6 @@ http://movies.zsw.ca:6969/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
-
-http://open.tracker.ink:6969/announce
-
-http://p2p.0g.cx:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -66,9 +62,9 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.sheesh.rip:6969/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.swateam.org.uk:2710/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -101,6 +97,10 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.ipfsscan.io:443/announce
+
+https://tracker.kuroy.me:443/announce
+
+https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
