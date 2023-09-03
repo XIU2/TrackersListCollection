@@ -16,17 +16,13 @@ http://bt.endpot.com:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://buny.uk:6969/announce
-
 http://montreal.nyap2p.com:8080/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.8a.is:6969/announce
-
 http://open.acgnxtracker.com:80/announce
 
-http://open.acgtracker.com:1096/announce
+http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -58,6 +54,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
@@ -66,13 +64,15 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.sheesh.rip:6969/announce
 
-http://tracker.swateam.org.uk:2710/announce
+http://tracker.skyts.net:6969/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
-
-http://v6-tracker.0g.cx:6969/announce
 
 http://wepzone.net:6969/announce
 
@@ -301,8 +301,6 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.filemail.com:6969/announce
-
-udp://tracker.fnix.net:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 

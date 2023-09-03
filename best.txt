@@ -8,9 +8,9 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://share.camoe.cn:8080/announce
+http://open.tracker.ink:6969/announce
 
-http://shubt.net:2710/announce
+http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
@@ -155,8 +155,6 @@ udp://thetracker.org:80/announce
 udp://thouvenin.cloud:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
-
-udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
