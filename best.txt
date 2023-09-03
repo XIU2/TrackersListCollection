@@ -10,9 +10,9 @@ http://open.acgnxtracker.com:80/announce
 
 http://open.tracker.ink:6969/announce
 
-http://p2p.0g.cx:6969/announce
-
 http://share.camoe.cn:8080/announce
+
+http://shubt.net:2710/announce
 
 http://t.acg.rip:6699/announce
 
@@ -37,8 +37,6 @@ http://tracker.renfei.net:8080/announce
 http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
-
-http://v6-tracker.0g.cx:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -67,6 +65,8 @@ https://tracker.tamersunion.org:443/announce
 https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
+
+https://www.peckservers.com:9443/announce
 
 udp://107.182.30.76.16clouds.com:6969/announce
 
@@ -119,6 +119,10 @@ udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
+
+udp://open.stealth.si:80/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -177,8 +181,6 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
-
-udp://tracker.sheesh.rip:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
