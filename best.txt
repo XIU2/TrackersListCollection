@@ -8,9 +8,9 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://share.camoe.cn:8080/announce
+
+http://shubt.net:2710/announce
 
 http://t.acg.rip:6699/announce
 
@@ -156,6 +156,8 @@ udp://thouvenin.cloud:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
+udp://tk1v6.trackerservers.com:8080/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -185,8 +187,6 @@ udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.t-rb.org:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
-
-udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 

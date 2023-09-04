@@ -16,19 +16,25 @@ http://bt.endpot.com:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://buny.uk:6969/announce
+
+http://incine.ru:6969/announce
+
 http://montreal.nyap2p.com:8080/announce
 
 http://nyaa.tracker.wf:7777/announce
+
+http://open.8a.is:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
 http://open.tracker.ink:6969/announce
 
-http://p2p.0g.cx:6969/announce
-
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
+
+http://shubt.net:2710/announce
 
 http://t.acg.rip:6699/announce
 
@@ -64,8 +70,6 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.sheesh.rip:6969/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
@@ -73,6 +77,8 @@ http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
+
+http://uraniumhexafluori.de:1919/announce
 
 http://wepzone.net:6969/announce
 
@@ -190,6 +196,8 @@ udp://htz3.noho.st:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
+udp://isk.richardsw.club:6969/announce
+
 udp://linfan.moe:6969/announce
 
 udp://lloria.fr:6969/announce
@@ -238,8 +246,6 @@ udp://psyco.fr:6969/announce
 
 udp://public-tracker.cf:6969/announce
 
-udp://public.publictracker.xyz:6969/announce
-
 udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -264,8 +270,6 @@ udp://t.133335.xyz:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-udp://thinking.duckdns.org:6969/announce
-
 udp://thouvenin.cloud:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
@@ -284,9 +288,9 @@ udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.artixlinux.org:6969/announce
 
-udp://tracker.auctor.tv:6969/announce
-
 udp://tracker.birkenwald.de:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
@@ -301,6 +305,8 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.filemail.com:6969/announce
+
+udp://tracker.fnix.net:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
