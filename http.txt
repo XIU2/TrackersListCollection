@@ -56,8 +56,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
@@ -68,9 +66,7 @@ http://tracker.sheesh.rip:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://tracker.swateam.org.uk:2710/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -110,7 +106,11 @@ https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
+https://tracker.loligirl.cn:443/announce
+
 https://tracker.renfei.net:443/announce
+
+https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
 
