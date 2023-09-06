@@ -14,6 +14,8 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://buny.uk:6969/announce
+
 http://incine.ru:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
@@ -22,15 +24,11 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://p2p.0g.cx:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
-
-http://shubt.net:2710/announce
 
 http://t.acg.rip:6699/announce
 
@@ -65,6 +63,8 @@ http://tracker.renfei.net:8080/announce
 http://tracker.sheesh.rip:6969/announce
 
 http://tracker.skyts.net:6969/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -190,6 +190,8 @@ udp://htz3.noho.st:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
+udp://isk.richardsw.club:6969/announce
+
 udp://linfan.moe:6969/announce
 
 udp://lloria.fr:6969/announce
@@ -258,8 +260,6 @@ udp://t.133335.xyz:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-udp://thinking.duckdns.org:6969/announce
-
 udp://thouvenin.cloud:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
@@ -301,6 +301,8 @@ udp://tracker.dump.cl:6969/announce
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
+
+udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.moeking.me:6969/announce
 
