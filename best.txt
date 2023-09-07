@@ -10,8 +10,6 @@ http://open.tracker.ink:6969/announce
 
 http://share.camoe.cn:8080/announce
 
-http://shubt.net:2710/announce
-
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
@@ -41,8 +39,6 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://tracker.bangumi.zip:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -74,8 +70,6 @@ udp://aarsen.me:6969/announce
 
 udp://acxx.de:6969/announce
 
-udp://anzix.net:6969/announce
-
 udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
@@ -88,15 +82,11 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://epider.me:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://free.publictracker.xyz:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
-
-udp://linfan.moe:6969/announce
 
 udp://mail.segso.net:6969/announce
 
@@ -171,8 +161,6 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.fnix.net:6969/announce
-
-udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.moeking.me:6969/announce
 
