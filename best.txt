@@ -8,7 +8,11 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://share.camoe.cn:8080/announce
+
+http://shubt.net:2710/announce
 
 http://t.acg.rip:6699/announce
 
@@ -24,13 +28,15 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.h0me.cc:8880/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.tfile.co:80/announce
+http://tracker.skyts.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -61,8 +67,6 @@ https://trackers.mlsub.net:443/announce
 https://www.peckservers.com:9443/announce
 
 udp://107.182.30.76.16clouds.com:6969/announce
-
-udp://1c.premierzal.ru:6969/announce
 
 udp://6.pocketnet.app:6969/announce
 
@@ -162,11 +166,7 @@ udp://tracker.doko.moe:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
-udp://tracker.moeking.me:6969/announce
-
 udp://tracker.openbittorrent.com:6969/announce
-
-udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.skyts.net:6969/announce
 
