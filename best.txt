@@ -28,11 +28,7 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -53,6 +49,8 @@ https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
+
+https://tracker.loligirl.cn:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -85,6 +83,10 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://epider.me:6969/announce
 
 udp://exodus.desync.com:6969/announce
+
+udp://free.publictracker.xyz:6969/announce
+
+udp://htz3.noho.st:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
