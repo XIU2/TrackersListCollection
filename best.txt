@@ -38,6 +38,8 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.tfile.co:80/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -77,8 +79,6 @@ udp://6.pocketnet.app:6969/announce
 udp://aarsen.me:6969/announce
 
 udp://acxx.de:6969/announce
-
-udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -191,8 +191,6 @@ udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
-
-udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
