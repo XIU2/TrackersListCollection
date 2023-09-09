@@ -60,6 +60,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.netmap.top:6969/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
@@ -101,6 +103,8 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.netmap.top:443/announce
 
 https://tracker.renfei.net:443/announce
 
@@ -197,8 +201,6 @@ udp://mail.segso.net:6969/announce
 udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
-
-udp://netmap.top:6969/announce
 
 udp://new-line.net:6969/announce
 
@@ -303,6 +305,8 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.moeking.me:6969/announce
+
+udp://tracker.netmap.top:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
