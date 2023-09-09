@@ -4,6 +4,8 @@ http://bt.endpot.com:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://montreal.nyap2p.com:8080/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -38,6 +40,8 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
 
+http://tracker.tfile.co:80/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
@@ -67,6 +71,8 @@ https://trackers.mlsub.net:443/announce
 https://www.peckservers.com:9443/announce
 
 udp://107.182.30.76.16clouds.com:6969/announce
+
+udp://1c.premierzal.ru:6969/announce
 
 udp://6.pocketnet.app:6969/announce
 
@@ -132,8 +138,6 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://run-2.publictracker.xyz:6969/announce
-
 udp://soundmovie.ru:6969/announce
 
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
@@ -166,7 +170,11 @@ udp://tracker.doko.moe:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
+udp://tracker.moeking.me:6969/announce
+
 udp://tracker.openbittorrent.com:6969/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.skyts.net:6969/announce
 
@@ -191,8 +199,6 @@ udp://u4.trakx.crim.ist:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
-
-udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://vm3268418.24ssd.had.wf:6969/announce
 
