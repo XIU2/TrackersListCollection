@@ -4,8 +4,6 @@ http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
 
-http://46.17.46.112:8080/announce
-
 http://49.12.76.8:8080/announce
 
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
@@ -28,15 +26,9 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
-http://p2p.0g.cx:6969/announce
-
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
-
-http://shubt.net:2710/announce
 
 http://t.acg.rip:6699/announce
 
@@ -74,13 +66,11 @@ http://tracker.swateam.org.uk:2710/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
-http://tracker2.dler.org:80/announce
-
-http://tracker2.itzmx.com:6961/announce
-
 http://tracker4.itzmx.com:2710/announce
 
 http://uraniumhexafluori.de:1919/announce
+
+http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
