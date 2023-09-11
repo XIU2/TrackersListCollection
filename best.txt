@@ -32,6 +32,8 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.tfile.co:80/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
@@ -123,6 +125,8 @@ udp://public-tracker.cf:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://sabross.xyz:6969/announce
 
 udp://soundmovie.ru:6969/announce
 
