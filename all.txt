@@ -18,11 +18,13 @@ http://bt.endpot.com:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://buny.uk:6969/announce
-
 http://incine.ru:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
+
+http://open.8a.is:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
@@ -31,8 +33,6 @@ http://region.nl1.privex.cc:6969/announce
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
-
-http://shubt.net:2710/announce
 
 http://t.acg.rip:6699/announce
 
@@ -62,11 +62,15 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -192,6 +196,8 @@ udp://htz3.noho.st:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
+udp://isk.richardsw.club:6969/announce
+
 udp://lloria.fr:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
@@ -215,8 +221,6 @@ udp://open.8a.is:6969/announce
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
@@ -269,8 +273,6 @@ udp://tk1.trackerservers.com:8080/announce
 udp://tk1v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
-
-udp://tr2.ysagin.top:2715/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
