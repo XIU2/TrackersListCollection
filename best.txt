@@ -186,6 +186,8 @@ udp://tracker2.dler.com:80/announce
 
 udp://tracker2.dler.org:80/announce
 
+udp://ttk2.nbaonlineservice.com:6969/announce
+
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
