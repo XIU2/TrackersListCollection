@@ -18,17 +18,11 @@ http://bt.endpot.com:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://buny.uk:6969/announce
-
 http://incine.ru:6969/announce
-
-http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://region.nl1.privex.cc:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -72,7 +66,7 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -143,8 +137,6 @@ udp://49.12.76.8:8080/announce
 udp://52.58.128.163:6969/announce
 
 udp://6.pocketnet.app:6969/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://91.216.110.52:451/announce
 
@@ -342,6 +334,8 @@ udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
+udp://tracker4.itzmx.com:2710/announce
+
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
@@ -359,7 +353,5 @@ udp://vm3268418.24ssd.had.wf:6969/announce
 udp://wepzone.net:6969/announce
 
 udp://yahor.of.by:6969/announce
-
-ws://hub.bugout.link:80/announce
 
 wss://tracker.openwebtorrent.com:443/announce
