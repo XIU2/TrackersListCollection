@@ -20,8 +20,6 @@ http://buny.uk:6969/announce
 
 http://incine.ru:6969/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -60,11 +58,13 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker2.dler.org:80/announce
+http://tracker.swateam.org.uk:2710/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -117,6 +117,8 @@ udp://119.28.71.45:8080/announce
 udp://184.105.151.166:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
+
+udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 
 udp://207.241.226.111:6969/announce
 
@@ -253,6 +255,8 @@ udp://soundmovie.ru:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
+
+udp://thinking.duckdns.org:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
