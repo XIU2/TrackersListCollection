@@ -16,6 +16,8 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://buny.uk:6969/announce
+
 http://incine.ru:6969/announce
 
 http://movies.zsw.ca:6969/announce
@@ -54,15 +56,11 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.h0me.cc:8880/announce
 
-http://tracker.ipv6tracker.org:80/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.netmap.top:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -89,8 +87,6 @@ http://www.peckservers.com:9000/announce
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://k.avc.cx:443/announce.php
 
 https://t1.hloli.org:443/announce
 
@@ -222,8 +218,6 @@ udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://open.free-tracker.ga:6969/announce
-
 udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
@@ -295,8 +289,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.farted.net:6969/announce
 
