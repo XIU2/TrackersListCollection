@@ -94,6 +94,8 @@ udp://mail.segso.net:6969/announce
 
 udp://moonburrow.club:6969/announce
 
+udp://movies.zsw.ca:6969/announce
+
 udp://odd-hd.fr:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
