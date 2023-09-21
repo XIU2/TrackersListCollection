@@ -18,11 +18,11 @@ http://bt.okmp3.ru:2710/announce
 
 http://incine.ru:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -58,11 +58,13 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.qu.ax:6969/announce
-
 http://tracker.renfei.net:8080/announce
+
+http://tracker.swateam.org.uk:2710/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
@@ -83,8 +85,6 @@ http://www.peckservers.com:9000/announce
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://k.avc.cx:443/announce.php
 
 https://t1.hloli.org:443/announce
 
