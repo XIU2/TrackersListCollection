@@ -8,8 +8,6 @@ http://open.acgnxtracker.com:80/announce
 
 http://share.camoe.cn:8080/announce
 
-http://shubt.net:2710/announce
-
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
@@ -29,6 +27,8 @@ http://tracker.h0me.cc:8880/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.tfile.co:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -138,11 +138,7 @@ udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://tracker.0x7c0.com:6969/announce
-
 udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
