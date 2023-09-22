@@ -10,8 +10,6 @@ http://open.acgnxtracker.com:80/announce
 
 http://share.camoe.cn:8080/announce
 
-http://shubt.net:2710/announce
-
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
@@ -30,6 +28,10 @@ http://tracker.h0me.cc:8880/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.nartlof.com.br:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
@@ -42,11 +44,7 @@ https://1337.abcvg.info:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-https://tracker.foreverpirates.co:443/announce
-
 https://tracker.gbitt.info:443/announce
-
-https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
@@ -64,8 +62,6 @@ https://www.peckservers.com:9443/announce
 
 udp://107.182.30.76.16clouds.com:6969/announce
 
-udp://1c.premierzal.ru:6969/announce
-
 udp://6.pocketnet.app:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
@@ -77,8 +73,6 @@ udp://acxx.de:6969/announce
 udp://bigfoot1942.sektori.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
-
-udp://city21.pk:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -113,8 +107,6 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
-
-udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -164,8 +156,6 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
-udp://tracker.opentrackr.org:1337/announce
-
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.swateam.org.uk:2710/announce
@@ -184,8 +174,6 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker2.dler.com:80/announce
-
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
@@ -193,8 +181,6 @@ udp://u4.trakx.crim.ist:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
-
-udp://yahor.of.by:6969/announce
 
 ws://hub.bugout.link:80/announce
 
