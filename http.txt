@@ -22,7 +22,7 @@ http://bt.okmp3.ru:2710/announce
 
 http://buny.uk:6969/announce
 
-http://movies.zsw.ca:6969/announce
+http://incine.ru:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -37,6 +37,8 @@ http://shubt.net:2710/announce
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
+
+http://t.publictracker.xyz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -68,19 +70,17 @@ http://tracker.nartlof.com.br:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.qu.ax:6969/announce
+
 http://tracker.renfei.net:8080/announce
-
-http://tracker.swateam.org.uk:2710/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
+
+http://uraniumhexafluori.de:1919/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -90,11 +90,11 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
+https://k.avc.cx:443/announce.php
+
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -106,12 +106,18 @@ https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
 
+https://tracker.lilithraws.cf:443/announce
+
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
+https://tracker.renfei.net:443/announce
+
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
+
+https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
