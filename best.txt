@@ -8,8 +8,6 @@ http://open.acgnxtracker.com:80/announce
 
 http://share.camoe.cn:8080/announce
 
-http://shubt.net:2710/announce
-
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
@@ -26,9 +24,9 @@ http://tracker.h0me.cc:8880/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.renfei.net:8080/announce
+http://tracker.openbittorrent.com:80/announce
 
-http://tracker.tfile.co:80/announce
+http://tracker.renfei.net:8080/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -41,6 +39,8 @@ https://tr.burnabyhighstar.com:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
+
+https://tracker.h3o2.me:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -104,13 +104,13 @@ udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://open.free-tracker.ga:6969/announce
-
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
+
+udp://p4p.arenabg.com:1337/announce
 
 udp://private.anonseed.com:6969/announce
 
@@ -137,8 +137,6 @@ udp://tk1v6.trackerservers.com:8080/announce
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
-
-udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
