@@ -21,8 +21,8 @@ Tracker is a necessary role in BT download, it can effectively improve BT downlo
 
 _The figure below shows the BT download speed after using Tracker. (best.txt)_  
 
-![BitComet](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-01.png)
-![qBittorrentEE](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-02.png)
+![BitComet](https://bitbucket.org/xiu2/trackerslistcollection/raw/master/img/en-01.png)
+![qBittorrentEE](https://bitbucket.org/xiu2/trackerslistcollection/raw/master/img/en-02.png)
 
 _You can judge whether there is a problem with the BT configuration and network by observing the download speed of [**ubuntu.torrent**](https://ubuntu.com/download/alternative-downloads#bittorrent). There are many users of this popular resource, and the download speed should be very fast under normal circumstances._
 
@@ -50,7 +50,6 @@ _You can judge whether there is a problem with the BT configuration and network 
 - _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://gcore.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
-- _**https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/best.txt**_  
 - _**https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt**_  
 
 </details>
@@ -82,7 +81,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 
 > <small>_**http://www.bitcomet.com**_</small>
 
-<img src="https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-10.png" width="50%">
+<img src="https://bitbucket.org/xiu2/trackerslistcollection/raw/master/img/en-10.png" width="50%">
 
 ****
 
@@ -93,7 +92,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 
 After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
-<img src="https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-11.png" width="50%">
+<img src="https://bitbucket.org/xiu2/trackerslistcollection/raw/master/img/en-11.png" width="50%">
 
 ****
 
@@ -101,7 +100,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > <small>_**https://www.qbittorrent.org**_</small>
 
-<img src="https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-12.png" width="50%">
+<img src="https://bitbucket.org/xiu2/trackerslistcollection/raw/master/img/en-12.png" width="50%">
 
 ****
 
@@ -109,7 +108,7 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > <small>_**https://motrix.app**_</small>
 
-<img src="https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-13.png" width="50%">
+<img src="https://bitbucket.org/xiu2/trackerslistcollection/raw/master/img/en-13.png" width="50%">
 
 ****
 
