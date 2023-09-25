@@ -28,6 +28,8 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.tfile.co:80/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
@@ -89,6 +91,8 @@ udp://free.publictracker.xyz:6969/announce
 udp://htz3.noho.st:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
+
+udp://lloria.fr:6969/announce
 
 udp://mail.segso.net:6969/announce
 
