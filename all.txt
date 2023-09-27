@@ -16,8 +16,6 @@ http://[2a01:4f8:c012:8025::1]:8080/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
-http://bt.endpot.com:80/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://buny.uk:6969/announce
@@ -34,8 +32,6 @@ http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
 
-http://shubt.net:2710/announce
-
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
@@ -50,8 +46,6 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
 
-http://tracker.dler.org:6969/announce
-
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -59,8 +53,6 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.h0me.cc:8880/announce
-
-http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -220,6 +212,8 @@ udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
 
+udp://open.free-tracker.ga:6969/announce
+
 udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
@@ -250,6 +244,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run-2.publictracker.xyz:6969/announce
 
+udp://run.publictracker.xyz:6969/announce
+
 udp://ryjer.com:6969/announce
 
 udp://sanincode.com:6969/announce
@@ -278,8 +274,6 @@ udp://tracker.6.babico.name.tr:6969/announce
 
 udp://tracker.artixlinux.org:6969/announce
 
-udp://tracker.auctor.tv:6969/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
@@ -291,8 +285,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.farted.net:6969/announce
 
@@ -337,6 +329,8 @@ udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
+
+udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
