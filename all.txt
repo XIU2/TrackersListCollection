@@ -22,13 +22,11 @@ http://bt.okmp3.ru:2710/announce
 
 http://incine.ru:6969/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://p2p.0g.cx:6969/announce
+http://open.acgtracker.com:1096/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -46,7 +44,7 @@ http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.dler.org:6969/announce
+http://tracker.dler.com:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
@@ -62,6 +60,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
@@ -69,6 +69,8 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.swateam.org.uk:2710/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -162,6 +164,8 @@ udp://[2a0f:e586:f:f::81]:6969/announce
 
 udp://aarsen.me:6969/announce
 
+udp://acxx.de:6969/announce
+
 udp://aegir.sexy:6969/announce
 
 udp://bigfoot1942.sektori.org:6969/announce
@@ -198,6 +202,8 @@ udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://lloria.fr:6969/announce
 
+udp://mail.artixlinux.org:6969/announce
+
 udp://mail.segso.net:6969/announce
 
 udp://moonburrow.club:6969/announce
@@ -205,6 +211,8 @@ udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
 
 udp://new-line.net:6969/announce
+
+udp://ns1.monolithindustries.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
@@ -278,6 +286,8 @@ udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
+udp://tracker.cyberia.is:6969/announce
+
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
@@ -323,6 +333,8 @@ udp://tracker1.myporn.club:9337/announce
 udp://tracker2.dler.com:80/announce
 
 udp://tracker2.dler.org:80/announce
+
+udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
