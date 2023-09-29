@@ -28,8 +28,6 @@ http://tracker.h0me.cc:8880/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.netmap.top:6969/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
@@ -81,8 +79,6 @@ udp://bt1.archive.org:6969/announce
 udp://city21.pk:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
-
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://epider.me:6969/announce
 
