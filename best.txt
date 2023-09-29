@@ -1,5 +1,7 @@
 http://1337.abcvg.info:80/announce
 
+http://bt.endpot.com:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://nyaa.tracker.wf:7777/announce
@@ -7,6 +9,8 @@ http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
 
 http://share.camoe.cn:8080/announce
+
+http://shubt.net:2710/announce
 
 http://t.acg.rip:6699/announce
 
@@ -23,6 +27,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.h0me.cc:8880/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.netmap.top:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -158,8 +164,6 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.skyts.net:6969/announce
 
-udp://tracker.swateam.org.uk:2710/announce
-
 udp://tracker.t-rb.org:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
@@ -183,6 +187,8 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://uploads.gamecoast.net:6969/announce
 
 udp://yahor.of.by:6969/announce
+
+udp://z.paranoid.agency:6969/announce
 
 ws://hub.bugout.link:80/announce
 
