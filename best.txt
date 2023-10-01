@@ -187,3 +187,5 @@ udp://yahor.of.by:6969/announce
 udp://z.paranoid.agency:6969/announce
 
 ws://hub.bugout.link:80/announce
+
+wss://tracker.openwebtorrent.com:443/announce
