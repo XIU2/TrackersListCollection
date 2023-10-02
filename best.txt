@@ -1,10 +1,14 @@
 http://1337.abcvg.info:80/announce
 
+http://bt.endpot.com:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.tracker.ink:6969/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -27,6 +31,8 @@ http://tracker.h0me.cc:8880/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -110,8 +116,6 @@ udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
@@ -141,6 +145,8 @@ udp://tk1v6.trackerservers.com:8080/announce
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -173,6 +179,8 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
