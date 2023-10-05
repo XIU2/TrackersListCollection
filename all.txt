@@ -16,17 +16,19 @@ http://[2a01:4f8:c012:8025::1]:8080/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
+http://bt.endpot.com:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
-http://buny.uk:6969/announce
+http://bvarf.tracker.sh:2086/announce
+
+http://ch3oh.ru:6969/announce
 
 http://incine.ru:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -50,6 +52,8 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
+http://tracker.edkj.club:6969/announce
+
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -68,9 +72,13 @@ http://tracker.netmap.top:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.qu.ax:6969/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -79,6 +87,8 @@ http://tracker2.itzmx.com:6961/announce
 http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
+
+http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -228,9 +238,9 @@ udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://open.tracker.ink:6969/announce
+udp://open.tracker.cl:1337/announce
 
-udp://open.u-p.pw:6969/announce
+udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
 
@@ -241,8 +251,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://private.anonseed.com:6969/announce
 
 udp://public-tracker.cf:6969/announce
-
-udp://public.publictracker.xyz:6969/announce
 
 udp://public.tracker.vraphim.com:6969/announce
 
@@ -280,7 +288,11 @@ udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.artixlinux.org:6969/announce
 
+udp://tracker.auctor.tv:6969/announce
+
 udp://tracker.birkenwald.de:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
@@ -292,6 +304,8 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
+udp://tracker.dump.cl:6969/announce
+
 udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
@@ -299,6 +313,8 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.moeking.me:6969/announce
+
+udp://tracker.netmap.top:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
@@ -349,8 +365,6 @@ udp://uploads.gamecoast.net:6969/announce
 udp://v2.iperson.xyz:6969/announce
 
 udp://wepzone.net:6969/announce
-
-udp://www.torrent.eu.org:451/announce
 
 udp://x.paranoid.agency:6969/announce
 
