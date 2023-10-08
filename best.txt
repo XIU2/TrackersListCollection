@@ -10,6 +10,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://retracker.211.ru:80/announce
+
 http://share.camoe.cn:8080/announce
 
 http://shubt.net:2710/announce
@@ -31,8 +33,6 @@ http://tracker.h0me.cc:8880/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -169,6 +169,8 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.t-rb.org:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
