@@ -22,6 +22,8 @@ http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tracker.bt4g.com:2095/announce
+
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -35,8 +37,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -82,6 +82,8 @@ udp://bigfoot1942.sektori.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
+udp://bt2.archive.org:6969/announce
+
 udp://city21.pk:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -120,6 +122,8 @@ udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
 
+udp://p2p.publictracker.xyz:6969/announce
+
 udp://p4p.arenabg.com:1337/announce
 
 udp://private.anonseed.com:6969/announce
@@ -139,8 +143,6 @@ udp://thetracker.org:80/announce
 udp://thouvenin.cloud:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
-
-udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
