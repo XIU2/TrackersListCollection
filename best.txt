@@ -92,8 +92,6 @@ udp://exodus.desync.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
-udp://htz3.noho.st:6969/announce
-
 udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://lloria.fr:6969/announce
