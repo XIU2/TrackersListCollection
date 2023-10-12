@@ -8,13 +8,13 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://retracker.211.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
 http://shubt.net:2710/announce
+
+http://smurfsoft.com:6969/announce
 
 http://t.acg.rip:6699/announce
 
@@ -39,8 +39,6 @@ http://tracker.k.vu:6969/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -82,8 +80,6 @@ udp://acxx.de:6969/announce
 
 udp://bigfoot1942.sektori.org:6969/announce
 
-udp://bt1.archive.org:6969/announce
-
 udp://city21.pk:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -117,6 +113,8 @@ udp://open.dstud.io:6969/announce
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
+
+udp://opentor.org:2710/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
