@@ -18,6 +18,8 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://buny.uk:6969/announce
+
 http://bvarf.tracker.sh:2086/announce
 
 http://fe.dealclub.de:6969/announce
@@ -30,15 +32,13 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
+http://p2p.0g.cx:6969/announce
 
 http://retracker.211.ru:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
-
-http://shubt.net:2710/announce
 
 http://smurfsoft.com:6969/announce
 
@@ -66,8 +66,6 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.h0me.cc:8880/announce
 
-http://tracker.ipv6tracker.org:80/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
@@ -76,8 +74,6 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
@@ -85,8 +81,6 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
-
-http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -236,15 +230,11 @@ udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://open.free-tracker.ga:6969/announce
-
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
 udp://open.u-p.pw:6969/announce
-
-udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
 
@@ -272,6 +262,8 @@ udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
+udp://thinking.duckdns.org:6969/announce
+
 udp://thouvenin.cloud:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
@@ -292,8 +284,6 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cubonegro.lol:6969/announce
@@ -303,8 +293,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.farted.net:6969/announce
 
@@ -358,9 +346,9 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-udp://u6.trakx.crim.ist:1337/announce
-
 udp://uploads.gamecoast.net:6969/announce
+
+udp://v2.iperson.xyz:6969/announce
 
 udp://wepzone.net:6969/announce
 
@@ -371,5 +359,7 @@ udp://y.paranoid.agency:6969/announce
 udp://yahor.of.by:6969/announce
 
 udp://z.paranoid.agency:6969/announce
+
+ws://hub.bugout.link:80/announce
 
 wss://tracker.openwebtorrent.com:443/announce
