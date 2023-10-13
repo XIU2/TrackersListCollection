@@ -10,8 +10,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://retracker.211.ru:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -38,11 +36,7 @@ http://tracker.h0me.cc:8880/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.k.vu:6969/announce
-
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -159,8 +153,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
-
-udp://tracker.farted.net:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
