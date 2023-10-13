@@ -16,6 +16,8 @@ http://retracker.211.ru:80/announce
 
 http://share.camoe.cn:8080/announce
 
+http://shubt.net:2710/announce
+
 http://smurfsoft.com:6969/announce
 
 http://t.acg.rip:6699/announce
