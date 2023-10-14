@@ -10,8 +10,6 @@ http://open.acgnxtracker.com:80/announce
 
 http://open.tracker.ink:6969/announce
 
-http://p2p.0g.cx:6969/announce
-
 http://retracker.211.ru:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -43,6 +41,8 @@ http://tracker.openbittorrent.com:80/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
+
+http://v6-tracker.0g.cx:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -81,8 +81,6 @@ udp://aarsen.me:6969/announce
 udp://acxx.de:6969/announce
 
 udp://bigfoot1942.sektori.org:6969/announce
-
-udp://bt1.archive.org:6969/announce
 
 udp://city21.pk:6969/announce
 
@@ -131,6 +129,8 @@ udp://p4p.arenabg.com:1337/announce
 udp://private.anonseed.com:6969/announce
 
 udp://public-tracker.cf:6969/announce
+
+udp://public.publictracker.xyz:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -195,6 +195,8 @@ udp://u4.trakx.crim.ist:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
+
+udp://wepzone.net:6969/announce
 
 udp://y.paranoid.agency:6969/announce
 
