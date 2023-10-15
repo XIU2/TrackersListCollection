@@ -16,6 +16,8 @@ http://[2a01:4f8:c012:8025::1]:8080/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
+http://bt.endpot.com:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://bt.xcty.eu.org:2095/announce
@@ -24,21 +26,15 @@ http://bvarf.tracker.sh:2086/announce
 
 http://fe.dealclub.de:6969/announce
 
-http://incine.ru:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.tracker.ink:6969/announce
 
 http://retracker.211.ru:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
-
-http://shubt.net:2710/announce
 
 http://smurfsoft.com:6969/announce
 
@@ -78,7 +74,7 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker2.dler.org:80/announce
+http://tracker.skyts.net:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
