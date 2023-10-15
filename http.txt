@@ -22,9 +22,7 @@ http://bvarf.tracker.sh:2086/announce
 
 http://fe.dealclub.de:6969/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
-http://movies.zsw.ca:6969/announce
+http://incine.ru:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -35,8 +33,6 @@ http://retracker.211.ru:80/announce
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
-
-http://shubt.net:2710/announce
 
 http://smurfsoft.com:6969/announce
 
@@ -64,13 +60,13 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.h0me.cc:8880/announce
 
-http://tracker.ipv6tracker.org:80/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.netmap.top:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 

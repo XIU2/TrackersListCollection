@@ -8,11 +8,11 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://retracker.211.ru:80/announce
 
 http://share.camoe.cn:8080/announce
-
-http://shubt.net:2710/announce
 
 http://smurfsoft.com:6969/announce
 
@@ -36,6 +36,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://v6-tracker.0g.cx:6969/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -49,6 +51,8 @@ https://tr.burnabyhighstar.com:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
+
+https://tracker.imgoingto.icu:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -146,8 +150,6 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
-udp://tracker.birkenwald.de:6969/announce
-
 udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
@@ -158,6 +160,8 @@ udp://tracker.doko.moe:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
+udp://tracker.moeking.me:6969/announce
+
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -166,7 +170,11 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.t-rb.org:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.therarbg.com:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
