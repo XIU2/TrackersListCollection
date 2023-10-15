@@ -2,17 +2,19 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://bt.xcty.eu.org:2095/announce
+
 http://bvarf.tracker.sh:2086/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://retracker.211.ru:80/announce
 
 http://share.camoe.cn:8080/announce
+
+http://shubt.net:2710/announce
 
 http://smurfsoft.com:6969/announce
 
@@ -35,8 +37,6 @@ http://tracker.h0me.cc:8880/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
@@ -149,6 +149,8 @@ udp://tk1v6.trackerservers.com:8080/announce
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
