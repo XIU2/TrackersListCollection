@@ -64,21 +64,21 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.h0me.cc:8880/announce
 
+http://tracker.ipv6tracker.org:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
-http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -95,6 +95,8 @@ http://www.all4nothin.net:80/announce.php
 http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
+
+http://x.paranoid.agency:6969/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -276,8 +278,6 @@ udp://tk1v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
-udp://touhou.kawaiiarts.com:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -289,8 +289,6 @@ udp://tracker.artixlinux.org:6969/announce
 udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
