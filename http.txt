@@ -26,6 +26,8 @@ http://bvarf.tracker.sh:2086/announce
 
 http://fe.dealclub.de:6969/announce
 
+http://incine.ru:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -62,11 +64,11 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.h0me.cc:8880/announce
 
-http://tracker.ipv6tracker.org:80/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.netmap.top:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -75,6 +77,8 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -116,7 +120,7 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
-https://tracker.renfei.net:443/announce
+https://tracker.netmap.top:8443/announce
 
 https://tracker.tamersunion.org:443/announce
 

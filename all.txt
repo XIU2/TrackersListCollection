@@ -26,6 +26,8 @@ http://bvarf.tracker.sh:2086/announce
 
 http://fe.dealclub.de:6969/announce
 
+http://incine.ru:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -62,11 +64,11 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.h0me.cc:8880/announce
 
-http://tracker.ipv6tracker.org:80/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.netmap.top:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -75,6 +77,8 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -116,7 +120,7 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
-https://tracker.renfei.net:443/announce
+https://tracker.netmap.top:8443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -202,8 +206,6 @@ udp://free.publictracker.xyz:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
-udp://isk.richardsw.club:6969/announce
-
 udp://lloria.fr:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
@@ -246,6 +248,8 @@ udp://public-tracker.cf:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
@@ -272,6 +276,8 @@ udp://tk1v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://touhou.kawaiiarts.com:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -279,6 +285,8 @@ udp://tracker.0x7c0.com:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.artixlinux.org:6969/announce
+
+udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -337,6 +345,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://ts.populargamers.co.za:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
