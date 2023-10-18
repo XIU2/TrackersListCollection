@@ -1,5 +1,7 @@
 http://1337.abcvg.info:80/announce
 
+http://bt.endpot.com:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
@@ -74,6 +76,8 @@ udp://acxx.de:6969/announce
 
 udp://bigfoot1942.sektori.org:6969/announce
 
+udp://bt1.archive.org:6969/announce
+
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -87,8 +91,6 @@ udp://exodus.desync.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
-
-udp://mail.segso.net:6969/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -117,6 +119,8 @@ udp://p4p.arenabg.com:1337/announce
 udp://private.anonseed.com:6969/announce
 
 udp://public-tracker.cf:6969/announce
+
+udp://public.publictracker.xyz:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -162,6 +166,8 @@ udp://tracker.t-rb.org:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
@@ -170,8 +176,6 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
-udp://tracker2.dler.org:80/announce
-
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
@@ -179,8 +183,6 @@ udp://u4.trakx.crim.ist:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
-
-udp://www.torrent.eu.org:451/announce
 
 udp://y.paranoid.agency:6969/announce
 
