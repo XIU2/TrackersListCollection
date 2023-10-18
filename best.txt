@@ -68,6 +68,8 @@ https://www.peckservers.com:9443/announce
 
 udp://107.182.30.76.16clouds.com:6969/announce
 
+udp://1c.premierzal.ru:6969/announce
+
 udp://6.pocketnet.app:6969/announce
 
 udp://aarsen.me:6969/announce
@@ -183,6 +185,8 @@ udp://u4.trakx.crim.ist:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
+
+udp://x.hz.is:6969/announce
 
 udp://y.paranoid.agency:6969/announce
 
