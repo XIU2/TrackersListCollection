@@ -24,11 +24,11 @@ http://fe.dealclub.de:6969/announce
 
 http://incine.ru:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://region.nl1.privex.cc:6969/announce
 
 http://retracker.211.ru:80/announce
 
@@ -54,6 +54,8 @@ http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
+http://tracker.files.fm:6969/announce
+
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.org:80/announce
@@ -67,6 +69,10 @@ http://tracker.netmap.top:6969/announce
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -83,8 +89,6 @@ http://www.all4nothin.net:80/announce.php
 http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
-
-http://x.paranoid.agency:6969/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -214,6 +218,8 @@ udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
 
+udp://open.free-tracker.ga:6969/announce
+
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
@@ -228,11 +234,15 @@ udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://pirate.hz.is:1337/announce
+
 udp://private.anonseed.com:6969/announce
 
 udp://public-tracker.cf:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -281,8 +291,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -345,8 +353,6 @@ udp://wepzone.net:6969/announce
 udp://www.torrent.eu.org:451/announce
 
 udp://x.paranoid.agency:6969/announce
-
-udp://x.t-1.org:6969/announce
 
 udp://y.paranoid.agency:6969/announce
 
