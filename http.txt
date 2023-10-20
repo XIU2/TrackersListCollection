@@ -20,15 +20,11 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-http://fe.dealclub.de:6969/announce
-
 http://incine.ru:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://retracker.211.ru:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -56,15 +52,17 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.ipv6tracker.org:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
-http://tracker.qu.ax:6969/announce
+http://tracker.opentrackr.org:1337/announce
 
-http://tracker2.dler.org:80/announce
+http://tracker.qu.ax:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
