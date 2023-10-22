@@ -26,8 +26,6 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.tfile.co:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
@@ -41,8 +39,6 @@ https://1337.abcvg.info:443/announce
 https://bt.080609.xyz:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://tracker.cloudit.top:443/announce
 
 https://tracker.gbitt.info:443/announce
 
