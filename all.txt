@@ -22,8 +22,6 @@ http://bvarf.tracker.sh:2086/announce
 
 http://incine.ru:6969/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -44,7 +42,7 @@ http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.dler.com:6969/announce
+http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -212,8 +210,6 @@ udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://open.free-tracker.ga:6969/announce
-
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.cl:1337/announce
@@ -335,6 +331,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
