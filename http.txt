@@ -30,8 +30,6 @@ http://open.acgnxtracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
 
-http://p2p.0g.cx:6969/announce
-
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
@@ -58,13 +56,13 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.ipv6tracker.org:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.nartlof.com.br:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
