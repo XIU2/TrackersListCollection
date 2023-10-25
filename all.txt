@@ -20,6 +20,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+http://incine.ru:6969/announce
+
 http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
@@ -27,6 +29,8 @@ http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
+
+http://p2p.0g.cx:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -42,6 +46,8 @@ http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.dler.com:6969/announce
+
 http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
@@ -52,17 +58,21 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.ipv6tracker.org:80/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.nartlof.com.br:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -160,6 +170,8 @@ udp://aegir.sexy:6969/announce
 
 udp://bigfoot1942.sektori.org:6969/announce
 
+udp://black-bird.ynh.fr:6969/announce
+
 udp://boysbitte.be:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
@@ -186,6 +198,8 @@ udp://fh2.cmp-gaming.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
+udp://freedomalternative.com:6969/announce
+
 udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://isk.richardsw.club:6969/announce
@@ -207,8 +221,6 @@ udp://oh.fuuuuuck.com:6969/announce
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -254,6 +266,8 @@ udp://su-data.com:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
+udp://thinking.duckdns.org:6969/announce
+
 udp://thouvenin.cloud:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
@@ -270,6 +284,8 @@ udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.artixlinux.org:6969/announce
 
+udp://tracker.auctor.tv:6969/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
@@ -281,8 +297,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
