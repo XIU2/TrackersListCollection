@@ -38,6 +38,8 @@ https://1337.abcvg.info:443/announce
 
 https://bt.080609.xyz:443/announce
 
+https://t1.hloli.org:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.gbitt.info:443/announce
@@ -129,8 +131,6 @@ udp://thouvenin.cloud:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
