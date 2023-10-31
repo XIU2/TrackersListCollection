@@ -69,6 +69,7 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 - _**https://raw.njuu.cf/XIU2/TrackersListCollection/master/best.txt**_  
 - _**[https://ghproxy.net/.../XIU2/TrackersListCollection/master/best.txt](https://ghproxy.net/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 - _**[https://ghproxy.com/.../XIU2/TrackersListCollection/master/best.txt](https://ghproxy.com/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
+- _**[https://gh-proxy.com/.../XIU2/TrackersListCollection/master/best.txt](https://gh-proxy.com/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 - _**[https://github.moeyy.xyz/.../XIU2/TrackersListCollection/master/best.txt](https://github.moeyy.xyz/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 
 
