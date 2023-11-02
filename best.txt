@@ -8,8 +8,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
@@ -27,8 +25,6 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -110,13 +106,9 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://public-tracker.cf:6969/announce
-
-udp://public.publictracker.xyz:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
