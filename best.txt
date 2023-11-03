@@ -28,6 +28,8 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.skyts.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -148,8 +150,6 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
-udp://tracker.moeking.me:6969/announce
-
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -161,6 +161,8 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.t-rb.org:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
