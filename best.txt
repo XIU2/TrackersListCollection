@@ -28,6 +28,8 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
@@ -181,8 +183,6 @@ udp://u4.trakx.crim.ist:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
-
-udp://wepzone.net:6969/announce
 
 udp://y.paranoid.agency:6969/announce
 
