@@ -30,7 +30,7 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.skyts.net:6969/announce
+http://tracker.openbittorrent.com:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -51,6 +51,10 @@ https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
+
+https://tracker.loligirl.cn:443/announce
+
+https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -81,6 +85,10 @@ udp://exodus.desync.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
+
+udp://movies.zsw.ca:6969/announce
+
+udp://ns1.monolithindustries.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
