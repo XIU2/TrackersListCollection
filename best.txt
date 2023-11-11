@@ -8,15 +8,7 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
-http://p2p.0g.cx:6969/announce
-
-http://share.camoe.cn:8080/announce
-
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -29,10 +21,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.skyts.net:6969/announce
-
-http://tracker.tfile.co:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -126,8 +114,6 @@ udp://sanincode.com:6969/announce
 
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
-udp://thetracker.org:80/announce
-
 udp://thouvenin.cloud:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
@@ -143,10 +129,6 @@ udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
-
-udp://tracker.doko.moe:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
