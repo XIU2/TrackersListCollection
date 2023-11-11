@@ -22,13 +22,11 @@ http://bvarf.tracker.sh:2086/announce
 
 http://incine.ru:6969/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
+http://p2p.0g.cx:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -37,8 +35,6 @@ http://share.camoe.cn:8080/announce
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
-
-http://t.publictracker.xyz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -70,7 +66,11 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
 
+http://tracker2.dler.org:80/announce
+
 http://tracker2.itzmx.com:6961/announce
+
+http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -163,8 +163,6 @@ udp://aegir.sexy:6969/announce
 udp://bigfoot1942.sektori.org:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
-
-udp://boysbitte.be:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -262,15 +260,21 @@ udp://tk1.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.6.babico.name.tr:6969/announce
 
+udp://tracker.anima.nz:6969/announce
+
 udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
