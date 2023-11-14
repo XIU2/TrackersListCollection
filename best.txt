@@ -112,8 +112,6 @@ udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://pirate.hz.is:1337/announce
-
 udp://public-tracker.cf:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -140,6 +138,8 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
+udp://tracker.4.babico.name.tr:3131/announce
+
 udp://tracker.6.babico.name.tr:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -152,13 +152,13 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
-udp://tracker.dump.cl:6969/announce
-
 udp://tracker.edkj.club:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
+
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
