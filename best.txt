@@ -72,8 +72,6 @@ udp://aarsen.me:6969/announce
 
 udp://acxx.de:6969/announce
 
-udp://bigfoot1942.sektori.org:6969/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
