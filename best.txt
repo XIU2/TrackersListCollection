@@ -30,6 +30,8 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://tracker.rev.pm:6969/announce
@@ -64,11 +66,7 @@ https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
 
-udp://107.182.30.76.16clouds.com:6969/announce
-
 udp://aarsen.me:6969/announce
-
-udp://acxx.de:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
