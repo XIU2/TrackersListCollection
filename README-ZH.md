@@ -43,11 +43,11 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 
 ### 更新时间: 2023-11-23
 
-- **精选列表：**(96 个)  
+- **精选列表：**(97 个)  
  _**[https://trackerslist.../best.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/best.txt)**_  
-- **完整列表：**(188 个)  
+- **完整列表：**(184 个)  
  _**[https://trackerslist.../all.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/all.txt)**_  
-- **HTTP(S)列表：**(69 个)  
+- **HTTP(S)列表：**(66 个)  
  _**[https://trackerslist.../http.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/http.txt)**_  
 
 > 上面的链接地址已改为 **CDN 分流**地址，以缓解因使用人数过多而导致的网络问题。
