@@ -12,8 +12,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -27,8 +25,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.renfei.net:8080/announce
 
