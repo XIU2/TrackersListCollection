@@ -28,8 +28,6 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.nartlof.com.br:6969/announce
-
 http://tracker.openbittorrent.com:80/announce
 
 http://tracker.renfei.net:8080/announce
