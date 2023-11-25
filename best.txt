@@ -12,6 +12,8 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -53,6 +55,8 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -142,6 +146,8 @@ udp://tracker.doko.moe:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
@@ -155,6 +161,8 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.t-rb.org:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
 
