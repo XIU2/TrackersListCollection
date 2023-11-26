@@ -46,6 +46,8 @@ http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.dler.com:6969/announce
+
 http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
@@ -64,7 +66,7 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.qu.ax:6969/announce
 
@@ -103,8 +105,6 @@ https://tracker.cloudit.top:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
-
-https://tracker.jdx3.org:443/announce
 
 https://tracker.kuroy.me:443/announce
 
