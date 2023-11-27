@@ -24,8 +24,6 @@ http://ch3oh.ru:6969/announce
 
 http://incine.ru:6969/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -67,8 +65,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -117,8 +113,6 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
-
-https://tracker.netmap.top:8443/announce
 
 https://tracker.renfei.net:443/announce
 
