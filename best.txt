@@ -34,6 +34,8 @@ http://tracker.tfile.co:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
+http://wg.mortis.me:6969/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
@@ -148,9 +150,9 @@ udp://tracker.doko.moe:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.fnix.net:6969/announce
+
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
@@ -163,8 +165,6 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.t-rb.org:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
 
