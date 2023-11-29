@@ -356,4 +356,8 @@ udp://x.t-1.org:6969/announce
 
 udp://y.paranoid.agency:6969/announce
 
+udp://bt.rer.lol:2710/announce
+
 wss://tracker.openwebtorrent.com:443/announce
+
+wss://bt.rer.lol:233/announce
