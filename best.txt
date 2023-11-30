@@ -8,8 +8,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://share.camoe.cn:8080/announce
-
 http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
@@ -26,13 +24,9 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.rev.pm:6969/announce
-
 http://tracker.tfile.co:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
-
-http://wg.mortis.me:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
