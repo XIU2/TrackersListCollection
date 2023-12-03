@@ -24,6 +24,8 @@ http://ch3oh.ru:6969/announce
 
 http://incine.ru:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -98,6 +100,10 @@ https://tracker.cloudit.top:443/announce
 
 https://tracker.gbitt.info:443/announce
 
+https://tracker.gcrreen.xyz:443/announce
+
+https://tracker.imgoingto.icu:443/announce
+
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
@@ -119,6 +125,8 @@ https://tracker1.520.jp:443/announce
 https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
+
+https://yolo.liberbear.com:443/announce
 
 udp://119.28.71.45:8080/announce
 
@@ -163,6 +171,8 @@ udp://aegir.sexy:6969/announce
 udp://black-bird.ynh.fr:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
+
+udp://bt.rer.lol:2710/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -209,8 +219,6 @@ udp://oh.fuuuuuck.com:6969/announce
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -282,6 +290,8 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
+udp://tracker.dump.cl:6969/announce
+
 udp://tracker.edkj.club:6969/announce
 
 udp://tracker.farted.net:6969/announce
@@ -289,6 +299,8 @@ udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
+
+udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -331,8 +343,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://ts.populargamers.co.za:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
