@@ -130,6 +130,8 @@ udp://tracker.6.babico.name.tr:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
+udp://tracker.bittor.pw:1337/announce
+
 udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
@@ -138,7 +140,11 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
+udp://tracker.dump.cl:6969/announce
+
 udp://tracker.edkj.club:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
