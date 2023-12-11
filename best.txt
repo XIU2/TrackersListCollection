@@ -74,6 +74,8 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://epider.me:6969/announce
 
+udp://evan.im:6969/announce
+
 udp://exodus.desync.com:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
