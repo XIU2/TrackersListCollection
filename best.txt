@@ -26,8 +26,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.renfei.net:8080/announce
@@ -47,8 +45,6 @@ https://t1.hloli.org:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.gbitt.info:443/announce
-
-https://tracker.jdx3.org:443/announce
 
 https://tracker.kuroy.me:443/announce
 
