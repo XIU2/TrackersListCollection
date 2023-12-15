@@ -10,8 +10,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://share.camoe.cn:8080/announce
-
 http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
@@ -109,8 +107,6 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://sabross.xyz:6969/announce
 
 udp://sanincode.com:6969/announce
-
-udp://t.overflow.biz:6969/announce
 
 udp://thetracker.org:80/announce
 
