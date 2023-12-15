@@ -10,6 +10,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://share.camoe.cn:8080/announce
+
 http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
@@ -60,8 +62,6 @@ https://www.peckservers.com:9443/announce
 
 udp://1c.premierzal.ru:6969/announce
 
-udp://acxx.de:6969/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -86,6 +86,8 @@ udp://oh.fuuuuuck.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://open.dstud.io:6969/announce
+
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
@@ -99,6 +101,8 @@ udp://opentracker.io:6969/announce
 udp://p4p.arenabg.com:1337/announce
 
 udp://private.anonseed.com:6969/announce
+
+udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
