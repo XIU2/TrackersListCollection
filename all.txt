@@ -20,7 +20,9 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-http://movies.zsw.ca:6969/announce
+http://ch3oh.ru:6969/announce
+
+http://incine.ru:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -40,6 +42,8 @@ http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.dler.com:6969/announce
+
 http://tracker.dler.org:6969/announce
 
 http://tracker.dump.cl:6969/announce
@@ -51,6 +55,8 @@ http://tracker.electro-torrent.pl:80/announce
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
+
+http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -101,8 +107,6 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
-
-https://tracker.moeblog.cn:443/announce
 
 https://tracker.netmap.top:8443/announce
 
@@ -242,6 +246,8 @@ udp://sabross.xyz:6969/announce
 
 udp://sanincode.com:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tamas3.ynh.fr:6969/announce
 
 udp://thouvenin.cloud:6969/announce
@@ -263,8 +269,6 @@ udp://tracker.anima.nz:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
@@ -345,7 +349,5 @@ udp://wepzone.net:6969/announce
 udp://x.t-1.org:6969/announce
 
 udp://y.paranoid.agency:6969/announce
-
-udp://yahor.of.by:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce

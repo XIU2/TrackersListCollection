@@ -18,8 +18,6 @@ http://torrentsmd.com:8080/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.dump.cl:6969/announce
-
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -27,6 +25,10 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -43,6 +45,8 @@ https://1337.abcvg.info:443/announce
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
+
+https://tracker.gbitt.info:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -63,8 +67,6 @@ https://trackers.mlsub.net:443/announce
 https://www.peckservers.com:9443/announce
 
 udp://1c.premierzal.ru:6969/announce
-
-udp://bt1.archive.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -108,8 +110,6 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://sabross.xyz:6969/announce
 
-udp://sanincode.com:6969/announce
-
 udp://t.overflow.biz:6969/announce
 
 udp://thetracker.org:80/announce
@@ -125,8 +125,6 @@ udp://tracker.0x7c0.com:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.6.babico.name.tr:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
