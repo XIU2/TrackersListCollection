@@ -250,6 +250,8 @@ udp://t.overflow.biz:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
+udp://thinking.duckdns.org:6969/announce
+
 udp://thouvenin.cloud:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
