@@ -74,6 +74,8 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
+http://tracker2.dler.org:80/announce
+
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
@@ -246,7 +248,11 @@ udp://sabross.xyz:6969/announce
 
 udp://sanincode.com:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tamas3.ynh.fr:6969/announce
+
+udp://thinking.duckdns.org:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
