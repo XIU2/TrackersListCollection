@@ -248,8 +248,6 @@ udp://ryjer.com:6969/announce
 
 udp://sabross.xyz:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://tamas3.ynh.fr:6969/announce
 
 udp://thouvenin.cloud:6969/announce
@@ -261,10 +259,6 @@ udp://torrents.artixlinux.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
-
-udp://tracker.4.babico.name.tr:3131/announce
-
-udp://tracker.6.babico.name.tr:6969/announce
 
 udp://tracker.anima.nz:6969/announce
 
