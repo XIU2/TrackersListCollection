@@ -26,6 +26,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.nartlof.com.br:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
