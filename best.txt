@@ -104,8 +104,6 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://sabross.xyz:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://thetracker.org:80/announce
 
 udp://thouvenin.cloud:6969/announce
