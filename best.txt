@@ -8,8 +8,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://share.camoe.cn:8080/announce
-
 http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
@@ -25,8 +23,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.nartlof.com.br:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -66,6 +62,8 @@ https://www.peckservers.com:9443/announce
 
 udp://api.alarmasqueretaro.com:3074/announce
 
+udp://bt.ktrackers.com:6666/announce
+
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -77,6 +75,8 @@ udp://ipv6.fuuuuuck.com:6969/announce
 udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
+
+udp://new-line.net:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
@@ -110,10 +110,6 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
-udp://tracker.ccp.ovh:6969/announce
-
-udp://tracker.cubonegro.lol:6969/announce
-
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
@@ -122,9 +118,13 @@ udp://tracker.doko.moe:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.mirrorbay.org:6969/announce
+
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
