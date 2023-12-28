@@ -236,11 +236,7 @@ udp://sabross.xyz:6969/announce
 
 udp://su-data.com:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://tamas3.ynh.fr:6969/announce
-
-udp://thinking.duckdns.org:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
