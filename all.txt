@@ -64,8 +64,6 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.nartlof.com.br:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
@@ -246,7 +244,11 @@ udp://sabross.xyz:6969/announce
 
 udp://su-data.com:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tamas3.ynh.fr:6969/announce
+
+udp://thinking.duckdns.org:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
