@@ -26,6 +26,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.nartlof.com.br:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
@@ -67,8 +69,6 @@ udp://acxx.de:6969/announce
 udp://api.alarmasqueretaro.com:3074/announce
 
 udp://bt.ktrackers.com:6666/announce
-
-udp://bt1.archive.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
