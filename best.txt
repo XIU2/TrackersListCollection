@@ -62,6 +62,8 @@ https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
 
+udp://acxx.de:6969/announce
+
 udp://api.alarmasqueretaro.com:3074/announce
 
 udp://bt.ktrackers.com:6666/announce
@@ -124,7 +126,7 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.mirrorbay.org:6969/announce
 
-udp://tracker.moeking.me:6969/announce
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -141,8 +143,6 @@ udp://tracker.therarbg.com:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -163,5 +163,7 @@ udp://uploads.gamecoast.net:6969/announce
 udp://www.torrent.eu.org:451/announce
 
 udp://y.paranoid.agency:6969/announce
+
+udp://yahor.of.by:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
