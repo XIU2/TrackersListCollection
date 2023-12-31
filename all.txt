@@ -26,8 +26,6 @@ http://ch3oh.ru:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -40,13 +38,13 @@ http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
 
+http://t.overflow.biz:6969/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -200,6 +198,8 @@ udp://hz.is:1337/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
+udp://jutone.com:6969/announce
+
 udp://mail.artixlinux.org:6969/announce
 
 udp://moonburrow.club:6969/announce
@@ -243,6 +243,8 @@ udp://ryjer.com:6969/announce
 udp://sabross.xyz:6969/announce
 
 udp://su-data.com:6969/announce
+
+udp://t.overflow.biz:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 

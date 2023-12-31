@@ -32,8 +32,6 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://v6-tracker.0g.cx:6969/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -99,8 +97,6 @@ udp://open.tracker.ink:6969/announce
 udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
-
-udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
