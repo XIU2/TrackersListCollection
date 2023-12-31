@@ -1,3 +1,5 @@
+http://00.alarmasqueretaro.com:443/announce
+
 http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -29,6 +31,8 @@ http://tracker.nartlof.com.br:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
@@ -62,11 +66,7 @@ https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
 
-udp://acxx.de:6969/announce
-
 udp://api.alarmasqueretaro.com:3074/announce
-
-udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -81,6 +81,8 @@ udp://ipv6.fuuuuuck.com:6969/announce
 udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
+
+udp://new-line.net:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
@@ -146,8 +148,6 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
@@ -163,7 +163,5 @@ udp://uploads.gamecoast.net:6969/announce
 udp://www.torrent.eu.org:451/announce
 
 udp://y.paranoid.agency:6969/announce
-
-udp://yahor.of.by:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
