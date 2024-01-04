@@ -8,6 +8,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
@@ -27,6 +29,8 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -62,11 +66,7 @@ https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
 
-udp://acxx.de:6969/announce
-
 udp://api.alarmasqueretaro.com:3074/announce
-
-udp://bt.ktrackers.com:6666/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -106,6 +106,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://sabross.xyz:6969/announce
 
+udp://tamas3.ynh.fr:6969/announce
+
 udp://thetracker.org:80/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -125,6 +127,8 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.hentai.gg:6969/announce
+
+udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.mirrorbay.org:6969/announce
 
@@ -147,8 +151,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
