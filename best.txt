@@ -132,6 +132,8 @@ udp://tracker.mirrorbay.org:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
+udp://tracker.skyts.net:6969/announce
+
 udp://tracker.t-rb.org:6969/announce
 
 udp://tracker.theoks.net:6969/announce
