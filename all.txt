@@ -56,6 +56,8 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.ipv6tracker.org:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
@@ -67,6 +69,10 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -106,8 +112,6 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
-https://tracker.netmap.top:8443/announce
-
 https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -125,6 +129,8 @@ https://yolo.liberbear.com:443/announce
 udp://119.28.71.45:8080/announce
 
 udp://184.105.151.166:6969/announce
+
+udp://1c.premierzal.ru:6969/announce
 
 udp://207.241.226.111:6969/announce
 
@@ -194,6 +200,8 @@ udp://hz.is:1337/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
+udp://isk.richardsw.club:6969/announce
+
 udp://jutone.com:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
@@ -238,8 +246,6 @@ udp://su-data.com:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-udp://thinking.duckdns.org:6969/announce
-
 udp://tk1.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
@@ -275,6 +281,8 @@ udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.mirrorbay.org:6969/announce
 
 udp://tracker.moeking.me:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
