@@ -4,11 +4,7 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-http://nyaa.tracker.wf:7777/announce
-
 http://open.acgnxtracker.com:80/announce
-
-http://open.tracker.ink:6969/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -27,8 +23,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -96,6 +90,8 @@ udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
+udp://open.xxtor.com:3074/announce
+
 udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
@@ -125,8 +121,6 @@ udp://tracker.edkj.club:6969/announce
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
-
-udp://tracker.hentai.gg:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
