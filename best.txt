@@ -1,5 +1,7 @@
 http://1337.abcvg.info:80/announce
 
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
@@ -7,6 +9,8 @@ http://bvarf.tracker.sh:2086/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.tracker.ink:6969/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -38,9 +42,17 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
+https://fbiagent.cyou:443/announce
+
+https://shahidrazi.online:443/announce
+
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
+
+https://tr.qfruiti.com:443/announce
+
+https://tr.qfruiti.in:443/announce
 
 https://tracker.gbitt.info:443/announce
 
@@ -131,8 +143,6 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.edkj.club:6969/announce
-
-udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
