@@ -26,6 +26,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.tfile.co:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
@@ -75,6 +77,8 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://exodus.desync.com:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
+
+udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -153,8 +157,6 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker.vds.nz:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
