@@ -30,8 +30,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.tfile.co:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
@@ -75,8 +73,6 @@ https://trackers.mlsub.net:443/announce
 https://www.peckservers.com:9443/announce
 
 udp://acxx.de:6969/announce
-
-udp://api.alarmasqueretaro.com:3074/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -139,8 +135,6 @@ udp://tracker.doko.moe:6969/announce
 udp://tracker.edkj.club:6969/announce
 
 udp://tracker.fnix.net:6969/announce
-
-udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.mirrorbay.org:6969/announce
 
