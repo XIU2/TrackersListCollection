@@ -10,6 +10,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
@@ -26,9 +28,9 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -105,6 +107,8 @@ udp://open.demonii.com:1337/announce
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
+
+udp://open.xxtor.com:3074/announce
 
 udp://opentor.org:2710/announce
 
