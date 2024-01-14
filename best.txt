@@ -10,8 +10,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
@@ -114,6 +112,8 @@ udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://r.l5.ca:6969/announce
+
 udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
@@ -151,6 +151,8 @@ udp://tracker.t-rb.org:6969/announce
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
