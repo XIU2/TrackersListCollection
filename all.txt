@@ -30,8 +30,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
@@ -69,6 +67,8 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
@@ -264,8 +264,6 @@ udp://su-data.com:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-udp://thinking.duckdns.org:6969/announce
-
 udp://thouvenin.cloud:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
@@ -289,8 +287,6 @@ udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cubonegro.lol:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
-
-udp://tracker.dev-null.rocks:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
