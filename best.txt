@@ -30,8 +30,6 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
@@ -97,8 +95,6 @@ udp://martin-gebhardt.eu:25/announce
 udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
-
-udp://new-line.net:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
@@ -167,8 +163,6 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker2.dler.org:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
-
-udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
