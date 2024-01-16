@@ -54,6 +54,8 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
+https://tracker.jdx3.org:443/announce
+
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
