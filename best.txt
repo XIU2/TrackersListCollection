@@ -28,6 +28,8 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
@@ -75,8 +77,6 @@ https://tracker1.520.jp:443/announce
 https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
-
-udp://6.pocketnet.app:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
