@@ -30,8 +30,6 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
 
-http://uraniumhexafluori.de:1919/announce
-
 http://v6-tracker.0g.cx:6969/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -118,8 +116,6 @@ udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://r.l5.ca:6969/announce
-
 udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
@@ -151,6 +147,8 @@ udp://tracker.mirrorbay.org:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
