@@ -26,13 +26,11 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.renfei.net:8080/announce
 
-http://tracker.tfile.co:80/announce
+http://tracker.skyts.net:6969/announce
 
-http://uraniumhexafluori.de:1919/announce
+http://tracker.tfile.co:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
@@ -129,8 +127,6 @@ udp://thetracker.org:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
-
-udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.cubonegro.lol:6969/announce
 
