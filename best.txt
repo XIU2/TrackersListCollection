@@ -10,7 +10,11 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://share.camoe.cn:8080/announce
+
 http://t.nyaatracker.com:80/announce
+
+http://torrentsmd.com:8080/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -23,6 +27,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -84,6 +90,8 @@ udp://exodus.desync.com:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
+udp://martin-gebhardt.eu:25/announce
+
 udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
@@ -99,8 +107,6 @@ udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
-
-udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -158,7 +164,9 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.vds.nz:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
+udp://tracker1.myporn.club:9337/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
