@@ -44,13 +44,13 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 ### 更新时间: 2024-01-24
 
 - **精选列表：**(93 个)  
- _**[https://trackerslist.../best.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/best.txt)**_  
+ _**https://cf.trackerslist.com/best.txt**_  
 - **完整列表：**(176 个)  
- _**[https://trackerslist.../all.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/all.txt)**_  
+ _**https://cf.trackerslist.com/all.txt**_  
 - **HTTP(S)列表：**(70 个)  
- _**[https://trackerslist.../http.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/http.txt)**_  
+ _**https://cf.trackerslist.com/http.txt**_  
 
-> 上面的链接地址已改为 **CDN 分流**地址，以缓解因使用人数过多而导致的网络问题。
+> 如果上面链接地址无法打开或很慢，请尝试使用以下其他 **CDN 分流**地址。
 
 <details>
 <summary><strong><code>[点击展开] - 查看其他 CDN 分流地址</code></strong></summary>
@@ -58,10 +58,8 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 ****
 
 \# **以下为完整列表 ` best.txt ` 示例（末尾文件名可自行修改，选择一个速度快的地址）：**  
- 
-- _**https://cf.trackerslist.com/best.txt**_  
+
 - _**https://bitbucket.org/xiu2/trackerslistcollection/raw/master/best.txt**_  
-- _**https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/best.txt**_  
 - _**https://raw.kkgithub.com/XIU2/TrackersListCollection/master/best.txt**_  
 - _**https://jsd.onmicrosoft.cn/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://jsdelivr.b-cdn.net/gh/XIU2/TrackersListCollection/best.txt**_  
@@ -87,11 +85,11 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 <details>
 <summary><strong><code>[点击展开] - 查看 Aria2 格式的 Tracker 列表</code></strong></summary>
 
-- _**[https://trackerslist.../best_aria2.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/best_aria2.txt)**_  
-- _**[https://trackerslist.../all_aria2.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/all_aria2.txt)**_  
-- _**[https://trackerslist.../http_aria2.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/http_aria2.txt)**_  
+- _**https://cf.trackerslist.com/best_aria2.txt**_  
+- _**https://cf.trackerslist.com/all_aria2.txt**_  
+- _**https://cf.trackerslist.com/http_aria2.txt**_  
 
-> 上面的链接地址已改为 **国内 CDN 分流**地址，其他分流地址和上面的一样（只需改下文件名）。
+> 如果上面链接地址无法打开或很慢，请尝试使用上面的其他 **CDN 分流**地址（只需改下文件名）。
 
 </details>
 
