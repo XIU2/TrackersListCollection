@@ -10,6 +10,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
@@ -51,8 +53,6 @@ https://tr.qfruiti.com:443/announce
 https://tr.qfruiti.in:443/announce
 
 https://tracker.gbitt.info:443/announce
-
-https://tracker.jdx3.org:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -143,6 +143,8 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.edkj.club:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
