@@ -28,9 +28,9 @@ _You can judge whether there is a problem with the BT configuration and network 
 
 ****
 
-### Updated: 2024-01-28
+### Updated: 2024-01-29
 
-- **BEST Tracker list:** (96 trackers)  
+- **BEST Tracker list:** (99 trackers)  
  _**https://cf.trackerslist.com/best.txt**_  
 - **ALL Tracker list:** (180 trackers)  
  _**https://cf.trackerslist.com/all.txt**_  
