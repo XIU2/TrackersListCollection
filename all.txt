@@ -32,6 +32,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://r.l5.ca:6969/announce
+
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
@@ -47,8 +49,6 @@ http://tracker.birkenwald.de:6969/announce
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -67,10 +67,6 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -111,8 +107,6 @@ https://tracker.cloudit.top:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
-
-https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
@@ -182,6 +176,10 @@ udp://api.alarmasqueretaro.com:3074/announce
 
 udp://bt.ktrackers.com:6666/announce
 
+udp://bt.rer.lol:2710/announce
+
+udp://bt.rer.lol:6969/announce
+
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
@@ -203,6 +201,8 @@ udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
+
+udp://freedomalternative.com:6969/announce
 
 udp://hz.is:1337/announce
 
@@ -258,7 +258,11 @@ udp://ryjer.com:6969/announce
 
 udp://su-data.com:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tamas3.ynh.fr:6969/announce
+
+udp://thinking.duckdns.org:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -275,8 +279,6 @@ udp://tracker.artixlinux.org:6969/announce
 udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cubonegro.lol:6969/announce
 
@@ -329,8 +331,6 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.vds.nz:6969/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
