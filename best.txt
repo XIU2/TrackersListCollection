@@ -30,8 +30,6 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.tfile.co:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
@@ -73,6 +71,8 @@ https://tracker1.520.jp:443/announce
 https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
+
+udp://1c.premierzal.ru:6969/announce
 
 udp://6.pocketnet.app:6969/announce
 
@@ -175,8 +175,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker.vds.nz:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
