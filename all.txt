@@ -188,7 +188,7 @@ udp://api.alarmasqueretaro.com:3074/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://bt.rer.lol:2710/announce
+udp://ipv4.rer.lol:2710/announce
 
 udp://bt.rer.lol:6969/announce
 
