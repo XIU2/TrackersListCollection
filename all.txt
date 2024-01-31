@@ -26,9 +26,13 @@ http://incine.ru:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.tracker.ink:6969/announce
 
 http://r.l5.ca:6969/announce
 
@@ -46,8 +50,6 @@ http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.dler.com:6969/announce
-
 http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
@@ -63,8 +65,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
-
-http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -117,6 +117,8 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.netmap.top:8443/announce
 
 https://tracker.renfei.net:443/announce
 
@@ -259,8 +261,6 @@ udp://su-data.com:6969/announce
 udp://t.overflow.biz:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
-
-udp://thinking.duckdns.org:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
