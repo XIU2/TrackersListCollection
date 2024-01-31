@@ -114,8 +114,6 @@ udp://open.tracker.ink:6969/announce
 
 udp://open.xxtor.com:3074/announce
 
-udp://opentor.org:2710/announce
-
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://opentracker.io:6969/announce
