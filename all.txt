@@ -32,8 +32,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://r.l5.ca:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -51,8 +49,6 @@ http://tracker.birkenwald.de:6969/announce
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -184,8 +180,6 @@ udp://api.alarmasqueretaro.com:3074/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://bt.rer.lol:6969/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
@@ -211,8 +205,6 @@ udp://free.publictracker.xyz:6969/announce
 udp://hz.is:1337/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
-
-udp://jutone.com:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
 
@@ -266,11 +258,7 @@ udp://ryjer.com:6969/announce
 
 udp://su-data.com:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://tamas3.ynh.fr:6969/announce
-
-udp://thinking.duckdns.org:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
