@@ -26,11 +26,15 @@ http://ch3oh.ru:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
 http://open.tracker.ink:6969/announce
+
+http://r.l5.ca:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -45,6 +49,10 @@ http://torrentsmd.com:8080/announce
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.dler.com:6969/announce
+
+http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -204,6 +212,8 @@ udp://fh2.cmp-gaming.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
+udp://freedomalternative.com:6969/announce
+
 udp://hz.is:1337/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
@@ -230,6 +240,8 @@ udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://open.tracker.ink:6969/announce
 
 udp://open.u-p.pw:6969/announce
@@ -244,8 +256,6 @@ udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://r.l5.ca:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -259,8 +269,6 @@ udp://ryjer.com:6969/announce
 udp://su-data.com:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
-
-udp://thinking.duckdns.org:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
