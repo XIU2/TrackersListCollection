@@ -32,6 +32,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
@@ -39,6 +41,8 @@ http://share.camoe.cn:8080/announce
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
+
+http://t.overflow.biz:6969/announce
 
 http://tk.greedland.net:80/announce
 
@@ -49,6 +53,8 @@ http://tracker.birkenwald.de:6969/announce
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
+
+http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -68,6 +74,8 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.srv00.com:6969/announce
+
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
@@ -76,7 +84,11 @@ http://tracker4.itzmx.com:2710/announce
 
 http://uraniumhexafluori.de:1919/announce
 
+http://v6-tracker.0g.cx:6969/announce
+
 http://wepzone.net:6969/announce
+
+http://wg.mortis.me:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -200,8 +212,6 @@ udp://fh2.cmp-gaming.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
-udp://hz.is:1337/announce
-
 udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
@@ -224,6 +234,8 @@ udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
 
+udp://open.stealth.si:80/announce
+
 udp://open.tracker.ink:6969/announce
 
 udp://open.xxtor.com:3074/announce
@@ -236,10 +248,6 @@ udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
-udp://r.l5.ca:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
@@ -251,6 +259,8 @@ udp://ryjer.com:6969/announce
 udp://su-data.com:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
+
+udp://thinking.duckdns.org:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
