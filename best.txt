@@ -36,6 +36,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.tfile.co:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
@@ -80,8 +82,6 @@ https://www.peckservers.com:9443/announce
 
 udp://api.alarmasqueretaro.com:3074/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -100,8 +100,6 @@ udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://new-line.net:6969/announce
-
 udp://ns1.monolithindustries.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
@@ -110,7 +108,11 @@ udp://oh.fuuuuuck.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://open.dstud.io:6969/announce
+
 udp://open.stealth.si:80/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -164,17 +166,15 @@ udp://tracker.therarbg.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
-
-udp://u6.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
