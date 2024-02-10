@@ -58,6 +58,8 @@ http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
+http://tracker.enitin.xyz:80/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -97,8 +99,6 @@ http://www.peckservers.com:9000/announce
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://bot.ponomar-sibir.ru:443/announce
 
 https://opentracker.i2p.rocks:443/announce
 
