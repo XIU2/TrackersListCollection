@@ -12,8 +12,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
@@ -165,8 +163,6 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
