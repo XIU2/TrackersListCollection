@@ -30,8 +30,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
@@ -72,11 +70,7 @@ http://tracker.openbittorrent.com:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.qu.ax:6969/announce
-
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -87,8 +81,6 @@ http://tracker4.itzmx.com:2710/announce
 http://uraniumhexafluori.de:1919/announce
 
 http://v6-tracker.0g.cx:6969/announce
-
-http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -121,8 +113,6 @@ https://tracker.gcrreen.xyz:443/announce
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.kuroy.me:443/announce
-
-https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
