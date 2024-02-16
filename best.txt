@@ -36,6 +36,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.tfile.co:80/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -54,13 +56,9 @@ https://tr.qfruiti.com:443/announce
 
 https://tr.qfruiti.in:443/announce
 
-https://tracker.gbitt.info:443/announce
-
 https://tracker.gcrreen.xyz:443/announce
 
 https://tracker.kuroy.me:443/announce
-
-https://tracker.lilithraws.cf:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
@@ -73,8 +71,6 @@ https://tracker1.520.jp:443/announce
 https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
-
-udp://6.pocketnet.app:6969/announce
 
 udp://api.alarmasqueretaro.com:3074/announce
 
@@ -111,8 +107,6 @@ udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 
 udp://open.xxtor.com:3074/announce
-
-udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
