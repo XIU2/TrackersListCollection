@@ -140,8 +140,6 @@ udp://tracker.dump.cl:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
-udp://tracker.mirrorbay.org:6969/announce
-
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -161,6 +159,8 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker2.dler.com:80/announce
 
 udp://tracker2.dler.org:80/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 udp://www.torrent.eu.org:451/announce
 
