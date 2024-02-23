@@ -12,8 +12,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
@@ -77,8 +75,6 @@ https://trackers.mlsub.net:443/announce
 https://www.peckservers.com:9443/announce
 
 udp://api.alarmasqueretaro.com:3074/announce
-
-udp://bt1.archive.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
