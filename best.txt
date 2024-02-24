@@ -36,6 +36,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.tfile.co:80/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -157,8 +159,6 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
-
-udp://u4.trakx.crim.ist:1337/announce
 
 udp://www.torrent.eu.org:451/announce
 
