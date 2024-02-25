@@ -78,10 +78,6 @@ https://www.peckservers.com:9443/announce
 
 udp://api.alarmasqueretaro.com:3074/announce
 
-udp://bt.ktrackers.com:6666/announce
-
-udp://bt1.archive.org:6969/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -97,6 +93,8 @@ udp://martin-gebhardt.eu:25/announce
 udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
+
+udp://new-line.net:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
@@ -130,6 +128,8 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
 
+udp://tracker.cubonegro.lol:6969/announce
+
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
@@ -144,6 +144,8 @@ udp://tracker.picotorrent.one:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.therarbg.com:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
@@ -154,7 +156,7 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
