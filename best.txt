@@ -58,8 +58,6 @@ https://tr.qfruiti.in:443/announce
 
 https://tracker.gbitt.info:443/announce
 
-https://tracker.gcrreen.xyz:443/announce
-
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.org:443/announce
