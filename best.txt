@@ -12,6 +12,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
@@ -32,7 +34,11 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -72,7 +78,9 @@ https://www.peckservers.com:9443/announce
 
 udp://api.alarmasqueretaro.com:3074/announce
 
-udp://bt1.archive.org:6969/announce
+udp://bt.ktrackers.com:6666/announce
+
+udp://bt2.archive.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -89,6 +97,8 @@ udp://martin-gebhardt.eu:25/announce
 udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
+
+udp://new-line.net:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
@@ -140,15 +150,11 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
