@@ -36,6 +36,8 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.tfile.co:80/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -151,6 +153,8 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker.vds.nz:6969/announce
 
 udp://tracker2.dler.com:80/announce
 
