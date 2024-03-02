@@ -36,6 +36,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.tfile.co:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
@@ -57,8 +59,6 @@ https://tr.burnabyhighstar.com:443/announce
 https://tr.qfruiti.com:443/announce
 
 https://tr.qfruiti.in:443/announce
-
-https://track3r.site:443/announce
 
 https://tracker.gbitt.info:443/announce
 
@@ -113,8 +113,6 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
-
-udp://open.xxtor.com:3074/announce
 
 udp://opentor.org:2710/announce
 
