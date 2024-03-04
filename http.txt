@@ -32,9 +32,9 @@ http://open.acgnxtracker.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
-http://t.acg.rip:6699/announce
+http://retracker.seven-sky.net:80/announce
 
-http://t.overflow.biz:6969/announce
+http://t.acg.rip:6699/announce
 
 http://tk.greedland.net:80/announce
 
@@ -58,8 +58,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.netmap.top:6969/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
@@ -75,10 +73,6 @@ http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 
 http://v6-tracker.0g.cx:6969/announce
-
-http://wepzone.net:6969/announce
-
-http://wg.mortis.me:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -115,8 +109,6 @@ https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
-
-https://tracker.netmap.top:8443/announce
 
 https://tracker.renfei.net:443/announce
 
