@@ -28,6 +28,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://retracker.hotplug.ru:2710/announce
 
 http://t.acg.rip:6699/announce
@@ -48,8 +50,6 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.ipv6tracker.org:80/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
@@ -61,6 +61,10 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -101,8 +105,6 @@ https://tracker.cloudit.top:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
-
-https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 

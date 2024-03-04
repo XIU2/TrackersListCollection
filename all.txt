@@ -28,6 +28,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://retracker.hotplug.ru:2710/announce
 
 http://t.acg.rip:6699/announce
@@ -48,8 +50,6 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.ipv6tracker.org:80/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
@@ -61,6 +61,10 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -101,8 +105,6 @@ https://tracker.cloudit.top:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
-
-https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
@@ -162,11 +164,11 @@ udp://api.alarmasqueretaro.com:3074/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
+
+udp://btt.service.gongt.me:43079/announce
 
 udp://concen.org:6969/announce
 
@@ -228,6 +230,8 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://pirate.t-1.org:1337/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
@@ -245,6 +249,8 @@ udp://tamas3.ynh.fr:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
