@@ -12,10 +12,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
-http://retracker.seven-sky.net:80/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
@@ -38,8 +34,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.tfile.co:80/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -50,8 +44,6 @@ https://1337.abcvg.info:443/announce
 
 https://opentracker.i2p.rocks:443/announce
 
-https://shahidrazi.online:443/announce
-
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
@@ -59,8 +51,6 @@ https://tr.burnabyhighstar.com:443/announce
 https://tr.qfruiti.com:443/announce
 
 https://tr.qfruiti.in:443/announce
-
-https://track3r.site:443/announce
 
 https://tracker.gbitt.info:443/announce
 
@@ -136,6 +126,8 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
+udp://tracker.draatman.uk:6969/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
@@ -150,6 +142,8 @@ udp://tracker.picotorrent.one:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
+udp://tracker.t-rb.org:6969/announce
+
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
@@ -161,8 +155,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker2.dler.com:80/announce
-
-udp://u4.trakx.crim.ist:1337/announce
 
 udp://www.torrent.eu.org:451/announce
 
