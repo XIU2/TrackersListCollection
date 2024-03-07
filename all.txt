@@ -24,9 +24,13 @@ http://ch3oh.ru:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.tracker.ink:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -66,7 +70,7 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker2.dler.org:80/announce
+http://tracker.skyts.net:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -245,8 +249,6 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://ryjer.com:6969/announce
 
 udp://su-data.com:6969/announce
-
-udp://t.overflow.biz:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 

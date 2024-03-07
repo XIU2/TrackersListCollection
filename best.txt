@@ -12,6 +12,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://retracker.seven-sky.net:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -36,6 +38,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.tfile.co:80/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -59,6 +63,8 @@ https://tr.qfruiti.in:443/announce
 https://track3r.site:443/announce
 
 https://tracker.gbitt.info:443/announce
+
+https://tracker.gcrreen.xyz:443/announce
 
 https://tracker.kuroy.me:443/announce
 
