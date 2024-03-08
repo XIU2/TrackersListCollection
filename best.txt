@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
@@ -143,8 +141,6 @@ udp://tracker.t-rb.org:6969/announce
 udp://tracker.therarbg.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
