@@ -10,8 +10,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://retracker.seven-sky.net:80/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
@@ -54,8 +52,6 @@ https://tr.qfruiti.in:443/announce
 
 https://tracker.gbitt.info:443/announce
 
-https://tracker.gcrreen.xyz:443/announce
-
 https://tracker.kuroy.me:443/announce
 
 https://tracker.loligirl.cn:443/announce
@@ -82,15 +78,11 @@ udp://exodus.desync.com:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
-udp://isk.richardsw.club:6969/announce
-
 udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
-
-udp://new-line.net:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
@@ -108,7 +100,11 @@ udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
 
+udp://opentracker.i2p.rocks:6969/announce
+
 udp://opentracker.io:6969/announce
+
+udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -118,7 +114,7 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
+udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -140,11 +136,15 @@ udp://tracker.t-rb.org:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
 
+udp://tracker.therarbg.to:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
