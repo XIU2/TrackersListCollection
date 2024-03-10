@@ -10,11 +10,15 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://retracker.seven-sky.net:80/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
+
+http://tinfoil.space:6969/announce
 
 http://tk.greedland.net:80/announce
 
