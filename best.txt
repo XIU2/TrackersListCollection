@@ -10,8 +10,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://retracker.seven-sky.net:80/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
@@ -155,6 +153,8 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker2.dler.com:80/announce
 
 udp://tracker2.dler.org:80/announce
+
+udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
