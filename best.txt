@@ -144,8 +144,6 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker2.dler.com:80/announce
