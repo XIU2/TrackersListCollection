@@ -42,8 +42,6 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
-https://bt.ptlsp.com:443/announce
-
 https://opentracker.i2p.rocks:443/announce
 
 https://t1.hloli.org:443/announce
