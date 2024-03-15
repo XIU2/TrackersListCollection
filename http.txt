@@ -44,6 +44,8 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -90,11 +92,15 @@ https://shahidrazi.online:443/announce
 
 https://t1.hloli.org:443/announce
 
+https://tr.aag.moe:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.qfruiti.com:443/announce
 
 https://tr.qfruiti.in:443/announce
+
+https://tr.ready4.icu:443/announce
 
 https://track3r.site:443/announce
 
@@ -103,8 +109,6 @@ https://tracker.cloudit.top:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
-
-https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 

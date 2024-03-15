@@ -44,6 +44,8 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -90,11 +92,15 @@ https://shahidrazi.online:443/announce
 
 https://t1.hloli.org:443/announce
 
+https://tr.aag.moe:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.qfruiti.com:443/announce
 
 https://tr.qfruiti.in:443/announce
+
+https://tr.ready4.icu:443/announce
 
 https://track3r.site:443/announce
 
@@ -103,8 +109,6 @@ https://tracker.cloudit.top:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
-
-https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
@@ -162,6 +166,8 @@ udp://aarsen.me:6969/announce
 
 udp://aegir.sexy:6969/announce
 
+udp://bt.ktrackers.com:6666/announce
+
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
@@ -208,8 +214,6 @@ udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://open.free-tracker.ga:6969/announce
-
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
@@ -244,6 +248,8 @@ udp://tk1.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.anima.nz:6969/announce
@@ -251,6 +257,10 @@ udp://tracker.anima.nz:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cubonegro.lol:6969/announce
 
@@ -297,6 +307,8 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
