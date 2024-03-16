@@ -52,8 +52,6 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.qfruiti.com:443/announce
 
-https://tr.qfruiti.in:443/announce
-
 https://tracker.gbitt.info:443/announce
 
 https://tracker.kuroy.me:443/announce
@@ -69,8 +67,6 @@ https://tracker1.520.jp:443/announce
 https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
-
-udp://bt1.archive.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 

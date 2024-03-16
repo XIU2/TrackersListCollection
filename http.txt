@@ -28,11 +28,11 @@ http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.acgnxtracker.com:80/announce
-
 http://retracker.hotplug.ru:2710/announce
 
 http://t.acg.rip:6699/announce
+
+http://t1.aag.moe:17715/announce
 
 http://tinfoil.space:6969/announce
 
@@ -43,8 +43,6 @@ http://torrentsmd.com:8080/announce
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -115,6 +113,8 @@ https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.netmap.top:8443/announce
 
 https://tracker.renfei.net:443/announce
 
