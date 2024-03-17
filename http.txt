@@ -32,8 +32,6 @@ http://retracker.hotplug.ru:2710/announce
 
 http://t.acg.rip:6699/announce
 
-http://t1.aag.moe:17715/announce
-
 http://tinfoil.space:6969/announce
 
 http://tk.greedland.net:80/announce
@@ -69,6 +67,8 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.torrentuje.me:2710/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
