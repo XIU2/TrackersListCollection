@@ -118,6 +118,8 @@ udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://seedpeer.net:6969/announce
+
 udp://thetracker.org:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
