@@ -68,12 +68,6 @@ https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
-udp://aarsen.me:6969/announce
-
-udp://bt.ktrackers.com:6666/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -118,6 +112,8 @@ udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://retracker01-msk-virt.corbina.net:80/announce
+
 udp://seedpeer.net:6969/announce
 
 udp://thetracker.org:80/announce
@@ -126,9 +122,9 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker.dler.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
@@ -144,13 +140,15 @@ udp://tracker.picotorrent.one:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
-udp://tracker.t-rb.org:6969/announce
-
 udp://tracker.therarbg.com:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
