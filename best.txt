@@ -1,3 +1,5 @@
+http://1337.abcvg.info:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
@@ -7,6 +9,8 @@ http://ipv6.rer.lol:6969/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.tracker.ink:6969/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -21,6 +25,8 @@ http://tk.greedland.net:80/announce
 http://torrentsmd.com:8080/announce
 
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.dler.org:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
@@ -41,6 +47,8 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://opentracker.i2p.rocks:443/announce
+
+https://shahidrazi.online:443/announce
 
 https://t1.hloli.org:443/announce
 
@@ -153,6 +161,8 @@ udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker2.dler.com:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
