@@ -16,6 +16,8 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
+http://bt.okmp3.ru:2710/announce
+
 http://bvarf.tracker.sh:2086/announce
 
 http://ch3oh.ru:6969/announce
@@ -28,9 +30,15 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
+http://r.l5.ca:6969/announce
+
 http://retracker.hotplug.ru:2710/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.overflow.biz:6969/announce
 
 http://tinfoil.space:6969/announce
 
@@ -39,6 +47,8 @@ http://tk.greedland.net:80/announce
 http://torrentsmd.com:8080/announce
 
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -56,11 +66,15 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.netmap.top:6969/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -73,6 +87,8 @@ http://wepzone.net:6969/announce
 http://www.all4nothin.net:80/announce.php
 
 http://www.peckservers.com:9000/announce
+
+http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -103,6 +119,8 @@ https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.netmap.top:8443/announce
 
 https://tracker.renfei.net:443/announce
 
@@ -178,6 +196,8 @@ udp://ipv4.rer.lol:2710/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
+udp://isk.richardsw.club:6969/announce
+
 udp://jutone.com:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
@@ -224,6 +244,8 @@ udp://pirate.t-1.org:1337/announce
 
 udp://public.tracker.vraphim.com:6969/announce
 
+udp://r.l5.ca:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
@@ -254,8 +276,6 @@ udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker.cubonegro.lol:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
@@ -265,6 +285,8 @@ udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
+
+udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
