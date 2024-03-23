@@ -36,6 +36,8 @@ _You can judge whether there is a problem with the BT configuration and network 
  _**https://cf.trackerslist.com/all.txt**_  
 - **HTTP(S) Tracker list:** (65 trackers)  
  _**https://cf.trackerslist.com/http.txt**_  
+- **No HTTP Tracker list:** (00 trackers)  
+ _**https://cf.trackerslist.com/nohttp.txt**_  
 
 <details>
 <summary><strong><code>[Click to expand] - View alternate address</code></strong></summary>
@@ -64,6 +66,7 @@ _You can judge whether there is a problem with the BT configuration and network 
 - _**https://cf.trackerslist.com/best_aria2.txt**_  
 - _**https://cf.trackerslist.com/all_aria2.txt**_  
 - _**https://cf.trackerslist.com/http_aria2.txt**_  
+- _**https://cf.trackerslist.com/nohttp_aria2.txt**_  
 
 </details>
 
