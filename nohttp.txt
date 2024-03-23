@@ -10,8 +10,6 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.qfruiti.com:443/announce
 
-https://tr.qfruiti.in:443/announce
-
 https://track3r.site:443/announce
 
 https://tracker.cloudit.top:443/announce
@@ -25,8 +23,6 @@ https://tracker.imgoingto.icu:443/announce
 https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
-
-https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
@@ -128,6 +124,8 @@ udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
 
+udp://open.stealth.si:80/announce
+
 udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
@@ -215,8 +213,6 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.t-rb.org:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 

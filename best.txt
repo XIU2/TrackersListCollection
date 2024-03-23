@@ -26,21 +26,19 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
-http://tracker.files.fm:6969/announce
-
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.tfile.co:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
+
+https://1337.abcvg.info:443/announce
 
 https://opentracker.i2p.rocks:443/announce
 
@@ -82,6 +80,8 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://ipv6.fuuuuuck.com:6969/announce
+
 udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
@@ -100,6 +100,8 @@ udp://open.stealth.si:80/announce
 
 udp://open.tracker.cl:1337/announce
 
+udp://open.tracker.ink:6969/announce
+
 udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
@@ -115,6 +117,8 @@ udp://thetracker.org:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -148,10 +152,6 @@ udp://tracker2.dler.org:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
-udp://u4.trakx.crim.ist:1337/announce
-
 udp://u6.trakx.crim.ist:1337/announce
-
-udp://www.torrent.eu.org:451/announce
 
 wss://tracker.openwebtorrent.com:443/announce
