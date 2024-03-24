@@ -10,6 +10,8 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.qfruiti.com:443/announce
 
+https://tr.qfruiti.in:443/announce
+
 https://track3r.site:443/announce
 
 https://tracker.cloudit.top:443/announce
@@ -23,6 +25,8 @@ https://tracker.imgoingto.icu:443/announce
 https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
+
+https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
@@ -100,8 +104,6 @@ udp://ipv4.rer.lol:2710/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
-udp://isk.richardsw.club:6969/announce
-
 udp://jutone.com:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
@@ -148,8 +150,6 @@ udp://pirate.t-1.org:1337/announce
 
 udp://public.publictracker.xyz:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
@@ -163,8 +163,6 @@ udp://run.publictracker.xyz:6969/announce
 udp://ryjer.com:6969/announce
 
 udp://seedpeer.net:6969/announce
-
-udp://su-data.com:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
@@ -214,7 +212,7 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://tracker.t-rb.org:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
 
@@ -229,8 +227,6 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.vds.nz:6969/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
