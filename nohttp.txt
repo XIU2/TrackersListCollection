@@ -28,7 +28,7 @@ https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
-https://tracker.loligirl.cn:443/announce
+https://tracker.netmap.top:8443/announce
 
 https://tracker.renfei.net:443/announce
 
@@ -167,8 +167,6 @@ udp://seedpeer.net:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
-
-udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
