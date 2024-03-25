@@ -2,6 +2,8 @@ https://1337.abcvg.info:443/announce
 
 https://opentracker.i2p.rocks:443/announce
 
+https://shahidrazi.online:443/announce
+
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
@@ -28,6 +30,8 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
+https://tracker.netmap.top:8443/announce
+
 https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -53,8 +57,6 @@ udp://49.12.76.8:8080/announce
 udp://52.58.128.163:6969/announce
 
 udp://6.pocketnet.app:6969/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://91.216.110.52:451/announce
 
@@ -197,8 +199,6 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.moeking.me:6969/announce
-
-udp://tracker.open-data.network:8888/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
