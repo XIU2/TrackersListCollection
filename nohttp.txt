@@ -144,15 +144,11 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://pirate.t-1.org:1337/announce
 
-udp://public.publictracker.xyz:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
 
 udp://run-2.publictracker.xyz:6969/announce
-
-udp://run.publictracker.xyz:6969/announce
 
 udp://ryjer.com:6969/announce
 
@@ -180,8 +176,6 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
 
-udp://tracker.dler.com:6969/announce
-
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.edkj.club:6969/announce
@@ -193,8 +187,6 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
-
-udp://tracker.moeking.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -241,6 +233,8 @@ udp://tracker4.itzmx.com:2710/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
+
+udp://u6.trakx.crim.ist:1337/announce
 
 udp://wepzone.net:6969/announce
 
