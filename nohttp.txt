@@ -8,15 +8,11 @@ https://shahidrazi.online:443/announce
 
 https://t1.hloli.org:443/announce
 
-https://tr.burnabyhighstar.com:443/announce
-
 https://tr.qfruiti.com:443/announce
 
 https://tr.qfruiti.in:443/announce
 
 https://track3r.site:443/announce
-
-https://tracker.cloudit.top:443/announce
 
 https://tracker.gbitt.info:443/announce
 
@@ -144,11 +140,15 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://pirate.t-1.org:1337/announce
 
+udp://public.publictracker.xyz:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
 
 udp://run-2.publictracker.xyz:6969/announce
+
+udp://run.publictracker.xyz:6969/announce
 
 udp://ryjer.com:6969/announce
 
@@ -162,19 +162,17 @@ udp://tk1.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.anima.nz:6969/announce
-
-udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
+
+udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
@@ -187,6 +185,8 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
+
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
