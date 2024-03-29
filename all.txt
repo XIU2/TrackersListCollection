@@ -20,9 +20,15 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+http://ch3oh.ru:6969/announce
+
 http://ipv6.rer.lol:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
+
+http://open.acgnxtracker.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -32,7 +38,11 @@ http://tinfoil.space:6969/announce
 
 http://tk.greedland.net:80/announce
 
-http://torrentsmd.com:8080/announce
+http://tr.kxmp.cf:80/announce
+
+http://tracker.bt4g.com:2095/announce
+
+http://tracker.dler.com:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -56,8 +66,6 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
@@ -74,8 +82,6 @@ http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
 
-https://1337.abcvg.info:443/announce
-
 https://bt.ptlsp.com:443/announce
 
 https://opentracker.i2p.rocks:443/announce
@@ -84,11 +90,15 @@ https://shahidrazi.online:443/announce
 
 https://t1.hloli.org:443/announce
 
+https://tr.burnabyhighstar.com:443/announce
+
 https://tr.qfruiti.com:443/announce
 
 https://tr.qfruiti.in:443/announce
 
 https://track3r.site:443/announce
+
+https://tracker.cloudit.top:443/announce
 
 https://tracker.gbitt.info:443/announce
 
@@ -218,9 +228,13 @@ udp://pirate.t-1.org:1337/announce
 
 udp://public.publictracker.xyz:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run-2.publictracker.xyz:6969/announce
 
@@ -238,11 +252,17 @@ udp://tk1.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.anima.nz:6969/announce
 
+udp://tracker.artixlinux.org:6969/announce
+
 udp://tracker.auctor.tv:6969/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -251,6 +271,8 @@ udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
+
+udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
