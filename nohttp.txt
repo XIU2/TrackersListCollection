@@ -18,7 +18,7 @@ https://track3r.site:443/announce
 
 https://tracker.cloudit.top:443/announce
 
-https://tracker.imgoingto.icu:443/announce
+https://tracker.gbitt.info:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
@@ -78,13 +78,9 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://bt2.archive.org:6969/announce
-
 udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
-
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://epider.me:6969/announce
 
@@ -150,11 +146,15 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://run-2.publictracker.xyz:6969/announce
+
 udp://run.publictracker.xyz:6969/announce
 
 udp://ryjer.com:6969/announce
 
 udp://seedpeer.net:6969/announce
+
+udp://su-data.com:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
@@ -212,8 +212,6 @@ udp://tracker.t-rb.org:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
 
-udp://tracker.therarbg.to:6969/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -230,8 +228,6 @@ udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
-udp://tracker2.dler.org:80/announce
-
 udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker3.itzmx.com:6961/announce
@@ -247,3 +243,5 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+wss://tracker.openwebtorrent.com:443/announce
