@@ -1,8 +1,4 @@
-https://1337.abcvg.info:443/announce
-
 https://bt.ptlsp.com:443/announce
-
-https://opentracker.i2p.rocks:443/announce
 
 https://shahidrazi.online:443/announce
 
@@ -27,6 +23,8 @@ https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.netmap.top:8443/announce
 
 https://tracker.renfei.net:443/announce
 
@@ -78,9 +76,13 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
 
+udp://bt2.archive.org:6969/announce
+
 udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
+
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://epider.me:6969/announce
 
@@ -126,8 +128,6 @@ udp://open.xxtor.com:3074/announce
 
 udp://opentor.org:2710/announce
 
-udp://opentracker.i2p.rocks:6969/announce
-
 udp://opentracker.io:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
@@ -137,8 +137,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://pirate.t-1.org:1337/announce
 
 udp://public.publictracker.xyz:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -154,8 +152,6 @@ udp://ryjer.com:6969/announce
 
 udp://seedpeer.net:6969/announce
 
-udp://su-data.com:6969/announce
-
 udp://tamas3.ynh.fr:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
@@ -170,8 +166,6 @@ udp://tracker.anima.nz:6969/announce
 
 udp://tracker.artixlinux.org:6969/announce
 
-udp://tracker.auctor.tv:6969/announce
-
 udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
@@ -181,8 +175,6 @@ udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
@@ -212,6 +204,8 @@ udp://tracker.t-rb.org:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
 
+udp://tracker.therarbg.to:6969/announce
+
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -222,11 +216,13 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.vds.nz:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
+udp://tracker1.itzmx.com:8080/announce
 
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
