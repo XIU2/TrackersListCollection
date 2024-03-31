@@ -1,5 +1,3 @@
-http://1337.abcvg.info:80/announce
-
 http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
@@ -22,6 +20,8 @@ http://bvarf.tracker.sh:2086/announce
 
 http://ipv6.rer.lol:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -30,13 +30,13 @@ http://retracker.hotplug.ru:2710/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.overflow.biz:6969/announce
+
 http://tinfoil.space:6969/announce
 
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
-
-http://tr.kxmp.cf:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -58,13 +58,15 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker1.itzmx.com:8080/announce
+http://tracker1.bt.moack.co.kr:80/announce
 
-http://tracker2.dler.org:80/announce
+http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -79,6 +81,8 @@ http://www.all4nothin.net:80/announce.php
 http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
+
+https://1337.abcvg.info:443/announce
 
 https://bt.ptlsp.com:443/announce
 
@@ -97,6 +101,8 @@ https://track3r.site:443/announce
 https://tracker.cloudit.top:443/announce
 
 https://tracker.gbitt.info:443/announce
+
+https://tracker.gcrreen.xyz:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
