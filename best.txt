@@ -40,17 +40,15 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
-https://1337.abcvg.info:443/announce
-
 https://t1.hloli.org:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.gbitt.info:443/announce
 
 https://tracker.kuroy.me:443/announce
-
-https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
@@ -63,6 +61,8 @@ https://tracker1.520.jp:443/announce
 https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
+
+udp://aarsen.me:6969/announce
 
 udp://amigacity.xyz:6969/announce
 

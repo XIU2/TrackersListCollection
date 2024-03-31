@@ -26,8 +26,6 @@ http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.acgnxtracker.com:80/announce
-
 http://retracker.hotplug.ru:2710/announce
 
 http://t.acg.rip:6699/announce
@@ -38,13 +36,11 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.dler.com:6969/announce
-
 http://tracker.dler.org:6969/announce
-
-http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
@@ -68,8 +64,6 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
-http://tracker1.itzmx.com:8080/announce
-
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
@@ -84,7 +78,7 @@ http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
 
-https://bt.ptlsp.com:443/announce
+https://1337.abcvg.info:443/announce
 
 https://shahidrazi.online:443/announce
 
@@ -220,13 +214,15 @@ udp://open.xxtor.com:3074/announce
 
 udp://opentor.org:2710/announce
 
+udp://opentracker.io:6969/announce
+
 udp://p2p.publictracker.xyz:6969/announce
+
+udp://p4p.arenabg.com:1337/announce
 
 udp://pirate.t-1.org:1337/announce
 
 udp://public.publictracker.xyz:6969/announce
-
-udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -234,11 +230,15 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run-2.publictracker.xyz:6969/announce
 
+udp://run.publictracker.xyz:6969/announce
+
 udp://ryjer.com:6969/announce
 
 udp://seedpeer.net:6969/announce
 
 udp://su-data.com:6969/announce
+
+udp://tamas3.ynh.fr:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -249,6 +249,8 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.anima.nz:6969/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
 
@@ -299,8 +301,6 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.vds.nz:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker1.itzmx.com:8080/announce
 
 udp://tracker1.myporn.club:9337/announce
 
