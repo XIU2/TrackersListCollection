@@ -26,6 +26,8 @@ http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://open.acgnxtracker.com:80/announce
+
 http://retracker.hotplug.ru:2710/announce
 
 http://t.acg.rip:6699/announce
@@ -36,11 +38,13 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.dler.com:6969/announce
+
 http://tracker.dler.org:6969/announce
+
+http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
@@ -88,8 +92,6 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.qfruiti.com:443/announce
 
-https://tr.qfruiti.in:443/announce
-
 https://track3r.site:443/announce
 
 https://tracker.cloudit.top:443/announce
@@ -97,6 +99,8 @@ https://tracker.cloudit.top:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
+
+https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
@@ -180,7 +184,7 @@ udp://free.publictracker.xyz:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
 
-udp://ipv6.fuuuuuck.com:6969/announce
+udp://isk.richardsw.club:6969/announce
 
 udp://jutone.com:6969/announce
 
@@ -214,6 +218,8 @@ udp://open.xxtor.com:3074/announce
 
 udp://opentor.org:2710/announce
 
+udp://opentracker.i2p.rocks:6969/announce
+
 udp://opentracker.io:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
@@ -223,6 +229,10 @@ udp://p4p.arenabg.com:1337/announce
 udp://pirate.t-1.org:1337/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
+
+udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -249,6 +259,8 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.anima.nz:6969/announce
+
+udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
