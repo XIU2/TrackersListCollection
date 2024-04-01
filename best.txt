@@ -126,8 +126,6 @@ udp://tracker.doko.moe:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
-udp://tracker.jamesthebard.net:6969/announce
-
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -143,8 +141,6 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.t-rb.org:6969/announce
 
 udp://tracker.theoks.net:6969/announce
-
-udp://tracker.therarbg.com:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
