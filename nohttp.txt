@@ -1,3 +1,5 @@
+https://1337.abcvg.info:443/announce
+
 https://shahidrazi.online:443/announce
 
 https://t1.hloli.org:443/announce
@@ -127,8 +129,6 @@ udp://open.dstud.io:6969/announce
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
-
-udp://open.u-p.pw:6969/announce
 
 udp://open.xxtor.com:3074/announce
 
