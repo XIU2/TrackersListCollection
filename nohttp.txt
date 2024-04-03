@@ -16,8 +16,6 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
-https://tracker.imgoingto.icu:443/announce
-
 https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
@@ -25,6 +23,8 @@ https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.netmap.top:8443/announce
 
 https://tracker.renfei.net:443/announce
 
@@ -81,6 +81,8 @@ udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
 
 udp://btt.service.gongt.me:43079/announce
+
+udp://bubu.mapfactor.com:6969/announce
 
 udp://concen.org:6969/announce
 
@@ -140,8 +142,6 @@ udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://pirate.t-1.org:1337/announce
-
 udp://public.publictracker.xyz:6969/announce
 
 udp://public.tracker.vraphim.com:6969/announce
@@ -174,7 +174,7 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.anima.nz:6969/announce
 
-udp://tracker.ccp.ovh:6969/announce
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -221,6 +221,8 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.vds.nz:6969/announce
 
