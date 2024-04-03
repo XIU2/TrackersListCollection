@@ -24,8 +24,6 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
-https://tracker.netmap.top:8443/announce
-
 https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
