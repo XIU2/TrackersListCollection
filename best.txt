@@ -16,6 +16,10 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
+http://tinfoil.space:6969/announce
+
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
@@ -52,13 +56,17 @@ https://tracker.kuroy.me:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
-https://tracker.tamersunion.org:443/announce
-
 https://tracker.yemekyedim.com:443/announce
+
+https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
+
+udp://aarsen.me:6969/announce
+
+udp://amigacity.xyz:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -85,8 +93,6 @@ udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://open.demonii.com:1337/announce
-
-udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
 
