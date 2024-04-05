@@ -20,6 +20,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+http://canardscitrons.nohost.me:6969/announce
+
 http://ch3oh.ru:6969/announce
 
 http://ipv6.rer.lol:6969/announce
@@ -38,11 +40,7 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -65,10 +63,6 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
-
-http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -94,8 +88,6 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.qfruiti.com:443/announce
 
-https://track3r.site:443/announce
-
 https://tracker.cloudit.top:443/announce
 
 https://tracker.gbitt.info:443/announce
@@ -111,8 +103,6 @@ https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
-
-https://tracker.netmap.top:8443/announce
 
 https://tracker.renfei.net:443/announce
 
@@ -206,8 +196,6 @@ udp://ns1.monolithindustries.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
-udp://oh.fuuuuuck.com:6969/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
@@ -220,17 +208,11 @@ udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
-udp://open.u-p.pw:6969/announce
-
-udp://open.xxtor.com:3074/announce
-
 udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://opentracker.io:6969/announce
-
-udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -250,13 +232,9 @@ udp://run.publictracker.xyz:6969/announce
 
 udp://ryjer.com:6969/announce
 
-udp://seedpeer.net:6969/announce
-
 udp://su-data.com:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
-
-udp://tk1.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
@@ -343,5 +321,3 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-wss://tracker.openwebtorrent.com:443/announce
