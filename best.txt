@@ -1,5 +1,3 @@
-http://1337.abcvg.info:80/announce
-
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -30,11 +28,7 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.ipv6tracker.org:80/announce
-
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.opentrackr.org:1337/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -52,9 +46,7 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.gbitt.info:443/announce
 
-https://tracker.kuroy.me:443/announce
-
-https://tracker.loligirl.cn:443/announce
+https://tracker.tamersunion.org:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
@@ -67,8 +59,6 @@ https://www.peckservers.com:9443/announce
 udp://aarsen.me:6969/announce
 
 udp://amigacity.xyz:6969/announce
-
-udp://bt1.archive.org:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
@@ -84,8 +74,6 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
 
-udp://new-line.net:6969/announce
-
 udp://ns1.monolithindustries.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
@@ -93,6 +81,8 @@ udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -103,6 +93,8 @@ udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
+
+udp://opentracker.i2p.rocks:6969/announce
 
 udp://opentracker.io:6969/announce
 
@@ -119,6 +111,8 @@ udp://thetracker.org:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -147,6 +141,8 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
