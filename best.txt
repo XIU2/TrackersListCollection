@@ -12,15 +12,11 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://share.camoe.cn:8080/announce
-
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
 
 http://tinfoil.space:6969/announce
-
-http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -46,15 +42,9 @@ https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-https://tracker.gbitt.info:443/announce
-
 https://tracker.kuroy.me:443/announce
 
-https://tracker.loligirl.cn:443/announce
-
 https://tracker.tamersunion.org:443/announce
-
-https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -127,8 +117,6 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.fnix.net:6969/announce
-
-udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
