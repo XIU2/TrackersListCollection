@@ -1,3 +1,5 @@
+https://1337.abcvg.info:443/announce
+
 https://shahidrazi.online:443/announce
 
 https://t1.hloli.org:443/announce
@@ -20,21 +22,21 @@ https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
 
-https://tracker.lilithraws.org:443/announce
-
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
+https://tracker.yemekyedim.com:443/announce
+
+https://tracker1.520.jp:443/announce
+
 https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
 
 https://yolo.liberbear.com:443/announce
-
-udp://1c.premierzal.ru:6969/announce
 
 udp://207.241.226.111:6969/announce
 
@@ -102,13 +104,7 @@ udp://isk.richardsw.club:6969/announce
 
 udp://jutone.com:6969/announce
 
-udp://martin-gebhardt.eu:25/announce
-
 udp://moonburrow.club:6969/announce
-
-udp://movies.zsw.ca:6969/announce
-
-udp://new-line.net:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
@@ -198,7 +194,13 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
+udp://tracker.moeking.me:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.picotorrent.one:6969/announce
+
+udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -206,13 +208,13 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.t-rb.org:6969/announce
+
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
-
-udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
