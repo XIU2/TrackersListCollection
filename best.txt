@@ -12,11 +12,15 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://share.camoe.cn:8080/announce
+
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
 
 http://tinfoil.space:6969/announce
+
+http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -32,6 +36,8 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
 
+http://tracker2.dler.org:80/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
@@ -42,9 +48,15 @@ https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
+https://tracker.gbitt.info:443/announce
+
 https://tracker.kuroy.me:443/announce
 
+https://tracker.loligirl.cn:443/announce
+
 https://tracker.tamersunion.org:443/announce
+
+https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -55,6 +67,8 @@ https://www.peckservers.com:9443/announce
 udp://aarsen.me:6969/announce
 
 udp://amigacity.xyz:6969/announce
+
+udp://bt1.archive.org:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
@@ -70,8 +84,6 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
 
-udp://ns1.monolithindustries.com:6969/announce
-
 udp://odd-hd.fr:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
@@ -79,8 +91,6 @@ udp://oh.fuuuuuck.com:6969/announce
 udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
-
-udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -98,9 +108,9 @@ udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://retracker.lanta.me:2710/announce
+udp://public.demonoid.ch:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
+udp://retracker.lanta.me:2710/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
@@ -117,6 +127,8 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.fnix.net:6969/announce
+
+udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -141,6 +153,8 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
