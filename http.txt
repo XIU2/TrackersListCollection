@@ -2,8 +2,6 @@ http://1337.abcvg.info:80/announce
 
 http://207.241.226.111:6969/announce
 
-http://207.241.231.226:6969/announce
-
 http://46.17.46.112:8080/announce
 
 http://49.12.76.8:8080/announce
@@ -15,8 +13,6 @@ http://[2a01:4f8:c012:8025::1]:8080/announce
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-
-http://bjlt.zhuqiy.eu.org:6666/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -38,9 +34,9 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tracker.bt4g.com:2095/announce
+http://tr.kxmp.cf:80/announce
 
-http://tracker.dler.com:6969/announce
+http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -69,8 +65,6 @@ http://tracker.renfei.net:8080/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-http://tracker4.itzmx.com:2710/announce
 
 http://wepzone.net:6969/announce
 
@@ -102,9 +96,9 @@ https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
 
-https://tracker.lilithraws.org:443/announce
-
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.netmap.top:8443/announce
 
 https://tracker.renfei.net:443/announce
 
