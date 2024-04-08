@@ -22,8 +22,6 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tracker.bt4g.com:2095/announce
-
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -58,7 +56,13 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
+https://tracker1.520.jp:443/announce
+
+https://trackers.mlsub.net:443/announce
+
 https://www.peckservers.com:9443/announce
+
+udp://aarsen.me:6969/announce
 
 udp://amigacity.xyz:6969/announce
 
@@ -66,11 +70,7 @@ udp://bt1.archive.org:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-
 udp://epider.me:6969/announce
-
-udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
@@ -93,6 +93,8 @@ udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
 
 udp://open.free-tracker.ga:6969/announce
+
+udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -139,6 +141,8 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
