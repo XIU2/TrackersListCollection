@@ -16,6 +16,10 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
+http://tk.greedland.net:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -46,15 +50,15 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.gbitt.info:443/announce
 
+https://tracker.kuroy.me:443/announce
+
+https://tracker.loligirl.cn:443/announce
+
 https://tracker.tamersunion.org:443/announce
 
-https://tracker1.520.jp:443/announce
-
-https://trackers.mlsub.net:443/announce
+https://tracker.yemekyedim.com:443/announce
 
 https://www.peckservers.com:9443/announce
-
-udp://aarsen.me:6969/announce
 
 udp://amigacity.xyz:6969/announce
 
@@ -70,11 +74,11 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://free.publictracker.xyz:6969/announce
+
 udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://isk.richardsw.club:6969/announce
-
-udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -106,6 +110,8 @@ udp://public.demonoid.ch:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
+udp://run.publictracker.xyz:6969/announce
+
 udp://tamas3.ynh.fr:6969/announce
 
 udp://thetracker.org:80/announce
@@ -133,8 +139,6 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 

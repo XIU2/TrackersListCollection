@@ -4,23 +4,17 @@ https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
+https://tr.qfruiti.com:443/announce
+
 https://track3r.site:443/announce
 
 https://tracker.cloudit.top:443/announce
-
-https://tracker.gbitt.info:443/announce
-
-https://tracker.gcrreen.xyz:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
-https://tracker.kuroy.me:443/announce
-
 https://tracker.lilithraws.org:443/announce
-
-https://tracker.loligirl.cn:443/announce
 
 https://tracker.renfei.net:443/announce
 
@@ -70,21 +64,13 @@ udp://amigacity.xyz:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
-udp://bt.ktrackers.com:6666/announce
-
-udp://bt1.archive.org:6969/announce
-
 udp://bt2.archive.org:6969/announce
 
 udp://btt.service.gongt.me:43079/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
-udp://concen.org:6969/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
-
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://epider.me:6969/announce
 
@@ -95,8 +81,6 @@ udp://exodus.desync.com:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
-
-udp://freedomalternative.com:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
 
@@ -115,6 +99,8 @@ udp://movies.zsw.ca:6969/announce
 udp://new-line.net:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
+
+udp://odd-hd.fr:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
 
@@ -140,11 +126,7 @@ udp://opentracker.io:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-udp://p4p.arenabg.com:1337/announce
-
 udp://public.demonoid.ch:6969/announce
-
-udp://public.publictracker.xyz:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -153,10 +135,6 @@ udp://retracker.lanta.me:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run-2.publictracker.xyz:6969/announce
-
-udp://run.publictracker.xyz:6969/announce
-
-udp://ryjer.com:6969/announce
 
 udp://seedpeer.net:6969/announce
 
@@ -212,11 +190,7 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
 
-udp://tracker.therarbg.to:6969/announce
-
 udp://tracker.tiny-vps.com:6969/announce
-
-udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -236,11 +210,13 @@ udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
+udp://tracker4.itzmx.com:2710/announce
+
+udp://ttk2.nbaonlineservice.com:6969/announce
+
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
-
-udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
