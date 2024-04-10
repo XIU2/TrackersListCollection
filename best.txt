@@ -12,8 +12,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
@@ -32,8 +30,6 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.ipv6tracker.org:80/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.renfei.net:8080/announce
@@ -41,6 +37,10 @@ http://tracker.renfei.net:8080/announce
 http://tracker.tfile.co:80/announce
 
 http://www.all4nothin.net:80/announce.php
+
+http://www.wareztorrent.com:80/announce
+
+https://1337.abcvg.info:443/announce
 
 https://t1.hloli.org:443/announce
 
@@ -63,8 +63,6 @@ https://tracker1.520.jp:443/announce
 https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
-
-udp://aarsen.me:6969/announce
 
 udp://amigacity.xyz:6969/announce
 
@@ -102,8 +100,6 @@ udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
-udp://open.u-p.pw:6969/announce
-
 udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
@@ -114,13 +110,13 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://public.demonoid.ch:6969/announce
 
+udp://public.publictracker.xyz:6969/announce
+
+udp://retracker.hotplug.ru:2710/announce
+
 udp://retracker.lanta.me:2710/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://run.publictracker.xyz:6969/announce
-
-udp://tamas3.ynh.fr:6969/announce
 
 udp://thetracker.org:80/announce
 
@@ -142,23 +138,15 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.picotorrent.one:6969/announce
 
-udp://tracker.publictracker.xyz:6969/announce
-
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
