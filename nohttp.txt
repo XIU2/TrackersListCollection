@@ -1,7 +1,3 @@
-https://1337.abcvg.info:443/announce
-
-https://shahidrazi.online:443/announce
-
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
@@ -17,8 +13,6 @@ https://tracker.gbitt.info:443/announce
 https://tracker.gcrreen.xyz:443/announce
 
 https://tracker.ipfsscan.io:443/announce
-
-https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -110,27 +104,23 @@ udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://new-line.net:6969/announce
-
 udp://ns1.monolithindustries.com:6969/announce
-
-udp://odd-hd.fr:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
 
-udp://open.demonii.com:1337/announce
-
 udp://open.demonoid.ch:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
+udp://open.tracker.ink:6969/announce
+
 udp://open.u-p.pw:6969/announce
 
 udp://open.xxtor.com:3074/announce
+
+udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
 
@@ -141,6 +131,8 @@ udp://p4p.arenabg.com:1337/announce
 udp://public.demonoid.ch:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -163,6 +155,8 @@ udp://tamas3.ynh.fr:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
+
+udp://tracker-cn.zhuqiy.eu.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -222,17 +216,17 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.vds.nz:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker1.myporn.club:9337/announce
-
-udp://tracker2.dler.com:80/announce
-
 udp://tracker2.itzmx.com:6961/announce
+
+udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
+
+udp://u.peer-exchange.download:6969/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 

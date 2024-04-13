@@ -2,21 +2,15 @@ http://1337.abcvg.info:80/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://bvarf.tracker.sh:2086/announce
 
-http://ipv6.rer.lol:6969/announce
-
-http://open.acgnxtracker.com:80/announce
+http://nyaa.tracker.wf:7777/announce
 
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
-
-http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -32,8 +26,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
@@ -46,19 +38,11 @@ https://1337.abcvg.info:443/announce
 
 https://shahidrazi.online:443/announce
 
-https://tr.abir.ga:443/announce
-
-https://tr.burnabyhighstar.com:443/announce
-
-https://tr.qfruiti.com:443/announce
-
 https://track3r.site:443/announce
 
 https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
-
-https://tracker.kuroy.me:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
@@ -144,13 +128,21 @@ udp://run.publictracker.xyz:6969/announce
 
 udp://thetracker.org:80/announce
 
-udp://tracker-udp.gbitt.info:80/announce
+udp://tracker-cn.zhuqiy.eu.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
+
+udp://tracker.fnix.net:6969/announce
+
+udp://tracker.jamesthebard.net:6969/announce
+
+udp://tracker.moeking.me:6969/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.picotorrent.one:6969/announce
 
@@ -162,11 +154,7 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
