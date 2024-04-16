@@ -1,20 +1,22 @@
+https://1337.abcvg.info:443/announce
+
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
+
 https://shahidrazi.online:443/announce
 
 https://t.peer-exchange.download:443/announce
 
 https://t1.hloli.org:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.qfruiti.com:443/announce
 
-https://track3r.site:443/announce
-
 https://tracker.cloudit.top:443/announce
 
 https://tracker.gbitt.info:443/announce
-
-https://tracker.gcrreen.xyz:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -25,8 +27,6 @@ https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
-
-https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -209,8 +209,6 @@ udp://tracker.picotorrent.one:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
-
-udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
