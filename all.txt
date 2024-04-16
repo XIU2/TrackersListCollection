@@ -28,6 +28,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://p2p.0g.cx:6969/announce
+
 http://retracker.hotplug.ru:2710/announce
 
 http://t.acg.rip:6699/announce
@@ -43,6 +45,8 @@ http://tr.kxmp.cf:80/announce
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
+
+http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -60,9 +64,13 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -72,11 +80,11 @@ http://tracker4.itzmx.com:2710/announce
 
 http://wepzone.net:6969/announce
 
+http://www.all4nothin.net:80/announce.php
+
 http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
-
-https://1337.abcvg.info:443/announce
 
 https://shahidrazi.online:443/announce
 
@@ -119,8 +127,6 @@ https://trackers.mlsub.net:443/announce
 https://trackers.ptlsp.com:443/announce
 
 https://www.peckservers.com:9443/announce
-
-https://yolo.liberbear.com:443/announce
 
 udp://1c.premierzal.ru:6969/announce
 
@@ -177,10 +183,6 @@ udp://exodus.desync.com:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
-
-udp://freedomalternative.com:6969/announce
-
-udp://inferno.demonoid.is:3391/announce
 
 udp://ipv4.rer.lol:2710/announce
 
@@ -262,6 +264,10 @@ udp://tracker.anima.nz:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
+udp://tracker.ccp.ovh:6969/announce
+
+udp://tracker.cyberia.is:6969/announce
+
 udp://tracker.darkness.services:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
@@ -295,6 +301,8 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.t-rb.org:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
 
