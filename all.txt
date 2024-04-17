@@ -28,6 +28,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://retracker.hotplug.ru:2710/announce
+
 http://t.acg.rip:6699/announce
 
 http://t1.aag.moe:17715/announce
@@ -37,8 +39,6 @@ http://tk.greedland.net:80/announce
 http://torrentsmd.com:8080/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -64,13 +64,13 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker2.dler.org:80/announce
-
-http://tracker2.itzmx.com:6961/announce
-
 http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
+
+http://wepzone.net:6969/announce
+
+http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
@@ -81,8 +81,6 @@ https://shahidrazi.online:443/announce
 https://t.peer-exchange.download:443/announce
 
 https://t1.hloli.org:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -196,8 +194,6 @@ udp://oh.fuuuuuck.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.demonoid.ch:6969/announce
-
 udp://open.free-tracker.ga:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
@@ -222,8 +218,6 @@ udp://public.demonoid.ch:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
@@ -233,8 +227,6 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://run-2.publictracker.xyz:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
-
-udp://ryjer.com:6969/announce
 
 udp://su-data.com:6969/announce
 
@@ -250,6 +242,8 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.anima.nz:6969/announce
 
+udp://tracker.bittor.pw:1337/announce
+
 udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
@@ -258,6 +252,8 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
 
+udp://tracker.dler.com:6969/announce
+
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.dump.cl:6969/announce
@@ -265,6 +261,8 @@ udp://tracker.dump.cl:6969/announce
 udp://tracker.edkj.club:6969/announce
 
 udp://tracker.farted.net:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
@@ -310,10 +308,6 @@ udp://tracker2.dler.com:80/announce
 
 udp://tracker2.dler.org:80/announce
 
-udp://tracker2.itzmx.com:6961/announce
-
-udp://tracker3.itzmx.com:6961/announce
-
 udp://tracker4.itzmx.com:2710/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
@@ -321,8 +315,6 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u.peer-exchange.download:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
-
-udp://u6.trakx.crim.ist:1337/announce
 
 udp://wepzone.net:6969/announce
 
