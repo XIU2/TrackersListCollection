@@ -6,8 +6,6 @@ https://t.peer-exchange.download:443/announce
 
 https://t1.hloli.org:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.qfruiti.com:443/announce
@@ -17,6 +15,8 @@ https://track3r.site:443/announce
 https://tracker.cloudit.top:443/announce
 
 https://tracker.gbitt.info:443/announce
+
+https://tracker.gcrreen.xyz:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -82,8 +82,6 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://epider.me:6969/announce
 
-udp://evan.im:6969/announce
-
 udp://exodus.desync.com:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
@@ -97,8 +95,6 @@ udp://ipv4.rer.lol:2710/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://isk.richardsw.club:6969/announce
-
-udp://jutone.com:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -232,9 +228,11 @@ udp://tracker2.dler.org:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
-udp://tracker3.itzmx.com:6961/announce
+udp://tracker4.itzmx.com:2710/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
+
+udp://ttr.croco.net:6969/announce
 
 udp://u.peer-exchange.download:6969/announce
 
