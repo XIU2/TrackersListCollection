@@ -1,5 +1,7 @@
 http://1337.abcvg.info:80/announce
 
+http://bt.okmp3.ru:2710/announce
+
 http://bvarf.tracker.sh:2086/announce
 
 http://ipv6.rer.lol:6969/announce
@@ -18,11 +20,11 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.electro-torrent.pl:80/announce
+
+http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -30,17 +32,15 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.tfile.co:80/announce
-
-http://tracker2.dler.org:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -128,6 +128,8 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
+udp://tracker.fnix.net:6969/announce
+
 udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -135,6 +137,8 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.picotorrent.one:6969/announce
+
+udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
