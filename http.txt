@@ -36,8 +36,6 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
@@ -61,6 +59,8 @@ http://tracker.k.vu:6969/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
+
+http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -86,8 +86,6 @@ https://t.peer-exchange.download:443/announce
 
 https://t1.hloli.org:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.qfruiti.com:443/announce
@@ -99,8 +97,6 @@ https://tracker.cloudit.top:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
-
-https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
