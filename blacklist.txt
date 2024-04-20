@@ -22,3 +22,6 @@ http://tracker.m-team.cc:80/announce.php
 https://tracker.m-team.cc:443/announce.php
 http://ipv6.tracker.m-team.cc:80/announce.php
 https://ipv6.tracker.m-team.cc:443/announce.php
+# 域名无法解析
+http://retracker.hotplug.ru:2710/announce
+udp://retracker.hotplug.ru:2710/announce
