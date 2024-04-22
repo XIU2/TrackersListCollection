@@ -6,6 +6,8 @@ https://t.peer-exchange.download:443/announce
 
 https://t1.hloli.org:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.qfruiti.com:443/announce
@@ -19,8 +21,6 @@ https://tracker.gbitt.info:443/announce
 https://tracker.gcrreen.xyz:443/announce
 
 https://tracker.imgoingto.icu:443/announce
-
-https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
 
