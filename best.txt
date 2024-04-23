@@ -1,3 +1,5 @@
+http://1337.abcvg.info:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
@@ -24,6 +26,8 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.ipv6tracker.org:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.renfei.net:8080/announce
@@ -36,7 +40,7 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
-https://tr.abir.ga:443/announce
+https://1337.abcvg.info:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -52,6 +56,8 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
+https://tracker.renfei.net:443/announce
+
 https://tracker.tamersunion.org:443/announce
 
 https://tracker.yemekyedim.com:443/announce
@@ -59,8 +65,6 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://amigacity.xyz:6969/announce
 
@@ -84,6 +88,8 @@ udp://free.publictracker.xyz:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
+udp://isk.richardsw.club:6969/announce
+
 udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
@@ -98,13 +104,9 @@ udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
 
-udp://open.free-tracker.ga:6969/announce
-
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
-
-udp://open.u-p.pw:6969/announce
 
 udp://opentor.org:2710/announce
 
@@ -136,15 +138,11 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
-udp://tracker.dump.cl:6969/announce
-
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
-
-udp://tracker.moeking.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -154,19 +152,15 @@ udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
+udp://tracker.skyts.net:6969/announce
+
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
