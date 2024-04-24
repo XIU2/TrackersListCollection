@@ -4,9 +4,9 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-http://nyaa.tracker.wf:7777/announce
+http://ipv6.rer.lol:6969/announce
 
-http://open.acgnxtracker.com:80/announce
+http://nyaa.tracker.wf:7777/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -22,8 +22,6 @@ http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
 
-http://tracker.gbitt.info:80/announce
-
 http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
@@ -37,6 +35,8 @@ http://www.all4nothin.net:80/announce.php
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -53,8 +53,6 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.renfei.net:443/announce
-
-https://tracker.tamersunion.org:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
@@ -79,8 +77,6 @@ udp://epider.me:6969/announce
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://free.publictracker.xyz:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
@@ -108,6 +104,10 @@ udp://opentracker.io:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
+udp://p4p.arenabg.com:1337/announce
+
+udp://public.demonoid.ch:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
@@ -130,8 +130,6 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
-udp://tracker.jamesthebard.net:6969/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.picotorrent.one:6969/announce
@@ -147,6 +145,8 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
