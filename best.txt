@@ -8,6 +8,12 @@ http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://open.acgnxtracker.com:80/announce
+
+http://share.camoe.cn:8080/announce
+
+http://t.nyaatracker.com:80/announce
+
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
@@ -23,6 +29,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.tfile.co:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -86,6 +94,8 @@ udp://odd-hd.fr:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
 
+udp://open.demonii.com:1337/announce
+
 udp://open.demonoid.ch:6969/announce
 
 udp://open.stealth.si:80/announce
@@ -99,8 +109,6 @@ udp://opentracker.io:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
-
-udp://public.demonoid.ch:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -117,6 +125,8 @@ udp://tracker.0x7c0.com:6969/announce
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.dler.com:6969/announce
+
+udp://tracker.doko.moe:6969/announce
 
 udp://tracker.dump.cl:6969/announce
 
@@ -137,6 +147,8 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 

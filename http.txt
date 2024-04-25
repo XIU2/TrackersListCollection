@@ -38,8 +38,6 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
 
-http://tracker.dler.org:6969/announce
-
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -53,6 +51,8 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -70,13 +70,13 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
+https://bt.ptlsp.com:443/announce
+
 https://shahidrazi.online:443/announce
 
 https://t.peer-exchange.download:443/announce
 
 https://t1.hloli.org:443/announce
-
-https://tr.burnabyhighstar.com:443/announce
 
 https://tr.qfruiti.com:443/announce
 
