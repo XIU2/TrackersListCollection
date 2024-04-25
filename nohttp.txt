@@ -6,13 +6,13 @@ https://t.peer-exchange.download:443/announce
 
 https://t1.hloli.org:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.qfruiti.com:443/announce
 
 https://track3r.site:443/announce
+
+https://tracker.cloudit.top:443/announce
 
 https://tracker.gbitt.info:443/announce
 
@@ -65,8 +65,6 @@ udp://aegir.sexy:6969/announce
 udp://amigacity.xyz:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
-
-udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
@@ -146,8 +144,6 @@ udp://ryjer.com:6969/announce
 
 udp://su-data.com:6969/announce
 
-udp://tamas3.ynh.fr:6969/announce
-
 udp://tk1.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
@@ -173,8 +169,6 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dump.cl:6969/announce
 
 udp://tracker.farted.net:6969/announce
-
-udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
