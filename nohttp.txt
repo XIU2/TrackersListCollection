@@ -1,3 +1,5 @@
+https://1337.abcvg.info:443/announce
+
 https://shahidrazi.online:443/announce
 
 https://t.peer-exchange.download:443/announce
@@ -183,8 +185,6 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
-
-udp://tracker.moeking.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
