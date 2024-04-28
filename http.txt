@@ -38,6 +38,8 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -72,13 +74,13 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
-https://1337.abcvg.info:443/announce
-
 https://shahidrazi.online:443/announce
 
 https://t.peer-exchange.download:443/announce
 
 https://t1.hloli.org:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -105,6 +107,8 @@ https://tracker.loligirl.cn:443/announce
 https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
+
+https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
