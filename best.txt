@@ -1,3 +1,5 @@
+http://1337.abcvg.info:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
@@ -40,8 +42,6 @@ https://1337.abcvg.info:443/announce
 
 https://t1.hloli.org:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://track3r.site:443/announce
@@ -53,6 +53,8 @@ https://tracker.gcrreen.xyz:443/announce
 https://tracker.kuroy.me:443/announce
 
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.projectk.org:443/announce
 
 https://tracker.renfei.net:443/announce
 
@@ -81,6 +83,8 @@ udp://epider.me:6969/announce
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
+
+udp://free.publictracker.xyz:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
@@ -146,7 +150,7 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
-udp://tracker.moeking.me:6969/announce
+udp://tracker.leena.network:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
