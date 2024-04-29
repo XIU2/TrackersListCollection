@@ -16,6 +16,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+http://ch3oh.ru:6969/announce
+
 http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
@@ -34,9 +36,11 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.dler.org:6969/announce
+http://tracker.dler.com:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
@@ -45,6 +49,8 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.org:80/announce
+
+http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
@@ -56,11 +62,15 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
+
+http://tracker4.itzmx.com:2710/announce
+
+http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -96,8 +106,6 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
-https://tracker.projectk.org:443/announce
-
 https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -107,5 +115,3 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
-
-https://trackers.ptlsp.com:443/announce
