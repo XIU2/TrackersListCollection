@@ -12,6 +12,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://share.camoe.cn:8080/announce
+
 http://t.nyaatracker.com:80/announce
 
 http://tk.greedland.net:80/announce
@@ -124,8 +126,6 @@ udp://public.demonoid.ch:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://retracker.lanta.me:2710/announce
-
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run-2.publictracker.xyz:6969/announce
@@ -159,8 +159,6 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 

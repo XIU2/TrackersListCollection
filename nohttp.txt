@@ -1,8 +1,4 @@
-https://1337.abcvg.info:443/announce
-
 https://shahidrazi.online:443/announce
-
-https://t.peer-exchange.download:443/announce
 
 https://t1.hloli.org:443/announce
 
@@ -23,8 +19,6 @@ https://tracker.imgoingto.icu:443/announce
 https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
-
-https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
@@ -176,6 +170,8 @@ udp://tracker.dump.cl:6969/announce
 
 udp://tracker.farted.net:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
@@ -183,6 +179,8 @@ udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.leena.network:6969/announce
 
 udp://tracker.moeking.me:6969/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.picotorrent.one:6969/announce
 
@@ -226,6 +224,6 @@ udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
-udp://wepzone.net:6969/announce
+udp://www.torrent.eu.org:451/announce
 
 wss://tracker.openwebtorrent.com:443/announce
