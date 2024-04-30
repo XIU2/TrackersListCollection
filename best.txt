@@ -28,8 +28,6 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.ipv6tracker.org:80/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.renfei.net:8080/announce
@@ -43,8 +41,6 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://t1.hloli.org:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -90,8 +86,6 @@ udp://free.publictracker.xyz:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
-udp://isk.richardsw.club:6969/announce
-
 udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
@@ -105,8 +99,6 @@ udp://open-tracker.demonoid.ch:6969/announce
 udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -126,6 +118,8 @@ udp://public.demonoid.ch:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
+udp://retracker.lanta.me:2710/announce
+
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run-2.publictracker.xyz:6969/announce
@@ -137,6 +131,8 @@ udp://thetracker.org:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
@@ -166,7 +162,7 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.org:80/announce
 
