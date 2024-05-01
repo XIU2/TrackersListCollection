@@ -42,6 +42,8 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
+https://shahidrazi.online:443/announce
+
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
@@ -65,6 +67,8 @@ https://tracker.tamersunion.org:443/announce
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
+
+https://trackers.mlsub.net:443/announce
 
 udp://amigacity.xyz:6969/announce
 
@@ -97,8 +101,6 @@ udp://moonburrow.club:6969/announce
 udp://odd-hd.fr:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
-
-udp://open-tracker.demonoid.ch:6969/announce
 
 udp://open.demonii.com:1337/announce
 
