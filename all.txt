@@ -38,11 +38,9 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
@@ -57,8 +55,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -80,8 +76,6 @@ https://shahidrazi.online:443/announce
 
 https://t1.hloli.org:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.qfruiti.com:443/announce
@@ -93,6 +87,8 @@ https://tracker.cloudit.top:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
+
+https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
@@ -162,6 +158,8 @@ udp://fh2.cmp-gaming.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
+udp://inferno.demonoid.is:3391/announce
+
 udp://ipv4.rer.lol:2710/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
@@ -208,6 +206,8 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://public.demonoid.ch:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
@@ -242,6 +242,8 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
 
+udp://tracker.deadorbit.nl:6969/announce
+
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
@@ -275,6 +277,8 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.t-rb.org:6969/announce
 
 udp://tracker.theoks.net:6969/announce
+
+udp://tracker.therarbg.com:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
 
