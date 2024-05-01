@@ -1,5 +1,7 @@
 http://1337.abcvg.info:80/announce
 
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
@@ -44,6 +46,8 @@ https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
+https://tr.qfruiti.com:443/announce
+
 https://track3r.site:443/announce
 
 https://tracker.gbitt.info:443/announce
@@ -61,8 +65,6 @@ https://tracker.tamersunion.org:443/announce
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
-
-https://trackers.mlsub.net:443/announce
 
 udp://amigacity.xyz:6969/announce
 
@@ -86,6 +88,8 @@ udp://free.publictracker.xyz:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
+udp://isk.richardsw.club:6969/announce
+
 udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
@@ -99,6 +103,8 @@ udp://open-tracker.demonoid.ch:6969/announce
 udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -120,6 +126,8 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
 
+udp://retracker01-msk-virt.corbina.net:80/announce
+
 udp://run-2.publictracker.xyz:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
@@ -138,11 +146,15 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
+udp://tracker.dump.cl:6969/announce
+
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.leena.network:6969/announce
+
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
