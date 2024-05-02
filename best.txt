@@ -44,9 +44,9 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
-https://t1.hloli.org:443/announce
+https://1337.abcvg.info:443/announce
 
-https://tr.abir.ga:443/announce
+https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -59,8 +59,6 @@ https://tracker.kuroy.me:443/announce
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.renfei.net:443/announce
-
-https://tracker.tamersunion.org:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
@@ -89,8 +87,6 @@ udp://exodus.desync.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
-
-udp://isk.richardsw.club:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -129,6 +125,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://run-2.publictracker.xyz:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
+
+udp://tamas3.ynh.fr:6969/announce
 
 udp://thetracker.org:80/announce
 
