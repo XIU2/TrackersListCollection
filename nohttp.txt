@@ -1,10 +1,6 @@
-https://1337.abcvg.info:443/announce
-
-https://shahidrazi.online:443/announce
+https://bt.ptlsp.com:443/announce
 
 https://t1.hloli.org:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -12,11 +8,15 @@ https://tr.qfruiti.com:443/announce
 
 https://track3r.site:443/announce
 
+https://tracker-zhuqiy.dgj055.icu:443/announce
+
 https://tracker.cloudit.top:443/announce
 
 https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
+
+https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
@@ -35,6 +35,8 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
+
+https://trackers.ptlsp.com:443/announce
 
 udp://1c.premierzal.ru:6969/announce
 
@@ -92,8 +94,6 @@ udp://ipv4.rer.lol:2710/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
-udp://isk.richardsw.club:6969/announce
-
 udp://jutone.com:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
@@ -132,6 +132,8 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://public.demonoid.ch:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
@@ -145,8 +147,6 @@ udp://run.publictracker.xyz:6969/announce
 udp://ryjer.com:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
-
-udp://tk1.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
@@ -168,11 +168,7 @@ udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
-udp://tracker.dler.com:6969/announce
-
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.farted.net:6969/announce
 
@@ -200,7 +196,7 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.t-rb.org:6969/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://tracker.therarbg.com:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
 
@@ -211,6 +207,8 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.vds.nz:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
