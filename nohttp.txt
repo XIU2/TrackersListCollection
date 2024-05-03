@@ -1,5 +1,7 @@
 https://bt.ptlsp.com:443/announce
 
+https://shahidrazi.online:443/announce
+
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
@@ -62,6 +64,8 @@ udp://aegir.sexy:6969/announce
 
 udp://amigacity.xyz:6969/announce
 
+udp://api.boletera.org:3074/announce
+
 udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
@@ -94,6 +98,8 @@ udp://ipv4.rer.lol:2710/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
+udp://isk.richardsw.club:6969/announce
+
 udp://jutone.com:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
@@ -111,6 +117,8 @@ udp://open-tracker.demonoid.ch:6969/announce
 udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
@@ -148,6 +156,8 @@ udp://ryjer.com:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
+udp://tk1.trackerservers.com:8080/announce
+
 udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -155,10 +165,6 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.anima.nz:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
-
-udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -168,7 +174,11 @@ udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
+udp://tracker.dler.com:6969/announce
+
 udp://tracker.dler.org:6969/announce
+
+udp://tracker.dump.cl:6969/announce
 
 udp://tracker.farted.net:6969/announce
 
@@ -196,8 +206,6 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.t-rb.org:6969/announce
 
-udp://tracker.therarbg.com:6969/announce
-
 udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
@@ -207,8 +215,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.vds.nz:6969/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
