@@ -1,14 +1,10 @@
-https://bt.ptlsp.com:443/announce
+https://1337.abcvg.info:443/announce
 
-https://shahidrazi.online:443/announce
+https://bt.ptlsp.com:443/announce
 
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://tr.qfruiti.com:443/announce
-
-https://track3r.site:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
