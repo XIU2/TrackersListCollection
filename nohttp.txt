@@ -138,6 +138,8 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
 
+udp://retracker01-msk-virt.corbina.net:80/announce
+
 udp://run-2.publictracker.xyz:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
@@ -147,6 +149,8 @@ udp://ryjer.com:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
+
+udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -223,8 +227,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u.peer-exchange.download:6969/announce
 
