@@ -4,6 +4,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+http://ipv6.rer.lol:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -44,9 +46,9 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
-https://tracker.loligirl.cn:443/announce
+https://tracker.kuroy.me:443/announce
 
-https://tracker.renfei.net:443/announce
+https://tracker.loligirl.cn:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -122,6 +124,8 @@ udp://thetracker.org:80/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
+udp://tracker-us.silksa.co.za:6969/announce
+
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
@@ -144,6 +148,8 @@ udp://tracker.picotorrent.one:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
+udp://tracker.silksa.co.za:6969/announce
+
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
@@ -154,7 +160,7 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker2.dler.org:80/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
