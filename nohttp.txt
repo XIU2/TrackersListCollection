@@ -1,3 +1,5 @@
+https://1337.abcvg.info:443/announce
+
 https://bt.ptlsp.com:443/announce
 
 https://t1.hloli.org:443/announce
@@ -136,8 +138,6 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://run-2.publictracker.xyz:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
@@ -147,8 +147,6 @@ udp://ryjer.com:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
-
-udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -211,8 +209,6 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker.vds.nz:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
