@@ -4,6 +4,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+http://ipv4announce.sktorrent.eu:6969/announce
+
 http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
@@ -13,8 +15,6 @@ http://open.acgnxtracker.com:80/announce
 http://t.nyaatracker.com:80/announce
 
 http://tk.greedland.net:80/announce
-
-http://torrentsmd.com:8080/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -44,6 +44,8 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.gbitt.info:443/announce
 
+https://tracker.gcrreen.xyz:443/announce
+
 https://tracker.kuroy.me:443/announce
 
 https://tracker.loligirl.cn:443/announce
@@ -58,6 +60,8 @@ https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
+https://trackers.mlsub.net:443/announce
+
 udp://amigacity.xyz:6969/announce
 
 udp://api.boletera.org:3074/announce
@@ -71,6 +75,8 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://epider.me:6969/announce
 
 udp://evan.im:6969/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
@@ -126,6 +132,8 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
+udp://tracker.doko.moe:6969/announce
+
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.leena.network:6969/announce
@@ -153,6 +161,8 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
+
+udp://u.peer-exchange.download:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 

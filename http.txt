@@ -26,6 +26,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://p2p.0g.cx:6969/announce
+
 http://retracker.hotplug.ru:2710/announce
 
 http://t1.aag.moe:17715/announce
@@ -52,9 +54,9 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.leena.network:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
+http://tracker.mywaifu.best:6969/announce
 
-http://tracker.qu.ax:6969/announce
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -76,8 +78,6 @@ https://bt.ptlsp.com:443/announce
 
 https://t1.hloli.org:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
@@ -96,8 +96,6 @@ https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
 
-https://tracker.lilithraws.org:443/announce
-
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.pmman.tech:443/announce
@@ -105,8 +103,6 @@ https://tracker.pmman.tech:443/announce
 https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
-
-https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
