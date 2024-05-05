@@ -4,6 +4,8 @@ https://bt.ptlsp.com:443/announce
 
 https://t1.hloli.org:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
@@ -25,6 +27,8 @@ https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.pmman.tech:443/announce
 
 https://tracker.renfei.net:443/announce
 
@@ -192,6 +196,8 @@ udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.leena.network:6969/announce
 
+udp://tracker.moeking.me:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.picotorrent.one:6969/announce
@@ -233,6 +239,8 @@ udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker3.itzmx.com:6961/announce
+
+udp://tracker4.itzmx.com:2710/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 

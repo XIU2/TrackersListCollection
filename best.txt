@@ -10,8 +10,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://share.camoe.cn:8080/announce
-
 http://t.nyaatracker.com:80/announce
 
 http://tk.greedland.net:80/announce
@@ -28,8 +26,6 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
@@ -42,11 +38,11 @@ https://1337.abcvg.info:443/announce
 
 https://t1.hloli.org:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.gbitt.info:443/announce
-
-https://tracker.gcrreen.xyz:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -62,8 +58,6 @@ https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
-https://trackers.mlsub.net:443/announce
-
 udp://amigacity.xyz:6969/announce
 
 udp://api.boletera.org:3074/announce
@@ -77,8 +71,6 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://epider.me:6969/announce
 
 udp://evan.im:6969/announce
-
-udp://exodus.desync.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
@@ -134,11 +126,7 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.doko.moe:6969/announce
-
 udp://tracker.fnix.net:6969/announce
-
-udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.leena.network:6969/announce
 

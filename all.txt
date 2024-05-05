@@ -20,8 +20,6 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
-http://isk.richardsw.club:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
@@ -35,8 +33,6 @@ http://t1.aag.moe:17715/announce
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
-
-http://tr.kxmp.cf:80/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -56,17 +52,11 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.leena.network:6969/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.uraniumhexafluori.de:80/announce
-
-http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -85,6 +75,8 @@ https://1337.abcvg.info:443/announce
 https://bt.ptlsp.com:443/announce
 
 https://t1.hloli.org:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -107,6 +99,8 @@ https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.pmman.tech:443/announce
 
 https://tracker.renfei.net:443/announce
 
@@ -274,6 +268,8 @@ udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.leena.network:6969/announce
 
+udp://tracker.moeking.me:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.picotorrent.one:6969/announce
@@ -315,6 +311,8 @@ udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker3.itzmx.com:6961/announce
+
+udp://tracker4.itzmx.com:2710/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
