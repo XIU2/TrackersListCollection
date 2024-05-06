@@ -1,10 +1,6 @@
-https://1337.abcvg.info:443/announce
-
 https://bt.ptlsp.com:443/announce
 
 https://t1.hloli.org:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -159,8 +155,6 @@ udp://ryjer.com:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
-
-udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
