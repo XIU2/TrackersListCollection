@@ -78,6 +78,8 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://free.publictracker.xyz:6969/announce
+
 udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
@@ -149,8 +151,6 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.silksa.co.za:6969/announce
 
 udp://tracker.skyts.net:6969/announce
-
-udp://tracker.srv00.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
