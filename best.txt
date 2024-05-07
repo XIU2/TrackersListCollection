@@ -40,11 +40,11 @@ https://1337.abcvg.info:443/announce
 
 https://t1.hloli.org:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.gbitt.info:443/announce
-
-https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
@@ -96,8 +96,6 @@ udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
 
-udp://open.free-tracker.ga:6969/announce
-
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
@@ -119,6 +117,8 @@ udp://retracker.lanta.me:2710/announce
 udp://run-2.publictracker.xyz:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
+
+udp://seedpeer.net:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
