@@ -34,8 +34,6 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
-https://1337.abcvg.info:443/announce
-
 https://t1.hloli.org:443/announce
 
 https://tr.abir.ga:443/announce
@@ -61,8 +59,6 @@ https://tracker1.520.jp:443/announce
 https://trackers.mlsub.net:443/announce
 
 udp://amigacity.xyz:6969/announce
-
-udp://api.boletera.org:3074/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -135,8 +131,6 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.fnix.net:6969/announce
-
-udp://tracker.open-data.network:8888/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
