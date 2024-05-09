@@ -4,6 +4,8 @@ https://bt.ptlsp.com:443/announce
 
 https://t1.hloli.org:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
@@ -65,6 +67,8 @@ udp://amigacity.xyz:6969/announce
 udp://api.boletera.org:3074/announce
 
 udp://bt.ktrackers.com:6666/announce
+
+udp://bt.rer.lol:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
