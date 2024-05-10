@@ -12,8 +12,6 @@ https://tracker-zhuqiy.dgj055.icu:443/announce
 
 https://tracker.cloudit.top:443/announce
 
-https://tracker.expli.top:443/announce
-
 https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrenwp.top:443/announce
@@ -112,8 +110,6 @@ udp://moonburrow.club:6969/announce
 
 udp://new-line.net:6969/announce
 
-udp://odd-hd.fr:6969/announce
-
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
@@ -199,8 +195,6 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.moeking.me:6969/announce
-
-udp://tracker.open-data.network:8888/announce
 
 udp://tracker.opentrackr.org:1337/announce
 

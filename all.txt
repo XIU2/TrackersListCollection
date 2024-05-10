@@ -16,8 +16,6 @@ http://bvarf.tracker.sh:2086/announce
 
 http://ch3oh.ru:6969/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 http://ipv6.rer.lol:6969/announce
 
 http://isk.richardsw.club:6969/announce
@@ -31,8 +29,6 @@ http://open.acgnxtracker.com:80/announce
 http://region.nl1.privex.cc:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
-
-http://t.overflow.biz:6969/announce
 
 http://t1.aag.moe:17715/announce
 
@@ -99,8 +95,6 @@ https://tr.burnabyhighstar.com:443/announce
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
 https://tracker.cloudit.top:443/announce
-
-https://tracker.expli.top:443/announce
 
 https://tracker.gbitt.info:443/announce
 
@@ -200,8 +194,6 @@ udp://moonburrow.club:6969/announce
 
 udp://new-line.net:6969/announce
 
-udp://odd-hd.fr:6969/announce
-
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
@@ -287,8 +279,6 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.moeking.me:6969/announce
-
-udp://tracker.open-data.network:8888/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
