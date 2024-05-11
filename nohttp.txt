@@ -1,18 +1,10 @@
-https://1337.abcvg.info:443/announce
-
 https://bt.ptlsp.com:443/announce
 
 https://t.peer-exchange.download:443/announce
 
-https://t1.hloli.org:443/announce
-
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
-
-https://tracker.cloudit.top:443/announce
 
 https://tracker.expli.top:443/announce
 
@@ -71,8 +63,6 @@ udp://amigacity.xyz:6969/announce
 udp://api.boletera.org:3074/announce
 
 udp://bt.ktrackers.com:6666/announce
-
-udp://bt.rer.lol:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -156,8 +146,6 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://run-2.publictracker.xyz:6969/announce
-
 udp://run.publictracker.xyz:6969/announce
 
 udp://ryjer.com:6969/announce
@@ -229,8 +217,6 @@ udp://tracker.therarbg.com:6969/announce
 udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
-
-udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
