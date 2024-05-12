@@ -1,18 +1,12 @@
-http://1337.abcvg.info:80/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
-
-http://ipv4announce.sktorrent.eu:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
 
@@ -33,8 +27,6 @@ http://tracker.renfei.net:8080/announce
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
-
-https://t.peer-exchange.download:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
