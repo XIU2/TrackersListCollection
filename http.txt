@@ -10,15 +10,9 @@ http://[2a01:4f8:c012:8025::1]:8080/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://bvarf.tracker.sh:2086/announce
 
-http://ch3oh.ru:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
-
-http://ipv6.rer.lol:6969/announce
 
 http://isk.richardsw.club:6969/announce
 
@@ -28,13 +22,11 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://p2p.0g.cx:6969/announce
+
 http://retracker.hotplug.ru:2710/announce
 
-http://t.overflow.biz:6969/announce
-
 http://t1.aag.moe:17715/announce
-
-http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -91,6 +83,8 @@ https://1337.abcvg.info:443/announce
 https://bt.ptlsp.com:443/announce
 
 https://t.peer-exchange.download:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 

@@ -10,8 +10,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://share.camoe.cn:8080/announce
-
 http://t.nyaatracker.com:80/announce
 
 http://tk.greedland.net:80/announce
@@ -31,6 +29,8 @@ http://tracker.renfei.net:8080/announce
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
+
+https://1337.abcvg.info:443/announce
 
 https://t.peer-exchange.download:443/announce
 
@@ -122,8 +122,6 @@ udp://tracker.doko.moe:6969/announce
 
 udp://tracker.dump.cl:6969/announce
 
-udp://tracker.fnix.net:6969/announce
-
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -143,7 +141,5 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
-
-udp://u.peer-exchange.download:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
