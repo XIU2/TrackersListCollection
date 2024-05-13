@@ -4,8 +4,6 @@ https://bt.ptlsp.com:443/announce
 
 https://t.peer-exchange.download:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
@@ -19,6 +17,8 @@ https://tracker.gbitt.info:443/announce
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
+
+https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
@@ -37,6 +37,8 @@ https://tracker.tamersunion.org:443/announce
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
+
+https://trackers.mlsub.net:443/announce
 
 https://trackers.ptlsp.com:443/announce
 
@@ -65,8 +67,6 @@ udp://aegir.sexy:6969/announce
 udp://amigacity.xyz:6969/announce
 
 udp://api.boletera.org:3074/announce
-
-udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -210,11 +210,15 @@ udp://tracker.silksa.co.za:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
+udp://tracker.srv00.com:6969/announce
+
 udp://tracker.t-rb.org:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
+
+udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
@@ -225,6 +229,8 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.vds.nz:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
