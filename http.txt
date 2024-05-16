@@ -26,8 +26,6 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://p2p.0g.cx:6969/announce
-
 http://retracker.hotplug.ru:2710/announce
 
 http://t1.aag.moe:17715/announce
@@ -66,6 +64,8 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
@@ -81,8 +81,6 @@ http://www.all4nothin.net:80/announce.php
 http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
-
-https://1337.abcvg.info:443/announce
 
 https://bt.ptlsp.com:443/announce
 
@@ -101,6 +99,8 @@ https://tracker.gbitt.info:443/announce
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
+
+https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
