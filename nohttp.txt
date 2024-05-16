@@ -1,3 +1,5 @@
+https://1337.abcvg.info:443/announce
+
 https://bt.ptlsp.com:443/announce
 
 https://tr.abir.ga:443/announce
@@ -173,8 +175,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.darkness.services:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
-
-udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
