@@ -34,6 +34,8 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -61,6 +63,8 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -162,9 +166,13 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://epider.me:6969/announce
 
+udp://evan.im:6969/announce
+
 udp://exodus.desync.com:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
+
+udp://free.publictracker.xyz:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
@@ -246,8 +254,6 @@ udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker.ccp.ovh:6969/announce
-
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.darkness.services:6969/announce
@@ -289,8 +295,6 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.t-rb.org:6969/announce
 
 udp://tracker.theoks.net:6969/announce
-
-udp://tracker.therarbg.com:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
 

@@ -10,6 +10,10 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
+http://share.camoe.cn:8080/announce
+
 http://t.nyaatracker.com:80/announce
 
 http://tk.greedland.net:80/announce
@@ -25,6 +29,8 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -74,13 +80,13 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
 
+udp://odd-hd.fr:6969/announce
+
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -120,6 +126,8 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
+udp://tracker.dump.cl:6969/announce
+
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -141,7 +149,5 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://ttk2.nbaonlineservice.com:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
