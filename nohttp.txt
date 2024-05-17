@@ -2,8 +2,6 @@ https://1337.abcvg.info:443/announce
 
 https://bt.ptlsp.com:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
@@ -37,8 +35,6 @@ https://tracker.tamersunion.org:443/announce
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
-
-https://trackers.mlsub.net:443/announce
 
 https://trackers.ptlsp.com:443/announce
 
@@ -104,6 +100,8 @@ udp://leet-tracker.moe:1337/announce
 
 udp://lulz.vpndb.org:3000/announce
 
+udp://martin-gebhardt.eu:25/announce
+
 udp://moonburrow.club:6969/announce
 
 udp://new-line.net:6969/announce
@@ -111,6 +109,8 @@ udp://new-line.net:6969/announce
 udp://odd-hd.fr:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
+
+udp://open-tracker.demonoid.ch:6969/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -121,6 +121,10 @@ udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
+
+udp://open.tracker.ink:6969/announce
+
+udp://open.u-p.pw:6969/announce
 
 udp://open.xxtor.com:3074/announce
 
@@ -206,8 +210,6 @@ udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
@@ -220,11 +222,11 @@ udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-udp://ttk2.nbaonlineservice.com:6969/announce
-
 udp://u.peer-exchange.download:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
+
+udp://u6.trakx.crim.ist:1337/announce
 
 udp://wepzone.net:6969/announce
 
