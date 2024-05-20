@@ -8,7 +8,7 @@ http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.acgnxtracker.com:80/announce
+http://open.tracker.ink:6969/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -28,21 +28,19 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrenwp.top:443/announce
-
-https://tracker.gcrreen.xyz:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -60,9 +58,9 @@ https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
 
-udp://bubu.mapfactor.com:6969/announce
+udp://amigacity.xyz:6969/announce
 
-udp://d40969.acod.regrucolo.ru:6969/announce
+udp://bubu.mapfactor.com:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
@@ -75,8 +73,6 @@ udp://ipv6.fuuuuuck.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
-
-udp://odd-hd.fr:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
 

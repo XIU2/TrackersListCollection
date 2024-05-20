@@ -98,8 +98,6 @@ udp://jutone.com:6969/announce
 
 udp://leet-tracker.moe:1337/announce
 
-udp://lulz.vpndb.org:3000/announce
-
 udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
@@ -157,6 +155,8 @@ udp://torrents.artixlinux.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
