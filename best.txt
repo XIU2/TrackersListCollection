@@ -8,6 +8,10 @@ http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://open.acgnxtracker.com:80/announce
+
+http://share.camoe.cn:8080/announce
+
 http://t.nyaatracker.com:80/announce
 
 http://tk.greedland.net:80/announce
@@ -32,8 +36,6 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.gbitt.info:443/announce
@@ -48,6 +50,8 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
+https://tracker.renfei.net:443/announce
+
 https://tracker.tamersunion.org:443/announce
 
 https://tracker.yemekyedim.com:443/announce
@@ -56,17 +60,17 @@ https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
 
-udp://amigacity.xyz:6969/announce
-
 udp://bubu.mapfactor.com:6969/announce
+
+udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://epider.me:6969/announce
 
-udp://ipv6.fuuuuuck.com:6969/announce
+udp://exodus.desync.com:6969/announce
 
-udp://lulz.vpndb.org:3000/announce
+udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -123,8 +127,6 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.silksa.co.za:6969/announce
 
 udp://tracker.skyts.net:6969/announce
-
-udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
