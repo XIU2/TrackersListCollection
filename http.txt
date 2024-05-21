@@ -16,13 +16,19 @@ http://bvarf.tracker.sh:2086/announce
 
 http://ipv6.rer.lol:6969/announce
 
+http://isk.richardsw.club:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
+http://open.tracker.ink:6969/announce
+
 http://retracker.hotplug.ru:2710/announce
 
 http://t1.aag.moe:17715/announce
+
+http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -44,15 +50,21 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.ipv6tracker.org:80/announce
+
 http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.qu.ax:6969/announce
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker2.dler.org:80/announce
+
 http://tracker2.itzmx.com:6961/announce
+
+http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -72,17 +84,19 @@ https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-https://tr.ready4.icu:443/announce
-
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
 https://tracker.cloudit.top:443/announce
+
+https://tracker.expli.top:443/announce
 
 https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
+
+https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
