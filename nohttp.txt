@@ -2,8 +2,6 @@ https://1337.abcvg.info:443/announce
 
 https://bt.ptlsp.com:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
@@ -207,8 +205,6 @@ udp://tracker.t-rb.org:6969/announce
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
-
-udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
