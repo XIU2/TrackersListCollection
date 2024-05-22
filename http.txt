@@ -30,6 +30,8 @@ http://retracker.hotplug.ru:2710/announce
 
 http://t1.aag.moe:17715/announce
 
+http://tk.greedland.net:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.kxmp.cf:80/announce
@@ -55,6 +57,14 @@ http://tracker.ipv6tracker.org:80/announce
 http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.opentrackr.org:1337/announce
+
+http://tracker.qu.ax:6969/announce
+
+http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -92,11 +102,11 @@ https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
-https://tracker.imgoingto.icu:443/announce
-
 https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
+
+https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
