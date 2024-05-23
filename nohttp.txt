@@ -1,9 +1,5 @@
 https://1337.abcvg.info:443/announce
 
-https://tr.abir.ga:443/announce
-
-https://tr.burnabyhighstar.com:443/announce
-
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
 https://tracker.cloudit.top:443/announce
@@ -66,6 +62,8 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
 
+udp://bt2.archive.org:6969/announce
+
 udp://bubu.mapfactor.com:6969/announce
 
 udp://concen.org:6969/announce
@@ -80,11 +78,15 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://fh2.cmp-gaming.com:6969/announce
+
 udp://free.publictracker.xyz:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
 udp://ipv4.rer.lol:2710/announce
+
+udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://isk.richardsw.club:6969/announce
 
@@ -117,8 +119,6 @@ udp://open.publictracker.xyz:6969/announce
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
-
-udp://open.u-p.pw:6969/announce
 
 udp://open.xxtor.com:3074/announce
 
@@ -195,8 +195,6 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.silksa.co.za:6969/announce
 
 udp://tracker.skyts.net:6969/announce
-
-udp://tracker.srv00.com:6969/announce
 
 udp://tracker.t-rb.org:6969/announce
 
