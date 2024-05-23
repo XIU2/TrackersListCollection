@@ -1,3 +1,5 @@
+http://1337.abcvg.info:80/announce
+
 http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
@@ -16,11 +18,11 @@ http://ch3oh.ru:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
+http://isk.richardsw.club:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
-
-http://open.tracker.ink:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -49,8 +51,6 @@ http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.org:80/announce
-
-http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -88,8 +88,6 @@ https://tracker-zhuqiy.dgj055.icu:443/announce
 
 https://tracker.cloudit.top:443/announce
 
-https://tracker.expli.top:443/announce
-
 https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrenwp.top:443/announce
@@ -97,6 +95,10 @@ https://tracker.gcrenwp.top:443/announce
 https://tracker.gcrreen.xyz:443/announce
 
 https://tracker.imgoingto.icu:443/announce
+
+https://tracker.ipfsscan.io:443/announce
+
+https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
