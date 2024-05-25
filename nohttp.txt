@@ -1,8 +1,6 @@
-https://1337.abcvg.info:443/announce
-
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
+
+https://tr.ready4.icu:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
@@ -24,6 +22,8 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
+https://tracker.moeblog.cn:443/announce
+
 https://tracker.pmman.tech:443/announce
 
 https://tracker.renfei.net:443/announce
@@ -35,6 +35,8 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
+
+https://www.peckservers.com:9443/announce
 
 udp://1c.premierzal.ru:6969/announce
 
@@ -64,23 +66,11 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://bt2.archive.org:6969/announce
-
-udp://bubu.mapfactor.com:6969/announce
-
-udp://concen.org:6969/announce
-
-udp://d40969.acod.regrucolo.ru:6969/announce
-
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-
 udp://epider.me:6969/announce
 
-udp://evan.im:6969/announce
-
-udp://exodus.desync.com:6969/announce
-
 udp://fh2.cmp-gaming.com:6969/announce
+
+udp://free.publictracker.xyz:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
@@ -113,8 +103,6 @@ udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
@@ -152,9 +140,13 @@ udp://tamas3.ynh.fr:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
+udp://torrents.artixlinux.org:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
@@ -184,8 +176,6 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
-udp://tracker.jamesthebard.net:6969/announce
-
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -214,7 +204,7 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker.vds.nz:6969/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
