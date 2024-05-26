@@ -16,27 +16,21 @@ http://bvarf.tracker.sh:2086/announce
 
 http://ipv6.rer.lol:6969/announce
 
-http://isk.richardsw.club:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
-
-http://open.acgnxtracker.com:80/announce
 
 http://p2p.0g.cx:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
+http://t.overflow.biz:6969/announce
+
 http://t1.aag.moe:17715/announce
 
 http://tk.greedland.net:80/announce
 
-http://tor.rev.pm:6969/announce
-
 http://torrentsmd.com:8080/announce
-
-http://tr.kxmp.cf:80/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -56,15 +50,13 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
-http://tracker.mywaifu.best:6969/announce
+http://tracker.k.vu:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
+http://tracker.mywaifu.best:6969/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.rev.pm:6969/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -112,12 +104,6 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.renfei.net:443/announce
 
-https://tracker.tamersunion.org:443/announce
-
-https://tracker.yemekyedim.com:443/announce
-
 https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
-
-https://www.peckservers.com:9443/announce
