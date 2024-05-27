@@ -24,15 +24,15 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
-http://retracker.hotplug.ru:2710/announce
+http://open.acgnxtracker.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
 http://t1.aag.moe:17715/announce
 
-http://torrentsmd.com:8080/announce
+http://tk.greedland.net:80/announce
 
-http://tr.kxmp.cf:80/announce
+http://torrentsmd.com:8080/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -54,8 +54,6 @@ http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
@@ -74,8 +72,6 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.peckservers.com:9000/announce
 
-http://www.wareztorrent.com:80/announce
-
 https://1337.abcvg.info:443/announce
 
 https://t.peer-exchange.download:443/announce
@@ -89,8 +85,6 @@ https://tr.ready4.icu:443/announce
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
 https://tracker.cloudit.top:443/announce
-
-https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
@@ -108,13 +102,7 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.renfei.net:443/announce
 
-https://tracker.tamersunion.org:443/announce
-
-https://tracker.yemekyedim.com:443/announce
-
 https://tracker1.520.jp:443/announce
-
-https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
 
@@ -248,8 +236,6 @@ udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 udp://tracker.darkness.services:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
@@ -262,8 +248,6 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.draatman.uk:6969/announce
 
-udp://tracker.dump.cl:6969/announce
-
 udp://tracker.edkj.club:6969/announce
 
 udp://tracker.farted.net:6969/announce
@@ -275,8 +259,6 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.moeking.me:6969/announce
-
-udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.picotorrent.one:6969/announce
 
@@ -294,13 +276,7 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.tryhackx.org:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
-
-udp://tracker2.dler.org:80/announce
-
-udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
