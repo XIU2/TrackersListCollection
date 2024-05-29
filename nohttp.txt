@@ -1,12 +1,8 @@
-https://1337.abcvg.info:443/announce
-
-https://bt.ptlsp.com:443/announce
-
 https://t.peer-exchange.download:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
+
+https://tracker-zhuqiy.dgj055.icu:443/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -16,7 +12,13 @@ https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
+https://tracker.imgoingto.icu:443/announce
+
 https://tracker.ipfsscan.io:443/announce
+
+https://tracker.kuroy.me:443/announce
+
+https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
@@ -31,8 +33,6 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
-
-https://trackers.ptlsp.com:443/announce
 
 https://www.peckservers.com:9443/announce
 
@@ -94,15 +94,11 @@ udp://isk.richardsw.club:6969/announce
 
 udp://jutone.com:6969/announce
 
-udp://leet-tracker.moe:1337/announce
-
 udp://martin-gebhardt.eu:25/announce
 
 udp://mikrotik2.draatman.net:6969/announce
 
 udp://moonburrow.club:6969/announce
-
-udp://new-line.net:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
@@ -132,9 +128,9 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
 
-udp://p4p.arenabg.com:1337/announce
+udp://p2p.publictracker.xyz:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
+udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -144,11 +140,11 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-udp://ryjer.com:6969/announce
-
 udp://seedpeer.net:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
+
+udp://tk1.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
@@ -156,7 +152,11 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
+udp://tracker.bittor.pw:1337/announce
+
 udp://tracker.breizh.pm:6969/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -166,6 +166,8 @@ udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
+udp://tracker.dler.com:6969/announce
+
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.draatman.uk:6969/announce
@@ -173,8 +175,6 @@ udp://tracker.draatman.uk:6969/announce
 udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
-
-udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -195,6 +195,8 @@ udp://tracker.silksa.co.za:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
