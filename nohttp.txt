@@ -1,4 +1,6 @@
-https://t.peer-exchange.download:443/announce
+https://1337.abcvg.info:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -102,8 +104,6 @@ udp://moonburrow.club:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
-udp://oh.fuuuuuck.com:6969/announce
-
 udp://open-tracker.demonoid.ch:6969/announce
 
 udp://open.demonii.com:1337/announce
@@ -171,8 +171,6 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.draatman.uk:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
