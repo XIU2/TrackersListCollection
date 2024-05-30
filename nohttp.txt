@@ -32,6 +32,8 @@ https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
+https://trackers.mlsub.net:443/announce
+
 https://www.peckservers.com:9443/announce
 
 udp://1c.premierzal.ru:6969/announce
@@ -92,8 +94,6 @@ udp://jutone.com:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://mikrotik2.draatman.net:6969/announce
-
 udp://moonburrow.club:6969/announce
 
 udp://new-line.net:6969/announce
@@ -148,8 +148,6 @@ udp://tamas3.ynh.fr:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://tk2.trackerservers.com:8080/announce
-
 udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
@@ -182,7 +180,7 @@ udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
-udp://tracker.filemail.com:6969/announce
+udp://tracker.fnix.net:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
@@ -211,8 +209,6 @@ udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.org:80/announce
-
-udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
