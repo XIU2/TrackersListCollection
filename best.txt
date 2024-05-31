@@ -6,10 +6,6 @@ http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://share.camoe.cn:8080/announce
-
-http://t.nyaatracker.com:80/announce
-
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
@@ -28,10 +24,6 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
-https://1337.abcvg.info:443/announce
-
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.gbitt.info:443/announce
@@ -43,6 +35,8 @@ https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -84,12 +78,6 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://ryjer.com:6969/announce
-
-udp://tamas3.ynh.fr:6969/announce
-
-udp://thetracker.org:80/announce
-
 udp://tk2v6.trackerservers.com:8080/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -101,8 +89,6 @@ udp://tracker.bittor.pw:1337/announce
 udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.darkness.services:6969/announce
-
-udp://tracker.doko.moe:6969/announce
 
 udp://tracker.draatman.uk:6969/announce
 
@@ -123,8 +109,6 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://ttr.croco.net:6969/announce
 
