@@ -26,6 +26,8 @@ http://tracker.renfei.net:8080/announce
 
 http://www.all4nothin.net:80/announce.php
 
+http://www.wareztorrent.com:80/announce
+
 https://1337.abcvg.info:443/announce
 
 https://tr.abir.ga:443/announce
@@ -38,9 +40,9 @@ https://tracker.gcrenwp.top:443/announce
 
 https://tracker.kuroy.me:443/announce
 
-https://tracker.lilithraws.org:443/announce
-
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -64,11 +66,11 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
 
-udp://oh.fuuuuuck.com:6969/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -88,6 +90,8 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
+udp://tracker.bittor.pw:1337/announce
+
 udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.darkness.services:6969/announce
@@ -96,11 +100,11 @@ udp://tracker.doko.moe:6969/announce
 
 udp://tracker.draatman.uk:6969/announce
 
+udp://tracker.dump.cl:6969/announce
+
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
-
-udp://tracker.picotorrent.one:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -111,6 +115,8 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://ttr.croco.net:6969/announce
 
