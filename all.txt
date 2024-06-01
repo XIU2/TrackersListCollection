@@ -4,8 +4,6 @@ http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
 
-http://49.12.76.8:8080/announce
-
 http://[2a01:4f8:c012:8025::1]:8080/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
@@ -23,8 +21,6 @@ http://isk.richardsw.club:6969/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
-
-http://open.acgnxtracker.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -55,8 +51,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -92,8 +86,6 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
-https://tracker.imgoingto.icu:443/announce
-
 https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
@@ -101,8 +93,6 @@ https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
-
-https://tracker.pmman.tech:443/announce
 
 https://tracker.renfei.net:443/announce
 
@@ -145,8 +135,6 @@ udp://bt.ktrackers.com:6666/announce
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
-
-udp://btt.service.gongt.me:43079/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
@@ -277,8 +265,6 @@ udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
-
-udp://tracker.picotorrent.one:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
