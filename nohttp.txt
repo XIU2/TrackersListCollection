@@ -78,8 +78,6 @@ udp://epider.me:6969/announce
 
 udp://evan.im:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://fh2.cmp-gaming.com:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
