@@ -78,11 +78,9 @@ udp://epider.me:6969/announce
 
 udp://evan.im:6969/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://fh2.cmp-gaming.com:6969/announce
-
-udp://ipv4.rer.lol:2710/announce
-
-udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://isk.richardsw.club:6969/announce
 
@@ -95,8 +93,6 @@ udp://martin-gebhardt.eu:25/announce
 udp://moonburrow.club:6969/announce
 
 udp://new-line.net:6969/announce
-
-udp://odd-hd.fr:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
 
