@@ -24,10 +24,6 @@ https://tracker.loligirl.cn:443/announce
 
 https://tracker.midnightprogrammer.net:443/announce
 
-https://tracker.pmman.tech:443/announce
-
-https://tracker.renfei.net:443/announce
-
 https://tracker.tamersunion.org:443/announce
 
 https://tracker.yemekyedim.com:443/announce
@@ -41,6 +37,8 @@ https://trackers.ptlsp.com:443/announce
 https://trackers.run:443/announce
 
 https://www.peckservers.com:9443/announce
+
+udp://1c.premierzal.ru:6969/announce
 
 udp://207.241.226.111:6969/announce
 
@@ -68,8 +66,6 @@ udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://bubu.mapfactor.com:6969/announce
-
 udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -86,13 +82,9 @@ udp://fh2.cmp-gaming.com:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
-udp://ipv4.rer.lol:2710/announce
-
 udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://isk.richardsw.club:6969/announce
-
-udp://jutone.com:6969/announce
 
 udp://leet-tracker.moe:1337/announce
 
@@ -108,11 +100,15 @@ udp://oh.fuuuuuck.com:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
+udp://open.demonii.com:1337/announce
+
 udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
 
 udp://open.free-tracker.ga:6969/announce
+
+udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -137,6 +133,8 @@ udp://run.publictracker.xyz:6969/announce
 udp://ryjer.com:6969/announce
 
 udp://seedpeer.net:6969/announce
+
+udp://t.overflow.biz:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
