@@ -1,8 +1,4 @@
-http://1337.abcvg.info:80/announce
-
 http://bt.okmp3.ru:2710/announce
-
-http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -48,8 +44,6 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
-https://tracker.midnightprogrammer.net:443/announce
-
 https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -59,8 +53,6 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
-
-https://www.peckservers.com:9443/announce
 
 udp://amigacity.xyz:6969/announce
 
@@ -81,8 +73,6 @@ udp://isk.richardsw.club:6969/announce
 udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
-
-udp://oh.fuuuuuck.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -133,6 +123,8 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://ttr.croco.net:6969/announce
+
+udp://u6.trakx.crim.ist:1337/announce
 
 udp://z.mercax.com:53/announce
 
