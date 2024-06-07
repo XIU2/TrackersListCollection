@@ -2,13 +2,15 @@ https://1337.abcvg.info:443/announce
 
 https://bt.ptlsp.com:443/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 https://t.peer-exchange.download:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.cloudit.top:443/announce
+
+https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
@@ -30,15 +32,9 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
-https://tracker1.520.jp:443/announce
-
-https://trackers.mlsub.net:443/announce
-
 https://trackers.ptlsp.com:443/announce
 
 https://trackers.run:443/announce
-
-https://www.peckservers.com:9443/announce
 
 udp://1c.premierzal.ru:6969/announce
 
@@ -165,8 +161,6 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.cubonegro.org:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
-
-udp://tracker.darkness.services:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
 
