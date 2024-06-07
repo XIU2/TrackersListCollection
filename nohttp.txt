@@ -2,13 +2,13 @@ https://1337.abcvg.info:443/announce
 
 https://bt.ptlsp.com:443/announce
 
+https://pybittrack.retiolus.net:443/announce
+
 https://t.peer-exchange.download:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.cloudit.top:443/announce
-
-https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
@@ -22,7 +22,9 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
-https://tracker.midnightprogrammer.net:443/announce
+https://tracker.pmman.tech:443/announce
+
+https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -60,11 +62,11 @@ udp://aegir.sexy:6969/announce
 
 udp://amigacity.xyz:6969/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
+
+udp://bubu.mapfactor.com:6969/announce
 
 udp://concen.org:6969/announce
 
@@ -82,9 +84,13 @@ udp://fh2.cmp-gaming.com:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
+udp://ipv4.rer.lol:2710/announce
+
 udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://isk.richardsw.club:6969/announce
+
+udp://jutone.com:6969/announce
 
 udp://leet-tracker.moe:1337/announce
 
@@ -114,6 +120,8 @@ udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
+udp://open.u-p.pw:6969/announce
+
 udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
@@ -129,8 +137,6 @@ udp://retracker.lanta.me:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run.publictracker.xyz:6969/announce
-
-udp://ryjer.com:6969/announce
 
 udp://seedpeer.net:6969/announce
 
@@ -197,10 +203,6 @@ udp://tracker.silksa.co.za:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.therarbg.com:6969/announce
-
-udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
