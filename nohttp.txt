@@ -1,14 +1,12 @@
 https://1337.abcvg.info:443/announce
 
-https://bt.ptlsp.com:443/announce
-
 https://t.peer-exchange.download:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.cloudit.top:443/announce
-
-https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
@@ -18,13 +16,15 @@ https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
-https://tracker.loligirl.cn:443/announce
-
 https://tracker.pmman.tech:443/announce
+
+https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
 https://tracker.yemekyedim.com:443/announce
+
+https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
 
@@ -61,8 +61,6 @@ udp://bt.ktrackers.com:6666/announce
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
-
-udp://bubu.mapfactor.com:6969/announce
 
 udp://concen.org:6969/announce
 
@@ -143,6 +141,8 @@ udp://tamas3.ynh.fr:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 
 udp://tk2.trackerservers.com:8080/announce
+
+udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
 

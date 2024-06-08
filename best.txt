@@ -1,6 +1,6 @@
-http://1337.abcvg.info:80/announce
-
 http://bt.okmp3.ru:2710/announce
+
+http://nyaa.tracker.wf:7777/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -26,11 +26,11 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
+https://1337.abcvg.info:443/announce
+
 https://t.peer-exchange.download:443/announce
 
 https://tr.abir.ga:443/announce
-
-https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.gbitt.info:443/announce
 
@@ -46,21 +46,21 @@ https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
-https://tracker.yemekyedim.com:443/announce
-
 https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
 
-udp://amigacity.xyz:6969/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
+udp://epider.me:6969/announce
+
 udp://evan.im:6969/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
@@ -88,7 +88,7 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
 
-udp://p4p.arenabg.com:1337/announce
+udp://retracker.lanta.me:2710/announce
 
 udp://thetracker.org:80/announce
 
@@ -104,21 +104,15 @@ udp://tracker.cubonegro.org:1337/announce
 
 udp://tracker.darkness.services:6969/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
-
-udp://tracker.draatman.uk:6969/announce
 
 udp://tracker.dump.cl:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
-
-udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.silksa.co.za:6969/announce
 
@@ -133,9 +127,5 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://ttr.croco.net:6969/announce
-
-udp://u6.trakx.crim.ist:1337/announce
-
-udp://z.mercax.com:53/announce
 
 wss://tracker.openwebtorrent.com:443/announce
