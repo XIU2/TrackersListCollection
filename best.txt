@@ -8,8 +8,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://share.camoe.cn:8080/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
@@ -30,17 +28,7 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
-https://1337.abcvg.info:443/announce
-
-https://t.peer-exchange.download:443/announce
-
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
-
-https://tracker.gbitt.info:443/announce
-
-https://tracker.gcrenwp.top:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -52,13 +40,21 @@ https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
+https://tracker.yemekyedim.com:443/announce
+
 https://tracker1.520.jp:443/announce
+
+https://trackers.mlsub.net:443/announce
+
+https://www.peckservers.com:9443/announce
 
 udp://amigacity.xyz:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
+
+udp://bubu.mapfactor.com:6969/announce
 
 udp://epider.me:6969/announce
 
