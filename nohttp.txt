@@ -80,13 +80,19 @@ udp://exodus.desync.com:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
 
+udp://free.publictracker.xyz:6969/announce
+
 udp://inferno.demonoid.is:3391/announce
 
 udp://ipv4.rer.lol:2710/announce
 
-udp://martin-gebhardt.eu:25/announce
+udp://ipv6.fuuuuuck.com:6969/announce
 
-udp://moonburrow.club:6969/announce
+udp://isk.richardsw.club:6969/announce
+
+udp://jutone.com:6969/announce
+
+udp://martin-gebhardt.eu:25/announce
 
 udp://new-line.net:6969/announce
 
@@ -130,8 +136,6 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-udp://ryjer.com:6969/announce
-
 udp://seedpeer.net:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
@@ -139,6 +143,8 @@ udp://tamas3.ynh.fr:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 
 udp://tk2.trackerservers.com:8080/announce
+
+udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
@@ -148,25 +154,31 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker.breizh.pm:6969/announce
+
+udp://tracker.ccp.ovh:6969/announce
+
+udp://tracker.cubonegro.org:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
+udp://tracker.ddunlimited.net:6969/announce
+
 udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.draatman.uk:6969/announce
+udp://tracker.dler.org:6969/announce
 
-udp://tracker.dump.cl:6969/announce
+udp://tracker.draatman.uk:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
 udp://tracker.farted.net:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
@@ -185,6 +197,8 @@ udp://tracker.silksa.co.za:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
