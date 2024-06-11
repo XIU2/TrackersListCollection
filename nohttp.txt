@@ -26,7 +26,11 @@ https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
+https://tracker.yemekyedim.com:443/announce
+
 https://tracker1.520.jp:443/announce
+
+https://trackers.mlsub.net:443/announce
 
 https://trackers.run:443/announce
 
@@ -53,8 +57,6 @@ udp://aegir.sexy:6969/announce
 udp://amigacity.xyz:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
-
-udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
@@ -156,8 +158,6 @@ udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
-udp://tracker.cubonegro.org:1337/announce
-
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.darkness.services:6969/announce
@@ -184,6 +184,8 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
+udp://tracker.moeking.me:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -192,11 +194,15 @@ udp://tracker.silksa.co.za:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
+udp://tracker.srv00.com:6969/announce
+
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -221,7 +227,5 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-udp://z.mercax.com:53/announce
 
 wss://tracker.openwebtorrent.com:443/announce
