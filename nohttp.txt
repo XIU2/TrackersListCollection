@@ -26,15 +26,9 @@ https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
-https://tracker.yemekyedim.com:443/announce
-
 https://tracker1.520.jp:443/announce
 
-https://trackers.mlsub.net:443/announce
-
 https://trackers.run:443/announce
-
-https://www.peckservers.com:9443/announce
 
 udp://1c.premierzal.ru:6969/announce
 
@@ -92,7 +86,11 @@ udp://isk.richardsw.club:6969/announce
 
 udp://jutone.com:6969/announce
 
+udp://leet-tracker.moe:1337/announce
+
 udp://martin-gebhardt.eu:25/announce
+
+udp://moonburrow.club:6969/announce
 
 udp://new-line.net:6969/announce
 
@@ -186,8 +184,6 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
-udp://tracker.moeking.me:6969/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -196,15 +192,11 @@ udp://tracker.silksa.co.za:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
-udp://tracker.srv00.com:6969/announce
-
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
