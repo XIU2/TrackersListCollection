@@ -4,8 +4,6 @@ https://pybittrack.retiolus.net:443/announce
 
 https://torrust.canofsocks.com:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
@@ -28,6 +26,8 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.renfei.net:443/announce
 
+https://tracker.tamersunion.org:443/announce
+
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
@@ -35,6 +35,8 @@ https://tracker1.520.jp:443/announce
 https://trackers.mlsub.net:443/announce
 
 https://trackers.run:443/announce
+
+https://www.peckservers.com:9443/announce
 
 udp://1c.premierzal.ru:6969/announce
 
@@ -103,6 +105,8 @@ udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
 

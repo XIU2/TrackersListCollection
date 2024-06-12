@@ -4,6 +4,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://ipv6.rer.lol:6969/announce
 
+http://share.camoe.cn:8080/announce
+
 http://t.nyaatracker.com:80/announce
 
 http://tk.greedland.net:80/announce
@@ -30,17 +32,11 @@ https://1337.abcvg.info:443/announce
 
 https://tr.abir.ga:443/announce
 
-https://tr.burnabyhighstar.com:443/announce
-
 https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
-https://tracker.kuroy.me:443/announce
-
 https://tracker.lilithraws.org:443/announce
-
-https://tracker.loligirl.cn:443/announce
 
 https://tracker.renfei.net:443/announce
 
@@ -94,8 +90,6 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -134,7 +128,11 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
+udp://tracker.torrent.eu.org:451/announce
+
 udp://tracker.tryhackx.org:6969/announce
+
+udp://ttr.croco.net:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
