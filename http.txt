@@ -22,6 +22,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
+http://retracker.hotplug.ru:2710/announce
+
 http://t1.aag.moe:17715/announce
 
 http://tk.greedland.net:80/announce
@@ -54,6 +56,8 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
+http://tracker.renfei.net:8080/announce
+
 http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
@@ -62,7 +66,11 @@ http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
+http://wepzone.net:6969/announce
+
 http://www.all4nothin.net:80/announce.php
+
+http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -70,9 +78,13 @@ https://1337.abcvg.info:443/announce
 
 https://pybittrack.retiolus.net:443/announce
 
+https://torrust.canofsocks.com:443/announce
+
 https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
+
+https://tr.ready4.icu:443/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -101,3 +113,5 @@ https://tracker1.520.jp:443/announce
 https://trackers.mlsub.net:443/announce
 
 https://trackers.run:443/announce
+
+https://www.peckservers.com:9443/announce
