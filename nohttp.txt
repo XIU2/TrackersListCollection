@@ -1,12 +1,8 @@
-https://1337.abcvg.info:443/announce
-
 https://pybittrack.retiolus.net:443/announce
 
 https://torrust.canofsocks.com:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -104,6 +100,8 @@ udp://odd-hd.fr:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
 
+udp://open-tracker.demonoid.ch:6969/announce
+
 udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
@@ -161,6 +159,8 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
