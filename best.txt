@@ -24,13 +24,9 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://www.all4nothin.net:80/announce.php
+http://tracker.tfile.co:80/announce
 
 http://www.wareztorrent.com:80/announce
-
-https://1337.abcvg.info:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -110,6 +106,8 @@ udp://tk2v6.trackerservers.com:8080/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
+udp://tracker.birkenwald.de:6969/announce
+
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
@@ -118,9 +116,9 @@ udp://tracker.draatman.uk:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
-udp://tracker.gmi.gd:6969/announce
-
 udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.silksa.co.za:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
@@ -131,5 +129,7 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://ttr.croco.net:6969/announce
+
+udp://u6.trakx.crim.ist:1337/announce
 
 wss://tracker.openwebtorrent.com:443/announce
