@@ -30,9 +30,13 @@ http://t1.aag.moe:17715/announce
 
 http://tk.greedland.net:80/announce
 
+http://torrentsmd.com:8080/announce
+
 http://tr.kxmp.cf:80/announce
 
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -50,10 +54,6 @@ http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
-
-http://tracker.qu.ax:6969/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://tracker2.dler.org:80/announce
@@ -64,11 +64,11 @@ http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
-http://wepzone.net:6969/announce
-
 http://www.all4nothin.net:80/announce.php
 
 http://www.peckservers.com:9000/announce
+
+http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -92,8 +92,6 @@ https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
-https://tracker.loligirl.cn:443/announce
-
 https://tracker.pmman.tech:443/announce
 
 https://tracker.renfei.net:443/announce
@@ -109,8 +107,6 @@ https://trackers.mlsub.net:443/announce
 https://trackers.run:443/announce
 
 https://www.peckservers.com:9443/announce
-
-udp://1c.premierzal.ru:6969/announce
 
 udp://207.241.226.111:6969/announce
 
@@ -140,7 +136,11 @@ udp://bt2.archive.org:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
+udp://concen.org:6969/announce
+
 udp://d40969.acod.regrucolo.ru:6969/announce
+
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://epider.me:6969/announce
 
@@ -149,6 +149,8 @@ udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
+
+udp://inferno.demonoid.is:3391/announce
 
 udp://ipv4.rer.lol:2710/announce
 
@@ -256,8 +258,6 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
-udp://tracker.moeking.me:6969/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -278,6 +278,8 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
+udp://tracker1.myporn.club:9337/announce
+
 udp://tracker2.dler.org:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
@@ -291,6 +293,8 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://ttr.croco.net:6969/announce
 
 udp://u.peer-exchange.download:6969/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
