@@ -28,6 +28,8 @@ http://tracker.tfile.co:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
+http://www.wareztorrent.com:80/announce
+
 https://1337.abcvg.info:443/announce
 
 https://tr.abir.ga:443/announce
@@ -44,13 +46,15 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
-https://tracker.renfei.net:443/announce
-
 https://tracker.tamersunion.org:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
+
+https://trackers.mlsub.net:443/announce
+
+udp://amigacity.xyz:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -73,8 +77,6 @@ udp://moonburrow.club:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://open.demonii.com:1337/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -106,8 +108,6 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
@@ -129,5 +129,7 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
+
+udp://z.mercax.com:53/announce
 
 wss://tracker.openwebtorrent.com:443/announce
