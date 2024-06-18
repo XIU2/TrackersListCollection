@@ -4,6 +4,8 @@ https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
+https://tracker.cloudit.top:443/announce
+
 https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrenwp.top:443/announce
