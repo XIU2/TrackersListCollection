@@ -110,15 +110,13 @@ udp://open.dstud.io:6969/announce
 
 udp://open.free-tracker.ga:6969/announce
 
+udp://open.publictracker.xyz:6969/announce
+
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
 udp://open.u-p.pw:6969/announce
-
-udp://opentor.org:2710/announce
-
-udp://opentracker.io:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
@@ -159,8 +157,6 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
-
-udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
