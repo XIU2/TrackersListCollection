@@ -1,5 +1,9 @@
 https://1337.abcvg.info:443/announce
 
+https://pybittrack.retiolus.net:443/announce
+
+https://t.peer-exchange.download:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.cloudit.top:443/announce
@@ -30,7 +34,7 @@ https://trackers.mlsub.net:443/announce
 
 https://trackers.run:443/announce
 
-udp://1c.premierzal.ru:6969/announce
+https://www.peckservers.com:9443/announce
 
 udp://207.241.226.111:6969/announce
 
@@ -56,8 +60,6 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://bt2.archive.org:6969/announce
-
 udp://bubu.mapfactor.com:6969/announce
 
 udp://concen.org:6969/announce
@@ -72,9 +74,13 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://fh2.cmp-gaming.com:6969/announce
+
 udp://inferno.demonoid.is:3391/announce
 
 udp://ipv4.rer.lol:2710/announce
+
+udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://isk.richardsw.club:6969/announce
 
@@ -93,6 +99,8 @@ udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
+
+udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
 
@@ -138,6 +146,10 @@ udp://tk1.trackerservers.com:8080/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
+udp://tk2v6.trackerservers.com:8080/announce
+
+udp://torrents.artixlinux.org:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
@@ -164,6 +176,8 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
+udp://tracker.draatman.uk:6969/announce
+
 udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
@@ -176,6 +190,8 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
+udp://tracker.jamesthebard.net:6969/announce
+
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -183,8 +199,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.silksa.co.za:6969/announce
-
-udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -205,6 +219,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u.peer-exchange.download:6969/announce
 
