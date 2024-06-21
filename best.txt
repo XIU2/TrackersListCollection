@@ -28,7 +28,9 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
-https://t.peer-exchange.download:443/announce
+https://1337.abcvg.info:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -42,11 +44,7 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
-https://tracker.renfei.net:443/announce
-
 https://tracker.tamersunion.org:443/announce
-
-https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -66,8 +64,6 @@ udp://exodus.desync.com:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
-udp://martin-gebhardt.eu:25/announce
-
 udp://moonburrow.club:6969/announce
 
 udp://new-line.net:6969/announce
@@ -75,8 +71,6 @@ udp://new-line.net:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://open.demonii.com:1337/announce
-
-udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -98,15 +92,9 @@ udp://thetracker.org:80/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
-udp://tracker-us.silksa.co.za:6969/announce
-
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
