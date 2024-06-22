@@ -1,3 +1,5 @@
+https://1337.abcvg.info:443/announce
+
 https://pybittrack.retiolus.net:443/announce
 
 https://t.peer-exchange.download:443/announce
