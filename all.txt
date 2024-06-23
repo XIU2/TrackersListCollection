@@ -4,6 +4,8 @@ http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
 
+http://49.12.76.8:8080/announce
+
 http://[2a01:4f8:c012:8025::1]:8080/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
@@ -15,6 +17,8 @@ http://bvarf.tracker.sh:2086/announce
 http://ch3oh.ru:6969/announce
 
 http://ipv6.rer.lol:6969/announce
+
+http://isk.richardsw.club:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -30,9 +34,15 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.dler.com:6969/announce
+
 http://tracker.dler.org:6969/announce
+
+http://tracker.dump.cl:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -77,6 +87,8 @@ https://1337.abcvg.info:443/announce
 https://pybittrack.retiolus.net:443/announce
 
 https://t.peer-exchange.download:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -154,8 +166,6 @@ udp://exodus.desync.com:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
 
-udp://free.publictracker.xyz:6969/announce
-
 udp://inferno.demonoid.is:3391/announce
 
 udp://ipv4.rer.lol:2710/announce
@@ -166,13 +176,9 @@ udp://isk.richardsw.club:6969/announce
 
 udp://jutone.com:6969/announce
 
-udp://leet-tracker.moe:1337/announce
-
 udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
-
-udp://new-line.net:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
@@ -205,6 +211,8 @@ udp://p2p.publictracker.xyz:6969/announce
 udp://p4p.arenabg.com:1337/announce
 
 udp://public.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -239,6 +247,8 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
