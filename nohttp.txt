@@ -94,6 +94,8 @@ udp://isk.richardsw.club:6969/announce
 
 udp://jutone.com:6969/announce
 
+udp://leet-tracker.moe:1337/announce
+
 udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
@@ -229,6 +231,10 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u.peer-exchange.download:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
+
+udp://u6.trakx.crim.ist:1337/announce
+
+udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
