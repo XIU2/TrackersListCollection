@@ -1,7 +1,5 @@
 https://1337.abcvg.info:443/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 https://t.peer-exchange.download:443/announce
 
 https://t1.hloli.org:443/announce
@@ -114,6 +112,8 @@ udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
 
+udp://open.free-tracker.ga:6969/announce
+
 udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
@@ -211,6 +211,8 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
