@@ -1,6 +1,6 @@
-http://1337.abcvg.info:80/announce
-
 http://bt.okmp3.ru:2710/announce
+
+http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -39,8 +39,6 @@ https://tracker.gcrenwp.top:443/announce
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.org:443/announce
-
-https://tracker.loligirl.cn:443/announce
 
 https://tracker.renfei.net:443/announce
 
@@ -107,8 +105,6 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
-
-udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
