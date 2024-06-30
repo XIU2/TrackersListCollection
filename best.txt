@@ -2,8 +2,6 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://ipv6.rer.lol:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://t.nyaatracker.com:80/announce
@@ -114,7 +112,7 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker2.dler.org:80/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://z.mercax.com:53/announce
 
