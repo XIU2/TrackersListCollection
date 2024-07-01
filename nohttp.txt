@@ -6,15 +6,21 @@ https://t.peer-exchange.download:443/announce
 
 https://t1.hloli.org:443/announce
 
+https://threads.canofsocks.com:443/announce
+
 https://tr.abir.ga:443/announce
+
+https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.cloudit.top:443/announce
 
+https://tracker.gbitt.info:443/announce
+
 https://tracker.gcrenwp.top:443/announce
 
-https://tracker.imgoingto.icu:443/announce
-
 https://tracker.ipfsscan.io:443/announce
+
+https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -57,8 +63,6 @@ udp://[2a0f:e586:f:f::81]:6969/announce
 udp://aegir.sexy:6969/announce
 
 udp://amigacity.xyz:6969/announce
-
-udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -110,6 +114,8 @@ udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
 
+udp://open.free-tracker.ga:6969/announce
+
 udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
@@ -124,7 +130,7 @@ udp://opentracker.io:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-udp://p4p.arenabg.com:1337/announce
+udp://public.publictracker.xyz:6969/announce
 
 udp://public.tracker.vraphim.com:6969/announce
 
@@ -161,8 +167,6 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
-
-udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -210,7 +214,7 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
+udp://tracker.vds.nz:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
