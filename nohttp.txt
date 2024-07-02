@@ -4,8 +4,6 @@ https://t.peer-exchange.download:443/announce
 
 https://t1.hloli.org:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.cloudit.top:443/announce
@@ -34,9 +32,7 @@ https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
-https://trackers.run:443/announce
-
-https://www.peckservers.com:9443/announce
+https://trackers.mlsub.net:443/announce
 
 udp://1c.premierzal.ru:6969/announce
 
@@ -72,7 +68,11 @@ udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+
 udp://epider.me:6969/announce
+
+udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
@@ -83,6 +83,8 @@ udp://inferno.demonoid.is:3391/announce
 udp://ipv4.rer.lol:2710/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
+
+udp://isk.richardsw.club:6969/announce
 
 udp://jutone.com:6969/announce
 
@@ -105,6 +107,8 @@ udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
@@ -156,17 +160,23 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
+udp://tracker.bittor.pw:1337/announce
+
+udp://tracker.breizh.pm:6969/announce
+
 udp://tracker.ccp.ovh:6969/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
-udp://tracker.ddunlimited.net:6969/announce
-
-udp://tracker.dler.com:6969/announce
+udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.draatman.uk:6969/announce
+
+udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
@@ -197,8 +207,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
