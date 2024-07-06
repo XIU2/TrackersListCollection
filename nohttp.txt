@@ -6,8 +6,6 @@ https://t.peer-exchange.download:443/announce
 
 https://t1.hloli.org:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.cloudit.top:443/announce
@@ -18,8 +16,6 @@ https://tracker.gcrenwp.top:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-https://tracker.ipfsscan.io:443/announce
-
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.org:443/announce
@@ -29,6 +25,8 @@ https://tracker.loligirl.cn:443/announce
 https://tracker.pmman.tech:443/announce
 
 https://tracker.tamersunion.org:443/announce
+
+https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -98,8 +96,6 @@ udp://moonburrow.club:6969/announce
 
 udp://new-line.net:6969/announce
 
-udp://odd-hd.fr:6969/announce
-
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
@@ -122,10 +118,6 @@ udp://open.u-p.pw:6969/announce
 
 udp://opentor.org:2710/announce
 
-udp://opentracker.io:6969/announce
-
-udp://p2p.publictracker.xyz:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://public.publictracker.xyz:6969/announce
@@ -142,13 +134,9 @@ udp://run.publictracker.xyz:6969/announce
 
 udp://ryjer.com:6969/announce
 
-udp://seedpeer.net:6969/announce
-
 udp://tamas3.ynh.fr:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
-
-udp://tk2.trackerservers.com:8080/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
@@ -161,8 +149,6 @@ udp://tracker-us.silksa.co.za:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -201,6 +187,8 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skyts.net:6969/announce
+
+udp://tracker.srv00.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
