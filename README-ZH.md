@@ -43,13 +43,13 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 
 ### 更新时间: 2024-07-09
 
-- **精选列表：**(63 个)  
+- **精选列表：**(64 个)  
  _**https://cf.trackerslist.com/best.txt**_  
-- **完整列表：**(150 个)  
+- **完整列表：**(157 个)  
  _**https://cf.trackerslist.com/all.txt**_  
-- **HTTP(S) 列表：**(56 个)  
+- **HTTP(S) 列表：**(57 个)  
  _**https://cf.trackerslist.com/http.txt**_  
-- **无 HTTP 列表：**(114 个)  
+- **无 HTTP 列表：**(121 个)  
  _**https://cf.trackerslist.com/nohttp.txt**_  
 
 > 如果上面链接地址无法打开或很慢，请尝试使用以下其他 **CDN 分流**地址。
@@ -67,7 +67,8 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 - _**https://jsdelivr.b-cdn.net/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://js.cdn.haah.net/gh/XIU2/TrackersListCollection/best.txt**_  
-- _**https://raw.scholar.rr.nu/XIU2/TrackersListCollection/master/best.txt**_  
+- _**https://raw.nuaa.cf/XIU2/TrackersListCollection/master/best.txt**_  
+- _**https://raw.yzuu.cf/XIU2/TrackersListCollection/master/best.txt**_  
 - _**[https://ghproxy.cc/.../XIU2/TrackersListCollection/master/best.txt](https://ghproxy.cc/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 - _**[https://ghproxy.net/.../XIU2/TrackersListCollection/master/best.txt](https://ghproxy.net/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 - _**[https://gh-proxy.com/.../XIU2/TrackersListCollection/master/best.txt](https://gh-proxy.com/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
@@ -209,12 +210,12 @@ _**更详细、完整的请看我写的这篇文章：[为什么国内 BT 环境
 ### 项目来源
 
 该项目受到以下公共 Tracker 项目的帮助，感谢~
-* [https://github.com/ngosang/trackerslist](https://github.com/ngosang/trackerslist)
-* [https://newtrackon.com/list](https://newtrackon.com/list)
-* [http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt](http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt)
-* [https://tinytorrent.net/best-torrent-tracker-list-updated](https://tinytorrent.net/best-torrent-tracker-list-updated/)
-* [http://www.torrenttrackerlist.com/torrent-tracker-list](http://www.torrenttrackerlist.com/torrent-tracker-list)
-* [https://github.com/DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList)
+* https://github.com/ngosang/trackerslist
+* https://newtrackon.com/list
+* https://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt
+* https://tinytorrent.net/best-torrent-tracker-list-updated/
+* https://www.torrenttrackerlist.com/torrent-tracker-list
+* https://github.com/DeSireFire/animeTrackerList
 
 ****
 

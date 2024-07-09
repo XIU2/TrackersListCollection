@@ -30,13 +30,13 @@ _You can judge whether there is a problem with the BT configuration and network 
 
 ### Updated: 2024-07-09
 
-- **BEST Tracker list:** (63 trackers)  
+- **BEST Tracker list:** (64 trackers)  
  _**https://cf.trackerslist.com/best.txt**_  
-- **ALL Tracker list:** (150 trackers)  
+- **ALL Tracker list:** (157 trackers)  
  _**https://cf.trackerslist.com/all.txt**_  
-- **HTTP(S) Tracker list:** (56 trackers)  
+- **HTTP(S) Tracker list:** (57 trackers)  
  _**https://cf.trackerslist.com/http.txt**_  
-- **No HTTP Tracker list:** (114 trackers)  
+- **No HTTP Tracker list:** (121 trackers)  
  _**https://cf.trackerslist.com/nohttp.txt**_  
 
 <details>
@@ -50,6 +50,7 @@ _You can judge whether there is a problem with the BT configuration and network 
 - _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://gcore.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
+- _**https://cdn.statically.io/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt**_  
 
 </details>
@@ -122,12 +123,12 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 ### Tracker Source
 
 This project brings together the following list of public trackers:
-* [https://github.com/ngosang/trackerslist](https://github.com/ngosang/trackerslist)
-* [https://newtrackon.com/list](https://newtrackon.com/list)
-* [http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt](http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt)
-* [https://tinytorrent.net/best-torrent-tracker-list-updated/](https://tinytorrent.net/best-torrent-tracker-list-updated/)
-* [http://www.torrenttrackerlist.com/torrent-tracker-list](http://www.torrenttrackerlist.com/torrent-tracker-list)
-* [https://github.com/DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList)
+* https://github.com/ngosang/trackerslist
+* https://newtrackon.com/list
+* https://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt
+* https://tinytorrent.net/best-torrent-tracker-list-updated/
+* https://www.torrenttrackerlist.com/torrent-tracker-list
+* https://github.com/DeSireFire/animeTrackerList
 
 Thanks for these projects!
 
