@@ -36,8 +36,6 @@ https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
 
-https://trackers.run:443/announce
-
 https://www.peckservers.com:9443/announce
 
 udp://1c.premierzal.ru:6969/announce
@@ -69,10 +67,6 @@ udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
-
-udp://concen.org:6969/announce
-
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://epider.me:6969/announce
 
@@ -113,8 +107,6 @@ udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
@@ -158,10 +150,6 @@ udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
-udp://tracker.0x7c0.com:6969/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
@@ -169,8 +157,6 @@ udp://tracker.bittor.pw:1337/announce
 udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
-
-udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
@@ -183,8 +169,6 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.draatman.uk:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
@@ -233,6 +217,8 @@ udp://u.peer-exchange.download:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
+
+udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
