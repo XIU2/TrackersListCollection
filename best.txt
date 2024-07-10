@@ -1,10 +1,6 @@
-http://bt.okmp3.ru:2710/announce
-
 http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://tk.greedland.net:80/announce
 
@@ -18,11 +14,13 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.tfile.co:80/announce
-
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
+
+https://1337.abcvg.info:443/announce
+
+https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -78,13 +76,9 @@ udp://open.demonoid.ch:6969/announce
 
 udp://open.free-tracker.ga:6969/announce
 
-udp://open.publictracker.xyz:6969/announce
-
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
-
-udp://open.u-p.pw:6969/announce
 
 udp://opentor.org:2710/announce
 
@@ -94,8 +88,6 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://thetracker.org:80/announce
-
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
@@ -103,8 +95,6 @@ udp://tracker.bittor.pw:1337/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.doko.moe:6969/announce
 
 udp://tracker.draatman.uk:6969/announce
 
@@ -123,6 +113,8 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.xor.st:6969/announce
+
+udp://u6.trakx.crim.ist:1337/announce
 
 udp://www.torrent.eu.org:451/announce
 

@@ -22,8 +22,6 @@ http://isk.richardsw.club:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open-v6.demonoid.ch:6969/announce
-
 http://retracker.hotplug.ru:2710/announce
 
 http://t.overflow.biz:6969/announce
@@ -45,6 +43,8 @@ http://tracker.dler.org:6969/announce
 http://tracker.dump.cl:6969/announce
 
 http://tracker.edkj.club:6969/announce
+
+http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -81,8 +81,6 @@ https://pybittrack.retiolus.net:443/announce
 https://t.peer-exchange.download:443/announce
 
 https://t1.hloli.org:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -148,8 +146,6 @@ udp://bt2.archive.org:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
-udp://concen.org:6969/announce
-
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://epider.me:6969/announce
@@ -179,8 +175,6 @@ udp://mikrotik2.draatman.net:6969/announce
 udp://moonburrow.club:6969/announce
 
 udp://new-line.net:6969/announce
-
-udp://odd-hd.fr:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
 
@@ -214,6 +208,8 @@ udp://public.publictracker.xyz:6969/announce
 
 udp://public.tracker.vraphim.com:6969/announce
 
+udp://retracker.hotplug.ru:2710/announce
+
 udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
@@ -236,9 +232,9 @@ udp://tracker-us.silksa.co.za:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
-udp://tracker.birkenwald.de:6969/announce
-
 udp://tracker.bittor.pw:1337/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
