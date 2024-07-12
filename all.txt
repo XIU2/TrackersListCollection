@@ -14,13 +14,17 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+http://canardscitrons.nohost.me:6969/announce
+
+http://ch3oh.ru:6969/announce
+
 http://ipv6.rer.lol:6969/announce
+
+http://isk.richardsw.club:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
-
-http://retracker.hotplug.ru:2710/announce
 
 http://t1.aag.moe:17715/announce
 
@@ -28,15 +32,11 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.dump.cl:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -44,9 +44,15 @@ http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
 
+http://tracker.gbitt.info:80/announce
+
+http://tracker.ipv6tracker.org:80/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
+
+http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -74,9 +80,13 @@ https://t.peer-exchange.download:443/announce
 
 https://t1.hloli.org:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.cloudit.top:443/announce
+
+https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
@@ -90,8 +100,6 @@ https://tracker.loligirl.cn:443/announce
 
 https://tracker.pmman.tech:443/announce
 
-https://tracker.renfei.net:443/announce
-
 https://tracker.tamersunion.org:443/announce
 
 https://tracker.yemekyedim.com:443/announce
@@ -99,6 +107,8 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
+
+https://trackers.run:443/announce
 
 https://www.peckservers.com:9443/announce
 
@@ -123,8 +133,6 @@ udp://[2a0f:e586:f:f::81]:6969/announce
 udp://aegir.sexy:6969/announce
 
 udp://amigacity.xyz:6969/announce
-
-udp://bandito.byterunner.io:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -158,8 +166,6 @@ udp://isk.richardsw.club:6969/announce
 
 udp://jutone.com:6969/announce
 
-udp://leet-tracker.moe:1337/announce
-
 udp://martin-gebhardt.eu:25/announce
 
 udp://mikrotik2.draatman.net:6969/announce
@@ -171,8 +177,6 @@ udp://new-line.net:6969/announce
 udp://odd-hd.fr:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
-
-udp://open-tracker.demonoid.ch:6969/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -227,6 +231,8 @@ udp://tracker-us.silksa.co.za:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
