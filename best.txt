@@ -1,3 +1,5 @@
+http://1337.abcvg.info:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://ipv6.rer.lol:6969/announce
@@ -24,9 +26,7 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
-https://t1.hloli.org:443/announce
-
-https://tr.abir.ga:443/announce
+https://1337.abcvg.info:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -58,9 +58,11 @@ udp://bubu.mapfactor.com:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
+udp://epider.me:6969/announce
+
 udp://evan.im:6969/announce
 
-udp://ipv6.fuuuuuck.com:6969/announce
+udp://exodus.desync.com:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -68,27 +70,17 @@ udp://mikrotik2.draatman.net:6969/announce
 
 udp://moonburrow.club:6969/announce
 
-udp://oh.fuuuuuck.com:6969/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://open.tracker.ink:6969/announce
 
-udp://open.u-p.pw:6969/announce
-
 udp://opentor.org:2710/announce
-
-udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.lanta.me:2710/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://thetracker.org:80/announce
 
@@ -107,10 +99,6 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.skyts.net:6969/announce
-
-udp://tracker.theoks.net:6969/announce
-
-udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
