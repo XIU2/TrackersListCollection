@@ -4,6 +4,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://ipv6.rer.lol:6969/announce
 
+http://nyaa.tracker.wf:7777/announce
+
 http://t.nyaatracker.com:80/announce
 
 http://tk.greedland.net:80/announce
@@ -23,6 +25,12 @@ http://tracker.opentrackr.org:1337/announce
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
+
+https://1337.abcvg.info:443/announce
+
+https://t.peer-exchange.download:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -44,13 +52,9 @@ https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
 
-udp://amigacity.xyz:6969/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
-
-udp://bubu.mapfactor.com:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
@@ -113,6 +117,8 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.t-1.org:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
