@@ -1,3 +1,5 @@
+http://1337.abcvg.info:80/announce
+
 http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
@@ -22,13 +24,13 @@ http://nyaa.tracker.wf:7777/announce
 
 http://retracker.hotplug.ru:2710/announce
 
+http://t.overflow.biz:6969/announce
+
 http://t1.aag.moe:17715/announce
 
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
-
-http://tr.kxmp.cf:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -44,15 +46,15 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.ipv6tracker.org:80/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.qu.ax:6969/announce
+
 http://tracker.renfei.net:8080/announce
 
-http://tracker2.itzmx.com:6961/announce
+http://tracker2.dler.org:80/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -68,6 +70,8 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
+https://pybittrack.retiolus.net:443/announce
+
 https://t.peer-exchange.download:443/announce
 
 https://t1.hloli.org:443/announce
@@ -76,11 +80,13 @@ https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-https://tr.ready4.icu:443/announce
-
 https://tracker.cloudit.top:443/announce
 
+https://tracker.gbitt.info:443/announce
+
 https://tracker.gcrenwp.top:443/announce
+
+https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -113,6 +119,8 @@ udp://207.241.231.226:6969/announce
 udp://49.12.76.8:8080/announce
 
 udp://52.58.128.163:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://[2a01:4f8:c012:8025::1]:8080/announce
 
@@ -156,8 +164,6 @@ udp://isk.richardsw.club:6969/announce
 
 udp://jutone.com:6969/announce
 
-udp://leet-tracker.moe:1337/announce
-
 udp://martin-gebhardt.eu:25/announce
 
 udp://mikrotik2.draatman.net:6969/announce
@@ -198,8 +204,6 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://public.publictracker.xyz:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
@@ -216,17 +220,21 @@ udp://tamas3.ynh.fr:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
-udp://tk2v6.trackerservers.com:8080/announce
-
 udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
+udp://tracker.auctor.tv:6969/announce
+
+udp://tracker.birkenwald.de:6969/announce
+
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
@@ -240,11 +248,9 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.draatman.uk:6969/announce
 
-udp://tracker.edkj.club:6969/announce
+udp://tracker.dump.cl:6969/announce
 
 udp://tracker.filemail.com:6969/announce
-
-udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
