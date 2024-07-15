@@ -38,8 +38,6 @@ https://trackers.mlsub.net:443/announce
 
 https://trackers.run:443/announce
 
-https://www.peckservers.com:9443/announce
-
 udp://1c.premierzal.ru:6969/announce
 
 udp://207.241.226.111:6969/announce
@@ -150,6 +148,8 @@ udp://tamas3.ynh.fr:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
+udp://tk2v6.trackerservers.com:8080/announce
+
 udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
@@ -180,7 +180,11 @@ udp://tracker.draatman.uk:6969/announce
 
 udp://tracker.dump.cl:6969/announce
 
+udp://tracker.edkj.club:6969/announce
+
 udp://tracker.filemail.com:6969/announce
+
+udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 

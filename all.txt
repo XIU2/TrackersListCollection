@@ -24,8 +24,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://retracker.hotplug.ru:2710/announce
 
-http://t.overflow.biz:6969/announce
-
 http://t1.aag.moe:17715/announce
 
 http://tk.greedland.net:80/announce
@@ -37,6 +35,8 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
+
+http://tracker.dump.cl:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -50,11 +50,13 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.qu.ax:6969/announce
-
 http://tracker.renfei.net:8080/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker2.dler.org:80/announce
+
+http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -107,8 +109,6 @@ https://tracker1.520.jp:443/announce
 https://trackers.mlsub.net:443/announce
 
 https://trackers.run:443/announce
-
-https://www.peckservers.com:9443/announce
 
 udp://1c.premierzal.ru:6969/announce
 
@@ -220,6 +220,8 @@ udp://tamas3.ynh.fr:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
+udp://tk2v6.trackerservers.com:8080/announce
+
 udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
@@ -250,7 +252,11 @@ udp://tracker.draatman.uk:6969/announce
 
 udp://tracker.dump.cl:6969/announce
 
+udp://tracker.edkj.club:6969/announce
+
 udp://tracker.filemail.com:6969/announce
+
+udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
