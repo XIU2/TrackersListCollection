@@ -2,8 +2,6 @@ http://1337.abcvg.info:80/announce
 
 http://207.241.226.111:6969/announce
 
-http://207.241.231.226:6969/announce
-
 http://49.12.76.8:8080/announce
 
 http://[2a01:4f8:c012:8025::1]:8080/announce
@@ -14,11 +12,7 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-http://ch3oh.ru:6969/announce
-
 http://ipv6.rer.lol:6969/announce
-
-http://isk.richardsw.club:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -36,8 +30,6 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.dump.cl:6969/announce
-
 http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -51,8 +43,6 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -68,13 +58,9 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.peckservers.com:9000/announce
 
-http://www.wareztorrent.com:80/announce
-
 https://1337.abcvg.info:443/announce
 
 https://pybittrack.retiolus.net:443/announce
-
-https://t.peer-exchange.download:443/announce
 
 https://t1.hloli.org:443/announce
 
@@ -83,8 +69,6 @@ https://tr.abir.ga:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.cloudit.top:443/announce
-
-https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
@@ -109,6 +93,8 @@ https://tracker1.520.jp:443/announce
 https://trackers.mlsub.net:443/announce
 
 https://trackers.run:443/announce
+
+https://www.peckservers.com:9443/announce
 
 udp://1c.premierzal.ru:6969/announce
 
@@ -220,8 +206,6 @@ udp://tamas3.ynh.fr:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
-udp://tk2v6.trackerservers.com:8080/announce
-
 udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
@@ -238,8 +222,6 @@ udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://tracker.darkness.services:6969/announce
-
 udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
@@ -248,23 +230,17 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.draatman.uk:6969/announce
-
 udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.fnix.net:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.moeking.me:6969/announce
-
-udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.skyts.net:6969/announce
 
