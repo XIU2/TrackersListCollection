@@ -1,5 +1,3 @@
-http://1337.abcvg.info:80/announce
-
 http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
@@ -58,8 +56,6 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
@@ -75,8 +71,6 @@ http://www.all4nothin.net:80/announce.php
 http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
-
-https://1337.abcvg.info:443/announce
 
 https://pybittrack.retiolus.net:443/announce
 
@@ -100,7 +94,7 @@ https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
-https://tracker.loligirl.cn:443/announce
+https://tracker.pmman.tech:443/announce
 
 https://tracker.renfei.net:443/announce
 
@@ -113,3 +107,5 @@ https://tracker1.520.jp:443/announce
 https://trackers.mlsub.net:443/announce
 
 https://trackers.run:443/announce
+
+https://www.peckservers.com:9443/announce
