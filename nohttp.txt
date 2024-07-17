@@ -1,16 +1,14 @@
 https://1337.abcvg.info:443/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 https://t.peer-exchange.download:443/announce
+
+https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.cloudit.top:443/announce
 
 https://tracker.gbitt.info:443/announce
-
-https://tracker.gcrenwp.top:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -96,8 +94,6 @@ udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://moonburrow.club:6969/announce
-
 udp://new-line.net:6969/announce
 
 udp://odd-hd.fr:6969/announce
@@ -108,7 +104,7 @@ udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
 
-udp://open.dstud.io:6969/announce
+udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -146,13 +142,15 @@ udp://tamas3.ynh.fr:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
+udp://tk2v6.trackerservers.com:8080/announce
+
 udp://torrents.artixlinux.org:6969/announce
+
+udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
@@ -223,8 +221,6 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u.peer-exchange.download:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
-
-udp://u6.trakx.crim.ist:1337/announce
 
 udp://wepzone.net:6969/announce
 
