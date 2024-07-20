@@ -24,6 +24,10 @@ http://www.wareztorrent.com:80/announce
 
 https://tr.abir.ga:443/announce
 
+https://tr.burnabyhighstar.com:443/announce
+
+https://tracker.gcrenwp.top:443/announce
+
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.org:443/announce
@@ -47,8 +51,6 @@ udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
-
-udp://epider.me:6969/announce
 
 udp://evan.im:6969/announce
 
@@ -110,6 +112,10 @@ udp://tracker.dump.cl:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
+udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.skyts.net:6969/announce
+
 udp://tracker.t-1.org:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -120,6 +126,6 @@ udp://tracker1.t-1.org:6969/announce
 
 udp://tracker3.t-1.org:6969/announce
 
-udp://z.mercax.com:53/announce
+udp://wepzone.net:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
