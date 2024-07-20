@@ -38,8 +38,6 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.dump.cl:6969/announce
-
 http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -52,11 +50,7 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.qu.ax:6969/announce
-
 http://tracker.renfei.net:8080/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -73,10 +67,6 @@ http://www.all4nothin.net:80/announce.php
 http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
-
-https://1337.abcvg.info:443/announce
-
-https://pybittrack.retiolus.net:443/announce
 
 https://t.peer-exchange.download:443/announce
 
@@ -101,8 +91,6 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.pmman.tech:443/announce
-
-https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
