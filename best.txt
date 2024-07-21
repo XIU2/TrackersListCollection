@@ -1,4 +1,4 @@
-http://1337.abcvg.info:80/announce
+http://bt.okmp3.ru:2710/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -12,19 +12,21 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tracker.dump.cl:6969/announce
+
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.tfile.co:80/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
 https://tr.abir.ga:443/announce
-
-https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.gbitt.info:443/announce
 
@@ -59,6 +61,8 @@ udp://ipv6.fuuuuuck.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
+
+udp://oh.fuuuuuck.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 

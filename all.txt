@@ -1,10 +1,4 @@
-http://1337.abcvg.info:80/announce
-
 http://207.241.226.111:6969/announce
-
-http://207.241.231.226:6969/announce
-
-http://49.12.76.8:8080/announce
 
 http://[2a01:4f8:c012:8025::1]:8080/announce
 
@@ -13,8 +7,6 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
-
-http://ch3oh.ru:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -30,13 +22,15 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.dler.org:6969/announce
+http://tracker.dler.com:6969/announce
 
-http://tracker.dump.cl:6969/announce
+http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -49,10 +43,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.opentrackr.org:1337/announce
-
-http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -80,11 +70,11 @@ https://t.peer-exchange.download:443/announce
 
 https://t1.hloli.org:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
+
+https://tracker.cloudit.top:443/announce
 
 https://tracker.gbitt.info:443/announce
 
@@ -93,6 +83,8 @@ https://tracker.gcrenwp.top:443/announce
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
+
+https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -107,6 +99,8 @@ https://tracker.tamersunion.org:443/announce
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
+
+https://trackers.mlsub.net:443/announce
 
 https://trackers.run:443/announce
 
@@ -176,8 +170,6 @@ udp://odd-hd.fr:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
 
-udp://open.demonii.com:1337/announce
-
 udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
@@ -224,6 +216,8 @@ udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
+udp://tracker.birkenwald.de:6969/announce
+
 udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
@@ -238,6 +232,8 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
+udp://tracker.draatman.uk:6969/announce
+
 udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
@@ -249,8 +245,6 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
-
-udp://tracker.moeking.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
