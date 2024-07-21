@@ -1,18 +1,16 @@
 http://1337.abcvg.info:80/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://t1.aag.moe:17715/announce
 
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
-
-http://tracker.dump.cl:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
@@ -46,6 +44,8 @@ https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
 
+udp://amigacity.xyz:6969/announce
+
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
@@ -54,11 +54,11 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://ipv6.fuuuuuck.com:6969/announce
+
 udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
-
-udp://oh.fuuuuuck.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
