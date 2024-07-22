@@ -2,11 +2,7 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://ipv6.rer.lol:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://t1.aag.moe:17715/announce
 
@@ -14,7 +10,7 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tracker.files.fm:6969/announce
+http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -24,8 +20,6 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.gbitt.info:443/announce
@@ -33,10 +27,6 @@ https://tracker.gbitt.info:443/announce
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.kuroy.me:443/announce
-
-https://tracker.lilithraws.org:443/announce
-
-https://tracker.loligirl.cn:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -72,8 +62,6 @@ udp://open.u-p.pw:6969/announce
 
 udp://opentor.org:2710/announce
 
-udp://opentracker.io:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.lanta.me:2710/announce
@@ -88,9 +76,9 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
