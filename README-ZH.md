@@ -49,7 +49,7 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
  _**https://cf.trackerslist.com/all.txt**_  
 - **HTTP(S) 列表：**(61 个)  
  _**https://cf.trackerslist.com/http.txt**_  
-- **无 HTTP 列表：**(119 个)  
+- **无 HTTP 列表：**(120 个)  
  _**https://cf.trackerslist.com/nohttp.txt**_  
 
 > 如果上面链接地址无法打开或很慢，请尝试使用以下其他 **CDN 分流**地址。
