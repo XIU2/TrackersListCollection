@@ -2,8 +2,6 @@ https://pybittrack.retiolus.net:443/announce
 
 https://t.peer-exchange.download:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
@@ -62,7 +60,11 @@ udp://amigacity.xyz:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
+udp://bt.ktrackers.com:6666/announce
+
 udp://bt1.archive.org:6969/announce
+
+udp://bt2.archive.org:6969/announce
 
 udp://btt.service.gongt.me:43079/announce
 
@@ -87,6 +89,8 @@ udp://isk.richardsw.club:6969/announce
 udp://jutone.com:6969/announce
 
 udp://leet-tracker.moe:1337/announce
+
+udp://moonburrow.club:6969/announce
 
 udp://new-line.net:6969/announce
 
@@ -162,8 +166,6 @@ udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
-udp://tracker.dler.com:6969/announce
-
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.edkj.club:6969/announce
@@ -178,6 +180,8 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
+udp://tracker.moeking.me:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -185,8 +189,6 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.t-1.org:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -223,6 +225,8 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u.peer-exchange.download:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
+
+udp://u6.trakx.crim.ist:1337/announce
 
 udp://wepzone.net:6969/announce
 
