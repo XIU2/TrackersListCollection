@@ -2,8 +2,6 @@ https://pybittrack.retiolus.net:443/announce
 
 https://t.peer-exchange.download:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.amelia.fun:443/announce
@@ -85,8 +83,6 @@ udp://ipv4.rer.lol:2710/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://isk.richardsw.club:6969/announce
-
-udp://jutone.com:6969/announce
 
 udp://leet-tracker.moe:1337/announce
 
@@ -170,6 +166,8 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
+udp://tracker.farted.net:6969/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
@@ -217,10 +215,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker3.t-1.org:6969/announce
-
-udp://tracker4.itzmx.com:2710/announce
-
-udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u.peer-exchange.download:6969/announce
 
