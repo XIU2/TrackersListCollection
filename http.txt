@@ -10,13 +10,19 @@ http://[2a01:4f8:c012:8025::1]:8080/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
+http://bt.okmp3.ru:2710/announce
+
+http://bvarf.tracker.sh:2086/announce
+
+http://ch3oh.ru:6969/announce
+
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://t.overflow.biz:6969/announce
+http://retracker.hotplug.ru:2710/announce
 
 http://t1.aag.moe:17715/announce
 
@@ -26,11 +32,17 @@ http://torrentsmd.com:8080/announce
 
 http://tr.kxmp.cf:80/announce
 
+http://tracker-zhuqiy.dgj055.icu:80/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.dump.cl:6969/announce
+
+http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
@@ -40,7 +52,13 @@ http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.opentrackr.org:1337/announce
+
+http://tracker.qu.ax:6969/announce
+
 http://tracker.renfei.net:8080/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -54,8 +72,6 @@ http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.wareztorrent.com:80/announce
-
 https://pybittrack.retiolus.net:443/announce
 
 https://t.peer-exchange.download:443/announce
@@ -63,6 +79,8 @@ https://t.peer-exchange.download:443/announce
 https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
+
+https://tracker-zhuqiy.dgj055.icu:443/announce
 
 https://tracker.amelia.fun:443/announce
 
@@ -89,3 +107,5 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
+
+https://trackers.run:443/announce
