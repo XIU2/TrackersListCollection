@@ -2,8 +2,6 @@ https://pybittrack.retiolus.net:443/announce
 
 https://t.peer-exchange.download:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
@@ -82,15 +80,17 @@ udp://fh2.cmp-gaming.com:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
 
+udp://ipv6.fuuuuuck.com:6969/announce
+
 udp://jutone.com:6969/announce
 
 udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://moonburrow.club:6969/announce
-
 udp://new-line.net:6969/announce
+
+udp://odd-hd.fr:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
 
@@ -193,8 +193,6 @@ udp://tracker.therarbg.to:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
