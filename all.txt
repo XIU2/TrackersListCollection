@@ -12,6 +12,8 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://bvarf.tracker.sh:2086/announce
+
 http://ch3oh.ru:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -19,6 +21,8 @@ http://ipv4announce.sktorrent.eu:6969/announce
 http://ipv6.rer.lol:6969/announce
 
 http://isk.richardsw.club:6969/announce
+
+http://nyaa.tracker.wf:7777/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -46,9 +50,13 @@ http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -67,10 +75,6 @@ http://www.peckservers.com:9000/announce
 http://www.wareztorrent.com:80/announce
 
 https://pybittrack.retiolus.net:443/announce
-
-https://t.peer-exchange.download:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -134,9 +138,15 @@ udp://bandito.byterunner.io:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
+udp://bt1.archive.org:6969/announce
+
 udp://bt2.archive.org:6969/announce
 
+udp://concen.org:6969/announce
+
 udp://d40969.acod.regrucolo.ru:6969/announce
+
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://epider.me:6969/announce
 
@@ -204,11 +214,11 @@ udp://ryjer.com:6969/announce
 
 udp://seedpeer.net:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://tamas3.ynh.fr:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
+
+udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
@@ -218,9 +228,9 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
-udp://tracker.ccp.ovh:6969/announce
+udp://tracker.breizh.pm:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
+udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
