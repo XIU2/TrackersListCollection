@@ -4,8 +4,6 @@ http://bt.okmp3.ru:2710/announce
 
 http://ipv6.rer.lol:6969/announce
 
-http://nyaa.tracker.wf:7777/announce
-
 http://retracker.x2k.ru:80/announce
 
 http://t.nyaatracker.com:80/announce
@@ -15,6 +13,8 @@ http://tk.greedland.net:80/announce
 http://torrentsmd.com:8080/announce
 
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.dump.cl:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
@@ -28,8 +28,6 @@ http://www.wareztorrent.com:80/announce
 
 https://retracker2.x2k.ru:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.kuroy.me:443/announce
@@ -40,15 +38,11 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
-https://tracker1.520.jp:443/announce
-
 https://trackers.mlsub.net:443/announce
 
 udp://bandito.byterunner.io:6969/announce
 
 udp://bt1.archive.org:6969/announce
-
-udp://bt2.archive.org:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
@@ -56,17 +50,11 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://ipv6.fuuuuuck.com:6969/announce
-
-udp://oh.fuuuuuck.com:6969/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
 
 udp://open.stealth.si:80/announce
-
-udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -74,17 +62,19 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
 
-udp://p4p.arenabg.com:1337/announce
-
 udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://run.publictracker.xyz:6969/announce
 
 udp://thetracker.org:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -97,6 +87,8 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.skyts.net:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
