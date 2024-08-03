@@ -20,8 +20,6 @@ http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
 
-http://www.all4nothin.net:80/announce.php
-
 http://www.wareztorrent.com:80/announce
 
 https://retracker2.x2k.ru:443/announce
@@ -29,6 +27,8 @@ https://retracker2.x2k.ru:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.kuroy.me:443/announce
+
+https://tracker.lilithraws.org:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -55,8 +55,6 @@ udp://open.demonoid.ch:6969/announce
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.cl:1337/announce
-
-udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
 
@@ -103,3 +101,7 @@ udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker3.t-1.org:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
+
+udp://z.mercax.com:53/announce
+
+wss://tracker.openwebtorrent.com:443/announce
