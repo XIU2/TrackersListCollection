@@ -2,15 +2,21 @@ https://pybittrack.retiolus.net:443/announce
 
 https://t.peer-exchange.download:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
 https://tracker.cloudit.top:443/announce
 
+https://tracker.gcrenwp.top:443/announce
+
 https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
+
+https://tracker.lilithraws.org:443/announce
 
 https://tracker.pmman.tech:443/announce
 
@@ -106,10 +112,6 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
-udp://p4p.arenabg.com:1337/announce
-
 udp://public.publictracker.xyz:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -123,8 +125,6 @@ udp://run.publictracker.xyz:6969/announce
 udp://ryjer.com:6969/announce
 
 udp://seedpeer.net:6969/announce
-
-udp://t.overflow.biz:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
@@ -150,9 +150,17 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
+udp://tracker.dler.com:6969/announce
+
 udp://tracker.edkj.club:6969/announce
 
+udp://tracker.farted.net:6969/announce
+
+udp://tracker.filemail.com:6969/announce
+
 udp://tracker.fnix.net:6969/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
