@@ -1,10 +1,6 @@
 https://pybittrack.retiolus.net:443/announce
 
-https://retracker2.x2k.ru:443/announce
-
 https://t.peer-exchange.download:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -12,13 +8,9 @@ https://tracker-zhuqiy.dgj055.icu:443/announce
 
 https://tracker.cloudit.top:443/announce
 
-https://tracker.gcrenwp.top:443/announce
-
 https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
-
-https://tracker.lilithraws.org:443/announce
 
 https://tracker.pmman.tech:443/announce
 
@@ -106,7 +98,11 @@ udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
+udp://open.tracker.ink:6969/announce
+
 udp://open.u-p.pw:6969/announce
+
+udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
 
@@ -154,15 +150,9 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
-udp://tracker.dler.com:6969/announce
-
 udp://tracker.edkj.club:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.fnix.net:6969/announce
-
-udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
