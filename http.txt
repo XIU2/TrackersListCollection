@@ -24,13 +24,13 @@ http://nyaa.tracker.wf:7777/announce
 
 http://retracker.hotplug.ru:2710/announce
 
+http://retracker.x2k.ru:80/announce
+
 http://t1.aag.moe:17715/announce
 
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
-
-http://tr.kxmp.cf:80/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -64,13 +64,13 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
+http://tracker4.itzmx.com:2710/announce
+
 http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
 http://www.peckservers.com:9000/announce
-
-http://www.wareztorrent.com:80/announce
 
 https://pybittrack.retiolus.net:443/announce
 
@@ -78,11 +78,7 @@ https://retracker2.x2k.ru:443/announce
 
 https://t.peer-exchange.download:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
-
-https://tracker-zhuqiy.dgj055.icu:443/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -99,6 +95,8 @@ https://tracker.pmman.tech:443/announce
 https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
+
+https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
