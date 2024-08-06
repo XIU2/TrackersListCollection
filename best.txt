@@ -14,17 +14,11 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tracker.bt4g.com:2095/announce
-
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
-
-http://tracker.renfei.net:8080/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker.tfile.co:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -42,8 +36,6 @@ https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
-https://tracker.renfei.net:443/announce
-
 https://tracker.tamersunion.org:443/announce
 
 https://tracker.yemekyedim.com:443/announce
@@ -51,8 +43,6 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
-
-udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -64,11 +54,11 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://isk.richardsw.club:6969/announce
-
-udp://leet-tracker.moe:1337/announce
+udp://new-line.net:6969/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -82,9 +72,13 @@ udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://public.publictracker.xyz:6969/announce
+
 udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://run.publictracker.xyz:6969/announce
 
 udp://thetracker.org:80/announce
 
@@ -96,9 +90,9 @@ udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker.dler.com:6969/announce
+udp://tracker.ccp.ovh:6969/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
@@ -117,6 +111,8 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.xor.st:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker3.t-1.org:6969/announce
 
