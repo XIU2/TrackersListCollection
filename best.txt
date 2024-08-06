@@ -18,21 +18,25 @@ http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
 
+http://tracker.tfile.co:80/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
+https://bittorrent.service.gongt.me:59443/announce
+
 https://retracker2.x2k.ru:443/announce
 
 https://t.peer-exchange.download:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.org:443/announce
+
+https://tracker.pmman.tech:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
