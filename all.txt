@@ -28,13 +28,13 @@ http://retracker.x2k.ru:80/announce
 
 http://t1.aag.moe:17715/announce
 
+http://tk.greedland.net:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.kxmp.cf:80/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -75,6 +75,8 @@ https://pybittrack.retiolus.net:443/announce
 https://retracker2.x2k.ru:443/announce
 
 https://t.peer-exchange.download:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
