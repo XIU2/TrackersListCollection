@@ -4,6 +4,8 @@ https://pybittrack.retiolus.net:443/announce
 
 https://retracker2.x2k.ru:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
@@ -132,8 +134,6 @@ udp://ryjer.com:6969/announce
 
 udp://seedpeer.net:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://tamas3.ynh.fr:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
@@ -205,8 +205,6 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u.peer-exchange.download:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
-
-udp://u6.trakx.crim.ist:1337/announce
 
 udp://wepzone.net:6969/announce
 

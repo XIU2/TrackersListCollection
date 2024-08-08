@@ -26,8 +26,6 @@ http://www.wareztorrent.com:80/announce
 
 https://retracker2.x2k.ru:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.gcrenwp.top:443/announce
@@ -57,8 +55,6 @@ udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 
 udp://leet-tracker.moe:1337/announce
-
-udp://new-line.net:6969/announce
 
 udp://open.demonii.com:1337/announce
 
