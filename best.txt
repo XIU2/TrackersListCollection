@@ -14,11 +14,11 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
