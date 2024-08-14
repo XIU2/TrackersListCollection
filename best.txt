@@ -1,12 +1,6 @@
 http://1337.abcvg.info:80/announce
 
-http://bt.okmp3.ru:2710/announce
-
-http://ipv6.rer.lol:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
-
-http://retracker.x2k.ru:80/announce
 
 http://t.nyaatracker.com:80/announce
 
@@ -14,65 +8,25 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tracker.electro-torrent.pl:80/announce
-
-http://tracker.files.fm:6969/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.tfile.co:80/announce
-
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
-
-https://bittorrent.service.gongt.me:59443/announce
-
-https://pybittrack.retiolus.net:443/announce
-
-https://retracker2.x2k.ru:443/announce
 
 https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-https://tracker.gcrenwp.top:443/announce
-
 https://tracker.kuroy.me:443/announce
-
-https://tracker.lilithraws.org:443/announce
-
-https://tracker.pmman.tech:443/announce
-
-https://tracker.tamersunion.org:443/announce
-
-https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
-https://trackers.mlsub.net:443/announce
-
-udp://bt2.archive.org:6969/announce
-
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-
-udp://epider.me:6969/announce
-
-udp://evan.im:6969/announce
-
-udp://exodus.desync.com:6969/announce
-
 udp://open.demonii.com:1337/announce
-
-udp://open.demonoid.ch:6969/announce
-
-udp://open.dstud.io:6969/announce
-
-udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -84,43 +38,17 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
-
-udp://retracker.hotplug.ru:2710/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://ryjer.com:6969/announce
 
-udp://seedpeer.net:6969/announce
-
 udp://thetracker.org:80/announce
-
-udp://tk2.trackerservers.com:8080/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
-udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
-
-udp://tracker.breizh.pm:6969/announce
-
-udp://tracker.dler.com:6969/announce
-
 udp://tracker.doko.moe:6969/announce
 
-udp://tracker.dump.cl:6969/announce
-
-udp://tracker.fnix.net:6969/announce
-
-udp://tracker.gmi.gd:6969/announce
-
 udp://tracker.opentrackr.org:1337/announce
-
-udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
@@ -129,9 +57,5 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.xor.st:6969/announce
-
-udp://z.mercax.com:53/announce
 
 wss://tracker.openwebtorrent.com:443/announce
