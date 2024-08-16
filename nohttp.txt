@@ -64,6 +64,8 @@ udp://amigacity.xyz:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
+udp://bt.ktrackers.com:6666/announce
+
 udp://bt.rer.lol:2710/announce
 
 udp://bt.rer.lol:6969/announce
@@ -84,13 +86,15 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://free.publictracker.xyz:6969/announce
+
+udp://freedomalternative.com:6969/announce
+
 udp://ipv4.rer.lol:2710/announce
 
 udp://isk.richardsw.club:6969/announce
 
 udp://jutone.com:6969/announce
-
-udp://leet-tracker.moe:1337/announce
 
 udp://mail.artixlinux.org:6969/announce
 
@@ -107,10 +111,6 @@ udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
-
-udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -145,8 +145,6 @@ udp://tamas3.ynh.fr:6969/announce
 udp://tk2.trackerservers.com:8080/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
-
-udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -190,8 +188,6 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -201,6 +197,8 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.xor.st:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
