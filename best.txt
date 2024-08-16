@@ -26,11 +26,11 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
+https://bittorrent.service.gongt.me:59443/announce
+
 https://pybittrack.retiolus.net:443/announce
 
 https://retracker2.x2k.ru:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -50,8 +50,6 @@ https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
 
-udp://bt1.archive.org:6969/announce
-
 udp://bt2.archive.org:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -63,6 +61,8 @@ udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 
 udp://new-line.net:6969/announce
+
+udp://odd-hd.fr:6969/announce
 
 udp://open.demonii.com:1337/announce
 

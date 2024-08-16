@@ -112,6 +112,8 @@ udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
 
+udp://open.publictracker.xyz:6969/announce
+
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.cl:1337/announce
