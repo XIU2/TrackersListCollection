@@ -22,6 +22,8 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.tfile.co:80/announce
 
+http://tracker2.itzmx.com:6961/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
@@ -52,6 +54,8 @@ https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
 
+https://trackers.run:443/announce
+
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
@@ -73,6 +77,8 @@ udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -125,6 +131,8 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.xor.st:6969/announce
 
