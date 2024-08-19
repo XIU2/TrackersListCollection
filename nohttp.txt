@@ -82,6 +82,8 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://free.publictracker.xyz:6969/announce
+
 udp://ipv4.rer.lol:2710/announce
 
 udp://isk.richardsw.club:6969/announce
@@ -126,8 +128,6 @@ udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
@@ -148,8 +148,6 @@ udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
-udp://tracker.auctor.tv:6969/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
@@ -165,6 +163,8 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
+
+udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
