@@ -58,6 +58,10 @@ https://trackers.mlsub.net:443/announce
 
 https://trackers.run:443/announce
 
+https://www.peckservers.com:9443/announce
+
+udp://amigacity.xyz:6969/announce
+
 udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
