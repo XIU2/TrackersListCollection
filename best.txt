@@ -22,8 +22,6 @@ http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
 
-http://tracker.tfile.co:80/announce
-
 http://tracker2.itzmx.com:6961/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -35,8 +33,6 @@ https://bittorrent.service.gongt.me:59443/announce
 https://pybittrack.retiolus.net:443/announce
 
 https://retracker2.x2k.ru:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
