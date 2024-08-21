@@ -62,8 +62,6 @@ https://www.peckservers.com:9443/announce
 
 udp://amigacity.xyz:6969/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
@@ -87,6 +85,8 @@ udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -124,7 +124,11 @@ udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
+udp://tracker.ccp.ovh:6969/announce
+
 udp://tracker.cyberia.is:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
@@ -142,7 +146,7 @@ udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
