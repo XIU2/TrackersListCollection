@@ -8,8 +8,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://retracker.x2k.ru:80/announce
 
-http://share.camoe.cn:8080/announce
-
 http://t.nyaatracker.com:80/announce
 
 http://tk.greedland.net:80/announce
@@ -26,8 +24,6 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.tfile.co:80/announce
-
 http://tracker2.itzmx.com:6961/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -37,8 +33,6 @@ http://www.wareztorrent.com:80/announce
 https://pybittrack.retiolus.net:443/announce
 
 https://retracker2.x2k.ru:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -131,8 +125,6 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.doko.moe:6969/announce
-
-udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
