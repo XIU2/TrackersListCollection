@@ -24,13 +24,13 @@ http://retracker.x2k.ru:80/announce
 
 http://smurfsoft.com:6969/announce
 
+http://t.overflow.biz:6969/announce
+
 http://t1.aag.moe:17715/announce
 
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
-
-http://tr.kxmp.cf:80/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -40,7 +40,7 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.edkj.club:6969/announce
+http://tracker.dump.cl:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
@@ -79,6 +79,8 @@ https://pybittrack.retiolus.net:443/announce
 https://retracker2.x2k.ru:443/announce
 
 https://threads.canofsocks.com:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
