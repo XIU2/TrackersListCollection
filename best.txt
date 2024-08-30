@@ -32,8 +32,6 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
-https://bittorrent.service.gongt.me:59443/announce
-
 https://pybittrack.retiolus.net:443/announce
 
 https://retracker2.x2k.ru:443/announce
@@ -75,6 +73,8 @@ udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
+
+udp://moonburrow.club:6969/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
@@ -153,5 +153,3 @@ udp://wepzone.net:6969/announce
 udp://www.torrent.eu.org:451/announce
 
 udp://z.mercax.com:53/announce
-
-wss://tracker.openwebtorrent.com:443/announce
