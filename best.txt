@@ -20,8 +20,6 @@ http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 http://tracker.tfile.co:80/announce
 
 http://tracker2.itzmx.com:6961/announce
@@ -153,3 +151,5 @@ udp://wepzone.net:6969/announce
 udp://www.torrent.eu.org:451/announce
 
 udp://z.mercax.com:53/announce
+
+wss://tracker.openwebtorrent.com:443/announce
