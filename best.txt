@@ -28,8 +28,6 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
-https://bittorrent.service.gongt.me:59443/announce
-
 https://pybittrack.retiolus.net:443/announce
 
 https://retracker2.x2k.ru:443/announce
@@ -123,6 +121,8 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
+
+udp://tracker.darkness.services:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
