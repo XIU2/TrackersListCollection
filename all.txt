@@ -32,6 +32,8 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -60,6 +62,8 @@ http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
+http://tracker3.itzmx.com:6961/announce
+
 http://tracker4.itzmx.com:2710/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -69,8 +73,6 @@ http://www.peckservers.com:9000/announce
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://bittorrent.service.gongt.me:59443/announce
 
 https://pybittrack.retiolus.net:443/announce
 
