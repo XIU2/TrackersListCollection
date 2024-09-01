@@ -74,6 +74,8 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
+https://bittorrent.service.gongt.me:59443/announce
+
 https://pybittrack.retiolus.net:443/announce
 
 https://retracker2.x2k.ru:443/announce
@@ -204,9 +206,9 @@ udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://tamas3.ynh.fr:6969/announce
+
+udp://tk1.trackerservers.com:8080/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
