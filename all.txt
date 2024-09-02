@@ -36,11 +36,11 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.org:6969/announce
 
+http://tracker.dump.cl:6969/announce
+
 http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
-
-http://tracker.files.fm:6969/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
@@ -52,7 +52,7 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -139,8 +139,6 @@ udp://bt2.archive.org:6969/announce
 udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
-
-udp://dataforai.com:31332/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
