@@ -124,6 +124,8 @@ udp://serpb.vpsburti.com:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
+udp://tk1.trackerservers.com:8080/announce
+
 udp://tk2.trackerservers.com:8080/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
