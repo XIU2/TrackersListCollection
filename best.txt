@@ -26,8 +26,6 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker2.itzmx.com:6961/announce
 
 http://www.all4nothin.net:80/announce.php
