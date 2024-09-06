@@ -56,8 +56,6 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://tracker2.itzmx.com:6961/announce
@@ -75,6 +73,8 @@ http://www.peckservers.com:9000/announce
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 https://retracker2.x2k.ru:443/announce
 
