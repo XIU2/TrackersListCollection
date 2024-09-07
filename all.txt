@@ -22,6 +22,8 @@ http://mc.itscraftsoftware.my.id:8804/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://open.tracker.ink:6969/announce
+
 http://retracker.hotplug.ru:2710/announce
 
 http://retracker.x2k.ru:80/announce
@@ -93,6 +95,8 @@ https://tracker-zhuqiy.dgj055.icu:443/announce
 https://tracker.cloudit.top:443/announce
 
 https://tracker.gcrenwp.top:443/announce
+
+https://tracker.ipfsscan.io:443/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
@@ -194,8 +198,6 @@ udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
-udp://open.u-p.pw:6969/announce
-
 udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
@@ -203,6 +205,8 @@ udp://opentracker.io:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -216,6 +220,8 @@ udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tamas3.ynh.fr:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
@@ -225,8 +231,6 @@ udp://tk2.trackerservers.com:8080/announce
 udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
-
-udp://trackarr.org:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
