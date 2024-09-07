@@ -8,7 +8,11 @@ http://mc.itscraftsoftware.my.id:8804/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://open.tracker.ink:6969/announce
+
 http://t.nyaatracker.com:80/announce
+
+http://t1.aag.moe:17715/announce
 
 http://tk.greedland.net:80/announce
 
@@ -21,8 +25,6 @@ http://tracker.electro-torrent.pl:80/announce
 http://tracker.files.fm:6969/announce
 
 http://tracker.k.vu:6969/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
 
