@@ -8,6 +8,8 @@ http://jvavav.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://open.tracker.ink:6969/announce
+
 http://t.nyaatracker.com:80/announce
 
 http://t1.aag.moe:17715/announce
@@ -16,13 +18,13 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
-
-http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.k.vu:6969/announce
 

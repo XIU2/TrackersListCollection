@@ -66,8 +66,6 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
@@ -209,6 +207,8 @@ udp://opentor.org:2710/announce
 udp://opentracker.io:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
+
+udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
