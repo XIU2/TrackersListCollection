@@ -14,8 +14,6 @@ http://retracker.x2k.ru:80/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://t1.aag.moe:17715/announce
-
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
@@ -78,10 +76,6 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://isk.richardsw.club:6969/announce
-
-udp://leet-tracker.moe:1337/announce
-
 udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
@@ -99,8 +93,6 @@ udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
-
-udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -124,6 +116,8 @@ udp://thetracker.org:80/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://trackarr.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -135,6 +129,8 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -161,6 +157,8 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.xor.st:6969/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
