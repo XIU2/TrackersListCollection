@@ -164,8 +164,6 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
