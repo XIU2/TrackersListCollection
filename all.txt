@@ -4,8 +4,6 @@ http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
 
-http://49.12.76.8:8080/announce
-
 http://[2a01:4f8:c012:8025::1]:8080/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
@@ -42,9 +40,9 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
 
-http://tracker.dler.org:6969/announce
-
 http://tracker.dump.cl:6969/announce
+
+http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
@@ -53,8 +51,6 @@ http://tracker.files.fm:6969/announce
 http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.k.vu:6969/announce
-
-http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -68,8 +64,6 @@ http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
-http://wepzone.net:6969/announce
-
 http://wg.mortis.me:6969/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -79,6 +73,8 @@ http://www.peckservers.com:9000/announce
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 https://retracker2.x2k.ru:443/announce
 
@@ -218,6 +214,8 @@ udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tamas3.ynh.fr:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
@@ -227,8 +225,6 @@ udp://tk2.trackerservers.com:8080/announce
 udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
