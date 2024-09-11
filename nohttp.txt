@@ -1,5 +1,7 @@
 https://1337.abcvg.info:443/announce
 
+https://pybittrack.retiolus.net:443/announce
+
 https://retracker2.x2k.ru:443/announce
 
 https://tr.abir.ga:443/announce
@@ -11,6 +13,8 @@ https://tracker-zhuqiy.dgj055.icu:443/announce
 https://tracker.cloudit.top:443/announce
 
 https://tracker.gcrenwp.top:443/announce
+
+https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
@@ -80,7 +84,17 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://free.publictracker.xyz:6969/announce
+
+udp://freedomalternative.com:6969/announce
+
+udp://ipv4.rer.lol:2710/announce
+
+udp://isk.richardsw.club:6969/announce
+
 udp://jutone.com:6969/announce
+
+udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -102,11 +116,7 @@ udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://open.tracker.ink:6969/announce
-
-udp://open.u-p.pw:6969/announce
 
 udp://opentor.org:2710/announce
 
@@ -130,6 +140,8 @@ udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tamas3.ynh.fr:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
@@ -140,6 +152,8 @@ udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://trackarr.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -147,6 +161,8 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker-us.silksa.co.za:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -159,6 +175,8 @@ udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.darkness.services:6969/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -209,6 +227,8 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
