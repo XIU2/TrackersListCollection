@@ -72,10 +72,10 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 - _**https://js.cdn.haah.net/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://raw.nuaa.cf/XIU2/TrackersListCollection/master/best.txt**_  
 - _**https://raw.yzuu.cf/XIU2/TrackersListCollection/master/best.txt**_  
+- _**[https://ghp.ci/.../XIU2/TrackersListCollection/master/best.txt](https://ghp.ci/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 - _**[https://ghproxy.cc/.../XIU2/TrackersListCollection/master/best.txt](https://ghproxy.cc/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 - _**[https://ghproxy.net/.../XIU2/TrackersListCollection/master/best.txt](https://ghproxy.net/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 - _**[https://gh-proxy.com/.../XIU2/TrackersListCollection/master/best.txt](https://gh-proxy.com/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
-- _**[https://mirror.ghproxy.com/.../XIU2/TrackersListCollection/master/best.txt](https://mirror.ghproxy.com/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 - _**[https://github.moeyy.xyz/.../XIU2/TrackersListCollection/master/best.txt](https://github.moeyy.xyz/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 
 
