@@ -44,7 +44,7 @@ _You can judge whether there is a problem with the BT configuration and network 
 
 ****
 
-\# **The following is an example of the complete list `best.txt` (modify the file name as needed):**  
+\# **Here is an example of a selection of `best.txt` (modify the file name as needed):**  
 
 - _**https://bitbucket.org/xiu2/trackerslistcollection/raw/master/best.txt**_  
 - _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  

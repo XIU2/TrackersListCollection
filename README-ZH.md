@@ -59,7 +59,7 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 
 ****
 
-\# **以下为完整列表 ` best.txt ` 示例（末尾文件名可自行修改，选择一个速度快的地址）：**  
+\# **以下为精选列表 ` best.txt ` 示例（末尾文件名可自行修改，随便选择个能用的）：**  
 
 - _**https://bitbucket.org/xiu2/trackerslistcollection/raw/master/best.txt**_  
 - _**https://cdn.jsdmirror.com/gh/XIU2/TrackersListCollection/best.txt**_  
