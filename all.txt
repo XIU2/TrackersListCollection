@@ -32,7 +32,11 @@ http://retracker.hotplug.ru:2710/announce
 
 http://retracker.x2k.ru:80/announce
 
+http://t.overflow.biz:6969/announce
+
 http://t1.aag.moe:17715/announce
+
+http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
 
@@ -62,11 +66,11 @@ http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.k.vu:6969/announce
 
+http://tracker.mywaifu.best:6969/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
