@@ -10,6 +10,8 @@ http://jvavav.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://open.tracker.ink:6969/announce
+
 http://retracker.x2k.ru:80/announce
 
 http://t.nyaatracker.com:80/announce
@@ -22,6 +24,8 @@ http://torrentsmd.com:8080/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.dump.cl:6969/announce
+
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -32,6 +36,8 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.tfile.co:80/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker2.itzmx.com:6961/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -39,8 +45,6 @@ http://www.all4nothin.net:80/announce.php
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://pybittrack.retiolus.net:443/announce
 
 https://tr.abir.ga:443/announce
 
