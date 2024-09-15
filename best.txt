@@ -10,8 +10,6 @@ http://jvavav.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.tracker.ink:6969/announce
-
 http://retracker.x2k.ru:80/announce
 
 http://t.nyaatracker.com:80/announce
@@ -27,6 +25,8 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
+
+http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.k.vu:6969/announce
 
@@ -82,8 +82,6 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
 
-udp://new-line.net:6969/announce
-
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://odd-hd.fr:6969/announce
@@ -115,6 +113,8 @@ udp://serpb.vpsburti.com:6969/announce
 udp://thetracker.org:80/announce
 
 udp://tk2.trackerservers.com:8080/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
