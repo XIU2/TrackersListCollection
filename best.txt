@@ -36,8 +36,6 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.tfile.co:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker2.itzmx.com:6961/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -49,8 +47,6 @@ https://1337.abcvg.info:443/announce
 https://mathkangaroo.jp:443/announce
 
 https://pybittrack.retiolus.net:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 

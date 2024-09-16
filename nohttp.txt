@@ -46,8 +46,6 @@ https://trackers.mlsub.net:443/announce
 
 https://trackers.run:443/announce
 
-https://www.peckservers.com:9443/announce
-
 udp://1c.premierzal.ru:6969/announce
 
 udp://207.241.226.111:6969/announce
@@ -83,8 +81,6 @@ udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
 
 udp://concen.org:6969/announce
-
-udp://d13bttrck.duckdns.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -147,8 +143,6 @@ udp://run.publictracker.xyz:6969/announce
 udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
-
-udp://t.overflow.biz:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
@@ -235,5 +229,7 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://z.mercax.com:53/announce
 
 wss://tracker.openwebtorrent.com:443/announce
