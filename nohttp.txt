@@ -1,5 +1,7 @@
 https://1337.abcvg.info:443/announce
 
+https://jvavav.com:443/announce
+
 https://mathkangaroo.jp:443/announce
 
 https://pybittrack.retiolus.net:443/announce
@@ -9,6 +11,8 @@ https://retracker2.x2k.ru:443/announce
 https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
+
+https://tr.ready4.icu:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
@@ -90,17 +94,23 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://freedomalternative.com:6969/announce
+
 udp://ipv4.rer.lol:2710/announce
 
 udp://isk.richardsw.club:6969/announce
 
 udp://jutone.com:6969/announce
 
+udp://jvavav.com:6969/announce
+
 udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
+
+udp://new-line.net:6969/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
@@ -118,8 +128,6 @@ udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
-udp://open.u-p.pw:6969/announce
-
 udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
@@ -127,6 +135,8 @@ udp://opentracker.io:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -148,6 +158,10 @@ udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
+udp://trackarr.org:6969/announce
+
 udp://tracker-us.silksa.co.za:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -157,8 +171,6 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
-
-udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -191,6 +203,8 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
