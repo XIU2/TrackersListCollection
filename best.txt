@@ -10,9 +10,13 @@ http://jvavav.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://open.tracker.ink:6969/announce
+
 http://retracker.x2k.ru:80/announce
 
 http://t.nyaatracker.com:80/announce
+
+http://t1.aag.moe:17715/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -30,6 +34,8 @@ http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
 
+http://tracker.guguan.000.pe:80/announce
+
 http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.k.vu:6969/announce
@@ -44,13 +50,11 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
-https://mathkangaroo.jp:443/announce
-
 https://pybittrack.retiolus.net:443/announce
 
-https://tr.burnabyhighstar.com:443/announce
+https://tr.abir.ga:443/announce
 
-https://tracker.bjut.jp:443/announce
+https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
@@ -120,7 +124,7 @@ udp://thetracker.org:80/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
+udp://tracker-us.silksa.co.za:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -157,5 +161,7 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
+
+udp://z.mercax.com:53/announce
 
 wss://tracker.openwebtorrent.com:443/announce

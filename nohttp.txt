@@ -2,8 +2,6 @@ https://1337.abcvg.info:443/announce
 
 https://jvavav.com:443/announce
 
-https://mathkangaroo.jp:443/announce
-
 https://pybittrack.retiolus.net:443/announce
 
 https://retracker2.x2k.ru:443/announce
@@ -15,8 +13,6 @@ https://tr.burnabyhighstar.com:443/announce
 https://tr.ready4.icu:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
-
-https://tracker.bjut.jp:443/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -151,8 +147,6 @@ udp://tk2.trackerservers.com:8080/announce
 udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
