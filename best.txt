@@ -120,6 +120,8 @@ udp://thetracker.org:80/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -143,6 +145,8 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
