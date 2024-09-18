@@ -48,8 +48,6 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.dump.cl:6969/announce
-
 http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -90,6 +88,8 @@ https://1337.abcvg.info:443/announce
 
 https://api.ipv4online.uk:443/announce
 
+https://pybittrack.retiolus.net:443/announce
+
 https://retracker2.x2k.ru:443/announce
 
 https://tr.abir.ga:443/announce
@@ -107,6 +107,8 @@ https://tracker.gcrenwp.top:443/announce
 https://tracker.ipfsscan.io:443/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
+
+https://tracker.kmzs123.top:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -151,8 +153,6 @@ udp://aegir.sexy:6969/announce
 udp://amigacity.xyz:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
-
-udp://bt.ktrackers.com:6666/announce
 
 udp://bt.rer.lol:2710/announce
 
