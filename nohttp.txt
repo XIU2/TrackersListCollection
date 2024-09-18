@@ -68,6 +68,8 @@ udp://amigacity.xyz:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
+udp://bt.ktrackers.com:6666/announce
+
 udp://bt.rer.lol:2710/announce
 
 udp://bt.rer.lol:6969/announce
@@ -217,8 +219,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
-
-udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
