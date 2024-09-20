@@ -80,8 +80,6 @@ udp://bt2.archive.org:6969/announce
 
 udp://concen.org:6969/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -131,8 +129,6 @@ udp://run.publictracker.xyz:6969/announce
 udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
-
-udp://t.overflow.biz:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 

@@ -18,8 +18,6 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
-http://isk.richardsw.club:6969/announce
-
 http://jvavav.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
@@ -30,6 +28,8 @@ http://retracker.x2k.ru:80/announce
 
 http://rfc5746.mywaifu.best:6969/announce
 
+http://t.overflow.biz:6969/announce
+
 http://t1.aag.moe:17715/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
@@ -38,15 +38,17 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tracker-zhuqiy.dgj055.icu:80/announce
+
+http://tracker.auctor.tv:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
@@ -58,15 +60,11 @@ http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.kmzs123.com:80/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -164,8 +162,6 @@ udp://bt2.archive.org:6969/announce
 
 udp://concen.org:6969/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -215,8 +211,6 @@ udp://run.publictracker.xyz:6969/announce
 udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
-
-udp://t.overflow.biz:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
