@@ -8,8 +8,6 @@ https://pybittrack.retiolus.net:443/announce
 
 https://retracker2.x2k.ru:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
@@ -21,8 +19,6 @@ https://tracker.gcrenwp.top:443/announce
 https://tracker.ipfsscan.io:443/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
-
-https://tracker.kmzs123.top:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -129,6 +125,8 @@ udp://run.publictracker.xyz:6969/announce
 udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
+
+udp://t.overflow.biz:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 

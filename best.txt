@@ -12,6 +12,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://retracker.x2k.ru:80/announce
 
+http://rfc5746.mywaifu.best:6969/announce
+
 http://t.nyaatracker.com:80/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
@@ -20,8 +22,6 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -29,6 +29,8 @@ http://tracker.electro-torrent.pl:80/announce
 http://tracker.files.fm:6969/announce
 
 http://tracker.ipv6tracker.org:80/announce
+
+http://tracker.k.vu:6969/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -39,8 +41,6 @@ http://www.all4nothin.net:80/announce.php
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://pybittrack.retiolus.net:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -106,6 +106,8 @@ udp://serpb.vpsburti.com:6969/announce
 
 udp://thetracker.org:80/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -123,8 +125,6 @@ udp://tracker.doko.moe:6969/announce
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
-
-udp://tracker.kmzs123.cf:17272/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
