@@ -4,8 +4,6 @@ https://api.ipv4online.uk:443/announce
 
 https://jvavav.com:443/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 https://retracker2.x2k.ru:443/announce
 
 https://threads.canofsocks.com:443/announce
@@ -33,6 +31,8 @@ https://tracker.pmman.tech:443/announce
 https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
+
+https://tracker.uraniumhexafluori.de:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
@@ -79,6 +79,8 @@ udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
 
 udp://concen.org:6969/announce
+
+udp://d13bttrck.duckdns.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
