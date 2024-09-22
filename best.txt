@@ -30,6 +30,8 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.tfile.co:80/announce
 
+http://tracker2.dler.org:80/announce
+
 http://tracker2.itzmx.com:6961/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -37,8 +39,6 @@ http://www.all4nothin.net:80/announce.php
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://pybittrack.retiolus.net:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -96,19 +96,13 @@ udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://run.publictracker.xyz:6969/announce
-
 udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
-
-udp://tamas3.ynh.fr:6969/announce
 
 udp://thetracker.org:80/announce
 
@@ -117,8 +111,6 @@ udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -148,11 +140,9 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker1.myporn.club:9337/announce
-
-udp://tracker2.dler.org:80/announce
-
 udp://ttk2.nbaonlineservice.com:6969/announce
+
+udp://wepzone.net:6969/announce
 
 udp://z.mercax.com:53/announce
 
