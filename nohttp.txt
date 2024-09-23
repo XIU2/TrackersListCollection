@@ -180,8 +180,6 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
-udp://tracker.kmzs123.cf:17272/announce
-
 udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -199,6 +197,8 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker.waaa.moe:6969/announce
 
 udp://tracker.xor.st:6969/announce
 

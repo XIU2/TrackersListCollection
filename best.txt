@@ -28,6 +28,8 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.tfile.co:80/announce
 
+http://tracker2.itzmx.com:6961/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
@@ -112,8 +114,6 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.doko.moe:6969/announce
-
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
@@ -133,6 +133,8 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker.waaa.moe:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
