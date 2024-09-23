@@ -144,8 +144,6 @@ udp://[2a0f:e586:f:f::81]:6969/announce
 
 udp://aegir.sexy:6969/announce
 
-udp://amigacity.xyz:6969/announce
-
 udp://bandito.byterunner.io:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
@@ -159,8 +157,6 @@ udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
 
 udp://concen.org:6969/announce
-
-udp://d13bttrck.duckdns.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -219,8 +215,6 @@ udp://tk2.trackerservers.com:8080/announce
 udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
