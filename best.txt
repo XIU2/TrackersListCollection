@@ -2,13 +2,13 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://ipv6.rer.lol:6969/announce
-
 http://jvavav.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://retracker.x2k.ru:80/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -25,6 +25,8 @@ http://tracker.files.fm:6969/announce
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.tfile.co:80/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -51,8 +53,6 @@ https://tracker.tamersunion.org:443/announce
 https://tracker.uraniumhexafluori.de:443/announce
 
 https://tracker1.520.jp:443/announce
-
-https://trackers.run:443/announce
 
 udp://bandito.byterunner.io:6969/announce
 
@@ -99,8 +99,6 @@ udp://seedpeer.net:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 
 udp://thetracker.org:80/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
