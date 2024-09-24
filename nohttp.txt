@@ -108,11 +108,11 @@ udp://odd-hd.fr:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.dstud.io:6969/announce
-
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
+
+udp://open.u-p.pw:6969/announce
 
 udp://opentor.org:2710/announce
 
@@ -131,8 +131,6 @@ udp://run.publictracker.xyz:6969/announce
 udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
-
-udp://tamas3.ynh.fr:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
@@ -196,7 +194,7 @@ udp://tracker.waaa.moe:6969/announce
 
 udp://tracker.xor.st:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.org:80/announce
 

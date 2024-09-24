@@ -28,7 +28,7 @@ http://retracker.x2k.ru:80/announce
 
 http://rfc5746.mywaifu.best:6969/announce
 
-http://t1.aag.moe:17715/announce
+http://t.overflow.biz:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -39,10 +39,6 @@ http://torrentsmd.com:8080/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -57,6 +53,8 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.waaa.moe:6969/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -184,11 +182,11 @@ udp://odd-hd.fr:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.dstud.io:6969/announce
-
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
+
+udp://open.u-p.pw:6969/announce
 
 udp://opentor.org:2710/announce
 
@@ -207,8 +205,6 @@ udp://run.publictracker.xyz:6969/announce
 udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
-
-udp://tamas3.ynh.fr:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
@@ -272,7 +268,7 @@ udp://tracker.waaa.moe:6969/announce
 
 udp://tracker.xor.st:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.org:80/announce
 
