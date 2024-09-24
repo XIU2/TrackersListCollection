@@ -65,7 +65,6 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 - _**https://cdn.jsdmirror.com/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://jsd.onmicrosoft.cn/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://jsd.proxy.aks.moe/gh/XIU2/TrackersListCollection/best.txt**_  
-- _**https://jsdelivr.b-cdn.net/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://jsdelivr.pai233.top/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://raw.kkgithub.com/XIU2/TrackersListCollection/master/best.txt**_  
 - _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
