@@ -36,8 +36,6 @@ https://1337.abcvg.info:443/announce
 
 https://api.ipv4online.uk:443/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
@@ -76,8 +74,6 @@ udp://new-line.net:6969/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
-udp://odd-hd.fr:6969/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
@@ -101,8 +97,6 @@ udp://seedpeer.net:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 
 udp://thetracker.org:80/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
