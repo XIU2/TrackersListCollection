@@ -6,8 +6,6 @@ https://jvavav.com:443/announce
 
 https://mathkangaroo.jp:443/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 https://retracker2.x2k.ru:443/announce
 
 https://threads.canofsocks.com:443/announce
@@ -37,8 +35,6 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.pmman.tech:443/announce
 
 https://tracker.tamersunion.org:443/announce
-
-https://tracker.uraniumhexafluori.de:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
@@ -175,8 +171,6 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
-
-udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
