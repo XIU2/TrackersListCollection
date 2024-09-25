@@ -12,6 +12,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+http://ch3oh.ru:6969/announce
+
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://ipv6.rer.lol:6969/announce
@@ -23,6 +25,8 @@ http://nyaa.tracker.wf:7777/announce
 http://retracker.hotplug.ru:2710/announce
 
 http://retracker.x2k.ru:80/announce
+
+http://t.overflow.biz:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -36,8 +40,6 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
 
-http://tracker.dler.org:6969/announce
-
 http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -49,8 +51,6 @@ http://tracker.k.vu:6969/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
-
-http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -84,6 +84,8 @@ https://threads.canofsocks.com:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
@@ -105,8 +107,6 @@ https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.pmman.tech:443/announce
-
-https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
