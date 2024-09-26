@@ -36,8 +36,6 @@ https://1337.abcvg.info:443/announce
 
 https://api.ipv4online.uk:443/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
@@ -114,6 +112,8 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.fnix.net:6969/announce
@@ -126,7 +126,7 @@ udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://tracker.srv00.com:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
