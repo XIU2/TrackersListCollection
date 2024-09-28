@@ -10,13 +10,13 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-http://ch3oh.ru:6969/announce
-
 http://ipv6.rer.lol:6969/announce
 
 http://jvavav.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
+
+http://region.nl1.privex.cc:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -37,8 +37,6 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
@@ -63,8 +61,6 @@ http://tracker2.itzmx.com:6961/announce
 http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
-
-http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -148,8 +144,6 @@ udp://bt2.archive.org:6969/announce
 
 udp://concen.org:6969/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -159,6 +153,8 @@ udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
+
+udp://ismaarino.com:1234/announce
 
 udp://jutone.com:6969/announce
 
@@ -209,8 +205,6 @@ udp://tk2.trackerservers.com:8080/announce
 udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
