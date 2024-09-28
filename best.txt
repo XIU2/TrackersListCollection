@@ -36,6 +36,8 @@ https://1337.abcvg.info:443/announce
 
 https://api.ipv4online.uk:443/announce
 
+https://pybittrack.retiolus.net:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.gcrenwp.top:443/announce
@@ -53,8 +55,6 @@ https://tracker1.520.jp:443/announce
 udp://bandito.byterunner.io:6969/announce
 
 udp://bt1.archive.org:6969/announce
-
-udp://d13bttrck.duckdns.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
