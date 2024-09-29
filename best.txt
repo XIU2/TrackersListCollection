@@ -4,11 +4,7 @@ http://bt.okmp3.ru:2710/announce
 
 http://ipv6.rer.lol:6969/announce
 
-http://jvavav.com:80/announce
-
 http://nyaa.tracker.wf:7777/announce
-
-http://retracker.x2k.ru:80/announce
 
 http://t.nyaatracker.com:80/announce
 
@@ -24,9 +20,9 @@ http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
 
-http://tracker.ismaarino.com:8880/announce
-
 http://tracker.tfile.co:80/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -34,11 +30,11 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
-https://api.ipv4online.uk:443/announce
+https://p4p.arenabg.com:1337/announce
 
 https://pybittrack.retiolus.net:443/announce
 
-https://retracker2.x2k.ru:443/announce
+https://retracker.x2k.ru:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -56,8 +52,6 @@ udp://bandito.byterunner.io:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -71,8 +65,6 @@ udp://martin-gebhardt.eu:25/announce
 udp://moonburrow.club:6969/announce
 
 udp://new-line.net:6969/announce
-
-udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
@@ -110,6 +102,8 @@ udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.fnix.net:6969/announce
@@ -133,8 +127,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.waaa.moe:6969/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.org:80/announce
 
