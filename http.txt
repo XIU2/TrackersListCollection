@@ -10,15 +10,13 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-http://ch3oh.ru:6969/announce
-
 http://ipv6.rer.lol:6969/announce
+
+http://jvavav.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://retracker.hotplug.ru:2710/announce
-
-http://t.overflow.biz:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -33,6 +31,8 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
+
+http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
