@@ -30,8 +30,6 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 https://retracker.x2k.ru:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
@@ -104,6 +102,8 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
+udp://tracker.cyberia.is:6969/announce
+
 udp://tracker.darkness.services:6969/announce
 
 udp://tracker.dler.com:6969/announce
@@ -143,8 +143,6 @@ udp://tracker4.itzmx.com:2710/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://wepzone.net:6969/announce
-
-udp://www.torrent.eu.org:451/announce
 
 udp://z.mercax.com:53/announce
 
