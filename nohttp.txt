@@ -126,8 +126,6 @@ udp://tk2.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://trackarr.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -159,6 +157,8 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
+
+udp://tracker.kmzs123.cf:17272/announce
 
 udp://tracker.opentrackr.org:1337/announce
 

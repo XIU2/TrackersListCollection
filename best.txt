@@ -34,8 +34,6 @@ https://pybittrack.retiolus.net:443/announce
 
 https://retracker.x2k.ru:443/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.gcrenwp.top:443/announce
@@ -113,6 +111,8 @@ udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.darkness.services:6969/announce
+
+udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
