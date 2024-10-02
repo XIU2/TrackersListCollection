@@ -114,8 +114,6 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
-udp://tracker.dler.com:6969/announce
-
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.fnix.net:6969/announce
