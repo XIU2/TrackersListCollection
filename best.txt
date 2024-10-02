@@ -30,6 +30,8 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
+https://pybittrack.retiolus.net:443/announce
+
 https://retracker.x2k.ru:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
@@ -66,9 +68,13 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
 
+udp://new-line.net:6969/announce
+
 udp://odd-hd.fr:6969/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -85,6 +91,8 @@ udp://retracker.hotplug.ru:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run.publictracker.xyz:6969/announce
+
+udp://ryjer.com:6969/announce
 
 udp://seedpeer.net:6969/announce
 
@@ -120,7 +128,7 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -130,19 +138,13 @@ udp://tracker.waaa.moe:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 udp://tracker2.dler.org:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
-udp://tracker4.itzmx.com:2710/announce
-
 udp://ttk2.nbaonlineservice.com:6969/announce
-
-udp://wepzone.net:6969/announce
 
 udp://z.mercax.com:53/announce
 
