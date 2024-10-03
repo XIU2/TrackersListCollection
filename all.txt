@@ -54,6 +54,8 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
