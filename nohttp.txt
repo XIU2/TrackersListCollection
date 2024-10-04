@@ -56,8 +56,6 @@ udp://aegir.sexy:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://bt.rer.lol:2710/announce
 
 udp://bt.rer.lol:6969/announce
@@ -98,8 +96,6 @@ udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
-udp://open.u-p.pw:6969/announce
-
 udp://open.xxtor.com:3074/announce
 
 udp://opentor.org:2710/announce
@@ -109,8 +105,6 @@ udp://opentracker.io:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -130,19 +124,17 @@ udp://tk2.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://trackarr.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
-
-udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
+
+udp://tracker.cloaka.xyz:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -178,8 +170,6 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -191,6 +181,8 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.vds.nz:6969/announce
 
 udp://tracker.waaa.moe:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
