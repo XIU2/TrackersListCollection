@@ -1,7 +1,5 @@
 https://1337.abcvg.info:443/announce
 
-https://jvavav.com:443/announce
-
 https://pybittrack.retiolus.net:443/announce
 
 https://retracker.x2k.ru:443/announce
