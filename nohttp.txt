@@ -82,8 +82,6 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
 
-udp://new-line.net:6969/announce
-
 udp://odd-hd.fr:6969/announce
 
 udp://open.demonii.com:1337/announce
@@ -94,6 +92,8 @@ udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
+udp://open.u-p.pw:6969/announce
+
 udp://open.xxtor.com:3074/announce
 
 udp://opentor.org:2710/announce
@@ -103,8 +103,6 @@ udp://opentracker.io:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -123,8 +121,6 @@ udp://serpb.vpsburti.com:6969/announce
 udp://tk2.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
@@ -164,6 +160,8 @@ udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
+udp://tracker.qu.ax:6969/announce
+
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
@@ -183,6 +181,8 @@ udp://tracker.vds.nz:6969/announce
 udp://tracker.waaa.moe:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.org:80/announce
 
