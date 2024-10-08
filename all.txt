@@ -10,6 +10,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+http://canardscitrons.nohost.me:6969/announce
+
 http://ch3oh.ru:6969/announce
 
 http://ipv6.rer.lol:6969/announce
@@ -34,9 +36,9 @@ http://tr1.aag.moe:2095/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-http://tracker.bt4g.com:2095/announce
+http://tracker.bittor.pw:1337/announce
 
-http://tracker.dler.com:6969/announce
+http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -203,6 +205,8 @@ udp://serpb.vpsburti.com:6969/announce
 udp://tk2.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
