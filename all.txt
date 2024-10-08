@@ -116,6 +116,11 @@ https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
 
+https://sparkle.ghostchu-services.top/tracker/announce
+https://btn-prod.ghostchu-services.top/tracker/announce
+http://sparkle.ghostchu-services.top/tracker/announce
+http://btn-prod.ghostchu-services.top/tracker/announce
+
 udp://1c.premierzal.ru:6969/announce
 
 udp://207.241.226.111:6969/announce
