@@ -138,8 +138,6 @@ udp://tracker.waaa.moe:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker3.itzmx.com:6961/announce
-
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://z.mercax.com:53/announce
