@@ -54,6 +54,8 @@ udp://[2a0f:e586:f:f::81]:6969/announce
 
 udp://aegir.sexy:6969/announce
 
+udp://api.clasificadosrapidos.com:53/announce
+
 udp://bandito.byterunner.io:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
@@ -181,6 +183,8 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
