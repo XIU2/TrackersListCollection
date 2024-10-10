@@ -1,7 +1,5 @@
 https://1337.abcvg.info:443/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 https://retracker.x2k.ru:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
@@ -106,8 +104,6 @@ udp://open.tracker.ink:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
-udp://open.xxtor.com:3074/announce
-
 udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
@@ -133,6 +129,8 @@ udp://serpb.vpsburti.com:6969/announce
 udp://tk2.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
