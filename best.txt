@@ -6,8 +6,6 @@ http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
@@ -20,15 +18,11 @@ http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
-http://tracker.tfile.co:80/announce
-
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abir.ga:443/announce
 
@@ -51,8 +45,6 @@ https://trackers.mlsub.net:443/announce
 udp://api.clasificadosrapidos.com:53/announce
 
 udp://bandito.byterunner.io:6969/announce
-
-udp://bt1.archive.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -92,8 +84,6 @@ udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
-udp://thetracker.org:80/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
@@ -113,8 +103,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.darkness.services:6969/announce
 
 udp://tracker.dler.com:6969/announce
-
-udp://tracker.doko.moe:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
