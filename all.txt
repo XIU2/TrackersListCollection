@@ -34,8 +34,6 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.edkj.club:6969/announce
-
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -74,6 +72,8 @@ https://pybittrack.retiolus.net:443/announce
 
 https://retracker.x2k.ru:443/announce
 
+https://sparkle.ghostchu-services.top:443/announce
+
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abir.ga:443/announce
@@ -91,6 +91,8 @@ https://tracker.gcrenwp.top:443/announce
 https://tracker.ipfsscan.io:443/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
+
+https://tracker.kmzs123.cn:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -135,8 +137,6 @@ udp://bt.rer.lol:2710/announce
 udp://bt.rer.lol:6969/announce
 
 udp://bt1.archive.org:6969/announce
-
-udp://bt2.archive.org:6969/announce
 
 udp://concen.org:6969/announce
 
@@ -199,6 +199,8 @@ udp://serpb.vpsburti.com:6969/announce
 udp://tk2.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
