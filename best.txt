@@ -34,8 +34,6 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
-https://tracker.kmzs123.cn:443/announce
-
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.org:443/announce

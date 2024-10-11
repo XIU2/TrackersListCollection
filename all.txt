@@ -6,13 +6,13 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-http://ch3oh.ru:6969/announce
-
 http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://retracker.hotplug.ru:2710/announce
+
+http://t.overflow.biz:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -32,8 +32,6 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
 
-http://tracker.dler.org:6969/announce
-
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -45,8 +43,6 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.peckservers.com:9000/announce
-
-http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -74,8 +70,6 @@ https://retracker.x2k.ru:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
@@ -91,8 +85,6 @@ https://tracker.gcrenwp.top:443/announce
 https://tracker.ipfsscan.io:443/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
-
-https://tracker.kmzs123.cn:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -135,8 +127,6 @@ udp://bt.ktrackers.com:6666/announce
 udp://bt.rer.lol:2710/announce
 
 udp://bt.rer.lol:6969/announce
-
-udp://bt1.archive.org:6969/announce
 
 udp://concen.org:6969/announce
 
@@ -199,8 +189,6 @@ udp://serpb.vpsburti.com:6969/announce
 udp://tk2.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
