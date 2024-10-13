@@ -22,8 +22,6 @@ http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.tfile.co:80/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -143,6 +141,10 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.waaa.moe:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker3.itzmx.com:6961/announce
+
+udp://tracker4.itzmx.com:2710/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
