@@ -130,6 +130,8 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
+udp://tracker.skynetcloud.site:6969/announce
+
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
