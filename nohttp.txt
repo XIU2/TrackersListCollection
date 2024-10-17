@@ -38,6 +38,8 @@ https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
 
+udp://1c.premierzal.ru:6969/announce
+
 udp://207.241.226.111:6969/announce
 
 udp://207.241.231.226:6969/announce

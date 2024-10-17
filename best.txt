@@ -26,6 +26,8 @@ http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.skyts.net:6969/announce
 
+http://tracker.tfile.co:80/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
@@ -108,6 +110,8 @@ udp://thetracker.org:80/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://trackarr.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -143,8 +147,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.waaa.moe:6969/announce
-
-udp://tracker2.itzmx.com:6961/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
