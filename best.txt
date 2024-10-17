@@ -22,9 +22,9 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
-http://tracker.skyts.net:6969/announce
+http://tracker.ipv6tracker.org:80/announce
 
-http://tracker.tfile.co:80/announce
+http://tracker.skyts.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -72,13 +72,13 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
 
-udp://new-line.net:6969/announce
-
 udp://ns1.monolithindustries.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -108,8 +108,6 @@ udp://thetracker.org:80/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://trackarr.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -127,8 +125,6 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.dump.cl:6969/announce
-
-udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
