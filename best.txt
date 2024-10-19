@@ -34,8 +34,6 @@ https://1337.abcvg.info:443/announce
 
 https://p2p.azu.red:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.gcrenwp.top:443/announce
@@ -141,6 +139,8 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.waaa.moe:6969/announce
+
+udp://tracker.xor.st:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
