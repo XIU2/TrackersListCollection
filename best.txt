@@ -116,8 +116,6 @@ udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker.darkness.services:6969/announce
-
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
