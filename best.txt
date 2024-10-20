@@ -136,6 +136,10 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
@@ -145,8 +149,6 @@ udp://tracker.waaa.moe:6969/announce
 udp://tracker.xor.st:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 

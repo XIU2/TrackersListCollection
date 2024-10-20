@@ -74,8 +74,6 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://free.publictracker.xyz:6969/announce
-
 udp://ipv4.rer.lol:2710/announce
 
 udp://isk.richardsw.club:6969/announce
@@ -103,8 +101,6 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
-
-udp://open.u-p.pw:6969/announce
 
 udp://opentor.org:2710/announce
 
@@ -134,9 +130,13 @@ udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://trackarr.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -174,15 +174,21 @@ udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
+udp://tracker.qu.ax:6969/announce
+
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
