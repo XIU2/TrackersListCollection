@@ -28,6 +28,8 @@ https://1337.abcvg.info:443/announce
 
 https://p2p.azu.red:443/announce
 
+https://sparkle.ghostchu-services.top:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.gcrenwp.top:443/announce
@@ -47,6 +49,8 @@ https://trackers.mlsub.net:443/announce
 udp://api.clasificadosrapidos.com:53/announce
 
 udp://bandito.byterunner.io:6969/announce
+
+udp://d13bttrck.duckdns.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -93,6 +97,8 @@ udp://seedpeer.net:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 
 udp://thetracker.org:80/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
