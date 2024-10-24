@@ -60,8 +60,6 @@ udp://bandito.byterunner.io:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://bt.rer.lol:2710/announce
 
 udp://bt.rer.lol:6969/announce
@@ -75,6 +73,8 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
+
+udp://free.publictracker.xyz:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
 
