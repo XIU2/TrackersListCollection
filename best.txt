@@ -8,7 +8,7 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.tracker.ink:6969/announce
 
-http://share.camoe.cn:8080/announce
+http://public.tracker.vraphim.com:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
@@ -85,8 +85,6 @@ udp://opentor.org:2710/announce
 udp://opentracker.io:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
-
-udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
