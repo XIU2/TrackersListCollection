@@ -32,6 +32,8 @@ https://1337.abcvg.info:443/announce
 
 https://p2p.azu.red:443/announce
 
+https://sparkle.ghostchu-services.top:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.gcrenwp.top:443/announce
