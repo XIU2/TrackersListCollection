@@ -8,8 +8,6 @@ https://retracker.x2k.ru:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
