@@ -16,6 +16,8 @@ http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://open.tracker.ink:6969/announce
+
 http://public.tracker.vraphim.com:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -52,7 +54,7 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.waaa.moe:6969/announce
+http://tracker.skyts.net:6969/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
