@@ -6,10 +6,6 @@ http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.tracker.ink:6969/announce
-
-http://public.tracker.vraphim.com:6969/announce
-
 http://t.nyaatracker.com:80/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
@@ -22,7 +18,9 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
-http://tracker.skyts.net:6969/announce
+http://tracker.ipv6tracker.org:80/announce
+
+http://tracker.qu.ax:6969/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -46,6 +44,8 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
+https://tracker.uraniumhexafluori.de:443/announce
+
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
@@ -66,6 +66,10 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://isk.richardsw.club:6969/announce
+
+udp://leet-tracker.moe:1337/announce
+
 udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
@@ -75,8 +79,6 @@ udp://ns1.monolithindustries.com:6969/announce
 udp://odd-hd.fr:6969/announce
 
 udp://open.demonii.com:1337/announce
-
-udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -92,15 +94,11 @@ udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
-
-udp://run.publictracker.xyz:6969/announce
 
 udp://ryjer.com:6969/announce
 
@@ -124,8 +122,6 @@ udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.fnix.net:6969/announce
@@ -138,11 +134,15 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker2.dler.org:80/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
