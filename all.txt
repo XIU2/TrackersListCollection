@@ -48,13 +48,13 @@ http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 http://tracker.peckservers.com:9000/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.vraphim.com:6969/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -75,8 +75,6 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://p2p.azu.red:443/announce
-
-https://retracker.x2k.ru:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
