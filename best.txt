@@ -4,7 +4,11 @@ http://bt.okmp3.ru:2710/announce
 
 http://ipv6.rer.lol:6969/announce
 
+http://kiryuu-test.mywaifu.best:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
+
+http://public.tracker.vraphim.com:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
