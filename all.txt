@@ -10,6 +10,8 @@ http://bvarf.tracker.sh:2086/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
+http://ch3oh.ru:6969/announce
+
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://ipv6.rer.lol:6969/announce
@@ -18,13 +20,15 @@ http://kiryuu-test.mywaifu.best:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.tracker.ink:6969/announce
-
 http://public.tracker.vraphim.com:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
+
+http://saltwood.top:6969/announce
+
+http://t.overflow.biz:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -39,6 +43,8 @@ http://tr1.aag.moe:2095/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.dler.com:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
@@ -100,8 +106,6 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
-https://tracker.uraniumhexafluori.de:443/announce
-
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
@@ -153,6 +157,8 @@ udp://exodus.desync.com:6969/announce
 udp://ipv4.rer.lol:2710/announce
 
 udp://isk.richardsw.club:6969/announce
+
+udp://ismaarino.com:1234/announce
 
 udp://jutone.com:6969/announce
 
@@ -257,8 +263,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
