@@ -60,10 +60,6 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://bt.rer.lol:2710/announce
-
-udp://bt.rer.lol:6969/announce
-
 udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -138,6 +134,8 @@ udp://trackarr.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
+udp://tracker.auctor.tv:6969/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
@@ -159,6 +157,8 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.dump.cl:6969/announce
+
+udp://tracker.edkj.club:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -199,8 +199,6 @@ udp://tracker4.itzmx.com:2710/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
-
-udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
