@@ -24,6 +24,8 @@ http://retracker.hotplug.ru:2710/announce
 
 http://saltwood.top:6969/announce
 
+http://t.overflow.biz:6969/announce
+
 http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
@@ -60,11 +62,15 @@ http://tracker.vraphim.com:6969/announce
 
 http://tracker.waaa.moe:6969/announce
 
+http://tracker2.dler.org:80/announce
+
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
+
+http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -89,8 +95,6 @@ https://tracker.cloudit.top:443/announce
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ipfsscan.io:443/announce
-
-https://tracker.itscraftsoftware.my.id:443/announce
 
 https://tracker.kuroy.me:443/announce
 
