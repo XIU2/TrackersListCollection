@@ -40,6 +40,8 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -93,6 +95,8 @@ https://tracker.gcrenwp.top:443/announce
 https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
+
+https://tracker.leechshield.link:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -269,6 +273,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://tracker4.leechshield.link:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
