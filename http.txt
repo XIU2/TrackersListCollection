@@ -18,8 +18,6 @@ http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://public.tracker.vraphim.com:6969/announce
-
 http://retracker.hotplug.ru:2710/announce
 
 http://saltwood.top:6969/announce
@@ -61,6 +59,8 @@ http://tracker.renfei.net:8080/announce
 http://tracker.vraphim.com:6969/announce
 
 http://tracker.waaa.moe:6969/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 

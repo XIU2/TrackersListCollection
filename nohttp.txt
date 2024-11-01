@@ -58,8 +58,6 @@ udp://bandito.byterunner.io:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -100,8 +98,6 @@ udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
-udp://open.u-p.pw:6969/announce
-
 udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
@@ -132,9 +128,13 @@ udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://trackarr.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -172,8 +172,6 @@ udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker.skynetcloud.site:6969/announce
-
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
@@ -185,6 +183,8 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
