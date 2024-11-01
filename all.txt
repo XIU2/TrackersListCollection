@@ -18,9 +18,13 @@ http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://public.tracker.vraphim.com:6969/announce
+
 http://retracker.hotplug.ru:2710/announce
 
 http://saltwood.top:6969/announce
+
+http://t.overflow.biz:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -52,15 +56,11 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.peckservers.com:9000/announce
 
-http://tracker.qu.ax:6969/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://tracker.vraphim.com:6969/announce
 
 http://tracker.waaa.moe:6969/announce
-
-http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -199,8 +199,6 @@ udp://ryjer.com:6969/announce
 udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
-
-udp://t.overflow.biz:6969/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
