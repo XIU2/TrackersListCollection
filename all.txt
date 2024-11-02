@@ -8,11 +8,15 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://bt.poletracker.org:2710/announce
+
+http://bt1.xxxxbt.cc:6969/announce
+
+http://buny.uk:6969/announce
+
 http://bvarf.tracker.sh:2086/announce
 
 http://canardscitrons.nohost.me:6969/announce
-
-http://ch3oh.ru:6969/announce
 
 http://finbytes.org:80/announce.php
 
@@ -42,8 +46,6 @@ http://retracker.hotplug.ru:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
-http://rfc5746.mywaifu.best:6969/announce
-
 http://saltwood.top:6969/announce
 
 http://seeders-paradise.org:80/announce
@@ -54,7 +56,7 @@ http://share.hkg-fansub.info:80/announce.php
 
 http://shubt.net:2710/announce
 
-http://smurfsoft.com:6969/announce
+http://t.jaekr.sh:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -118,6 +120,8 @@ http://tracker.waaa.moe:6969/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
@@ -133,6 +137,8 @@ http://wepzone.net:6969/announce
 http://www.all4nothin.net:80/announce.php
 
 http://www.genesis-sp.org:2710/announce
+
+http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -208,6 +214,8 @@ udp://canardscitrons.nohost.me:6969/announce
 
 udp://concen.org:6969/announce
 
+udp://d13bttrck.duckdns.org:6969/announce
+
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
@@ -250,8 +258,6 @@ udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
-udp://open.u-p.pw:6969/announce
-
 udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
@@ -276,15 +282,17 @@ udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://trackarr.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -323,8 +331,6 @@ udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
-
-udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
