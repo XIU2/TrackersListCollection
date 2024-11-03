@@ -20,8 +20,6 @@ http://bvarf.tracker.sh:2086/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
-http://ch3oh.ru:6969/announce
-
 http://finbytes.org:80/announce.php
 
 http://fleira.no:6969/announce
@@ -38,8 +36,6 @@ http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.tracker.cl:1337/announce
-
 http://open.trackerlist.xyz:80/announce
 
 http://p4p.arenabg.com:1337/announce
@@ -49,8 +45,6 @@ http://public.tracker.vraphim.com:6969/announce
 http://retracker.hotplug.ru:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
-
-http://rfc5746.mywaifu.best:6969/announce
 
 http://saltwood.top:6969/announce
 
@@ -63,8 +57,6 @@ http://share.hkg-fansub.info:80/announce.php
 http://shubt.net:2710/announce
 
 http://t.jaekr.sh:6969/announce
-
-http://t.overflow.biz:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -90,10 +82,6 @@ http://tracker.bz:80/announce
 
 http://tracker.corpscorp.online:80/announce
 
-http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
-
 http://tracker.dmcomic.org:2710/announce
 
 http://tracker.edkj.club:6969/announce
@@ -108,7 +96,11 @@ http://tracker.moxing.party:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 http://tracker.peckservers.com:9000/announce
+
+http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -194,8 +186,6 @@ udp://207.241.231.226:6969/announce
 
 udp://52.58.128.163:6969/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
-
 udp://[2a03:7220:8083:cd00::1]:451/announce
 
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
@@ -237,6 +227,8 @@ udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 
 udp://jutone.com:6969/announce
+
+udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -286,11 +278,11 @@ udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
