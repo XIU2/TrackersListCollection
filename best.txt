@@ -10,8 +10,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://public.tracker.vraphim.com:6969/announce
 
-http://saltwood.top:6969/announce
-
 http://t.nyaatracker.com:80/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
@@ -66,15 +64,11 @@ udp://bandito.byterunner.io:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://discord.heihachi.pw:6969/announce
-
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://isk.richardsw.club:6969/announce
 
 udp://ismaarino.com:1234/announce
 
@@ -151,6 +145,8 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
