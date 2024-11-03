@@ -94,8 +94,6 @@ udp://ismaarino.com:1234/announce
 
 udp://jutone.com:6969/announce
 
-udp://leet-tracker.moe:1337/announce
-
 udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
@@ -143,8 +141,6 @@ udp://ryjer.com:6969/announce
 udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
-
-udp://t.overflow.biz:6969/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
