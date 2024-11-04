@@ -30,13 +30,7 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.pmman.tech:443/announce
 
-https://tracker.tamersunion.org:443/announce
-
 https://tracker.yemekyedim.com:443/announce
-
-https://tracker1.520.jp:443/announce
-
-https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
 
@@ -65,8 +59,6 @@ udp://bandito.byterunner.io:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt.ktrackers.com:6666/announce
-
-udp://canardscitrons.nohost.me:6969/announce
 
 udp://concen.org:6969/announce
 
@@ -136,8 +128,6 @@ udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
@@ -150,8 +140,6 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.darkness.services:6969/announce
@@ -163,8 +151,6 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
@@ -187,6 +173,8 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
+
+udp://tracker.srv00.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
