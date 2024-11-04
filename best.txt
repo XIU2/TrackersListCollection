@@ -90,13 +90,9 @@ udp://ns1.monolithindustries.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
-udp://open.demonii.com:1337/announce
-
 udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
-
-udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
