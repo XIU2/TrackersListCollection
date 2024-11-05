@@ -34,6 +34,8 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
+https://tracker.uraniumhexafluori.de:443/announce
+
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
@@ -71,6 +73,8 @@ udp://bt.ktrackers.com:6666/announce
 udp://canardscitrons.nohost.me:6969/announce
 
 udp://concen.org:6969/announce
+
+udp://d13bttrck.duckdns.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -140,11 +144,11 @@ udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
