@@ -10,8 +10,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://public.tracker.vraphim.com:6969/announce
 
-http://saltwood.top:6969/announce
-
 http://t.nyaatracker.com:80/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
@@ -66,8 +64,6 @@ https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
 
-udp://api.clasificadosrapidos.com:53/announce
-
 udp://bandito.byterunner.io:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -117,6 +113,8 @@ udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://run.publictracker.xyz:6969/announce
 
 udp://seedpeer.net:6969/announce
 
