@@ -10,8 +10,6 @@ http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://public.tracker.vraphim.com:6969/announce
-
 http://saltwood.top:6969/announce
 
 http://t.nyaatracker.com:80/announce
@@ -35,8 +33,6 @@ http://tracker.sbsub.com:2710/announce
 http://tracker.tfile.co:80/announce
 
 http://tracker.vanitycore.co:6969/announce
-
-http://tracker.vraphim.com:6969/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
 
