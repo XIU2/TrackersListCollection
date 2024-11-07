@@ -12,6 +12,8 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
 
+https://tr.zukizuki.org:443/announce
+
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
 https://tracker.bt4g.com:443/announce
@@ -71,8 +73,6 @@ udp://bt.ktrackers.com:6666/announce
 udp://canardscitrons.nohost.me:6969/announce
 
 udp://concen.org:6969/announce
-
-udp://d13bttrck.duckdns.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -138,13 +138,13 @@ udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tk2v6.trackerservers.com:8080/announce
 
 udp://tk4.leechshield.link:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
-
-udp://tr3.ysagin.top:2715/announce
 
 udp://trackarr.org:6969/announce
 
