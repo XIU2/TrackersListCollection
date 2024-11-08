@@ -36,8 +36,6 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
-https://tracker.uraniumhexafluori.de:443/announce
-
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
@@ -108,8 +106,6 @@ udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://open.free-tracker.ga:6969/announce
-
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.cl:1337/announce
@@ -137,6 +133,10 @@ udp://run.publictracker.xyz:6969/announce
 udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
+
+udp://t.overflow.biz:6969/announce
+
+udp://tk1.trackerservers.com:8080/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
@@ -186,13 +186,13 @@ udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
+udp://tracker.qu.ax:6969/announce
+
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
@@ -201,6 +201,8 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
