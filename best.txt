@@ -36,6 +36,8 @@ http://tracker810.xyz:11450/announce
 
 http://www.all4nothin.net:80/announce.php
 
+http://www.genesis-sp.org:2710/announce
+
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
