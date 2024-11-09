@@ -16,11 +16,11 @@ https://tr.zukizuki.org:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
+https://tracker.bjut.jp:443/announce
+
 https://tracker.bt4g.com:443/announce
 
 https://tracker.cloudit.top:443/announce
-
-https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
@@ -75,8 +75,6 @@ udp://concen.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
-
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://evan.im:6969/announce
 

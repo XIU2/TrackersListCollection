@@ -36,11 +36,11 @@ http://tracker.dmcomic.org:2710/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
+http://tracker.lintk.me:2710/announce
+
 http://tracker.tfile.co:80/announce
 
 http://tracker.vanitycore.co:6969/announce
-
-http://tracker.vraphim.com:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -52,11 +52,15 @@ https://1337.abcvg.info:443/announce
 
 https://p2p.azu.red:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.zukizuki.org:443/announce
 
 https://tracker.gcrenwp.top:443/announce
+
+https://tracker.kuroy.me:443/announce
 
 https://tracker.leechshield.link:443/announce
 
@@ -88,9 +92,9 @@ udp://exodus.desync.com:6969/announce
 
 udp://ismaarino.com:1234/announce
 
-udp://martin-gebhardt.eu:25/announce
-
 udp://moonburrow.club:6969/announce
+
+udp://ns1.monolithindustries.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
@@ -127,8 +131,6 @@ udp://trackarr.org:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
-
-udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
