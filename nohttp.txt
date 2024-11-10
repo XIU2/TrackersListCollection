@@ -22,6 +22,8 @@ https://tracker.bt4g.com:443/announce
 
 https://tracker.cloudit.top:443/announce
 
+https://tracker.gcrenwp.top:443/announce
+
 https://tracker.ipfsscan.io:443/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
@@ -74,7 +76,7 @@ udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://discord.heihachi.pw:6969/announce
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://evan.im:6969/announce
 
@@ -103,8 +105,6 @@ udp://odd-hd.fr:6969/announce
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -140,7 +140,7 @@ udp://tk2v6.trackerservers.com:8080/announce
 
 udp://tk4.leechshield.link:6969/announce
 
-udp://torrents.artixlinux.org:6969/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
@@ -151,10 +151,6 @@ udp://tracker.bittor.pw:1337/announce
 udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
-
-udp://tracker.darkness.services:6969/announce
-
-udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
@@ -198,8 +194,6 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.org:80/announce
@@ -221,6 +215,8 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://yahor.of.by:6969/announce
 
 udp://z.mercax.com:53/announce
 
