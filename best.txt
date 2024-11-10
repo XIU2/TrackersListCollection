@@ -14,8 +14,6 @@ http://t.nyaatracker.com:80/announce
 
 http://tk.greedland.net:80/announce
 
-http://torrentsmd.com:8080/announce
-
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.beeimg.com:6969/announce
@@ -24,15 +22,17 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
-http://tracker.lintk.me:2710/announce
-
 http://tracker.sbsub.com:2710/announce
 
 http://tracker.tfile.co:80/announce
 
 http://tracker.vraphim.com:6969/announce
 
+http://tracker810.xyz:11450/announce
+
 http://www.all4nothin.net:80/announce.php
+
+http://www.genesis-sp.org:2710/announce
 
 http://www.torrentsnipe.info:2701/announce
 
@@ -66,8 +66,6 @@ https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
 
-udp://amigacity.xyz:6969/announce
-
 udp://bandito.byterunner.io:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -91,6 +89,8 @@ udp://ns1.monolithindustries.com:6969/announce
 udp://odd-hd.fr:6969/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
 
