@@ -6,13 +6,9 @@ https://p2p.azu.red:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
-
-https://tr.zukizuki.org:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
@@ -25,6 +21,8 @@ https://tracker.cloudit.top:443/announce
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ipfsscan.io:443/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -126,8 +124,6 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://public.tracker.vraphim.com:6969/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
@@ -138,13 +134,11 @@ udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tk1.trackerservers.com:8080/announce
 
-udp://tk2v6.trackerservers.com:8080/announce
-
 udp://tk4.leechshield.link:6969/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
@@ -174,6 +168,8 @@ udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
+udp://tracker.jamesthebard.net:6969/announce
+
 udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -198,6 +194,8 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.org:80/announce
 
+udp://tracker2.itzmx.com:6961/announce
+
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
@@ -207,8 +205,6 @@ udp://tracker4.leechshield.link:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
-
-udp://u6.trakx.crim.ist:1337/announce
 
 udp://wepzone.net:6969/announce
 
