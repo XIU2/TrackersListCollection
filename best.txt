@@ -18,9 +18,19 @@ http://torrentsmd.com:8080/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
+http://tracker.beeimg.com:6969/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.tfile.co:80/announce
+
+http://www.all4nothin.net:80/announce.php
+
+http://www.genesis-sp.org:2710/announce
+
+http://www.torrentsnipe.info:2701/announce
+
+http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -30,21 +40,15 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.zukizuki.org:443/announce
 
-https://tracker.gcrenwp.top:443/announce
-
 https://tracker.kuroy.me:443/announce
 
 https://tracker.leechshield.link:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
-https://tracker.tamersunion.org:443/announce
-
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
-
-https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
 
@@ -60,9 +64,9 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://ismaarino.com:1234/announce
+udp://isk.richardsw.club:6969/announce
 
-udp://leet-tracker.moe:1337/announce
+udp://ismaarino.com:1234/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -79,6 +83,8 @@ udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -116,7 +122,7 @@ udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dump.cl:6969/announce
+udp://tracker.doko.moe:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
