@@ -2,8 +2,6 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
@@ -24,6 +22,8 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.tfile.co:80/announce
 
+http://tracker.vraphim.com:6969/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.genesis-sp.org:2710/announce
@@ -40,15 +40,21 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.zukizuki.org:443/announce
 
+https://tracker.gcrenwp.top:443/announce
+
 https://tracker.kuroy.me:443/announce
 
 https://tracker.leechshield.link:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
+https://tracker.tamersunion.org:443/announce
+
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
+
+https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
 
@@ -68,9 +74,13 @@ udp://isk.richardsw.club:6969/announce
 
 udp://ismaarino.com:1234/announce
 
+udp://leet-tracker.moe:1337/announce
+
 udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
+
+udp://ns-1.x-fins.com:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
@@ -96,10 +106,6 @@ udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://run.publictracker.xyz:6969/announce
 
 udp://seedpeer.net:6969/announce
@@ -124,19 +130,17 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
-udp://tracker.filemail.com:6969/announce
+udp://tracker.dump.cl:6969/announce
 
 udp://tracker.fnix.net:6969/announce
+
+udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
-udp://tracker.opentrackr.org:1337/announce
-
 udp://tracker.qu.ax:6969/announce
-
-udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 

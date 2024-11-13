@@ -4,9 +4,9 @@ https://api.ipv4online.uk:443/announce
 
 https://mathkangaroo.jp:443/announce
 
-https://p2p.azu.red:443/announce
-
 https://sparkle.ghostchu-services.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -46,8 +46,6 @@ https://trackers.mlsub.net:443/announce
 
 https://www.peckservers.com:9443/announce
 
-udp://1c.premierzal.ru:6969/announce
-
 udp://207.241.226.111:6969/announce
 
 udp://207.241.231.226:6969/announce
@@ -71,8 +69,6 @@ udp://bandito.byterunner.io:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt.ktrackers.com:6666/announce
-
-udp://canardscitrons.nohost.me:6969/announce
 
 udp://concen.org:6969/announce
 
@@ -100,19 +96,23 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
 
+udp://ns-1.x-fins.com:6969/announce
+
 udp://ns1.monolithindustries.com:6969/announce
+
+udp://odd-hd.fr:6969/announce
 
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
+
+udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
 
@@ -134,11 +134,15 @@ udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tk1.trackerservers.com:8080/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
 udp://tk4.leechshield.link:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
@@ -148,9 +152,13 @@ udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
+udp://tracker.cyberia.is:6969/announce
+
 udp://tracker.darkness.services:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
+
+udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
@@ -211,3 +219,5 @@ udp://www.torrent.eu.org:451/announce
 udp://yahor.of.by:6969/announce
 
 udp://z.mercax.com:53/announce
+
+wss://tracker.openwebtorrent.com:443/announce
