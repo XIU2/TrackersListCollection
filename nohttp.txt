@@ -16,6 +16,8 @@ https://tracker-zhuqiy.dgj055.icu:443/announce
 
 https://tracker.bjut.jp:443/announce
 
+https://tracker.bt4g.com:443/announce
+
 https://tracker.cloudit.top:443/announce
 
 https://tracker.gcrenwp.top:443/announce
@@ -72,11 +74,11 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
 
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://isk.richardsw.club:6969/announce
 
 udp://ismaarino.com:1234/announce
 
@@ -118,9 +120,9 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://seedpeer.net:6969/announce
+udp://run.publictracker.xyz:6969/announce
 
-udp://serpb.vpsburti.com:6969/announce
+udp://seedpeer.net:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -143,8 +145,6 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.edkj.club:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
