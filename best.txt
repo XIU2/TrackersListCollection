@@ -42,8 +42,6 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.zukizuki.org:443/announce
@@ -62,7 +60,9 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
-https://trackers.mlsub.net:443/announce
+https://tracker1.520.jp:443/announce
+
+https://www.peckservers.com:9443/announce
 
 udp://amigacity.xyz:6969/announce
 
@@ -78,15 +78,11 @@ udp://ismaarino.com:1234/announce
 
 udp://leet-tracker.moe:1337/announce
 
-udp://martin-gebhardt.eu:25/announce
-
 udp://ns1.monolithindustries.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
 udp://open.demonii.com:1337/announce
-
-udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -97,8 +93,6 @@ udp://open.tracker.ink:6969/announce
 udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
-
-udp://p4p.arenabg.com:1337/announce
 
 udp://public.tracker.vraphim.com:6969/announce
 
@@ -125,8 +119,6 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
-
-udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 

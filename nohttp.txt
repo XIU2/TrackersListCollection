@@ -36,21 +36,19 @@ https://tracker.moeking.me:443/announce
 
 https://tracker.pmman.tech:443/announce
 
-https://tracker.tamersunion.org:443/announce
-
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
 
-https://www.peckservers.com:9443/announce
-
 udp://207.241.226.111:6969/announce
 
 udp://207.241.231.226:6969/announce
 
 udp://52.58.128.163:6969/announce
+
+udp://7p41a8967.wicp.vip:22222/announce
 
 udp://[2a03:7220:8083:cd00::1]:451/announce
 
@@ -61,8 +59,6 @@ udp://[2a0f:e586:f:f::81]:6969/announce
 udp://aegir.sexy:6969/announce
 
 udp://amigacity.xyz:6969/announce
-
-udp://bandito.byterunner.io:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -122,8 +118,6 @@ udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://tk1.trackerservers.com:8080/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
@@ -152,8 +146,6 @@ udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
@@ -174,8 +166,6 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrust-demo.com:6969/announce
@@ -192,11 +182,15 @@ udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
+udp://tracker4.leechshield.link:6969/announce
+
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
+
+udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
