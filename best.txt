@@ -10,6 +10,8 @@ http://t.nyaatracker.com:80/announce
 
 http://tk.greedland.net:80/announce
 
+http://tk.leechshield.link:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
@@ -18,23 +20,31 @@ http://tracker.beeimg.com:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.corpscorp.online:80/announce
-
 http://tracker.dmcomic.org:2710/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
-http://tracker.tfile.co:80/announce
+http://tracker.moxing.party:6969/announce
 
-http://tracker.vanitycore.co:6969/announce
+http://tracker.tfile.co:80/announce
 
 http://tracker.vraphim.com:6969/announce
 
+http://tracker810.xyz:11450/announce
+
 http://www.all4nothin.net:80/announce.php
+
+http://www.genesis-sp.org:2710/announce
+
+http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
+
+https://tr.abir.ga:443/announce
+
+https://tr.burnabyhighstar.com:443/announce
 
 https://tr.zukizuki.org:443/announce
 
@@ -52,15 +62,11 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
-https://tracker1.520.jp:443/announce
-
 https://trackers.mlsub.net:443/announce
-
-https://www.peckservers.com:9443/announce
 
 udp://amigacity.xyz:6969/announce
 
-udp://discord.heihachi.pw:6969/announce
+udp://bandito.byterunner.io:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
@@ -70,9 +76,11 @@ udp://exodus.desync.com:6969/announce
 
 udp://ismaarino.com:1234/announce
 
+udp://leet-tracker.moe:1337/announce
+
 udp://martin-gebhardt.eu:25/announce
 
-udp://ns-1.x-fins.com:6969/announce
+udp://ns1.monolithindustries.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
@@ -92,6 +100,8 @@ udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://run.publictracker.xyz:6969/announce
 
 udp://seedpeer.net:6969/announce
@@ -100,9 +110,13 @@ udp://serpb.vpsburti.com:6969/announce
 
 udp://thetracker.org:80/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://trackarr.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -119,6 +133,8 @@ udp://tracker.gigantino.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
