@@ -8,6 +8,8 @@ https://pybittrack.retiolus.net:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -46,6 +48,8 @@ https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
 
+https://www.peckservers.com:9443/announce
+
 udp://207.241.226.111:6969/announce
 
 udp://207.241.231.226:6969/announce
@@ -74,8 +78,6 @@ udp://bt.rer.lol:6969/announce
 
 udp://concen.org:6969/announce
 
-udp://d40969.acod.regrucolo.ru:6969/announce
-
 udp://discord.heihachi.pw:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -92,15 +94,11 @@ udp://ismaarino.com:1234/announce
 
 udp://jutone.com:6969/announce
 
-udp://leet-tracker.moe:1337/announce
-
 udp://martin-gebhardt.eu:25/announce
 
 udp://ns-1.x-fins.com:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
-
-udp://odd-hd.fr:6969/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -136,6 +134,8 @@ udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tk1.trackerservers.com:8080/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
@@ -145,6 +145,8 @@ udp://tr4ck3r.duckdns.org:6969/announce
 udp://trackarr.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -158,9 +160,9 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.dump.cl:6969/announce
-
 udp://tracker.edkj.club:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
@@ -185,8 +187,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
