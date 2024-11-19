@@ -24,21 +24,17 @@ http://tracker.tfile.co:80/announce
 
 http://tracker.vraphim.com:6969/announce
 
-http://tracker.xiaoduola.xyz:6969/announce
-
 http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.wareztorrent.com:80/announce
+http://www.genesis-sp.org:2710/announce
 
 https://1337.abcvg.info:443/announce
 
 https://tr.abir.ga:443/announce
-
-https://tr.burnabyhighstar.com:443/announce
 
 https://tr.zukizuki.org:443/announce
 
@@ -130,12 +126,6 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 
-udp://tracker.gmi.gd:6969/announce
-
-udp://tracker.ololosh.space:6969/announce
-
-udp://tracker.opentrackr.org:1337/announce
-
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skyts.net:6969/announce
@@ -150,6 +140,6 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-udp://z.mercax.com:53/announce
+udp://u6.trakx.crim.ist:1337/announce
 
 wss://tracker.openwebtorrent.com:443/announce
