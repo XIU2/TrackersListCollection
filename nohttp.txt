@@ -32,6 +32,8 @@ https://tracker.ipfsscan.io:443/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
+https://tracker.kuroy.me:443/announce
+
 https://tracker.leechshield.link:443/announce
 
 https://tracker.lilithraws.org:443/announce
@@ -80,6 +82,8 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://evan.im:6969/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://ipv4.rer.lol:2710/announce
 
 udp://ismaarino.com:1234/announce
@@ -96,13 +100,13 @@ udp://odd-hd.fr:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.dstud.io:6969/announce
-
 udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.cl:1337/announce
+
+udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
 
@@ -118,7 +122,7 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
 
-udp://run.publictracker.xyz:6969/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://seedpeer.net:6969/announce
 
@@ -126,13 +130,13 @@ udp://serpb.vpsburti.com:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://trackarr.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
-
-udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -142,19 +146,13 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.edkj.club:6969/announce
-
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
-udp://tracker.gigantino.net:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.kmzs123.tk:17272/announce
-
-udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.qu.ax:6969/announce
 
