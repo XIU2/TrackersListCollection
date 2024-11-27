@@ -6,11 +6,11 @@ https://mathkangaroo.jp:443/announce
 
 https://pybittrack.retiolus.net:443/announce
 
+https://sparkle.ghostchu-services.top:443/announce
+
 https://t.213891.xyz:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -19,6 +19,8 @@ https://tr.nyacat.pw:443/announce
 https://tr.zukizuki.org:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
+
+https://tracker.bjut.jp:443/announce
 
 https://tracker.bt4g.com:443/announce
 
@@ -30,8 +32,6 @@ https://tracker.ipfsscan.io:443/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
-https://tracker.kuroy.me:443/announce
-
 https://tracker.leechshield.link:443/announce
 
 https://tracker.lilithraws.org:443/announce
@@ -41,6 +41,8 @@ https://tracker.moeking.me:443/announce
 https://tracker.pmman.tech:443/announce
 
 https://tracker.tamersunion.org:443/announce
+
+https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -74,17 +76,13 @@ udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://discord.heihachi.pw:6969/announce
-
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://evan.im:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://ipv4.rer.lol:2710/announce
 
-udp://isk.richardsw.club:6969/announce
+udp://ismaarino.com:1234/announce
 
 udp://jutone.com:6969/announce
 
@@ -100,11 +98,11 @@ udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
 
+udp://open.free-tracker.ga:6969/announce
+
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.cl:1337/announce
-
-udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
 
@@ -128,15 +126,11 @@ udp://serpb.vpsburti.com:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://trackarr.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -169,8 +163,6 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
