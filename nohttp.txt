@@ -12,11 +12,15 @@ https://t.213891.xyz:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
+
+https://tr2.trkb.ru:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
@@ -100,6 +104,8 @@ udp://odd-hd.fr:6969/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://open.dstud.io:6969/announce
+
 udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
@@ -117,8 +123,6 @@ udp://p2p.publictracker.xyz:6969/announce
 udp://p4p.arenabg.com:1337/announce
 
 udp://public.tracker.vraphim.com:6969/announce
-
-udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -138,6 +142,8 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
+udp://tracker.breizh.pm:6969/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.darkness.services:6969/announce
@@ -146,13 +152,19 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
+udp://tracker.edkj.club:6969/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
+udp://tracker.gigantino.net:6969/announce
+
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.kmzs123.tk:17272/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.qu.ax:6969/announce
 
