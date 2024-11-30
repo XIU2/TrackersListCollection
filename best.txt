@@ -10,8 +10,6 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
-
 http://tracker.beeimg.com:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -20,13 +18,21 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
 
+http://tracker.vanitycore.co:6969/announce
+
 http://tracker.vraphim.com:6969/announce
+
+http://tracker.xiaoduola.xyz:6969/announce
+
+http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
 http://www.all4nothin.net:80/announce.php
+
+http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -35,8 +41,6 @@ https://1337.abcvg.info:443/announce
 https://pybittrack.retiolus.net:443/announce
 
 https://t.213891.xyz:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -78,6 +82,8 @@ udp://ismaarino.com:1234/announce
 
 udp://martin-gebhardt.eu:25/announce
 
+udp://ns-1.x-fins.com:6969/announce
+
 udp://ns1.monolithindustries.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
@@ -86,13 +92,17 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
 
+udp://opentracker.io:6969/announce
+
 udp://p2p.publictracker.xyz:6969/announce
 
-udp://p4p.arenabg.com:1337/announce
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://seedpeer.net:6969/announce
 
@@ -106,13 +116,15 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
-udp://tracker.0x7c0.com:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
+
+udp://tracker.dump.cl:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -121,6 +133,8 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
