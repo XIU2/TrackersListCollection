@@ -4,11 +4,15 @@ https://api.ipv4online.uk:443/announce
 
 https://mathkangaroo.jp:443/announce
 
+https://pybittrack.retiolus.net:443/announce
+
 https://retracker.x2k.ru:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
 https://t.213891.xyz:443/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -19,6 +23,8 @@ https://tr.zukizuki.org:443/announce
 https://tr2.trkb.ru:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
+
+https://tracker.bjut.jp:443/announce
 
 https://tracker.bt4g.com:443/announce
 
@@ -45,6 +51,8 @@ https://tracker.tamersunion.org:443/announce
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
+
+https://trackers.mlsub.net:443/announce
 
 udp://207.241.226.111:6969/announce
 
@@ -96,15 +104,13 @@ udp://open.dstud.io:6969/announce
 
 udp://open.free-tracker.ga:6969/announce
 
+udp://open.stealth.si:80/announce
+
 udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
-udp://opentor.org:2710/announce
-
 udp://opentracker.io:6969/announce
-
-udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -120,9 +126,11 @@ udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
-udp://trackarr.org:6969/announce
+udp://t.overflow.biz:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
+udp://tr4ck3r.duckdns.org:6969/announce
+
+udp://trackarr.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -146,6 +154,8 @@ udp://tracker.edkj.club:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
+udp://tracker.fnix.net:6969/announce
+
 udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
@@ -153,6 +163,8 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
 
@@ -162,11 +174,11 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
+udp://tracker.torrent.eu.org:451/announce
+
 udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker.valete.tf:9999/announce
 
 udp://tracker.vds.nz:6969/announce
 
