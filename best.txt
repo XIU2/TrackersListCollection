@@ -4,10 +4,6 @@ http://bt.okmp3.ru:2710/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://t.nyaatracker.com:80/announce
-
-http://tk.greedland.net:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
@@ -20,11 +16,7 @@ http://tracker.netmap.top:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.tfile.co:80/announce
-
 http://tracker.vraphim.com:6969/announce
-
-http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -45,6 +37,8 @@ https://1337.abcvg.info:443/announce
 https://pybittrack.retiolus.net:443/announce
 
 https://t.213891.xyz:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -112,23 +106,15 @@ udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://t.overflow.biz:6969/announce
-
-udp://thetracker.org:80/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://tracker.0x7c0.com:6969/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
-
-udp://tracker.doko.moe:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 

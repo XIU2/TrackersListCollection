@@ -1,8 +1,14 @@
 https://1337.abcvg.info:443/announce
 
-https://api.ipv4online.uk:443/announce
+https://mathkangaroo.jp:443/announce
+
+https://pybittrack.retiolus.net:443/announce
+
+https://retracker.x2k.ru:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
+
+https://t.213891.xyz:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -10,7 +16,11 @@ https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
 
+https://tr2.trkb.ru:443/announce
+
 https://tracker-zhuqiy.dgj055.icu:443/announce
+
+https://tracker.bjut.jp:443/announce
 
 https://tracker.bt4g.com:443/announce
 
@@ -28,6 +38,8 @@ https://tracker.leechshield.link:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
+https://tracker.moeking.me:443/announce
+
 https://tracker.pmman.tech:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -35,6 +47,8 @@ https://tracker.tamersunion.org:443/announce
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
+
+https://trackers.mlsub.net:443/announce
 
 udp://207.241.226.111:6969/announce
 
@@ -66,6 +80,8 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
 
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
@@ -81,6 +97,8 @@ udp://jutone.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
 
 udp://ns-1.x-fins.com:6969/announce
+
+udp://ns1.monolithindustries.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
@@ -124,6 +142,10 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
+udp://tracker.birkenwald.de:6969/announce
+
+udp://tracker.breizh.pm:6969/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.darkness.services:6969/announce
@@ -144,6 +166,8 @@ udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
+udp://tracker.kmzs123.tk:17272/announce
+
 udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -156,15 +180,11 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker.vds.nz:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -178,7 +198,13 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
+udp://u4.trakx.crim.ist:1337/announce
+
+udp://u6.trakx.crim.ist:1337/announce
+
 udp://wepzone.net:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://z.mercax.com:53/announce
 
