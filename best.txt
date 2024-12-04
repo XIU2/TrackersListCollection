@@ -2,8 +2,6 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://nyaa.tracker.wf:7777/announce
-
 http://t.nyaatracker.com:80/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
@@ -24,8 +22,6 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
 
-http://tracker.vanitycore.co:6969/announce
-
 http://tracker.vraphim.com:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
@@ -38,9 +34,13 @@ http://tracker810.xyz:11450/announce
 
 http://www.all4nothin.net:80/announce.php
 
-https://1337.abcvg.info:443/announce
+http://www.genesis-sp.org:2710/announce
 
-https://pybittrack.retiolus.net:443/announce
+http://www.torrentsnipe.info:2701/announce
+
+http://www.wareztorrent.com:80/announce
+
+https://1337.abcvg.info:443/announce
 
 https://t.213891.xyz:443/announce
 
@@ -144,10 +144,12 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.torrent.eu.org:451/announce
+
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-udp://z.mercax.com:53/announce
+udp://u6.trakx.crim.ist:1337/announce
 
-wss://tracker.openwebtorrent.com:443/announce
+udp://z.mercax.com:53/announce
