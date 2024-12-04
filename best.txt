@@ -2,6 +2,8 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://nyaa.tracker.wf:7777/announce
+
 http://t.nyaatracker.com:80/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
@@ -14,13 +16,11 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.beeimg.com:6969/announce
 
-http://tracker.bt4g.com:2095/announce
-
-http://tracker.netmap.top:6969/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
+
+http://tracker.vanitycore.co:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
@@ -30,19 +30,17 @@ http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
-http://tracker810.xyz:11450/announce
-
 http://www.all4nothin.net:80/announce.php
-
-http://www.genesis-sp.org:2710/announce
-
-http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
+https://pybittrack.retiolus.net:443/announce
+
 https://t.213891.xyz:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -64,8 +62,6 @@ https://tracker.moeking.me:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
-https://tracker.yemekyedim.com:443/announce
-
 https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
@@ -85,8 +81,6 @@ udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 
 udp://isk.richardsw.club:6969/announce
-
-udp://ismaarino.com:1234/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -134,8 +128,6 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
-udp://tracker.gigantino.net:6969/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -146,6 +138,8 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.tryhackx.org:6969/announce
+
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
@@ -153,3 +147,5 @@ udp://u4.trakx.crim.ist:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
 
 udp://z.mercax.com:53/announce
+
+wss://tracker.openwebtorrent.com:443/announce
