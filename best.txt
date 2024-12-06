@@ -34,8 +34,6 @@ http://tracker4.itzmx.com:2710/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.genesis-sp.org:2710/announce
-
 http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
@@ -46,9 +44,9 @@ https://pybittrack.retiolus.net:443/announce
 
 https://t.213891.xyz:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
+
+https://tracker.dev-null.rocks:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
@@ -110,8 +108,6 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.lanta.me:2710/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://thetracker.org:80/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
@@ -149,6 +145,8 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
