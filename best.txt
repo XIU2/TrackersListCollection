@@ -26,8 +26,6 @@ http://tracker.tfile.co:80/announce
 
 http://tracker.vraphim.com:6969/announce
 
-http://tracker.xiaoduola.xyz:6969/announce
-
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
@@ -39,8 +37,6 @@ http://www.all4nothin.net:80/announce.php
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://pybittrack.retiolus.net:443/announce
 
 https://t.213891.xyz:443/announce
 
@@ -86,6 +82,8 @@ udp://exodus.desync.com:6969/announce
 
 udp://ismaarino.com:1234/announce
 
+udp://leet-tracker.moe:1337/announce
+
 udp://martin-gebhardt.eu:25/announce
 
 udp://ns-1.x-fins.com:6969/announce
@@ -95,8 +93,6 @@ udp://ns1.monolithindustries.com:6969/announce
 udp://odd-hd.fr:6969/announce
 
 udp://open.demonii.com:1337/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -124,15 +120,11 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
@@ -146,13 +138,7 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
-udp://tracker.srv00.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 

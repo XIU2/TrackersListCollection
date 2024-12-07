@@ -30,6 +30,8 @@ https://tracker.bt4g.com:443/announce
 
 https://tracker.cloudit.top:443/announce
 
+https://tracker.dev-null.rocks:443/announce
+
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ipfsscan.io:443/announce
@@ -96,6 +98,8 @@ udp://ismaarino.com:1234/announce
 
 udp://jutone.com:6969/announce
 
+udp://leet-tracker.moe:1337/announce
+
 udp://martin-gebhardt.eu:25/announce
 
 udp://ns-1.x-fins.com:6969/announce
@@ -107,8 +111,6 @@ udp://odd-hd.fr:6969/announce
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -146,8 +148,6 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
@@ -158,7 +158,7 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.dump.cl:6969/announce
+udp://tracker.edkj.club:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
