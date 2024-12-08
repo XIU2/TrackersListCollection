@@ -188,6 +188,8 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
+udp://tracker.valete.tf:9999/announce
+
 udp://tracker.vds.nz:6969/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
