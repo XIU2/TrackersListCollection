@@ -30,8 +30,6 @@ https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
-
 https://tracker.kuroy.me:443/announce
 
 https://tracker.leechshield.link:443/announce
