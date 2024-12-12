@@ -6,11 +6,7 @@ https://mathkangaroo.jp:443/announce
 
 https://retracker.x2k.ru:443/announce
 
-https://sparkle.ghostchu-services.top:443/announce
-
 https://t.213891.xyz:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -64,8 +60,6 @@ udp://amigacity.xyz:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 udp://bt.ktrackers.com:6666/announce
 
 udp://bt.rer.lol:2710/announce
@@ -86,11 +80,11 @@ udp://freedomalternative.com:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
 
+udp://ipv4announce.sktorrent.eu:6969/announce
+
 udp://ismaarino.com:1234/announce
 
 udp://jutone.com:6969/announce
-
-udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -161,8 +155,6 @@ udp://tracker.gigantino.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.kmzs123.tk:17272/announce
-
-udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
