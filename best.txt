@@ -14,6 +14,8 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tracker-zhuqiy.dgj055.icu:80/announce
+
 http://tracker.beeimg.com:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -21,6 +23,8 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.sbsub.com:2710/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -39,6 +43,8 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://t.213891.xyz:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
