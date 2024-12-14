@@ -16,6 +16,8 @@ https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
 
+https://tr2.trkb.ru:443/announce
+
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
 https://tracker.bjut.jp:443/announce
@@ -37,6 +39,8 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.moeking.me:443/announce
 
 https://tracker.pmman.tech:443/announce
+
+https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -66,6 +70,8 @@ udp://bt.rer.lol:2710/announce
 
 udp://bt.rer.lol:6969/announce
 
+udp://concen.org:6969/announce
+
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -84,9 +90,9 @@ udp://ismaarino.com:1234/announce
 
 udp://jutone.com:6969/announce
 
-udp://martin-gebhardt.eu:25/announce
+udp://leet-tracker.moe:1337/announce
 
-udp://ns-1.x-fins.com:6969/announce
+udp://martin-gebhardt.eu:25/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
@@ -144,6 +150,8 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
+udp://tracker.dump.cl:6969/announce
+
 udp://tracker.edkj.club:6969/announce
 
 udp://tracker.filemail.com:6969/announce
@@ -172,9 +180,9 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker.vds.nz:6969/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
