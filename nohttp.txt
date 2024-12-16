@@ -10,6 +10,8 @@ https://sparkle.ghostchu-services.top:443/announce
 
 https://t.213891.xyz:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -102,6 +104,8 @@ udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
+udp://opentor.org:2710/announce
+
 udp://opentracker.io:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
@@ -171,8 +175,6 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
-
-udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
