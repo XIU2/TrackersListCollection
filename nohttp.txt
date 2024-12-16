@@ -102,8 +102,6 @@ udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
-udp://opentor.org:2710/announce
-
 udp://opentracker.io:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce

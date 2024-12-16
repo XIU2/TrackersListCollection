@@ -2,8 +2,6 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://fleira.no:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://t.nyaatracker.com:80/announce
@@ -24,11 +22,7 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
 
-http://tracker.vanitycore.co:6969/announce
-
 http://tracker.vraphim.com:6969/announce
-
-http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -37,6 +31,8 @@ http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 
 http://www.all4nothin.net:80/announce.php
+
+http://www.genesis-sp.org:2710/announce
 
 http://www.wareztorrent.com:80/announce
 
