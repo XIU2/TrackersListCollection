@@ -24,13 +24,9 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.sbsub.com:2710/announce
-
 http://tracker.tfile.co:80/announce
 
 http://tracker.vraphim.com:6969/announce
-
-http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
