@@ -134,8 +134,6 @@ udp://serpb.vpsburti.com:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://trackarr.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
