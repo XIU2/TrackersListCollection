@@ -2,12 +2,6 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://buny.uk:6969/announce
-
-http://home.yxgz.club:6969/announce
-
-http://nyaa.tracker.wf:7777/announce
-
 http://seeders-paradise.org:80/announce
 
 http://shubt.net:2710/announce
@@ -22,11 +16,11 @@ http://torrentsmd.com:8080/announce
 
 http://tracker.beeimg.com:6969/announce
 
-http://tracker.bt-hash.com:80/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dmcomic.org:2710/announce
+
+http://tracker.lintk.me:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -50,8 +44,6 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
-https://t.213891.xyz:443/announce
-
 https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
@@ -60,19 +52,9 @@ https://tracker.gcrenwp.top:443/announce
 
 https://tracker.kuroy.me:443/announce
 
-https://tracker.leechshield.link:443/announce
-
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.moeking.me:443/announce
-
-https://tracker.pmman.tech:443/announce
-
-https://tracker.yemekyedim.com:443/announce
-
-https://tracker1.520.jp:443/announce
-
-https://trackers.mlsub.net:443/announce
 
 udp://amigacity.xyz:6969/announce
 
