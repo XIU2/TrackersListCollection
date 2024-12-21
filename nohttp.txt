@@ -8,7 +8,9 @@ https://retracker.x2k.ru:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
-https://t.213891.xyz:443/announce
+https://tr.abir.ga:443/announce
+
+https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -16,19 +18,17 @@ https://tr.zukizuki.org:443/announce
 
 https://tr2.trkb.ru:443/announce
 
-https://tracker-zhuqiy.dgj055.icu:443/announce
-
 https://tracker.bjut.jp:443/announce
 
 https://tracker.bt4g.com:443/announce
-
-https://tracker.cloudit.top:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
+
+https://tracker.leechshield.link:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -67,6 +67,8 @@ udp://bt.rer.lol:2710/announce
 udp://bt.rer.lol:6969/announce
 
 udp://concen.org:6969/announce
+
+udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
 
@@ -108,8 +110,6 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://public.tracker.vraphim.com:6969/announce
@@ -125,6 +125,8 @@ udp://serpb.vpsburti.com:6969/announce
 udp://t.overflow.biz:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
@@ -150,21 +152,13 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.dump.cl:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.kmzs123.tk:17272/announce
-
 udp://tracker.ololosh.space:6969/announce
-
-udp://tracker.opentrackr.org:1337/announce
-
-udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
 
@@ -193,8 +187,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
-
-udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 

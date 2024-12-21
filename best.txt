@@ -4,7 +4,11 @@ http://bt.okmp3.ru:2710/announce
 
 http://bt.poletracker.org:2710/announce
 
-http://finbytes.org:80/announce.php
+http://nyaa.tracker.wf:7777/announce
+
+http://open.trackerlist.xyz:80/announce
+
+http://share.hkg-fansub.info:80/announce.php
 
 http://t.nyaatracker.com:80/announce
 
@@ -17,8 +21,6 @@ http://torrentsmd.com:8080/announce
 http://tracker.beeimg.com:6969/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.corpscorp.online:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -36,23 +38,23 @@ http://tracker4.itzmx.com:2710/announce
 
 http://www.all4nothin.net:80/announce.php
 
+http://www.torrentsnipe.info:2701/announce
+
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
 https://t.213891.xyz:443/announce
 
-https://tr.burnabyhighstar.com:443/announce
+https://tr.abir.ga:443/announce
 
-https://tracker.gcrenwp.top:443/announce
+https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.moeking.me:443/announce
-
-https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -118,7 +120,11 @@ udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.doko.moe:6969/announce
+
 udp://tracker.dump.cl:6969/announce
+
+udp://tracker.fnix.net:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
@@ -131,8 +137,6 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
-
-udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
