@@ -4,13 +4,9 @@ https://api.ipv4online.uk:443/announce
 
 https://mathkangaroo.jp:443/announce
 
-https://retracker.x2k.ru:443/announce
-
 https://sparkle.ghostchu-services.top:443/announce
 
 https://t.213891.xyz:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -34,9 +30,11 @@ https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
 
-https://tracker.leechshield.link:443/announce
+https://tracker.lilithraws.org:443/announce
 
 https://tracker.moeking.me:443/announce
+
+https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -78,11 +76,11 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://freedomalternative.com:6969/announce
-
 udp://ipv4.rer.lol:2710/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
+
+udp://isk.richardsw.club:6969/announce
 
 udp://ismaarino.com:1234/announce
 
@@ -91,6 +89,8 @@ udp://jutone.com:6969/announce
 udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
+
+udp://ns-1.x-fins.com:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
@@ -124,11 +124,7 @@ udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
-udp://tr3.ysagin.top:2715/announce
-
-udp://trackarr.org:6969/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -152,6 +148,8 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.dump.cl:6969/announce
 
+udp://tracker.edkj.club:6969/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
@@ -159,6 +157,8 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.ololosh.space:6969/announce
 
@@ -171,6 +171,8 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
