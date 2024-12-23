@@ -26,7 +26,13 @@ https://tracker.bjut.jp:443/announce
 
 https://tracker.bt4g.com:443/announce
 
+https://tracker.cloudit.top:443/announce
+
 https://tracker.gcrenwp.top:443/announce
+
+https://tracker.ipfsscan.io:443/announce
+
+https://tracker.kuroy.me:443/announce
 
 https://tracker.leechshield.link:443/announce
 
@@ -58,9 +64,13 @@ udp://bandito.byterunner.io:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
+udp://bt.ktrackers.com:6666/announce
+
 udp://bt.rer.lol:2710/announce
 
 udp://bt.rer.lol:6969/announce
+
+udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -68,7 +78,11 @@ udp://discord.heihachi.pw:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
+udp://evan.im:6969/announce
+
 udp://exodus.desync.com:6969/announce
+
+udp://freedomalternative.com:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
 
@@ -84,6 +98,8 @@ udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
+udp://ns-1.x-fins.com:6969/announce
+
 udp://ns1.monolithindustries.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
@@ -93,6 +109,8 @@ udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
 
 udp://open.free-tracker.ga:6969/announce
+
+udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -148,11 +166,15 @@ udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.ololosh.space:6969/announce
 
@@ -170,9 +192,13 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
+udp://tracker.torrent.eu.org:451/announce
+
 udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker.valete.tf:9999/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
