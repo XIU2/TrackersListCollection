@@ -2,19 +2,13 @@ http://bt.okmp3.ru:2710/announce
 
 http://bt1.xxxxbt.cc:6969/announce
 
-http://finbytes.org:80/announce.php
-
-http://nyaa.tracker.wf:7777/announce
+http://ipv4.rer.lol:2710/announce
 
 http://t.nyaatracker.com:80/announce
-
-http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
-
-http://tr1.aag.moe:2095/announce
 
 http://tracker.beeimg.com:6969/announce
 
@@ -34,7 +28,7 @@ http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
-http://www.wareztorrent.com:80/announce
+http://www.all4nothin.net:80/announce.php
 
 https://1337.abcvg.info:443/announce
 
@@ -46,7 +40,7 @@ https://t.213891.xyz:443/announce
 
 https://tr.abir.ga:443/announce
 
-https://tracker.bjut.jp:443/announce
+https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -106,19 +100,23 @@ udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://thetracker.org:80/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
+udp://tracker-us.silksa.co.za:6969/announce
+
 udp://tracker.0x7c0.com:6969/announce
+
+udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
-
-udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -139,6 +137,8 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
