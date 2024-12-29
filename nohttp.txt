@@ -10,6 +10,10 @@ https://sparkle.ghostchu-services.top:443/announce
 
 https://t.213891.xyz:443/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -20,11 +24,7 @@ https://tr2.trkb.ru:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
-https://tracker.bjut.jp:443/announce
-
 https://tracker.bt4g.com:443/announce
-
-https://tracker.cloudit.top:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
@@ -62,8 +62,6 @@ udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 udp://[2a0f:e586:f:f::81]:6969/announce
 
-udp://bandito.byterunner.io:6969/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt.ktrackers.com:6666/announce
@@ -96,7 +94,11 @@ udp://isk.richardsw.club:6969/announce
 
 udp://ismaarino.com:1234/announce
 
+udp://leet-tracker.moe:1337/announce
+
 udp://martin-gebhardt.eu:25/announce
+
+udp://mikrotik2.draatman.net:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
@@ -114,11 +116,7 @@ udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -135,6 +133,8 @@ udp://tr.movian.eu:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
@@ -155,6 +155,8 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
+
+udp://tracker.draatman.uk:6969/announce
 
 udp://tracker.dump.cl:6969/announce
 
@@ -184,9 +186,13 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.valete.tf:9999/announce
 
