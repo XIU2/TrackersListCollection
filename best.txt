@@ -2,25 +2,21 @@ http://1337.abcvg.info:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://open.tracker.cl:1337/announce
+
 http://t.nyaatracker.com:80/announce
 
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tracker.lintk.me:2710/announce
+http://tracker.tfile.co:80/announce
 
-http://tracker.moxing.party:6969/announce
-
-http://tracker.vanitycore.co:6969/announce
-
-http://www.all4nothin.net:80/announce.php
+http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -35,8 +31,6 @@ udp://exodus.desync.com:6969/announce
 udp://leet-tracker.moe:1337/announce
 
 udp://ns-1.x-fins.com:6969/announce
-
-udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
@@ -59,8 +53,6 @@ udp://tracker.ololosh.space:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.qu.ax:6969/announce
-
-udp://tracker.skyts.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
