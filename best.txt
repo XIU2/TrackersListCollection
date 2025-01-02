@@ -10,10 +10,6 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.tracker.cl:1337/announce
-
-http://seeders-paradise.org:80/announce
-
 http://servandroidkino.ru:80/announce
 
 http://shubt.net:2710/announce
@@ -38,13 +34,11 @@ http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.lintk.me:2710/announce
 
-http://tracker.moxing.party:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.sbsub.com:2710/announce
+http://tracker.tfile.co:80/announce
 
 http://tracker.vraphim.com:6969/announce
 
@@ -59,6 +53,8 @@ http://tracker4.itzmx.com:2710/announce
 http://www.all4nothin.net:80/announce.php
 
 http://www.torrentsnipe.info:2701/announce
+
+http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -78,7 +74,11 @@ https://tracker.kuroy.me:443/announce
 
 https://tracker.leechshield.link:443/announce
 
+https://tracker.lilithraws.org:443/announce
+
 https://tracker.moeking.me:443/announce
+
+https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -130,6 +130,8 @@ udp://t.overflow.biz:6969/announce
 
 udp://thetracker.org:80/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://trackarr.org:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -150,6 +152,8 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
+udp://tracker.yume-hatsuyuki.moe:6969/announce
+
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
@@ -157,3 +161,5 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://udp.tracker.projectk.org:23333/announce
 
 udp://wepzone.net:6969/announce
+
+wss://tracker.openwebtorrent.com:443/announce
