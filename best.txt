@@ -26,6 +26,8 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.sbsub.com:2710/announce
+
 http://tracker.tfile.co:80/announce
 
 http://tracker.vanitycore.co:6969/announce
@@ -40,6 +42,8 @@ http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
+http://tracker810.xyz:11450/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
@@ -49,8 +53,6 @@ https://1337.abcvg.info:443/announce
 https://api.ipv4online.uk:443/announce
 
 https://t.213891.xyz:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -155,8 +157,6 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
