@@ -8,8 +8,6 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.tracker.cl:1337/announce
-
 http://t.nyaatracker.com:80/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
@@ -30,7 +28,11 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
 
+http://tracker.vanitycore.co:6969/announce
+
 http://tracker.vraphim.com:6969/announce
+
+http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -47,6 +49,8 @@ https://1337.abcvg.info:443/announce
 https://api.ipv4online.uk:443/announce
 
 https://t.213891.xyz:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
