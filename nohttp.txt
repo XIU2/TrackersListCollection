@@ -10,8 +10,6 @@ https://t.213891.xyz:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -169,8 +167,6 @@ udp://tracker.draatman.uk:6969/announce
 udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
-
-udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
