@@ -1,10 +1,6 @@
-http://0d.kebhana.mx:443/announce
-
 http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
-
-http://highteahop.top:6960/announce
 
 http://ipv4.rer.lol:2710/announce
 
@@ -13,6 +9,8 @@ http://ipv4announce.sktorrent.eu:6969/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.tracker.ink:6969/announce
+
+http://open.trackerlist.xyz:80/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
@@ -36,19 +34,13 @@ http://tracker.bz:80/announce
 
 http://tracker.corpscorp.online:80/announce
 
-http://tracker.dmcomic.org:2710/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
 
-http://tracker.vanitycore.co:6969/announce
-
 http://tracker.vraphim.com:6969/announce
-
-http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -58,8 +50,6 @@ http://tracker4.itzmx.com:2710/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.genesis-sp.org:2710/announce
-
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
@@ -67,6 +57,8 @@ https://1337.abcvg.info:443/announce
 https://api.ipv4online.uk:443/announce
 
 https://t.213891.xyz:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -131,8 +123,6 @@ udp://serpb.vpsburti.com:6969/announce
 udp://t.overflow.biz:6969/announce
 
 udp://thetracker.org:80/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
