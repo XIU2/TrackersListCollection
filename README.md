@@ -64,10 +64,10 @@ _You can judge whether there is a problem with the BT configuration and network 
 <details>
 <summary><strong><code>[Click to expand] - View the tracker list in Aria2 format</code> </strong></summary>
 
-- _**https://cf.trackerslist.com/best_aria2.txt**_  
-- _**https://cf.trackerslist.com/all_aria2.txt**_  
-- _**https://cf.trackerslist.com/http_aria2.txt**_  
-- _**https://cf.trackerslist.com/nohttp_aria2.txt**_  
+- ***https://cf.trackerslist.com/best_aria2.txt***  
+- ***https://cf.trackerslist.com/all_aria2.txt***  
+- ***https://cf.trackerslist.com/http_aria2.txt***  
+- ***https://cf.trackerslist.com/nohttp_aria2.txt***  
 
 </details>
 

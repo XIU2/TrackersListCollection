@@ -89,10 +89,10 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 <details>
 <summary><strong><code>[点击展开] - 查看 Aria2 格式的 Tracker 列表</code></strong></summary>
 
-- _**https://cf.trackerslist.com/best_aria2.txt**_  
-- _**https://cf.trackerslist.com/all_aria2.txt**_  
-- _**https://cf.trackerslist.com/http_aria2.txt**_  
-- _**https://cf.trackerslist.com/nohttp_aria2.txt**_  
+- ***https://cf.trackerslist.com/best_aria2.txt***  
+- ***https://cf.trackerslist.com/all_aria2.txt***  
+- ***https://cf.trackerslist.com/http_aria2.txt***  
+- ***https://cf.trackerslist.com/nohttp_aria2.txt***  
 
 > 如果上面链接地址无法打开或很慢，请尝试使用上面的其他 **CDN 分流**地址（只需改下文件名）。
 
