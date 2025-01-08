@@ -62,16 +62,14 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 \# **以下为精选列表 ` best.txt ` 示例（末尾文件名可自行修改，随便选择个能用的）：**  
 
 - _**https://bitbucket.org/xiu2/trackerslistcollection/raw/master/best.txt**_  
-- _**https://cdn.jsdmirror.com/gh/XIU2/TrackersListCollection/best.txt**_  
+- _**https://gh.akass.cn/XIU2/UserScript/master/other/Autopage/rules.json**_  
 - _**https://jsd.onmicrosoft.cn/gh/XIU2/TrackersListCollection/best.txt**_  
-- _**https://jsd.proxy.aks.moe/gh/XIU2/TrackersListCollection/best.txt**_  
+- _**https://cdn.jsdmirror.com/gh/XIU2/TrackersListCollection/best.txt**_  
+- _**https://js.cdn.haah.net/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://jsdelivr.pai233.top/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://raw.kkgithub.com/XIU2/TrackersListCollection/master/best.txt**_  
 - _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
-- _**https://js.cdn.haah.net/gh/XIU2/TrackersListCollection/best.txt**_  
-- _**https://raw.nuaa.cf/XIU2/TrackersListCollection/master/best.txt**_  
-- _**https://raw.yzuu.cf/XIU2/TrackersListCollection/master/best.txt**_  
-- _**[https://ghp.ci/.../XIU2/TrackersListCollection/master/best.txt](https://ghp.ci/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
+- _**[https://ghgo.xyz/.../XIU2/TrackersListCollection/master/best.txt](https://ghgo.xyz/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 - _**[https://ghproxy.cc/.../XIU2/TrackersListCollection/master/best.txt](https://ghproxy.cc/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 - _**[https://ghproxy.net/.../XIU2/TrackersListCollection/master/best.txt](https://ghproxy.net/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 - _**[https://gh-proxy.com/.../XIU2/TrackersListCollection/master/best.txt](https://gh-proxy.com/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
@@ -203,7 +201,9 @@ _**更详细、完整的请看我写的这篇文章：[为什么国内 BT 环境
 
 ****
 
-### 赞赏支持 👍
+### 打赏支持 👍
+
+如果我维护的项目帮到你的话就 **"打赏"** 一下吧~🎉✨
 
 ![微信赞赏](https://bitbucket.org/xiu2/xiu2/raw/master/img/zs-01.png)![支付宝赞赏](https://bitbucket.org/xiu2/xiu2/raw/master/img/zs-02.png)
 
