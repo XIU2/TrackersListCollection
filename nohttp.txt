@@ -22,6 +22,8 @@ https://tr2.trkb.ru:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
+https://tracker.aburaya.live:443/announce
+
 https://tracker.bjut.jp:443/announce
 
 https://tracker.bt4g.com:443/announce
@@ -76,6 +78,8 @@ udp://cq.kmzs123.cn:17272/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
+udp://discord.heihachi.pw:6969/announce
+
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://evan.im:6969/announce
@@ -86,11 +90,7 @@ udp://ipv4.rer.lol:2710/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
-udp://isk.richardsw.club:6969/announce
-
 udp://ismaarino.com:1234/announce
-
-udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -109,6 +109,8 @@ udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -137,6 +139,8 @@ udp://t.overflow.biz:6969/announce
 udp://tr.movian.eu:6969/announce
 
 udp://trackarr.org:6969/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
@@ -171,8 +175,6 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
-
-udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
