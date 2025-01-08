@@ -20,7 +20,7 @@ http://buny.uk:6969/announce
 
 http://ch3oh.ru:6969/announce
 
-http://finbytes.org:80/announce.php
+http://highteahop.top:6960/announce
 
 http://home.yxgz.club:6969/announce
 
@@ -34,19 +34,21 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.tracker.ink:6969/announce
 
+http://open.trackerlist.xyz:80/announce
+
 http://p4p.arenabg.com:1337/announce
 
 http://public.tracker.vraphim.com:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
-http://seeders-paradise.org:80/announce
+http://retracker.spark-rostov.ru:80/announce
 
 http://servandroidkino.ru:80/announce
 
 http://share.hkg-fansub.info:80/announce.php
 
-http://shubt.net:2710/announce
+http://t.overflow.biz:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -64,23 +66,11 @@ http://tracker.beeimg.com:6969/announce
 
 http://tracker.bittor.pw:1337/announce
 
+http://tracker.bt-hash.com:80/announce
+
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.bz:80/announce
-
-http://tracker.corpscorp.online:80/announce
-
-http://tracker.dler.com:6969/announce
-
-http://tracker.dmcomic.org:2710/announce
-
-http://tracker.edkj.club:6969/announce
-
 http://tracker.ipv6tracker.org:80/announce
-
-http://tracker.lintk.me:2710/announce
-
-http://tracker.moxing.party:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -88,15 +78,11 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.sbsub.com:2710/announce
-
 http://tracker.srv00.com:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
 http://tracker.waaa.moe:6969/announce
-
-http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -222,8 +208,6 @@ udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://open.free-tracker.ga:6969/announce
-
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.cl:1337/announce
@@ -249,8 +233,6 @@ udp://retracker.lanta.me:2710/announce
 udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
-
-udp://t.overflow.biz:6969/announce
 
 udp://tr.movian.eu:6969/announce
 
