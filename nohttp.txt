@@ -10,8 +10,6 @@ https://t.213891.xyz:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -139,8 +137,6 @@ udp://seedpeer.net:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 
 udp://t.overflow.biz:6969/announce
-
-udp://tr.movian.eu:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 

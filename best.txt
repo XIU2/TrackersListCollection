@@ -8,6 +8,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.tracker.ink:6969/announce
 
+http://shubt.net:2710/announce
+
 http://t.nyaatracker.com:80/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
@@ -33,8 +35,6 @@ http://tracker.renfei.net:8080/announce
 http://tracker.tfile.co:80/announce
 
 http://tracker.vraphim.com:6969/announce
-
-http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -128,8 +128,6 @@ udp://t.overflow.biz:6969/announce
 
 udp://thetracker.org:80/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://trackarr.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -145,8 +143,6 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.dump.cl:6969/announce
-
-udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
