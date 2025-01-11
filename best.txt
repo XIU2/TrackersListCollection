@@ -30,8 +30,6 @@ http://tracker.tfile.co:80/announce
 
 http://tracker.vraphim.com:6969/announce
 
-http://tracker.xiaoduola.xyz:6969/announce
-
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
@@ -86,8 +84,6 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://isk.richardsw.club:6969/announce
-
 udp://ismaarino.com:1234/announce
 
 udp://leet-tracker.moe:1337/announce
@@ -133,8 +129,6 @@ udp://trackarr.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
