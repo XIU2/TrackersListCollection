@@ -2,6 +2,8 @@ https://1337.abcvg.info:443/announce
 
 https://api.ipv4online.uk:443/announce
 
+https://retracker.x2k.ru:443/announce
+
 https://sparkle.ghostchu-services.top:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
@@ -66,6 +68,8 @@ udp://cq.kmzs123.cn:17272/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
+udp://discord.heihachi.pw:6969/announce
+
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://evan.im:6969/announce
@@ -81,8 +85,6 @@ udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 
 udp://martin-gebhardt.eu:25/announce
-
-udp://mikrotik2.draatman.net:6969/announce
 
 udp://ns-1.x-fins.com:6969/announce
 
@@ -153,8 +155,6 @@ udp://tracker.gigantino.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.kmzs123.tk:17272/announce
-
-udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
