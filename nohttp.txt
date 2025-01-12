@@ -2,13 +2,9 @@ https://1337.abcvg.info:443/announce
 
 https://api.ipv4online.uk:443/announce
 
-https://retracker.x2k.ru:443/announce
-
 https://sparkle.ghostchu-services.top:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -23,8 +19,6 @@ https://tracker-zhuqiy.dgj055.icu:443/announce
 https://tracker.bjut.jp:443/announce
 
 https://tracker.bt4g.com:443/announce
-
-https://tracker.cloudit.top:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
@@ -62,8 +56,6 @@ udp://bandito.byterunner.io:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://bt.rer.lol:2710/announce
 
 udp://bt.rer.lol:6969/announce
@@ -73,8 +65,6 @@ udp://concen.org:6969/announce
 udp://cq.kmzs123.cn:17272/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
-
-udp://discord.heihachi.pw:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
