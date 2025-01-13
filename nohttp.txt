@@ -68,8 +68,6 @@ udp://cq.kmzs123.cn:17272/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://discord.heihachi.pw:6969/announce
-
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://evan.im:6969/announce
@@ -84,9 +82,9 @@ udp://isk.richardsw.club:6969/announce
 
 udp://ismaarino.com:1234/announce
 
-udp://martin-gebhardt.eu:25/announce
+udp://leet-tracker.moe:1337/announce
 
-udp://ns-1.x-fins.com:6969/announce
+udp://martin-gebhardt.eu:25/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
@@ -96,7 +94,11 @@ udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
 
+udp://open.free-tracker.ga:6969/announce
+
 udp://open.stealth.si:80/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -120,10 +122,6 @@ udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://trackarr.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -131,8 +129,6 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -146,6 +142,8 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
+udp://tracker.dump.cl:6969/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
@@ -156,6 +154,8 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.kmzs123.tk:17272/announce
 
+udp://tracker.ololosh.space:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -165,8 +165,6 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
@@ -179,8 +177,6 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
