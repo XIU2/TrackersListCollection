@@ -8,6 +8,8 @@ https://sparkle.ghostchu-services.top:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -86,8 +88,6 @@ udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://ns1.monolithindustries.com:6969/announce
-
 udp://odd-hd.fr:6969/announce
 
 udp://open.demonii.com:1337/announce
@@ -116,11 +116,11 @@ udp://r.l5.ca:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://retracker.lanta.me:2710/announce
-
 udp://seedpeer.net:6969/announce
 
-udp://serpb.vpsburti.com:6969/announce
+udp://t.overflow.biz:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
@@ -132,8 +132,6 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 udp://tracker.darkness.services:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
@@ -141,8 +139,6 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -187,8 +183,6 @@ udp://tracker4.itzmx.com:2710/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
-
-udp://u6.trakx.crim.ist:1337/announce
 
 udp://udp.tracker.projectk.org:23333/announce
 
