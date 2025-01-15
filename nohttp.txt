@@ -180,8 +180,6 @@ udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
-udp://tracker4.itzmx.com:2710/announce
-
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
@@ -191,7 +189,5 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://udp.tracker.projectk.org:23333/announce
 
 udp://wepzone.net:6969/announce
-
-udp://www.torrent.eu.org:451/announce
 
 wss://tracker.openwebtorrent.com:443/announce
