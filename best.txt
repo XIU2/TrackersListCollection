@@ -12,8 +12,6 @@ http://open.tracker.cl:1337/announce
 
 http://open.tracker.ink:6969/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
@@ -28,8 +26,6 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.tfile.co:80/announce
-
 http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker810.xyz:11450/announce
@@ -37,8 +33,6 @@ http://tracker810.xyz:11450/announce
 http://www.all4nothin.net:80/announce.php
 
 http://www.genesis-sp.org:2710/announce
-
-http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -49,8 +43,6 @@ https://api.ipv4online.uk:443/announce
 https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
 
@@ -96,19 +88,13 @@ udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
-udp://opentor.org:2710/announce
-
-udp://opentracker.io:6969/announce
-
-udp://p2p.publictracker.xyz:6969/announce
+udp://p4p.arenabg.com:1337/announce
 
 udp://r.l5.ca:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
 udp://t.overflow.biz:6969/announce
-
-udp://thetracker.org:80/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -120,8 +106,6 @@ udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
-udp://tracker.doko.moe:6969/announce
-
 udp://tracker.dump.cl:6969/announce
 
 udp://tracker.fnix.net:6969/announce
@@ -131,8 +115,6 @@ udp://tracker.ololosh.space:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.qu.ax:6969/announce
-
-udp://tracker.skyts.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
