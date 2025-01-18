@@ -10,8 +10,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.tracker.ink:6969/announce
 
-http://share.camoe.cn:8080/announce
-
 http://t.nyaatracker.com:80/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
@@ -30,13 +28,13 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.sbsub.com:2710/announce
 
-http://tracker.tfile.co:80/announce
+http://tracker.vanitycore.co:6969/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
 
-http://www.all4nothin.net:80/announce.php
+http://tracker810.xyz:11450/announce
 
-http://www.genesis-sp.org:2710/announce
+http://www.all4nothin.net:80/announce.php
 
 http://www.torrentsnipe.info:2701/announce
 
