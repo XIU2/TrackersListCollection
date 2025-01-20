@@ -8,6 +8,8 @@ https://sparkle.ghostchu-services.top:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -15,6 +17,8 @@ https://tr.nyacat.pw:443/announce
 https://tr.zukizuki.org:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
+
+https://tracker.bjut.jp:443/announce
 
 https://tracker.bt4g.com:443/announce
 
@@ -106,8 +110,6 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://r.l5.ca:6969/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 udp://retracker.lanta.me:2710/announce
 
 udp://t.overflow.biz:6969/announce
@@ -117,6 +119,8 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
 
