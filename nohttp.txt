@@ -2,6 +2,8 @@ https://1337.abcvg.info:443/announce
 
 https://api.ipv4online.uk:443/announce
 
+https://retracker.x2k.ru:443/announce
+
 https://sparkle.ghostchu-services.top:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
@@ -116,6 +118,8 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -193,5 +197,3 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-wss://tracker.openwebtorrent.com:443/announce

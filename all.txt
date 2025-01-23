@@ -16,11 +16,7 @@ http://bt.okmp3.ru:2710/announce
 
 http://bt.poletracker.org:2710/announce
 
-http://bt1.xxxxbt.cc:6969/announce
-
 http://buny.uk:6969/announce
-
-http://ch3oh.ru:6969/announce
 
 http://finbytes.org:80/announce.php
 
@@ -36,6 +32,8 @@ http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://open.tracker.cl:1337/announce
+
 http://open.tracker.ink:6969/announce
 
 http://open.trackerlist.xyz:80/announce
@@ -46,13 +44,11 @@ http://r.l5.ca:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
-http://retracker.spark-rostov.ru:80/announce
-
 http://seeders-paradise.org:80/announce
 
 http://servandroidkino.ru:80/announce
 
-http://shubt.net:2710/announce
+http://share.hkg-fansub.info:80/announce.php
 
 http://t.jaekr.sh:6969/announce
 
@@ -88,13 +84,9 @@ http://tracker.dmcomic.org:2710/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
-http://tracker.lintk.me:2710/announce
-
 http://tracker.moxing.party:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -103,6 +95,8 @@ http://tracker.sbsub.com:2710/announce
 http://tracker.vanitycore.co:6969/announce
 
 http://tracker.waaa.moe:6969/announce
+
+http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -116,11 +110,15 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.genesis-sp.org:2710/announce
 
+http://www.torrentsnipe.info:2701/announce
+
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
 https://api.ipv4online.uk:443/announce
+
+https://retracker.x2k.ru:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
@@ -236,6 +234,8 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -313,5 +313,3 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-wss://tracker.openwebtorrent.com:443/announce
