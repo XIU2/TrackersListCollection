@@ -20,8 +20,6 @@ http://tracker.beeimg.com:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.lintk.me:2710/announce
-
 http://tracker.moxing.party:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
@@ -32,7 +30,11 @@ http://tracker.sbsub.com:2710/announce
 
 http://tracker.vanitycore.co:6969/announce
 
+http://tracker810.xyz:11450/announce
+
 http://www.all4nothin.net:80/announce.php
+
+http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -129,8 +131,6 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker.valete.tf:9999/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
