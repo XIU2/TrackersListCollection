@@ -2,10 +2,6 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://ipv4.rer.lol:2710/announce
-
-http://ipv6.rer.lol:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.tracker.ink:6969/announce
@@ -24,7 +20,15 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.sbsub.com:2710/announce
+
+http://tracker.xiaoduola.xyz:6969/announce
+
+http://tracker810.xyz:11450/announce
+
 http://www.all4nothin.net:80/announce.php
+
+http://www.genesis-sp.org:2710/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -106,8 +110,6 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
-udp://tracker.birkenwald.de:6969/announce
-
 udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.dump.cl:6969/announce
@@ -127,8 +129,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker2.dler.org:80/announce
-
-udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
