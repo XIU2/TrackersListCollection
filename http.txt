@@ -1,5 +1,7 @@
 http://0123456789nonexistent.com:80/announce
 
+http://0d.kebhana.mx:443/announce
+
 http://1337.abcvg.info:80/announce
 
 http://207.241.226.111:6969/announce
@@ -28,13 +30,9 @@ http://highteahop.top:6960/announce
 
 http://home.yxgz.club:6969/announce
 
-http://ipv4.rer.lol:2710/announce
-
 http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
-
-http://open.trackerlist.xyz:80/announce
 
 http://p4p.arenabg.com:1337/announce
 
@@ -52,7 +50,7 @@ http://share.hkg-fansub.info:80/announce.php
 
 http://shubt.net:2710/announce
 
-http://t.overflow.biz:6969/announce
+http://t.jaekr.sh:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -82,8 +80,6 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.dmcomic.org:2710/announce
-
 http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.lintk.me:2710/announce
@@ -92,7 +88,13 @@ http://tracker.moxing.party:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.qu.ax:6969/announce
+
 http://tracker.renfei.net:8080/announce
+
+http://tracker.sbsub.com:2710/announce
+
+http://tracker.vanitycore.co:6969/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -108,6 +110,8 @@ http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
+http://www.genesis-sp.org:2710/announce
+
 http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
@@ -115,8 +119,6 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://api.ipv4online.uk:443/announce
-
-https://retracker.x2k.ru:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
