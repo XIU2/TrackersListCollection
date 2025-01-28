@@ -1,3 +1,5 @@
+http://0123456789nonexistent.com:80/announce
+
 http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -58,8 +60,6 @@ https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://bandito.byterunner.io:6969/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -100,6 +100,8 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -115,6 +117,8 @@ udp://tracker.dump.cl:6969/announce
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
+
+udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.ololosh.space:6969/announce
 
