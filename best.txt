@@ -1,5 +1,3 @@
-http://0123456789nonexistent.com:80/announce
-
 http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -26,11 +24,11 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
 
+http://tracker810.xyz:11450/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.genesis-sp.org:2710/announce
-
-http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 

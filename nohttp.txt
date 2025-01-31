@@ -2,6 +2,8 @@ https://1337.abcvg.info:443/announce
 
 https://api.ipv4online.uk:443/announce
 
+https://retracker.x2k.ru:443/announce
+
 https://sparkle.ghostchu-services.top:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
@@ -25,8 +27,6 @@ https://tracker.bt4g.com:443/announce
 https://tracker.cloudit.top:443/announce
 
 https://tracker.gcrenwp.top:443/announce
-
-https://tracker.kmzs123.com:443/announce
 
 https://tracker.kuroy.me:443/announce
 
