@@ -8,8 +8,6 @@ https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-https://tr.nyacat.pw:443/announce
-
 https://tr.zukizuki.org:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
@@ -33,6 +31,8 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.moeking.me:443/announce
 
 https://tracker.nanoha.org:443/announce
+
+https://tracker.wsaoa.eu.org:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
@@ -62,13 +62,9 @@ udp://bt.rer.lol:2710/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://concen.org:6969/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
-
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://evan.im:6969/announce
 
@@ -76,17 +72,11 @@ udp://exodus.desync.com:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
 
-udp://ipv4announce.sktorrent.eu:6969/announce
-
 udp://isk.richardsw.club:6969/announce
 
 udp://ismaarino.com:1234/announce
 
-udp://leet-tracker.moe:1337/announce
-
 udp://martin-gebhardt.eu:25/announce
-
-udp://new-line.net:6969/announce
 
 udp://ns-1.x-fins.com:6969/announce
 
@@ -112,21 +102,23 @@ udp://r.l5.ca:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://retracker.lanta.me:2710/announce
-
 udp://t.overflow.biz:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
+udp://tracker.bittor.pw:1337/announce
+
+udp://tracker.cyberia.is:6969/announce
+
+udp://tracker.darkness.services:6969/announce
+
 udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -171,8 +163,6 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
-
-udp://udp.tracker.projectk.org:23333/announce
 
 udp://wepzone.net:6969/announce
 
