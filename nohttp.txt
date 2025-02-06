@@ -2,11 +2,11 @@ https://1337.abcvg.info:443/announce
 
 https://api.ipv4online.uk:443/announce
 
+https://retracker.x2k.ru:443/announce
+
 https://sparkle.ghostchu-services.top:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -106,15 +106,17 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
 
+udp://p2p.publictracker.xyz:6969/announce
+
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
 
-udp://tracker-udp.gbitt.info:80/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 
-udp://tracker.0x7c0.com:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -130,7 +132,7 @@ udp://tracker.dump.cl:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.fnix.net:6969/announce
+udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
