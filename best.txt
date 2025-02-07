@@ -18,25 +18,27 @@ http://tracker.beeimg.com:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
 
 http://tracker.vanitycore.co:6969/announce
 
-http://tracker.xiaoduola.xyz:6969/announce
-
 http://tracker810.xyz:11450/announce
 
 http://www.all4nothin.net:80/announce.php
+
+http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
 https://api.ipv4online.uk:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -86,19 +88,19 @@ udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
 
+udp://opentracker.io:6969/announce
+
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
-
-udp://t.overflow.biz:6969/announce
-
-udp://thetracker.org:80/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
+
+udp://tracker.doko.moe:6969/announce
 
 udp://tracker.dump.cl:6969/announce
 
