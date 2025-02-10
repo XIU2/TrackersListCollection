@@ -24,19 +24,15 @@ http://tracker.dmcomic.org:2710/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
-http://tracker.lintk.me:2710/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.sbsub.com:2710/announce
 
 http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
 
-http://tracker.vanitycore.co:6969/announce
+http://tracker.xiaoduola.xyz:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -52,6 +48,10 @@ https://api.ipv4online.uk:443/announce
 
 https://bt2.080609.xyz:443/announce
 
+https://tr.abir.ga:443/announce
+
+https://tr.burnabyhighstar.com:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
@@ -59,6 +59,10 @@ https://tr.zukizuki.org:443/announce
 https://tracker.aburaya.live:443/announce
 
 https://tracker.bjut.jp:443/announce
+
+https://tracker.foreverpirates.co:443/announce
+
+https://tracker.gcrenwp.top:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -90,13 +94,11 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://thetracker.org:80/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
 

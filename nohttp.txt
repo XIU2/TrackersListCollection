@@ -8,6 +8,10 @@ https://retracker.x2k.ru:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -17,6 +21,8 @@ https://tr.zukizuki.org:443/announce
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
 https://tracker.aburaya.live:443/announce
+
+https://tracker.bjut.jp:443/announce
 
 https://tracker.bt4g.com:443/announce
 
@@ -60,8 +66,6 @@ udp://bt.rer.lol:2710/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://concen.org:6969/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -77,8 +81,6 @@ udp://ipv4announce.sktorrent.eu:6969/announce
 udp://ismaarino.com:1234/announce
 
 udp://martin-gebhardt.eu:25/announce
-
-udp://new-line.net:6969/announce
 
 udp://ns-1.x-fins.com:6969/announce
 
@@ -96,9 +98,19 @@ udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
 
+udp://opentracker.io:6969/announce
+
+udp://p2p.publictracker.xyz:6969/announce
+
+udp://p4p.arenabg.com:1337/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
+
+udp://t.overflow.biz:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -119,10 +131,6 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.dump.cl:6969/announce
 
 udp://tracker.filemail.com:6969/announce
-
-udp://tracker.fnix.net:6969/announce
-
-udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -156,10 +164,14 @@ udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-udp://u4.trakx.crim.ist:1337/announce
+udp://ttk2.nbaonlineservice.com:6969/announce
 
-udp://u6.trakx.crim.ist:1337/announce
+udp://u4.trakx.crim.ist:1337/announce
 
 udp://udp.tracker.projectk.org:23333/announce
 
+udp://wepzone.net:6969/announce
+
 udp://www.torrent.eu.org:451/announce
+
+wss://tracker.openwebtorrent.com:443/announce
