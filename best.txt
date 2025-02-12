@@ -16,17 +16,13 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tracker.beeimg.com:6969/announce
-
 http://tracker.bittor.pw:1337/announce
 
 http://tracker.lintk.me:2710/announce
 
+http://tracker.mywaifu.best:6969/announce
+
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
-
-http://tracker.tfile.co:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -35,6 +31,8 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://api.ipv4online.uk:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
