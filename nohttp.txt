@@ -8,6 +8,8 @@ https://sparkle.ghostchu-services.top:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -31,8 +33,6 @@ https://tracker.kmzs123.com:443/announce
 https://tracker.kuroy.me:443/announce
 
 https://tracker.leechshield.link:443/announce
-
-https://tracker.lilithraws.org:443/announce
 
 https://tracker.moeking.me:443/announce
 
@@ -96,6 +96,8 @@ udp://open.stealth.si:80/announce
 
 udp://open.tracker.cl:1337/announce
 
+udp://open.tracker.ink:6969/announce
+
 udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
@@ -110,9 +112,13 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -133,8 +139,6 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
-
-udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
