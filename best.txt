@@ -32,6 +32,8 @@ http://tracker.vanitycore.co:6969/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
 
+http://tracker810.xyz:11450/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.genesis-sp.org:2710/announce
@@ -44,15 +46,13 @@ https://api.ipv4online.uk:443/announce
 
 https://tr.abir.ga:443/announce
 
-https://tr.burnabyhighstar.com:443/announce
-
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
 
-https://tracker.foreverpirates.co:443/announce
+https://tracker.bjut.jp:443/announce
 
-https://tracker.gcrenwp.top:443/announce
+https://tracker.foreverpirates.co:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -75,6 +75,8 @@ udp://exodus.desync.com:6969/announce
 udp://isk.richardsw.club:6969/announce
 
 udp://ismaarino.com:1234/announce
+
+udp://ns-1.x-fins.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
