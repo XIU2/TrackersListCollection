@@ -4,6 +4,8 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://bt1.xxxxbt.cc:6969/announce
+
 http://fleira.no:6969/announce
 
 http://home.yxgz.club:6969/announce
@@ -41,6 +43,8 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://api.ipv4online.uk:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
