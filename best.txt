@@ -30,6 +30,8 @@ https://1337.abcvg.info:443/announce
 
 https://api.ipv4online.uk:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -87,8 +89,6 @@ udp://tracker.dump.cl:6969/announce
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
-
-udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
