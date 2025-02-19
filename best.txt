@@ -1,3 +1,5 @@
+http://0123456789nonexistent.com:80/announce
+
 http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -8,9 +10,13 @@ http://nyaa.tracker.wf:7777/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
+http://seeders-paradise.org:80/announce
+
 http://servandroidkino.ru:80/announce
 
 http://share.hkg-fansub.info:80/announce.php
+
+http://shubt.net:2710/announce
 
 http://t.nyaatracker.com:80/announce
 
@@ -19,6 +25,10 @@ http://taciturn-shadow.spb.ru:6969/announce
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
+
+http://tracker.bt-hash.com:80/announce
+
+http://tracker.corpscorp.online:80/announce
 
 http://tracker.dmcomic.org:2710/announce
 
@@ -43,8 +53,6 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://api.ipv4online.uk:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -103,6 +111,8 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.valete.tf:9999/announce
 
