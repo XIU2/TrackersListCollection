@@ -40,6 +40,8 @@ https://tracker.moeking.me:443/announce
 
 https://tracker.nanoha.org:443/announce
 
+https://tracker.wsaoa.eu.org:443/announce
+
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
@@ -161,8 +163,6 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.valete.tf:9999/announce
-
-udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
