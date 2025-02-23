@@ -138,6 +138,8 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
+udp://tracker.kmzs123.top:17272/announce
+
 udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
