@@ -16,6 +16,8 @@ http://torrentsmd.com:8080/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.moxing.party:6969/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
@@ -29,6 +31,8 @@ http://tracker.tfile.co:80/announce
 http://tracker.vanitycore.co:6969/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
+
+http://tracker810.xyz:11450/announce
 
 http://www.all4nothin.net:80/announce.php
 
