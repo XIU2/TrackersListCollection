@@ -6,7 +6,7 @@ http://fleira.no:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://shubt.net:2710/announce
+http://open.tracker.cl:1337/announce
 
 http://t.nyaatracker.com:80/announce
 
@@ -15,8 +15,6 @@ http://taciturn-shadow.spb.ru:6969/announce
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
-
-http://tracker.bz:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -27,6 +25,8 @@ http://tracker.netmap.top:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
+
+http://tracker.vanitycore.co:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -68,19 +68,15 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://discord.heihachi.pw:6969/announce
-
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
 udp://ismaarino.com:1234/announce
 
-udp://ns-1.x-fins.com:6969/announce
-
 udp://open.demonii.com:1337/announce
 
-udp://open.free-tracker.ga:6969/announce
+udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -93,6 +89,8 @@ udp://opentracker.io:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://thetracker.org:80/announce
 
@@ -108,6 +106,8 @@ udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
+udp://tracker.ololosh.space:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -115,6 +115,8 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
