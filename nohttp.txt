@@ -6,6 +6,8 @@ https://retracker.x2k.ru:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -37,6 +39,8 @@ https://tracker.nanoha.org:443/announce
 https://tracker.pmman.tech:443/announce
 
 https://tracker.yemekyedim.com:443/announce
+
+https://tracker.zhuqiy.top:443/announce
 
 https://tracker1.520.jp:443/announce
 

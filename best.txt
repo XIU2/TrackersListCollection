@@ -1,3 +1,5 @@
+http://0123456789nonexistent.com:80/announce
+
 http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -25,6 +27,8 @@ http://tracker.netmap.top:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
+
+http://tracker.vanitycore.co:6969/announce
 
 http://tracker810.xyz:11450/announce
 
@@ -59,6 +63,8 @@ https://tracker.moeking.me:443/announce
 https://tracker.nanoha.org:443/announce
 
 https://tracker.yemekyedim.com:443/announce
+
+https://tracker.zhuqiy.top:443/announce
 
 https://tracker1.520.jp:443/announce
 
