@@ -10,8 +10,6 @@ https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-https://tr.nyacat.pw:443/announce
-
 https://tr.zukizuki.org:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
@@ -33,8 +31,6 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.linvk.com:443/announce
 
 https://tracker.moeking.me:443/announce
-
-https://tracker.nanoha.org:443/announce
 
 https://tracker.pmman.tech:443/announce
 
@@ -78,11 +74,7 @@ udp://isk.richardsw.club:6969/announce
 
 udp://ismaarino.com:1234/announce
 
-udp://leet-tracker.moe:1337/announce
-
 udp://martin-gebhardt.eu:25/announce
-
-udp://ns-1.x-fins.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -111,8 +103,6 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://t.overflow.biz:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -152,6 +142,8 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -161,6 +153,8 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.valete.tf:9999/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.org:80/announce
 
