@@ -1,14 +1,8 @@
-http://0123456789nonexistent.com:80/announce
-
 http://1337.abcvg.info:80/announce
-
-http://bt.okmp3.ru:2710/announce
 
 http://fleira.no:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
-
-http://open.tracker.cl:1337/announce
 
 http://t.nyaatracker.com:80/announce
 
@@ -30,9 +24,13 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.sbsub.com:2710/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.tfile.co:80/announce
 
 http://www.all4nothin.net:80/announce.php
+
+http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -113,6 +111,8 @@ udp://tracker.dump.cl:6969/announce
 udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.ololosh.space:6969/announce
 
