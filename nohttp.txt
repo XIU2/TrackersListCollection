@@ -112,6 +112,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://t.overflow.biz:6969/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -140,6 +142,8 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
+udp://tracker.ololosh.space:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -160,8 +164,6 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.valete.tf:9999/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 udp://tracker2.dler.org:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
@@ -171,10 +173,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
-
-udp://u4.trakx.crim.ist:1337/announce
-
-udp://u6.trakx.crim.ist:1337/announce
 
 udp://udp.tracker.projectk.org:23333/announce
 
