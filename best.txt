@@ -4,11 +4,11 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://bt.poletracker.org:2710/announce
+
 http://fleira.no:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
-
-http://seeders-paradise.org:80/announce
 
 http://servandroidkino.ru:80/announce
 
@@ -32,13 +32,9 @@ http://tracker.netmap.top:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.sbsub.com:2710/announce
-
 http://tracker.skyts.net:6969/announce
 
 http://tracker.tfile.co:80/announce
-
-http://tracker810.xyz:11450/announce
 
 http://www.all4nothin.net:80/announce.php
 
