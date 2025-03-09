@@ -4,6 +4,8 @@ https://retracker.x2k.ru:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -68,15 +70,19 @@ udp://exodus.desync.com:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
+udp://isk.richardsw.club:6969/announce
+
 udp://ismaarino.com:1234/announce
 
-udp://leet-tracker.moe:1337/announce
-
 udp://martin-gebhardt.eu:25/announce
+
+udp://ns-1.x-fins.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -125,8 +131,6 @@ udp://tracker.gigantino.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.kmzs123.cn:17272/announce
-
-udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
