@@ -14,6 +14,8 @@ https://tracker.bjut.jp:443/announce
 
 https://tracker.bt4g.com:443/announce
 
+https://tracker.cangku.moe:443/announce
+
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gcrenwp.top:443/announce
@@ -100,8 +102,6 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://t.overflow.biz:6969/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -131,8 +131,6 @@ udp://tracker.kmzs123.cn:17272/announce
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.qu.ax:6969/announce
-
-udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
