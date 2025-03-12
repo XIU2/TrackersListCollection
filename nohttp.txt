@@ -48,6 +48,8 @@ https://tracker.zhuqiy.top:443/announce
 
 https://tracker1.520.jp:443/announce
 
+https://trunker.ghostchu-services.top:443/announce
+
 udp://207.241.226.111:6969/announce
 
 udp://207.241.231.226:6969/announce
@@ -116,8 +118,6 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://tr3.ysagin.top:2715/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -145,6 +145,10 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.home.kmzs123.cn:17272/announce
+
+udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 

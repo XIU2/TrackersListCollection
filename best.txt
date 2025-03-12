@@ -22,8 +22,6 @@ http://torrentsmd.com:8080/announce
 
 http://tracker.beeimg.com:6969/announce
 
-http://tracker.bittor.pw:1337/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.ipv6tracker.ru:80/announce
