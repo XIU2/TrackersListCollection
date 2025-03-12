@@ -146,10 +146,6 @@ udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.home.kmzs123.cn:17272/announce
-
-udp://tracker.iperson.xyz:6969/announce
-
 udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.kmzs123.top:17272/announce
