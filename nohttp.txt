@@ -72,19 +72,25 @@ udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
+udp://discord.heihachi.pw:6969/announce
+
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://ipv4announce.sktorrent.eu:6969/announce
+udp://ftp.pet:2710/announce
 
-udp://isk.richardsw.club:6969/announce
+udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://ismaarino.com:1234/announce
 
+udp://leet-tracker.moe:1337/announce
+
 udp://martin-gebhardt.eu:25/announce
+
+udp://ns-1.x-fins.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -147,6 +153,8 @@ udp://tracker.iperson.xyz:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.kmzs123.top:17272/announce
+
+udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
