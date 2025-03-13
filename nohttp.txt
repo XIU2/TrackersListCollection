@@ -58,8 +58,6 @@ udp://4.tracker.devnak.win:6969/announce
 
 udp://52.58.128.163:6969/announce
 
-udp://6.tracker.devnak.win:6969/announce
-
 udp://[2a03:7220:8083:cd00::1]:451/announce
 
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
@@ -84,6 +82,8 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://ftp.pet:2710/announce
+
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://isk.richardsw.club:6969/announce
@@ -95,8 +95,6 @@ udp://leet-tracker.moe:1337/announce
 udp://martin-gebhardt.eu:25/announce
 
 udp://ns-1.x-fins.com:6969/announce
-
-udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -163,8 +161,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 

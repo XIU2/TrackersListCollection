@@ -2,6 +2,8 @@ http://0123456789nonexistent.com:80/announce
 
 http://1337.abcvg.info:80/announce
 
+http://6.tracker.devnak.win:6969/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://fleira.no:6969/announce
@@ -34,6 +36,8 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.moxing.party:6969/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.netmap.top:6969/announce
@@ -49,8 +53,6 @@ http://www.all4nothin.net:80/announce.php
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -77,8 +79,6 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker.zhuqiy.top:443/announce
 
 https://tracker1.520.jp:443/announce
-
-udp://4.tracker.devnak.win:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
