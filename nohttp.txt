@@ -4,7 +4,7 @@ https://retracker.x2k.ru:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
-https://threads.canofsocks.com:443/announce
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -19,6 +19,8 @@ https://tracker.aburaya.live:443/announce
 https://tracker.bjut.jp:443/announce
 
 https://tracker.bt4g.com:443/announce
+
+https://tracker.cangku.moe:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -56,6 +58,8 @@ udp://4.tracker.devnak.win:6969/announce
 
 udp://52.58.128.163:6969/announce
 
+udp://6.tracker.devnak.win:6969/announce
+
 udp://[2a03:7220:8083:cd00::1]:451/announce
 
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
@@ -79,8 +83,6 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://ftp.pet:2710/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
@@ -122,8 +124,6 @@ udp://t.overflow.biz:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -164,6 +164,8 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -173,6 +175,10 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.valete.tf:9999/announce
+
+udp://tracker.yume-hatsuyuki.moe:6969/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.org:80/announce
 
