@@ -2,15 +2,23 @@ http://1337.abcvg.info:80/announce
 
 http://4.tracker.devnak.win:6969/announce
 
+http://6.tracker.devnak.win:6969/announce
+
 http://bt.okmp3.ru:2710/announce
 
+http://finbytes.org:80/announce.php
+
 http://fleira.no:6969/announce
+
+http://highteahop.top:6960/announce
 
 http://ipv6.rer.lol:6969/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
+
+http://share.hkg-fansub.info:80/announce.php
 
 http://t.nyaatracker.com:80/announce
 
@@ -22,13 +30,15 @@ http://torrentsmd.com:8080/announce
 
 http://tracker.beeimg.com:6969/announce
 
+http://tracker.bittor.pw:1337/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.mywaifu.best:6969/announce
+http://tracker.moxing.party:6969/announce
 
-http://tracker.netmap.top:6969/announce
+http://tracker.mywaifu.best:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -41,8 +51,6 @@ http://www.all4nothin.net:80/announce.php
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -78,9 +86,13 @@ udp://exodus.desync.com:6969/announce
 
 udp://ismaarino.com:1234/announce
 
+udp://leet-tracker.moe:1337/announce
+
 udp://martin-gebhardt.eu:25/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -100,21 +112,13 @@ udp://retracker.lanta.me:2710/announce
 
 udp://thetracker.org:80/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://tracker.0x7c0.com:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.darkness.services:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.doko.moe:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -136,8 +140,6 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -147,8 +149,6 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.valete.tf:9999/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.org:80/announce
 
