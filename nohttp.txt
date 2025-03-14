@@ -20,8 +20,6 @@ https://tracker.bjut.jp:443/announce
 
 https://tracker.bt4g.com:443/announce
 
-https://tracker.cangku.moe:443/announce
-
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gcrenwp.top:443/announce
@@ -118,6 +116,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://t.overflow.biz:6969/announce
 
+udp://torrent.i.ng:6969/announce
+
 udp://tr3.ysagin.top:2715/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -146,6 +146,8 @@ udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
+udp://tracker.home.kmzs123.cn:17272/announce
+
 udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.kmzs123.cn:17272/announce
@@ -157,6 +159,8 @@ udp://tracker.ololosh.space:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.qu.ax:6969/announce
+
+udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -173,6 +177,8 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.valete.tf:9999/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.org:80/announce
 
