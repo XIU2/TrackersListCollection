@@ -2,6 +2,8 @@ https://1337.abcvg.info:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -68,8 +70,6 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://ftp.pet:2710/announce
-
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://ismaarino.com:1234/announce
@@ -77,6 +77,8 @@ udp://ismaarino.com:1234/announce
 udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
+
+udp://ns-1.x-fins.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -181,8 +183,6 @@ udp://tracker4.itzmx.com:2710/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
-
-udp://utracker.ghostchu-services.top:6969/announce
 
 udp://wepzone.net:6969/announce
 
