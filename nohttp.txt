@@ -2,8 +2,6 @@ https://1337.abcvg.info:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -21,6 +19,8 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
+
+https://tracker.guguan.dpdns.org:443/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
@@ -70,6 +70,8 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://files.project-cataclysm.ru:6969/announce
+
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://isk.richardsw.club:6969/announce
@@ -109,6 +111,8 @@ udp://t.overflow.biz:6969/announce
 udp://torrent.i.ng:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 

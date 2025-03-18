@@ -12,9 +12,7 @@ http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://servandroidkino.ru:80/announce
-
-http://shubt.net:2710/announce
+http://share.hkg-fansub.info:80/announce.php
 
 http://t.nyaatracker.com:80/announce
 
@@ -42,13 +40,13 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.netmap.top:6969/announce
-
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
+
+http://tracker.vanitycore.co:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -57,6 +55,8 @@ http://www.genesis-sp.org:2710/announce
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -67,6 +67,8 @@ https://tracker.aburaya.live:443/announce
 https://tracker.bjut.jp:443/announce
 
 https://tracker.foreverpirates.co:443/announce
+
+https://tracker.guguan.dpdns.org:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -87,6 +89,8 @@ udp://discord.heihachi.pw:6969/announce
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
+
+udp://files.project-cataclysm.ru:6969/announce
 
 udp://ismaarino.com:1234/announce
 
