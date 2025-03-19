@@ -136,6 +136,8 @@ udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
+udp://tracker.home.kmzs123.cn:17272/announce
+
 udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.kmzs123.cn:17272/announce
@@ -151,6 +153,8 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 

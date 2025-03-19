@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://4.tracker.devnak.win:6969/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://fleira.no:6969/announce
@@ -28,6 +26,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.netmap.top:6969/announce
+
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.renfei.net:8080/announce
@@ -51,6 +51,8 @@ https://tracker.aburaya.live:443/announce
 https://tracker.bjut.jp:443/announce
 
 https://tracker.foreverpirates.co:443/announce
+
+https://tracker.ghostchu-services.top:443/announce
 
 https://tracker.kuroy.me:443/announce
 
