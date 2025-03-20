@@ -14,6 +14,14 @@ http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://open.trackerlist.xyz:80/announce
+
+http://retracker.spark-rostov.ru:80/announce
+
+http://share.hkg-fansub.info:80/announce.php
+
+http://shubt.net:2710/announce
+
 http://t.jaekr.sh:6969/announce
 
 http://t.nyaatracker.com:80/announce
@@ -27,8 +35,6 @@ http://torrent.hificode.in:6969/announce
 http://torrentsmd.com:8080/announce
 
 http://tracker.beeimg.com:6969/announce
-
-http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -56,8 +62,6 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.zukizuki.org:443/announce
@@ -81,8 +85,6 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker.zhuqiy.top:443/announce
 
 https://tracker1.520.jp:443/announce
-
-udp://admin.52ywp.com:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
