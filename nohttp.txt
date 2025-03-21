@@ -2,6 +2,8 @@ https://1337.abcvg.info:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
+https://tr.abiir.top:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -64,13 +66,13 @@ udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://discord.heihachi.pw:6969/announce
-
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
+
+udp://isk.richardsw.club:6969/announce
 
 udp://ismaarino.com:1234/announce
 
@@ -83,8 +85,6 @@ udp://ns-1.x-fins.com:6969/announce
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -110,9 +110,13 @@ udp://torrent.i.ng:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -120,15 +124,11 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
-udp://tracker.ddunlimited.net:6969/announce
-
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.dump.cl:6969/announce
-
-udp://tracker.edkj.club:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -150,9 +150,11 @@ udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker.skynetcloud.site:6969/announce
+udp://tracker.qu.ax:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
