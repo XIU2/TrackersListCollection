@@ -8,8 +8,6 @@ http://6.tracker.devnak.win:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://buny.uk:6969/announce
-
 http://fleira.no:6969/announce
 
 http://highteahop.top:6960/announce
@@ -34,25 +32,21 @@ http://torrentsmd.com:8080/announce
 
 http://tracker.beeimg.com:6969/announce
 
+http://tracker.bt-hash.com:80/announce
+
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.bz:80/announce
+http://tracker.dmcomic.org:2710/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lintk.me:2710/announce
 
-http://tracker.lyretain.site:2710/announce
-
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.netmap.top:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.sbsub.com:2710/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -60,15 +54,11 @@ http://tracker.xiaoduola.xyz:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.genesis-sp.org:2710/announce
-
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -159,8 +149,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.valete.tf:9999/announce
-
-udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
