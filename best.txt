@@ -8,6 +8,8 @@ http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://t.jaekr.sh:6969/announce
+
 http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
@@ -38,6 +40,8 @@ http://tracker810.xyz:11450/announce
 
 http://www.all4nothin.net:80/announce.php
 
+http://www.torrentsnipe.info:2701/announce
+
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
@@ -61,10 +65,6 @@ https://tracker.kuroy.me:443/announce
 https://tracker.leechshield.link:443/announce
 
 https://tracker.lilithraws.org:443/announce
-
-https://tracker.opendev.cloud:443/announce
-
-https://tracker.pmman.tech:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
@@ -109,6 +109,10 @@ udp://p2p.publictracker.xyz:6969/announce
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.lanta.me:2710/announce
+
+udp://torrent.i.ng:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
