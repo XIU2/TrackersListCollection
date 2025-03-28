@@ -104,8 +104,6 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://torrent.i.ng:6969/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker-v6.opendev.cloud:8000/announce
