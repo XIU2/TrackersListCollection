@@ -24,8 +24,6 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.moxing.party:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
@@ -39,6 +37,8 @@ http://tracker.xiaoduola.xyz:6969/announce
 http://tracker810.xyz:11450/announce
 
 http://www.all4nothin.net:80/announce.php
+
+http://www.genesis-sp.org:2710/announce
 
 http://www.torrentsnipe.info:2701/announce
 
@@ -104,9 +104,9 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.lanta.me:2710/announce
 
-udp://torrent.i.ng:6969/announce
+udp://t.overflow.biz:6969/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
+udp://torrent.i.ng:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 

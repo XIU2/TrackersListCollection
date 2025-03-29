@@ -18,6 +18,8 @@ https://tracker.bjut.jp:443/announce
 
 https://tracker.bt4g.com:443/announce
 
+https://tracker.cangku.moe:443/announce
+
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gcrenwp.top:443/announce
@@ -151,8 +153,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
