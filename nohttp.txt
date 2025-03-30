@@ -70,6 +70,8 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://ftp.pet:2710/announce
+
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://isk.richardsw.club:6969/announce
@@ -81,8 +83,6 @@ udp://leet-tracker.moe:1337/announce
 udp://martin-gebhardt.eu:25/announce
 
 udp://open.demonii.com:1337/announce
-
-udp://open.dstud.io:6969/announce
 
 udp://open.free-tracker.ga:6969/announce
 
