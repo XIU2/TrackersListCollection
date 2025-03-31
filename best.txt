@@ -32,8 +32,6 @@ http://tracker.renfei.net:8080/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.genesis-sp.org:2710/announce
-
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
@@ -70,8 +68,6 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://evan.im:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://ismaarino.com:1234/announce
 
 udp://martin-gebhardt.eu:25/announce
@@ -107,6 +103,12 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.darkness.services:6969/announce
 
 udp://tracker.dler.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
+
+udp://tracker.dump.cl:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
