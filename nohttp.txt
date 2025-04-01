@@ -4,8 +4,6 @@ https://sparkle.ghostchu-services.top:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -18,13 +16,13 @@ https://tracker.bjut.jp:443/announce
 
 https://tracker.bt4g.com:443/announce
 
+https://tracker.cangku.moe:443/announce
+
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
-
-https://tracker.guguan.dpdns.org:443/announce
 
 https://tracker.jdx3.org:443/announce
 
@@ -35,8 +33,6 @@ https://tracker.leechshield.link:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.linvk.com:443/announce
-
-https://tracker.opendev.cloud:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
@@ -61,8 +57,6 @@ udp://admin.52ywp.com:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt.ktrackers.com:6666/announce
-
-udp://bt.rer.lol:6969/announce
 
 udp://concen.org:6969/announce
 
@@ -120,11 +114,9 @@ udp://t.overflow.biz:6969/announce
 
 udp://torrent.i.ng:6969/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
+udp://tr3.ysagin.top:2715/announce
 
 udp://tracker-udp.gbitt.info:80/announce
-
-udp://tracker-v6.opendev.cloud:8000/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -171,8 +163,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 

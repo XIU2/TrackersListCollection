@@ -62,6 +62,8 @@ https://tracker.zhuqiy.top:443/announce
 
 https://tracker1.520.jp:443/announce
 
+udp://bt.ktrackers.com:6666/announce
+
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -91,6 +93,8 @@ udp://public.tracker.vraphim.com:6969/announce
 udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://t.overflow.biz:6969/announce
 
 udp://torrent.i.ng:6969/announce
 
