@@ -10,6 +10,8 @@ https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
 
+https://tracker.aburaya.live:443/announce
+
 https://tracker.bjut.jp:443/announce
 
 https://tracker.bt4g.com:443/announce
@@ -30,6 +32,8 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.linvk.com:443/announce
 
+https://tracker.opendev.cloud:443/announce
+
 https://tracker.pmman.tech:443/announce
 
 https://tracker.yemekyedim.com:443/announce
@@ -41,6 +45,8 @@ https://tracker1.520.jp:443/announce
 udp://207.241.226.111:6969/announce
 
 udp://207.241.231.226:6969/announce
+
+udp://4.tracker.devnak.win:6969/announce
 
 udp://52.58.128.163:6969/announce
 
@@ -56,11 +62,11 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt.ktrackers.com:6666/announce
 
+udp://bt.rer.lol:6969/announce
+
 udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
-
-udp://discord.heihachi.pw:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
@@ -72,9 +78,9 @@ udp://ftp.pet:2710/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
-udp://ismaarino.com:1234/announce
+udp://isk.richardsw.club:6969/announce
 
-udp://leet-tracker.moe:1337/announce
+udp://ismaarino.com:1234/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -98,6 +104,8 @@ udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
@@ -114,9 +122,9 @@ udp://tr3.ysagin.top:2715/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://tracker.0x7c0.com:6969/announce
+udp://tracker-v6.opendev.cloud:8000/announce
 
-udp://tracker.bittor.pw:1337/announce
+udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -129,8 +137,6 @@ udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -155,6 +161,8 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
