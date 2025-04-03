@@ -1,5 +1,3 @@
-http://0123456789nonexistent.com:80/announce
-
 http://0d.kebhana.mx:443/announce
 
 http://1337.abcvg.info:80/announce
@@ -18,17 +16,11 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://bt.poletracker.org:2710/announce
-
 http://bt1.xxxxbt.cc:6969/announce
 
 http://ch3oh.ru:6969/announce
 
 http://finbytes.org:80/announce.php
-
-http://fosstorrents.com:6969/announce
-
-http://highteahop.top:6960/announce
 
 http://home.yxgz.club:6969/announce
 
@@ -42,17 +34,17 @@ http://nyaa.tracker.wf:7777/announce
 
 http://p4p.arenabg.com:1337/announce
 
-http://public.tracker.vraphim.com:6969/announce
-
 http://retracker.hotplug.ru:2710/announce
 
-http://shubt.net:2710/announce
+http://share.hkg-fansub.info:80/announce.php
 
 http://t.jaekr.sh:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
+
+http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -68,9 +60,9 @@ http://tracker.bz:80/announce
 
 http://tracker.darkness.services:6969/announce
 
-http://tracker.dler.com:6969/announce
-
 http://tracker.dler.org:6969/announce
+
+http://tracker.dmcomic.org:2710/announce
 
 http://tracker.ghostchu-services.top:80/announce
 
@@ -80,13 +72,15 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lintk.me:2710/announce
 
-http://tracker.moxing.party:6969/announce
+http://tracker.lyretain.site:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.netmap.top:6969/announce
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
+
+http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -108,8 +102,6 @@ http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.torrentsnipe.info:2701/announce
-
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
@@ -117,6 +109,8 @@ https://1337.abcvg.info:443/announce
 https://sparkle.ghostchu-services.top:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -146,8 +140,6 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.linvk.com:443/announce
 
-https://tracker.opendev.cloud:443/announce
-
 https://tracker.pmman.tech:443/announce
 
 https://tracker.yemekyedim.com:443/announce
@@ -169,8 +161,6 @@ udp://[2a03:7220:8083:cd00::1]:451/announce
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 udp://[2a0f:e586:f:f::81]:6969/announce
-
-udp://admin.52ywp.com:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -235,8 +225,6 @@ udp://torrent.i.ng:6969/announce
 udp://tr3.ysagin.top:2715/announce
 
 udp://tracker-udp.gbitt.info:80/announce
-
-udp://tracker-v6.opendev.cloud:8000/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
