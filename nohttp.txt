@@ -34,6 +34,8 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.linvk.com:443/announce
 
+https://tracker.opendev.cloud:443/announce
+
 https://tracker.pmman.tech:443/announce
 
 https://tracker.yemekyedim.com:443/announce
@@ -45,8 +47,6 @@ https://tracker1.520.jp:443/announce
 udp://207.241.226.111:6969/announce
 
 udp://207.241.231.226:6969/announce
-
-udp://4.tracker.devnak.win:6969/announce
 
 udp://52.58.128.163:6969/announce
 
@@ -62,6 +62,10 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt.ktrackers.com:6666/announce
 
+udp://bt.rer.lol:2710/announce
+
+udp://bt.rer.lol:6969/announce
+
 udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -74,15 +78,15 @@ udp://exodus.desync.com:6969/announce
 
 udp://ftp.pet:2710/announce
 
-udp://ipv4announce.sktorrent.eu:6969/announce
+udp://ipv4.rer.lol:2710/announce
 
-udp://isk.richardsw.club:6969/announce
+udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://ismaarino.com:1234/announce
 
-udp://martin-gebhardt.eu:25/announce
+udp://leet-tracker.moe:1337/announce
 
-udp://ns-1.x-fins.com:6969/announce
+udp://martin-gebhardt.eu:25/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -118,7 +122,11 @@ udp://torrent.i.ng:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://tracker-v6.opendev.cloud:8000/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -131,6 +139,8 @@ udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
+
+udp://tracker.dump.cl:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -148,8 +158,6 @@ udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
-udp://tracker.ololosh.space:6969/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -161,6 +169,8 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -181,8 +191,6 @@ udp://tracker4.itzmx.com:2710/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
-
-udp://utracker.ghostchu-services.top:6969/announce
 
 udp://wepzone.net:6969/announce
 
