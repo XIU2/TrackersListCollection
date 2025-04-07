@@ -8,6 +8,8 @@ http://ipv6.rer.lol:6969/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
+http://ns3109441.mypdns.org:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://t.jaekr.sh:6969/announce
@@ -15,8 +17,6 @@ http://t.jaekr.sh:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
-
-http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -27,8 +27,6 @@ http://tracker.beeimg.com:6969/announce
 http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.bz:80/announce
 
 http://tracker.corpscorp.online:80/announce
 
@@ -55,8 +53,6 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -111,6 +107,8 @@ udp://retracker.lanta.me:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://torrent.i.ng:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
