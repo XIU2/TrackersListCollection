@@ -6,7 +6,7 @@ http://6.tracker.devnak.win:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://ipv4.rer.lol:2710/announce
+http://bt1.xxxxbt.cc:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -22,15 +22,23 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
 
+http://torrent.hificode.in:6969/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tracker.23794.top:6969/announce
 
 http://tracker.beeimg.com:6969/announce
 
+http://tracker.bt-hash.com:80/announce
+
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.bz:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
+
+http://tracker.lintk.me:2710/announce
 
 http://tracker.moxing.party:6969/announce
 
@@ -41,8 +49,6 @@ http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
-
-http://tracker.vanitycore.co:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -104,9 +110,9 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.lanta.me:2710/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://torrent.i.ng:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
