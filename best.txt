@@ -14,17 +14,17 @@ http://ns3109441.mypdns.org:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://taciturn-shadow.spb.ru:6969/announce
-
 http://tk.greedland.net:80/announce
 
-http://torrent.hificode.in:6969/announce
-
 http://torrentsmd.com:8080/announce
+
+http://tracker.23794.top:6969/announce
 
 http://tracker.beeimg.com:6969/announce
 
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.gbitt.info:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -40,17 +40,19 @@ http://tracker.vanitycore.co:6969/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
 
+http://tracker810.xyz:11450/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.genesis-sp.org:2710/announce
+
+http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.zukizuki.org:443/announce
 
@@ -59,6 +61,8 @@ https://tracker.aburaya.live:443/announce
 https://tracker.bjut.jp:443/announce
 
 https://tracker.foreverpirates.co:443/announce
+
+https://tracker.gbitt.info:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
