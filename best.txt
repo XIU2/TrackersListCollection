@@ -18,23 +18,19 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
 
-http://torrent.hificode.in:6969/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tracker.23794.top:6969/announce
 
 http://tracker.beeimg.com:6969/announce
 
+http://tracker.bt-hash.com:80/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dmcomic.org:2710/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.lintk.me:2710/announce
-
-http://tracker.moxing.party:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -46,17 +42,19 @@ http://tracker.sbsub.com:2710/announce
 
 http://tracker.skyts.net:6969/announce
 
+http://tracker.vanitycore.co:6969/announce
+
 http://tracker.xiaoduola.xyz:6969/announce
 
 http://www.all4nothin.net:80/announce.php
+
+http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.zukizuki.org:443/announce
 
@@ -100,8 +98,6 @@ udp://ns-1.x-fins.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.stealth.si:80/announce
-
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
@@ -117,6 +113,8 @@ udp://retracker.lanta.me:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://torrent.i.ng:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
