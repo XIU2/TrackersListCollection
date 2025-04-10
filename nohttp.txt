@@ -122,8 +122,6 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.darkness.services:6969/announce
@@ -144,13 +142,13 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.home.kmzs123.cn:17272/announce
 
-udp://tracker.iperson.xyz:6969/announce
-
 udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
 udp://tracker.nitrix.me:6969/announce
+
+udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
