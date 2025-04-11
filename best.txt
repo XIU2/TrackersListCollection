@@ -18,17 +18,15 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
 
+http://torrent.hificode.in:6969/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tracker.23794.top:6969/announce
 
 http://tracker.beeimg.com:6969/announce
 
-http://tracker.bt-hash.com:80/announce
-
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.dmcomic.org:2710/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -38,17 +36,11 @@ http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.sbsub.com:2710/announce
-
 http://tracker.skyts.net:6969/announce
-
-http://tracker.vanitycore.co:6969/announce
-
-http://tracker.xiaoduola.xyz:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.torrentsnipe.info:2701/announce
+http://www.genesis-sp.org:2710/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -84,19 +76,27 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
+udp://discord.heihachi.pw:6969/announce
+
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://isk.richardsw.club:6969/announce
+
 udp://ismaarino.com:1234/announce
+
+udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://ns-1.x-fins.com:6969/announce
-
 udp://open.demonii.com:1337/announce
+
+udp://open.free-tracker.ga:6969/announce
+
+udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
@@ -126,6 +126,8 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.dump.cl:6969/announce
+
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
@@ -141,6 +143,8 @@ udp://tracker.nitrix.me:6969/announce
 udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
