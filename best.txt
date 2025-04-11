@@ -40,7 +40,7 @@ http://tracker.skyts.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.genesis-sp.org:2710/announce
+http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -114,7 +114,7 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://torrent.i.ng:6969/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 

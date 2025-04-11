@@ -16,8 +16,6 @@ https://tracker.bjut.jp:443/announce
 
 https://tracker.bt4g.com:443/announce
 
-https://tracker.expli.top:443/announce
-
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gcrenwp.top:443/announce
@@ -122,8 +120,6 @@ udp://thouvenin.cloud:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker-v6.opendev.cloud:8000/announce
@@ -151,8 +147,6 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
-
-udp://tracker.home.kmzs123.cn:17272/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -185,8 +179,6 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.valete.tf:9999/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.org:80/announce
 
