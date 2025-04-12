@@ -16,6 +16,8 @@ https://tracker.bjut.jp:443/announce
 
 https://tracker.bt4g.com:443/announce
 
+https://tracker.cangku.moe:443/announce
+
 https://tracker.expli.top:443/announce
 
 https://tracker.foreverpirates.co:443/announce
@@ -47,8 +49,6 @@ https://tracker1.520.jp:443/announce
 udp://207.241.226.111:6969/announce
 
 udp://207.241.231.226:6969/announce
-
-udp://4.tracker.devnak.win:6969/announce
 
 udp://52.58.128.163:6969/announce
 
@@ -122,6 +122,8 @@ udp://t.overflow.biz:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
+udp://tr3.ysagin.top:2715/announce
+
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -173,6 +175,8 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
