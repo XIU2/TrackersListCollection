@@ -4,6 +4,8 @@ https://sparkle.ghostchu-services.top:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
@@ -32,6 +34,8 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.linvk.com:443/announce
 
+https://tracker.moeblog.cn:443/announce
+
 https://tracker.pmman.tech:443/announce
 
 https://tracker.yemekyedim.com:443/announce
@@ -53,6 +57,8 @@ udp://[2a03:7220:8083:cd00::1]:451/announce
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 udp://[2a0f:e586:f:f::81]:6969/announce
+
+udp://admin.52ywp.com:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -116,8 +122,6 @@ udp://t.overflow.biz:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
-udp://tr3.ysagin.top:2715/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -169,8 +173,6 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
