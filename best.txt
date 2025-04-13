@@ -2,7 +2,7 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://bt.poletracker.org:2710/announce
+http://bt1.xxxxbt.cc:6969/announce
 
 http://buny.uk:6969/announce
 
@@ -13,8 +13,6 @@ http://lucke.fenesisu.moe:6969/announce
 http://ns3109441.mypdns.org:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
-
-http://shubt.net:2710/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -34,13 +32,15 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lintk.me:2710/announce
 
+http://tracker.moxing.party:6969/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.sbsub.com:2710/announce
+http://tracker.skyts.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -49,8 +49,6 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.zukizuki.org:443/announce
 
