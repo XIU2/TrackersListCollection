@@ -2,7 +2,11 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://buny.uk:6969/announce
+
 http://chihaya.de:80/announce
+
+http://finbytes.org:80/announce.php
 
 http://ipv6.rer.lol:6969/announce
 
@@ -12,11 +16,13 @@ http://ns3109441.mypdns.org:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://servandroidkino.ru:80/announce
+
+http://shubt.net:2710/announce
+
 http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
-
-http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -26,11 +32,9 @@ http://tracker.beeimg.com:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.ipv6tracker.org:80/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.moxing.party:6969/announce
+http://tracker.lintk.me:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -42,6 +46,8 @@ http://tracker.skyts.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
+http://www.genesis-sp.org:2710/announce
+
 http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
@@ -50,6 +56,8 @@ https://1337.abcvg.info:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.zukizuki.org:443/announce
 
 https://tracker.aburaya.live:443/announce
@@ -57,8 +65,6 @@ https://tracker.aburaya.live:443/announce
 https://tracker.bjut.jp:443/announce
 
 https://tracker.expli.top:443/announce
-
-https://tracker.foreverpirates.co:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
@@ -74,13 +80,13 @@ https://tracker.zhuqiy.top:443/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://evan.im:6969/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://isk.richardsw.club:6969/announce
 
@@ -106,8 +112,6 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -117,6 +121,8 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.darkness.services:6969/announce
 
 udp://tracker.dler.com:6969/announce
+
+udp://tracker.dump.cl:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
@@ -129,8 +135,6 @@ udp://tracker.kmzs123.cn:17272/announce
 udp://tracker.kmzs123.top:17272/announce
 
 udp://tracker.nitrix.me:6969/announce
-
-udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
