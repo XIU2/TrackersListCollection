@@ -36,6 +36,8 @@ https://tracker.linvk.com:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
+https://tracker.pmman.tech:443/announce
+
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker.zhuqiy.top:443/announce
@@ -152,8 +154,6 @@ udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
-udp://tracker.nitrix.me:6969/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -175,8 +175,6 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.valete.tf:9999/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.org:80/announce
 

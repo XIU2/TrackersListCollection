@@ -1,12 +1,14 @@
 http://1337.abcvg.info:80/announce
 
+http://4.tracker.devnak.win:6969/announce
+
+http://6.tracker.devnak.win:6969/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://buny.uk:6969/announce
 
 http://chihaya.de:80/announce
-
-http://finbytes.org:80/announce.php
 
 http://ipv6.rer.lol:6969/announce
 
@@ -34,8 +36,6 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.lintk.me:2710/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
@@ -45,8 +45,6 @@ http://tracker.renfei.net:8080/announce
 http://tracker.skyts.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.genesis-sp.org:2710/announce
 
 http://www.torrentsnipe.info:2701/announce
 
@@ -66,7 +64,11 @@ https://tracker.bjut.jp:443/announce
 
 https://tracker.expli.top:443/announce
 
+https://tracker.foreverpirates.co:443/announce
+
 https://tracker.ghostchu-services.top:443/announce
+
+https://tracker.jdx3.org:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -133,8 +135,6 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.kmzs123.top:17272/announce
-
-udp://tracker.nitrix.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
