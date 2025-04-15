@@ -1,14 +1,10 @@
 http://1337.abcvg.info:80/announce
 
-http://4.tracker.devnak.win:6969/announce
-
-http://6.tracker.devnak.win:6969/announce
-
 http://bt.okmp3.ru:2710/announce
 
-http://buny.uk:6969/announce
-
 http://chihaya.de:80/announce
+
+http://home.yxgz.club:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -19,8 +15,6 @@ http://ns3109441.mypdns.org:6969/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://servandroidkino.ru:80/announce
-
-http://shubt.net:2710/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -44,7 +38,11 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
 
+http://tracker810.xyz:11450/announce
+
 http://www.all4nothin.net:80/announce.php
+
+http://www.genesis-sp.org:2710/announce
 
 http://www.torrentsnipe.info:2701/announce
 
@@ -131,6 +129,8 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.home.kmzs123.cn:17272/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
