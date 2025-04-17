@@ -2,8 +2,6 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://bt1.xxxxbt.cc:6969/announce
-
 http://chihaya.de:80/announce
 
 http://ipv6.rer.lol:6969/announce
@@ -17,8 +15,6 @@ http://nyaa.tracker.wf:7777/announce
 http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
-
-http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -39,8 +35,6 @@ http://tracker.renfei.net:8080/announce
 http://tracker.skyts.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -112,6 +106,10 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.dump.cl:6969/announce
+
+udp://tracker.filemail.com:6969/announce
+
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
@@ -121,8 +119,6 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.kmzs123.top:17272/announce
-
-udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -136,11 +132,15 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.torrust-demo.com:6969/announce
+
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.valete.tf:9999/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
