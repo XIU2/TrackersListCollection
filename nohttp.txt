@@ -6,6 +6,8 @@ https://sparkle.ghostchu-services.top:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.nyacat.pw:443/announce
+
 https://tr.zukizuki.org:443/announce
 
 https://tracker.aburaya.live:443/announce
@@ -68,8 +70,6 @@ udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://discord.heihachi.pw:6969/announce
-
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://evan.im:6969/announce
@@ -82,15 +82,11 @@ udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://ismaarino.com:1234/announce
 
-udp://leet-tracker.moe:1337/announce
-
 udp://martin-gebhardt.eu:25/announce
 
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -121,8 +117,6 @@ udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -178,8 +172,6 @@ udp://tracker.valete.tf:9999/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 udp://tracker2.dler.org:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
@@ -191,8 +183,6 @@ udp://tracker4.itzmx.com:2710/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
-
-udp://utracker.ghostchu-services.top:6969/announce
 
 udp://wepzone.net:6969/announce
 
