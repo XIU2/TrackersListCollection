@@ -18,8 +18,6 @@ http://ns3109441.mypdns.org:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://seeders-paradise.org:80/announce
-
 http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
@@ -44,15 +42,11 @@ http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.sbsub.com:2710/announce
-
 http://tracker.skyts.net:6969/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -131,6 +125,8 @@ udp://tracker.darkness.services:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dump.cl:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
