@@ -116,8 +116,6 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://thouvenin.cloud:6969/announce
 
 udp://torrent.i.ng:6969/announce
@@ -199,6 +197,8 @@ udp://tracker4.itzmx.com:2710/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
+
+udp://utracker.ghostchu-services.top:6969/announce
 
 udp://wepzone.net:6969/announce
 
