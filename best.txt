@@ -14,6 +14,8 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
 
+http://torrent.hificode.in:6969/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tracker.23794.top:6969/announce
@@ -39,8 +41,6 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
