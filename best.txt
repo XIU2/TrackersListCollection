@@ -14,11 +14,7 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
 
-http://torrent.hificode.in:6969/announce
-
 http://torrentsmd.com:8080/announce
-
-http://tracker.23794.top:6969/announce
 
 http://tracker.beeimg.com:6969/announce
 
@@ -34,8 +30,6 @@ http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.sbsub.com:2710/announce
-
 http://tracker.skyts.net:6969/announce
 
 http://tracker.vanitycore.co:6969/announce
@@ -43,8 +37,6 @@ http://tracker.vanitycore.co:6969/announce
 http://tracker.xiaoduola.xyz:6969/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.genesis-sp.org:2710/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -112,8 +104,6 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://thouvenin.cloud:6969/announce
 
 udp://torrent.i.ng:6969/announce
@@ -167,8 +157,6 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
-
-udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
