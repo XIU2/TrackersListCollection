@@ -14,6 +14,8 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://bt.poletracker.org:2710/announce
+
 http://bt1.xxxxbt.cc:6969/announce
 
 http://buny.uk:6969/announce
@@ -23,6 +25,8 @@ http://chihaya.de:80/announce
 http://finbytes.org:80/announce.php
 
 http://fosstorrents.com:6969/announce
+
+http://home.yxgz.club:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -34,17 +38,17 @@ http://ns3109441.mypdns.org:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://open.trackerlist.xyz:80/announce
+
 http://p4p.arenabg.com:1337/announce
 
 http://public.tracker.vraphim.com:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
+http://seeders-paradise.org:80/announce
+
 http://servandroidkino.ru:80/announce
-
-http://share.hkg-fansub.info:80/announce.php
-
-http://shubt.net:2710/announce
 
 http://t.jaekr.sh:6969/announce
 
@@ -60,11 +64,7 @@ http://torrentsmd.com:8080/announce
 
 http://tr.nyacat.pw:80/announce
 
-http://tracker.23794.top:6969/announce
-
 http://tracker.beeimg.com:6969/announce
-
-http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt-hash.com:80/announce
 
@@ -73,6 +73,8 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.bz:80/announce
 
 http://tracker.darkness.services:6969/announce
+
+http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -84,6 +86,10 @@ http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.lintk.me:2710/announce
+
+http://tracker.moxing.party:6969/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.netmap.top:6969/announce
@@ -93,8 +99,6 @@ http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.sbsub.com:2710/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -125,8 +129,6 @@ https://chihaya.de:443/announce
 https://sparkle.ghostchu-services.top:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
