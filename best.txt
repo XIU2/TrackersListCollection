@@ -20,11 +20,13 @@ http://torrentsmd.com:8080/announce
 
 http://tracker.beeimg.com:6969/announce
 
+http://tracker.bittor.pw:1337/announce
+
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.ipv6tracker.ru:80/announce
+http://tracker.dmcomic.org:2710/announce
 
-http://tracker.lintk.me:2710/announce
+http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -34,15 +36,9 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.sbsub.com:2710/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.tritan.gg:8080/announce
 
-http://tracker.xiaoduola.xyz:6969/announce
-
 http://www.all4nothin.net:80/announce.php
-
-http://www.genesis-sp.org:2710/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -143,8 +139,6 @@ udp://tracker.kmzs123.top:17272/announce
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.qu.ax:6969/announce
-
-udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
