@@ -4,9 +4,9 @@ http://bt.okmp3.ru:2710/announce
 
 http://bt1.xxxxbt.cc:6969/announce
 
-http://buny.uk:6969/announce
-
 http://chihaya.de:80/announce
+
+http://highteahop.top:6960/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -14,7 +14,7 @@ http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://t.jaekr.sh:6969/announce
+http://open.trackerlist.xyz:80/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -25,8 +25,6 @@ http://torrentsmd.com:8080/announce
 http://tracker.beeimg.com:6969/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.bz:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -40,13 +38,9 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.tritan.gg:8080/announce
 
-http://tracker.vanitycore.co:6969/announce
-
 http://tracker810.xyz:11450/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
