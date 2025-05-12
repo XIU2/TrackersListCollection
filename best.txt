@@ -10,15 +10,13 @@ http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://servandroidkino.ru:80/announce
-
 http://share.hkg-fansub.info:80/announce.php
+
+http://t.jaekr.sh:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
-
-http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -44,19 +42,23 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.tritan.gg:8080/announce
 
-http://tracker.xiaoduola.xyz:6969/announce
-
 http://tracker810.xyz:11450/announce
 
 http://www.all4nothin.net:80/announce.php
 
 http://www.genesis-sp.org:2710/announce
 
+http://www.torrentsnipe.info:2701/announce
+
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
+
+https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
 
@@ -91,8 +93,6 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://extracker.dahrkael.net:6969/announce
 
 udp://isk.richardsw.club:6969/announce
 
@@ -129,6 +129,8 @@ udp://tracker.0x7c0.com:6969/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.darkness.services:6969/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
