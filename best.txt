@@ -8,6 +8,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://bt.poletracker.org:2710/announce
 
+http://bt1.xxxxbt.cc:6969/announce
+
 http://buny.uk:6969/announce
 
 http://chihaya.de:80/announce
@@ -23,8 +25,6 @@ http://shubt.net:2710/announce
 http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
-
-http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -46,6 +46,8 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.tritan.gg:8080/announce
 
+http://tracker.vanitycore.co:6969/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.genesis-sp.org:2710/announce
@@ -57,6 +59,8 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
