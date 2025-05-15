@@ -6,6 +6,8 @@ https://sparkle.ghostchu-services.top:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
@@ -71,6 +73,8 @@ udp://chihaya.de:6969/announce
 udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
+
+udp://discord.heihachi.pw:6969/announce
 
 udp://evan.im:6969/announce
 
@@ -139,6 +143,8 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
+
+udp://tracker.dump.cl:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
