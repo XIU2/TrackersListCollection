@@ -32,8 +32,6 @@ https://tracker.leechshield.link:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
-https://tracker.moeblog.cn:443/announce
-
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker.zhuqiy.top:443/announce
@@ -112,13 +110,13 @@ udp://torrent.i.ng:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 

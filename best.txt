@@ -12,6 +12,8 @@ http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://taciturn-shadow.spb.ru:6969/announce
+
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
@@ -39,8 +41,6 @@ http://tracker.tritan.gg:8080/announce
 http://tracker.xiaoduola.xyz:6969/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.genesis-sp.org:2710/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -95,6 +95,8 @@ udp://open.free-tracker.ga:6969/announce
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
+
+udp://opentracker.io:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
