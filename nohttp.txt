@@ -106,8 +106,6 @@ udp://torrent.i.ng:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -155,6 +153,8 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
 
