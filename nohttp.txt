@@ -2,6 +2,8 @@ https://1337.abcvg.info:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
+https://threads.canofsocks.com:443/announce
+
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga:443/announce
@@ -124,8 +126,6 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 udp://tracker.darkness.services:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
@@ -145,8 +145,6 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
-
-udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
@@ -169,6 +167,8 @@ udp://tracker.therarbg.to:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
