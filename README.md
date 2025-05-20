@@ -30,7 +30,7 @@ _You can judge whether there is a problem with the BT configuration and network 
 
 ### Updated: 2025-05-20
 
-- **BEST Tracker list:** (89 trackers)  
+- **BEST Tracker list:** (90 trackers)  
  _**https://cf.trackerslist.com/best.txt**_  
 - **ALL Tracker list:** (157 trackers)  
  _**https://cf.trackerslist.com/all.txt**_  
