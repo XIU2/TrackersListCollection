@@ -6,8 +6,6 @@ https://threads.canofsocks.com:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
@@ -39,6 +37,8 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.linvk.com:443/announce
 
 https://tracker.moeblog.cn:443/announce
+
+https://tracker.pmman.tech:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
@@ -116,8 +116,6 @@ udp://torrent.i.ng:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -146,8 +144,6 @@ udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.iperson.xyz:6969/announce
-
 udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.kmzs123.top:17272/announce
@@ -161,8 +157,6 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
 
