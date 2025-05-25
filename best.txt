@@ -8,11 +8,11 @@ http://ns3109441.mypdns.org:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://servandroidkino.ru:80/announce
-
 http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
+
+http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -31,6 +31,8 @@ http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
+
+http://tracker.tritan.gg:8080/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -68,8 +70,6 @@ https://tracker.zhuqiy.top:443/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://evan.im:6969/announce
@@ -94,8 +94,6 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://thouvenin.cloud:6969/announce
 
 udp://torrent.i.ng:6969/announce
@@ -118,7 +116,7 @@ udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.hifitechindia.com:6969/announce
+udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
