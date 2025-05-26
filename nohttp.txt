@@ -128,6 +128,8 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
+udp://tracker.breizh.pm:6969/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.darkness.services:6969/announce
@@ -169,6 +171,8 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
 

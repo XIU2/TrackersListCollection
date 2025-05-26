@@ -42,6 +42,8 @@ https://1337.abcvg.info:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
@@ -104,6 +106,8 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
+udp://tracker.bitcoinindia.space:6969/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.darkness.services:6969/announce
@@ -151,6 +155,8 @@ udp://tracker2.dler.org:80/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
+
+udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
