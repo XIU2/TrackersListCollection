@@ -1,6 +1,10 @@
+http://0123456789nonexistent.com:80/announce
+
 http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
+
+http://ipv4.rer.lol:2710/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -11,8 +15,6 @@ http://nyaa.tracker.wf:7777/announce
 http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
-
-http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -42,8 +44,6 @@ https://1337.abcvg.info:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
@@ -69,8 +69,6 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker.zhuqiy.top:443/announce
 
 https://tracker1.520.jp:443/announce
-
-udp://bt.ktrackers.com:6666/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
