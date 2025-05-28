@@ -1,3 +1,5 @@
+http://0123456789nonexistent.com:80/announce
+
 http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -32,9 +34,13 @@ http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.sbsub.com:2710/announce
+
 http://tracker.skyts.net:6969/announce
 
 http://tracker.tritan.gg:8080/announce
+
+http://tracker810.xyz:11450/announce
 
 http://www.all4nothin.net:80/announce.php
 
