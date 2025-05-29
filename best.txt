@@ -14,8 +14,6 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
 
-http://torrent.hificode.in:6969/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tracker.beeimg.com:6969/announce
@@ -31,8 +29,6 @@ http://tracker.netmap.top:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.tritan.gg:8080/announce
 
@@ -105,6 +101,8 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.darkness.services:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
+
+udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
