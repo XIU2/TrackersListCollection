@@ -14,6 +14,8 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
 
+http://torrent.hificode.in:6969/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tracker.beeimg.com:6969/announce
@@ -89,6 +91,8 @@ udp://p4p.arenabg.com:1337/announce
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
+
+udp://t.overflow.biz:6969/announce
 
 udp://torrent.i.ng:6969/announce
 
