@@ -1,6 +1,6 @@
 http://1337.abcvg.info:80/announce
 
-http://bt.okmp3.ru:2710/announce
+http://bt1.xxxxbt.cc:6969/announce
 
 http://ipv4.rer.lol:2710/announce
 
@@ -16,15 +16,11 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
 
-http://torrent.hificode.in:6969/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tracker.beeimg.com:6969/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.corpscorp.online:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -36,11 +32,11 @@ http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.sbsub.com:2710/announce
+
 http://tracker.tritan.gg:8080/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.genesis-sp.org:2710/announce
 
 http://www.torrentsnipe.info:2701/announce
 
@@ -49,8 +45,6 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -69,8 +63,6 @@ https://tracker.ghostchu-services.top:443/announce
 https://tracker.jdx3.org:443/announce
 
 https://tracker.kuroy.me:443/announce
-
-https://tracker.leechshield.link:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
