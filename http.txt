@@ -1,7 +1,5 @@
 http://0123456789nonexistent.com:80/announce
 
-http://0d.kebhana.mx:443/announce
-
 http://1337.abcvg.info:80/announce
 
 http://207.241.226.111:6969/announce
@@ -16,7 +14,13 @@ http://bt.okmp3.ru:2710/announce
 
 http://bt.poletracker.org:2710/announce
 
+http://bt1.xxxxbt.cc:6969/announce
+
 http://buny.uk:6969/announce
+
+http://finbytes.org:80/announce.php
+
+http://highteahop.top:6960/announce
 
 http://ipv4.rer.lol:2710/announce
 
@@ -34,21 +38,13 @@ http://public.tracker.vraphim.com:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
-http://retracker.spark-rostov.ru:80/announce
-
 http://seeders-paradise.org:80/announce
 
 http://servandroidkino.ru:80/announce
 
-http://t.jaekr.sh:6969/announce
-
-http://t.overflow.biz:6969/announce
-
 http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
-
-http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -80,8 +76,6 @@ http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.lintk.me:2710/announce
-
 http://tracker.lyretain.site:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
@@ -90,29 +84,25 @@ http://tracker.netmap.top:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
-http://tracker.qu.ax:6969/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://tracker.sbsub.com:2710/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.tritan.gg:8080/announce
-
-http://tracker.vanitycore.co:6969/announce
-
-http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.zhuqiy.top:80/announce
 
-http://tracker2.dler.org:80/announce
-
 http://tracker2.itzmx.com:6961/announce
+
+http://tracker810.xyz:11450/announce
 
 http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.torrentsnipe.info:2701/announce
+http://www.genesis-sp.org:2710/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -123,8 +113,6 @@ https://sparkle.ghostchu-services.top:443/announce
 https://threads.canofsocks.com:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.zukizuki.org:443/announce
 
