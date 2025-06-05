@@ -82,8 +82,6 @@ udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://isk.richardsw.club:6969/announce
 
-udp://leet-tracker.moe:1337/announce
-
 udp://martin-gebhardt.eu:25/announce
 
 udp://ns-1.x-fins.com:6969/announce
@@ -140,8 +138,6 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
-udp://tracker.dump.cl:6969/announce
-
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
@@ -181,6 +177,8 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.valete.tf:9999/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.org:80/announce
 
