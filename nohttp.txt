@@ -118,13 +118,13 @@ udp://torrent.i.ng:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
-
-udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -177,8 +177,6 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.valete.tf:9999/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.org:80/announce
 

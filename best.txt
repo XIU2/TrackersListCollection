@@ -1,12 +1,18 @@
 http://0123456789nonexistent.com:80/announce
 
+http://0d.kebhana.mx:443/announce
+
 http://1337.abcvg.info:80/announce
 
-http://bt.poletracker.org:2710/announce
+http://bt.okmp3.ru:2710/announce
+
+http://home.yxgz.club:6969/announce
 
 http://ipv4.rer.lol:2710/announce
 
 http://ipv6.rer.lol:6969/announce
+
+http://joczo.duckdns.org:6969/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
@@ -22,11 +28,13 @@ http://torrentsmd.com:8080/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.bz:80/announce
+
+http://tracker.dmcomic.org:2710/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.netmap.top:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -123,8 +131,6 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
