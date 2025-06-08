@@ -28,6 +28,8 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
 
+http://tracker.tritan.gg:8080/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
@@ -35,6 +37,8 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -49,6 +53,8 @@ https://tracker.expli.top:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 https://tracker.jdx3.org:443/announce
 
