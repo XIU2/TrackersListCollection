@@ -16,13 +16,7 @@ http://torrentsmd.com:8080/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.ipv6tracker.org:80/announce
-
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.lintk.me:2710/announce
-
-http://tracker.moxing.party:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -32,21 +26,9 @@ http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.sbsub.com:2710/announce
-
 http://tracker.skyts.net:6969/announce
 
-http://tracker.tritan.gg:8080/announce
-
-http://tracker.vanitycore.co:6969/announce
-
-http://tracker.xiaoduola.xyz:6969/announce
-
-http://tracker810.xyz:11450/announce
-
 http://www.all4nothin.net:80/announce.php
-
-http://www.genesis-sp.org:2710/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -86,17 +68,9 @@ udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
-udp://isk.richardsw.club:6969/announce
-
-udp://leet-tracker.moe:1337/announce
-
 udp://martin-gebhardt.eu:25/announce
 
-udp://ns-1.x-fins.com:6969/announce
-
 udp://open.demonii.com:1337/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -120,9 +94,11 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.ducks.party:1984/announce
 
-udp://tracker.dump.cl:6969/announce
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
@@ -134,6 +110,8 @@ udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
+udp://tracker.ololosh.space:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.plx.im:6969/announce
@@ -144,6 +122,8 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrust-demo.com:6969/announce
@@ -151,6 +131,10 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+
+udp://tracker1.myporn.club:9337/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
