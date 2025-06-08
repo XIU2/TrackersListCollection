@@ -20,8 +20,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.netmap.top:6969/announce
-
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.renfei.net:8080/announce
@@ -53,8 +51,6 @@ https://tracker.expli.top:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
-
-https://tracker.itscraftsoftware.my.id:443/announce
 
 https://tracker.jdx3.org:443/announce
 

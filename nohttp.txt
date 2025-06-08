@@ -2,11 +2,7 @@ https://1337.abcvg.info:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
-https://threads.canofsocks.com:443/announce
-
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -115,8 +111,6 @@ udp://retracker.lanta.me:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://t.overflow.biz:6969/announce
-
-udp://torrent.i.ng:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
