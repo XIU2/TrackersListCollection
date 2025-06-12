@@ -172,7 +172,11 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
 
+udp://tracker.torrent.eu.org:451/announce
+
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.valete.tf:9999/announce
 

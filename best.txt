@@ -1,12 +1,12 @@
 http://1337.abcvg.info:80/announce
 
+http://bt.okmp3.ru:2710/announce
+
 http://ipv4.rer.lol:2710/announce
 
 http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
-
-http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
 
@@ -18,21 +18,19 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.netmap.top:6969/announce
-
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
 
+http://www.all4nothin.net:80/announce.php
+
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -68,8 +66,6 @@ udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
-udp://martin-gebhardt.eu:25/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
@@ -102,8 +98,6 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.ducks.party:1984/announce
-
 udp://tracker.dump.cl:6969/announce
 
 udp://tracker.filemail.com:6969/announce
@@ -129,8 +123,6 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
