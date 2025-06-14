@@ -8,6 +8,8 @@ http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://taciturn-shadow.spb.ru:6969/announce
+
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
@@ -89,8 +91,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://retracker.lanta.me:2710/announce
 
 udp://t.overflow.biz:6969/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.bittor.pw:1337/announce
 
