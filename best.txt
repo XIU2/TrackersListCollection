@@ -2,13 +2,19 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://finbytes.org:80/announce.php
+
+http://home.yxgz.club:6969/announce
+
 http://ipv4.rer.lol:2710/announce
 
 http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://t.jaekr.sh:6969/announce
+http://servandroidkino.ru:80/announce
+
+http://share.hkg-fansub.info:80/announce.php
 
 http://tk.greedland.net:80/announce
 
@@ -31,8 +37,6 @@ http://tracker.netmap.top:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -73,6 +77,8 @@ https://tracker1.520.jp:443/announce
 udp://bt.ktrackers.com:6666/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
+
+udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
@@ -120,17 +126,11 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.plx.im:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
-udp://tracker.skyts.net:6969/announce
-
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker.valete.tf:9999/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
