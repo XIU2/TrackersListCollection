@@ -14,7 +14,11 @@ http://torrentsmd.com:8080/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.ipv6tracker.ru:80/announce
+
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.netmap.top:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -94,11 +98,11 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.bittor.pw:1337/announce
-
-udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
@@ -113,6 +117,8 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
@@ -134,9 +140,7 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.valete.tf:9999/announce
-
-udp://tracker.yume-hatsuyuki.moe:6969/announce
+udp://tracker.tryhackx.org:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
