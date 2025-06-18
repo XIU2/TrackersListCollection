@@ -60,8 +60,6 @@ https://tracker.zhuqiy.top:443/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://evan.im:6969/announce
@@ -98,8 +96,6 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.bittor.pw:1337/announce
@@ -128,8 +124,6 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.plx.im:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://tracker.skillindia.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
@@ -141,6 +135,10 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker.valete.tf:9999/announce
+
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
