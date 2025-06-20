@@ -20,6 +20,8 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.renfei.net:8080/announce
@@ -38,11 +40,11 @@ https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
 
-https://track3r.site:443/announce
-
 https://tracker.aburaya.live:443/announce
 
 https://tracker.bjut.jp:443/announce
+
+https://tracker.expli.top:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
