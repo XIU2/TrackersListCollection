@@ -4,10 +4,6 @@ https://sparkle.ghostchu-services.top:443/announce
 
 https://threads.canofsocks.com:443/announce
 
-https://tr-zhuqiy-1.dgj055.icu:443/announce
-
-https://tr-zhuqiy-2.dgj055.icu:443/announce
-
 https://tr.abiir.top:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -120,8 +116,6 @@ udp://t.overflow.biz:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
@@ -164,6 +158,8 @@ udp://tracker.plx.im:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
+udp://tracker.rescuecrew7.com:1337/announce
+
 udp://tracker.skillindia.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
@@ -181,8 +177,6 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
-
-udp://tracker.valete.tf:9999/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
