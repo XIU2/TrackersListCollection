@@ -14,7 +14,9 @@ http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://retracker.spark-rostov.ru:80/announce
+http://servandroidkino.ru:80/announce
+
+http://t.jaekr.sh:6969/announce
 
 http://tk.greedland.net:80/announce
 
@@ -32,13 +34,9 @@ http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
-
-http://tracker.vanitycore.co:6969/announce
+http://tracker810.xyz:11450/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -47,8 +45,6 @@ https://1337.abcvg.info:443/announce
 https://tr.abiir.top:443/announce
 
 https://tr.nyacat.pw:443/announce
-
-https://tr.zukizuki.org:443/announce
 
 https://tracker.aburaya.live:443/announce
 
@@ -76,17 +72,13 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://evan.im:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://extracker.dahrkael.net:6969/announce
-
-udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://open.demonii.com:1337/announce
+udp://ns-1.x-fins.com:6969/announce
 
-udp://open.free-tracker.ga:6969/announce
+udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
@@ -116,8 +108,6 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
-udp://tracker.dump.cl:6969/announce
-
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
@@ -138,15 +128,17 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
 
-udp://tracker.valete.tf:9999/announce
-
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
