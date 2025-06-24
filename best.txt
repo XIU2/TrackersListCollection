@@ -24,6 +24,8 @@ http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
@@ -70,6 +72,8 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://open.dstud.io:6969/announce
+
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
@@ -106,7 +110,11 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
+udp://tracker.gigantino.net:6969/announce
+
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
