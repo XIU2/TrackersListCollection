@@ -24,8 +24,6 @@ http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
