@@ -6,6 +6,8 @@ https://t.213891.xyz:443/announce
 
 https://threads.canofsocks.com:443/announce
 
+https://tr-zhuqiy-2.dgj055.icu:443/announce
+
 https://tr.abiir.top:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -160,8 +162,6 @@ udp://tracker.plx.im:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.rescuecrew7.com:1337/announce
-
 udp://tracker.skillindia.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
@@ -193,8 +193,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
 
