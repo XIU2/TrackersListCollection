@@ -6,8 +6,6 @@ https://t.213891.xyz:443/announce
 
 https://threads.canofsocks.com:443/announce
 
-https://tr-rh-zhuqiy.dgj055.icu:443/announce
-
 https://tr.abiir.top:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -37,8 +35,6 @@ https://tracker.linvk.com:443/announce
 https://tracker.moeblog.cn:443/announce
 
 https://tracker.pmman.tech:443/announce
-
-https://tracker.uraniumhexafluori.de:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
@@ -76,8 +72,6 @@ udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://discord.heihachi.pw:6969/announce
-
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
@@ -88,9 +82,9 @@ udp://ipv4.rer.lol:2710/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
-udp://martin-gebhardt.eu:25/announce
+udp://isk.richardsw.club:6969/announce
 
-udp://ns-1.x-fins.com:6969/announce
+udp://martin-gebhardt.eu:25/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -120,9 +114,15 @@ udp://t.overflow.biz:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -136,8 +136,6 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
-udp://tracker.dump.cl:6969/announce
-
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
@@ -147,6 +145,8 @@ udp://tracker.gigantino.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.hifitechindia.com:6969/announce
+
+udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
@@ -159,6 +159,8 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.plx.im:6969/announce
 
 udp://tracker.qu.ax:6969/announce
+
+udp://tracker.rescuecrew7.com:1337/announce
 
 udp://tracker.skillindia.site:6969/announce
 
