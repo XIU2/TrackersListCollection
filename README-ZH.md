@@ -66,13 +66,13 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 - _**https://jsd.onmicrosoft.cn/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://cdn.jsdmirror.com/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://js.cdn.haah.net/gh/XIU2/TrackersListCollection/best.txt**_  
-- _**https://jsdelivr.pai233.top/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://raw.kkgithub.com/XIU2/TrackersListCollection/master/best.txt**_  
-- _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
-- _**[https://ghgo.xyz/.../XIU2/TrackersListCollection/master/best.txt](https://ghgo.xyz/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
-- _**[https://ghproxy.cc/.../XIU2/TrackersListCollection/master/best.txt](https://ghproxy.cc/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
+- _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_
+- _**[https://wget.la/.../XIU2/TrackersListCollection/master/best.txt](https://wget.la/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
+- _**[https://ghfast.top/.../XIU2/TrackersListCollection/master/best.txt](https://ghfast.top/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 - _**[https://ghproxy.net/.../XIU2/TrackersListCollection/master/best.txt](https://ghproxy.net/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
-- _**[https://gh-proxy.com/.../XIU2/TrackersListCollection/master/best.txt](https://gh-proxy.com/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
+- _**[https://gh-proxy.com/.../XIU2/TrackersListCollection/master/best.txt](https://gh-proxy.com/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_
+- _**[https://hk.gh-proxy.com/.../XIU2/TrackersListCollection/master/best.txt](https://hk.gh-proxy.com/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 - _**[https://github.moeyy.xyz/.../XIU2/TrackersListCollection/master/best.txt](https://github.moeyy.xyz/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 
 
