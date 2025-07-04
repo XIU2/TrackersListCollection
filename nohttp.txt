@@ -1,18 +1,12 @@
 https://1337.abcvg.info:443/announce
 
-https://sparkle.ghostchu-services.top:443/announce
-
 https://t.213891.xyz:443/announce
 
 https://threads.canofsocks.com:443/announce
 
-https://tr-rh-zhuqiy.dgj055.icu:443/announce
-
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -171,8 +165,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.plx.im:6969/announce
 
 udp://tracker.qu.ax:6969/announce
-
-udp://tracker.rescuecrew7.com:1337/announce
 
 udp://tracker.skillindia.site:6969/announce
 
