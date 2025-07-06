@@ -2,17 +2,13 @@ https://1337.abcvg.info:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
-https://t.213891.xyz:443/announce
-
 https://threads.canofsocks.com:443/announce
-
-https://tr-rh-zhuqiy.dgj055.icu:443/announce
-
-https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -67,6 +63,8 @@ udp://[2a03:7220:8083:cd00::1]:451/announce
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 udp://[2a0f:e586:f:f::81]:6969/announce
+
+udp://admin.52ywp.com:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -127,6 +125,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://t.overflow.biz:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -201,8 +201,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://trl-zhuqiy.dgj055.icu:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
