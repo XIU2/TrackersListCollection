@@ -10,9 +10,9 @@ https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 
-https://tr.abiir.top:443/announce
+https://tr-zhuqiy-2.dgj055.icu:443/announce
 
-https://tr.abir.ga:443/announce
+https://tr.abiir.top:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -29,8 +29,6 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
-
-https://tracker.guguan.us.kg:443/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
@@ -69,8 +67,6 @@ udp://[2a03:7220:8083:cd00::1]:451/announce
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 udp://[2a0f:e586:f:f::81]:6969/announce
-
-udp://admin.52ywp.com:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -205,6 +201,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://trl-zhuqiy.dgj055.icu:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
