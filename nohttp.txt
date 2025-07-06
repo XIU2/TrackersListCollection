@@ -6,7 +6,13 @@ https://t.213891.xyz:443/announce
 
 https://threads.canofsocks.com:443/announce
 
+https://tr-rh-zhuqiy.dgj055.icu:443/announce
+
+https://tr-zhuqiy-1.dgj055.icu:443/announce
+
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -23,6 +29,8 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
+
+https://tracker.guguan.us.kg:443/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
@@ -76,6 +84,8 @@ udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
+udp://discord.heihachi.pw:6969/announce
+
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
@@ -87,6 +97,8 @@ udp://ipv4.rer.lol:2710/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://isk.richardsw.club:6969/announce
+
+udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -126,6 +138,8 @@ udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
+udp://tracker.breizh.pm:6969/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.darkness.services:6969/announce
@@ -138,8 +152,6 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
-udp://tracker.dump.cl:6969/announce
-
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
@@ -149,6 +161,8 @@ udp://tracker.gigantino.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.hifitechindia.com:6969/announce
+
+udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
@@ -179,6 +193,10 @@ udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.valete.tf:9999/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.org:80/announce
 
