@@ -36,7 +36,7 @@ _You can judge whether there is a problem with the BT configuration and network 
  _**https://cf.trackerslist.com/all.txt**_  
 - **HTTP(S) Tracker list:** (86 trackers)  
  _**https://cf.trackerslist.com/http.txt**_  
-- **No HTTP Tracker list:** (110 trackers)  
+- **No HTTP Tracker list:** (109 trackers)  
  _**https://cf.trackerslist.com/nohttp.txt**_  
 
 <details>

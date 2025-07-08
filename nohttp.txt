@@ -6,9 +6,7 @@ https://t.213891.xyz:443/announce
 
 https://threads.canofsocks.com:443/announce
 
-https://tr-rh-zhuqiy.dgj055.icu:443/announce
-
-https://tr-zhuqiy-2.dgj055.icu:443/announce
+https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 https://tr.abiir.top:443/announce
 
