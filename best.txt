@@ -1,5 +1,3 @@
-http://0123456789nonexistent.com:80/announce
-
 http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -11,8 +9,6 @@ http://ipv6.rer.lol:6969/announce
 http://ns3109441.mypdns.org:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
-
-http://open.trackerlist.xyz:80/announce
 
 http://tk.greedland.net:80/announce
 
@@ -94,6 +90,8 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
@@ -122,8 +120,6 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.plx.im:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://tracker.skillindia.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
@@ -143,6 +139,8 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.org:80/announce
 
