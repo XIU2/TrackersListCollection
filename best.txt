@@ -1,3 +1,5 @@
+http://0123456789nonexistent.com:80/announce
+
 http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -32,6 +34,10 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.tritan.gg:8080/announce
 
+http://tracker.xiaoduola.xyz:6969/announce
+
+http://tracker810.xyz:11450/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.genesis-sp.org:2710/announce
@@ -45,6 +51,8 @@ https://1337.abcvg.info:443/announce
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -71,8 +79,6 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker.zhuqiy.top:443/announce
 
 https://tracker1.520.jp:443/announce
-
-https://ttracker.just-h.party:443/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -101,8 +107,6 @@ udp://open.stealth.si:80/announce
 udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
-
-udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
