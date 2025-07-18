@@ -12,7 +12,7 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.trackerlist.xyz:80/announce
 
-http://shubt.net:2710/announce
+http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
 
