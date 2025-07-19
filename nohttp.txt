@@ -4,6 +4,8 @@ https://sparkle.ghostchu-services.top:443/announce
 
 https://t.213891.xyz:443/announce
 
+https://tr-zhuqiy-1.dgj055.icu:443/announce
+
 https://tr.abiir.top:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -13,6 +15,8 @@ https://tr.zukizuki.org:443/announce
 https://tracker.aburaya.live:443/announce
 
 https://tracker.bt4g.com:443/announce
+
+https://tracker.cutie.dating:443/announce
 
 https://tracker.expli.top:443/announce
 
@@ -57,6 +61,8 @@ udp://[2a03:7220:8083:cd00::1]:451/announce
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 udp://[2a0f:e586:f:f::81]:6969/announce
+
+udp://admin.52ywp.com:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -112,13 +118,13 @@ udp://t.overflow.biz:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -195,8 +201,6 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 
 udp://v74853.hosted-by-vdsina.com:6969/announce
-
-udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
