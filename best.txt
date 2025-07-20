@@ -28,6 +28,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.netmap.top:6969/announce
+
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.renfei.net:8080/announce
