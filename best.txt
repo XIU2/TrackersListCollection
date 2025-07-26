@@ -1,3 +1,5 @@
+http://0123456789nonexistent.com:80/announce
+
 http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -10,11 +12,11 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.trackerlist.xyz:80/announce
 
-http://shubt.net:2710/announce
-
 http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
+
+http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -32,8 +34,6 @@ http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.tricitytorrents.com:2710/announce
-
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
@@ -47,6 +47,8 @@ https://tr.abir.ga:443/announce
 https://tr.nyacat.pw:443/announce
 
 https://tracker.aburaya.live:443/announce
+
+https://tracker.cangku.moe:443/announce
 
 https://tracker.expli.top:443/announce
 
