@@ -4,9 +4,13 @@ https://pybittrack.retiolus.net:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
+https://t.213891.xyz:443/announce
+
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -169,8 +173,6 @@ udp://tracker.skillindia.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
 

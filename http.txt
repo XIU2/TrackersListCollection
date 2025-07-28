@@ -12,9 +12,15 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
+http://bt.okmp3.ru:2710/announce
+
+http://bt.poletracker.org:2710/announce
+
 http://bt1.xxxxbt.cc:6969/announce
 
 http://buny.uk:6969/announce
+
+http://finbytes.org:80/announce.php
 
 http://highteahop.top:6960/announce
 
@@ -39,6 +45,12 @@ http://public.tracker.vraphim.com:6969/announce
 http://region.nl1.privex.cc:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
+
+http://retracker.spark-rostov.ru:80/announce
+
+http://seeders-paradise.org:80/announce
+
+http://servandroidkino.ru:80/announce
 
 http://share.hkg-fansub.info:80/announce.php
 
@@ -90,6 +102,8 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.qu.ax:6969/announce
@@ -110,13 +124,15 @@ http://tracker.zhuqiy.top:80/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
-http://tracker2.dler.org:80/announce
-
 http://tracker2.itzmx.com:6961/announce
+
+http://tracker810.xyz:11450/announce
 
 http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
+
+http://www.genesis-sp.org:2710/announce
 
 http://www.torrentsnipe.info:2701/announce
 
@@ -128,9 +144,13 @@ https://pybittrack.retiolus.net:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
+https://t.213891.xyz:443/announce
+
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
