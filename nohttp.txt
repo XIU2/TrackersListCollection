@@ -22,8 +22,6 @@ https://tracker.aburaya.live:443/announce
 
 https://tracker.bt4g.com:443/announce
 
-https://tracker.cangku.moe:443/announce
-
 https://tracker.cutie.dating:443/announce
 
 https://tracker.expli.top:443/announce
@@ -134,8 +132,6 @@ udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
@@ -157,8 +153,6 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.hifitechindia.com:6969/announce
-
-udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
@@ -205,7 +199,5 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
 
 udp://wepzone.net:6969/announce
-
-udp://www.torrent.eu.org:451/announce
 
 wss://tracker.openwebtorrent.com:443/announce
