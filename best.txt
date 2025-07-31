@@ -10,9 +10,9 @@ http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.tracker.cl:1337/announce
-
 http://open.trackerlist.xyz:80/announce
+
+http://shubt.net:2710/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -45,6 +45,10 @@ http://tracker.xiaoduola.xyz:6969/announce
 http://tracker810.xyz:11450/announce
 
 http://www.all4nothin.net:80/announce.php
+
+http://www.genesis-sp.org:2710/announce
+
+http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
