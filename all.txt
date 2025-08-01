@@ -1,4 +1,4 @@
-http://0123456789nonexistent.com:80/announce
+http://0d.kebhana.mx:443/announce
 
 http://1337.abcvg.info:80/announce
 
@@ -18,6 +18,12 @@ http://buny.uk:6969/announce
 
 http://extracker.dahrkael.net:6969/announce
 
+http://finbytes.org:80/announce.php
+
+http://highteahop.top:6960/announce
+
+http://home.yxgz.club:6969/announce
+
 http://ipv4.rer.lol:2710/announce
 
 http://ipv6.rer.lol:6969/announce
@@ -25,6 +31,8 @@ http://ipv6.rer.lol:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
+
+http://open.trackerlist.xyz:80/announce
 
 http://p4p.arenabg.com:1337/announce
 
@@ -38,13 +46,17 @@ http://seeders-paradise.org:80/announce
 
 http://servandroidkino.ru:80/announce
 
+http://share.hkg-fansub.info:80/announce.php
+
 http://shubt.net:2710/announce
+
+http://t.jaekr.sh:6969/announce
+
+http://t.overflow.biz:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
-
-http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -56,6 +68,10 @@ http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.bz:80/announce
+
+http://tracker.corpscorp.online:80/announce
+
 http://tracker.cutie.dating:80/announce
 
 http://tracker.darkness.services:6969/announce
@@ -63,6 +79,8 @@ http://tracker.darkness.services:6969/announce
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
+
+http://tracker.dmcomic.org:2710/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
@@ -82,9 +100,13 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.sbsub.com:2710/announce
+
 http://tracker.tritan.gg:8080/announce
 
 http://tracker.valete.tf:9999/announce
+
+http://tracker.vanitycore.co:6969/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -94,9 +116,9 @@ http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.zhuqiy.top:80/announce
 
-http://tracker2.dler.org:80/announce
-
 http://tracker2.itzmx.com:6961/announce
+
+http://tracker810.xyz:11450/announce
 
 http://wepzone.net:6969/announce
 
@@ -168,8 +190,6 @@ udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 udp://[2a0f:e586:f:f::81]:6969/announce
 
-udp://admin.52ywp.com:6969/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt.ktrackers.com:6666/announce
@@ -231,6 +251,10 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://t.overflow.biz:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
