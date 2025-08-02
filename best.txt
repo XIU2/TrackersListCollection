@@ -1,5 +1,3 @@
-http://0123456789nonexistent.com:80/announce
-
 http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -9,8 +7,6 @@ http://ipv4.rer.lol:2710/announce
 http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
-
-http://open.trackerlist.xyz:80/announce
 
 http://shubt.net:2710/announce
 
@@ -127,8 +123,6 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.hifitechindia.com:6969/announce
-
-udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.ololosh.space:6969/announce
 
