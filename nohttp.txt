@@ -1,8 +1,8 @@
 https://1337.abcvg.info:443/announce
 
-https://opentracker.8880085.xyz:443/announce
-
 https://pybittrack.retiolus.net:443/announce
+
+https://shahidrazi.online:443/announce
 
 https://t.213891.xyz:443/announce
 
@@ -127,6 +127,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://t.overflow.biz:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
