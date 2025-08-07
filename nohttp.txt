@@ -6,8 +6,6 @@ https://shahidrazi.online:443/announce
 
 https://t.213891.xyz:443/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga:443/announce
@@ -67,6 +65,8 @@ udp://[2a0f:e586:f:f::81]:6969/announce
 udp://admin.52ywp.com:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://bt.bontal.net:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -136,7 +136,7 @@ udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
-udp://tracker.bontal.net:6969/announce
+udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -179,6 +179,8 @@ udp://tracker.skillindia.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
 

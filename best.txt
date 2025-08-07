@@ -10,6 +10,8 @@ http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://open.tracker.cl:1337/announce
+
 http://open.trackerlist.xyz:80/announce
 
 http://shubt.net:2710/announce
@@ -17,6 +19,8 @@ http://shubt.net:2710/announce
 http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
+
+http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -44,8 +48,6 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.nyacat.pw:443/announce
 
 https://tracker.expli.top:443/announce
@@ -65,6 +67,8 @@ https://tracker.zhuqiy.top:443/announce
 https://tracker1.520.jp:443/announce
 
 udp://1c.premierzal.ru:6969/announce
+
+udp://bt.bontal.net:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
