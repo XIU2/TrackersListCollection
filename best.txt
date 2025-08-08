@@ -10,7 +10,11 @@ http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://taciturn-shadow.spb.ru:6969/announce
+http://open.tracker.cl:1337/announce
+
+http://open.trackerlist.xyz:80/announce
+
+http://shubt.net:2710/announce
 
 http://tk.greedland.net:80/announce
 
@@ -67,8 +71,6 @@ https://tracker1.520.jp:443/announce
 udp://1c.premierzal.ru:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
-
-udp://bt.bontal.net:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
