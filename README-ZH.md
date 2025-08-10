@@ -121,14 +121,14 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 #### qBittorrent Enhanced Edition (增强版):
 
 > <small>_**Github：https://github.com/c0re100/qBittorrent-Enhanced-Edition**_</small>  
-> <small>_**便携版：https://xiu.lanzoub.com/b073dnr7g (已配置 Tracker 并屏蔽迅雷)**_</small>  
+> <small>_**便携版：https://xiu.lanzoub.com/b073dnr7g**_</small>  
 
-> <small>在 qBittorrent 的基础上增加了很多功能，例如：**屏蔽迅雷、订阅 Tracker URL** ，可以很方便的配合本项目使用。</small>
+- **工具 - 选项 - BitTorrent**  
+ **勾选下图红框内的选项** 并填写 Tracker URL 后点击 `应用` 保存，**然后重启 qBittorrentEE 。**  
 
-- **选项[齿轮图标] - BitTorrent**  
- **勾选下图红框内的选项** 并填写 Tracker URL 后点击 `Apply` 保存，**然后重启 qBittorrentEE 。**  
+> 现在，qBittorrentEE 与 qBittorrent 的 Tracker 设置界面一样了，所以用了同一张图片：
 
-<img src="https://bitbucket.org/xiu2/trackerslistcollection/raw/master/img/zh-11.png" width="50%">
+<img src="https://bitbucket.org/xiu2/trackerslistcollection/raw/master/img/zh-15.png" width="50%">
 
 ****
 
@@ -137,17 +137,20 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 > <small>_**官方网站：https://www.qbittorrent.org**_</small>  
 > <small>_**便携版：https://xiu.lanzoub.com/b073jjwta**_</small>  
 
-##### qBittorrent 5 以下
+- **工具 - 选项 - BitTorrent**  
+  **勾选下图红框内的选项** 并填写 Tracker URL 后点击 `应用` 保存，**然后重启 qBittorrent 。**  
+
+<img src="https://bitbucket.org/xiu2/trackerslistcollection/raw/master/img/zh-15.png" width="50%">
+
+<details>
+<summary><strong><code>[点击展开] - 查看 qBittorrent v5.0 以下不支持订阅 Tracker URL 的旧版本使用方法</code></strong></summary>
+
 - **选项[齿轮图标] - BitTorrent**  
  **勾选下图红框内的选项** 并复制所有 Tracker 后粘贴到下方输入框中，然后点击 `Apply` 保存。  
 
 <img src="https://bitbucket.org/xiu2/trackerslistcollection/raw/master/img/zh-12.png" width="50%">
 
-##### qBittorrent 5.x+
-- **选项[齿轮图标] - BitTorrent**  
-  **勾选下图红框内的选项** 并填写 Tracker URL 后点击 `Apply` 保存，**然后重启 qBittorrent 。**  
-
-<img src="https://bitbucket.org/xiu2/trackerslistcollection/raw/master/img/zh-11.png" width="50%">
+</details>
 
 ****
 
