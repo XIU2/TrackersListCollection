@@ -2,8 +2,6 @@ https://1337.abcvg.info:443/announce
 
 https://pybittrack.retiolus.net:443/announce
 
-https://shahidrazi.online:443/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
@@ -149,6 +147,8 @@ udp://tracker.hifimarket.in:2710/announce
 udp://tracker.hifitechindia.com:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
+
+udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.ololosh.space:6969/announce
 
