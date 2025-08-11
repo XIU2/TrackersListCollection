@@ -30,6 +30,8 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
+http://tracker.privateseedbox.xyz:2710/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -37,8 +39,6 @@ http://www.all4nothin.net:80/announce.php
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://pybittrack.retiolus.net:443/announce
 
 https://tr.abiir.top:443/announce
 
@@ -74,8 +74,6 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://evan.im:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://extracker.dahrkael.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
@@ -110,11 +108,13 @@ udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
+udp://tracker.healthcareindia.store:1337/announce
+
 udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.hifitechindia.com:6969/announce
 
-udp://tracker.ololosh.space:6969/announce
+udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -130,11 +130,11 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
 
@@ -144,13 +144,9 @@ udp://tracker.wepzone.net:6969/announce
 
 udp://tracker.zupix.online:6969/announce
 
-udp://tracker2.dler.org:80/announce
-
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
-
-udp://vps-dd0a0715.vps.ovh.net:6969/announce
 
 udp://wepzone.net:6969/announce
 
