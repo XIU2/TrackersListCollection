@@ -9,7 +9,7 @@
 
 本项目整合了全网热门 Tracker，经过筛选过滤，最终得到了一个优质的 Tracker 列表，自用的同时也顺便分享给大家~  
 
-> 「[English](https://github.com/XIU2/TrackersListCollection/#readme)」(Visitors at [trackerslist.com](https://trackerslist.com/), please switch languages via the top right corner↗)  
+> 「[English](./#readme)」(Visitors at [trackerslist.com](https://trackerslist.com/), please switch languages via the top right corner↗)  
 
 
 > _分享我其他开源项目：[**CloudflareSpeedTest** - 🌩 测试 Cloudflare CDN 延迟和速度，获取最快 IP~](https://github.com/XIU2/CloudflareSpeedTest) <img src="https://img.shields.io/github/stars/XIU2/CloudflareSpeedTest.svg?style=flat-square&label=Star&color=4285dd&logo=github" height="16px" />_  
