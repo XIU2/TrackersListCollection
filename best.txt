@@ -10,8 +10,6 @@ http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://shubt.net:2710/announce
-
 http://tk.greedland.net:80/announce
 
 http://torrent.hificode.in:6969/announce
@@ -25,6 +23,8 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.netmap.top:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
