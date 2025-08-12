@@ -9,7 +9,7 @@ Updated daily! A list of popular BitTorrent Trackers. **If you feel good, please
 
 I've put together a kick-ass list of top-notch trackers by scouring the web and handpicking only the best ones. It's good enough for my own use, so I thought I'd share it with y'all~  
 
-> 「[简体中文](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md)」(位于 [trackerslist.com](https://trackerslist.com/#/zh) 的访客，可通过右上角切换语言 ↗)  
+> 「[简体中文](./README-ZH.md)」(位于 [trackerslist.com](https://trackerslist.com/#/zh) 的访客，可通过右上角切换语言 ↗)  
 
 **** 
 
