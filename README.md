@@ -50,7 +50,7 @@ _You can judge whether there is a problem with the BT configuration and network 
 - _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://gcore.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
-- _**https://cdn.statically.io/gh/XIU2/TrackersListCollection/best.txt**_  
+- _**https://cdn.statically.io/gh/XIU2/TrackersListCollection/master/best.txt**_  
 - _**https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt**_  
 
 </details>
