@@ -16,8 +16,6 @@ http://shubt.net:2710/announce
 
 http://tk.greedland.net:80/announce
 
-http://torrent.hificode.in:6969/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tracker.beeimg.com:6969/announce
@@ -27,8 +25,6 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.netmap.top:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -47,8 +43,6 @@ https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
-
-https://tr.zukizuki.org:443/announce
 
 https://tracker.cutie.dating:443/announce
 
@@ -97,8 +91,6 @@ udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
-
-udp://t.overflow.biz:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
