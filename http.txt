@@ -10,10 +10,6 @@ http://207.241.231.226:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
-http://asiatorrent.ddns.net:51413/announce
-
-http://asiatorrent.giize.com:51413/announce
-
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -34,6 +30,8 @@ http://home.yxgz.club:6969/announce
 
 http://ipv4.rer.lol:2710/announce
 
+http://ipv4announce.sktorrent.eu:6969/announce
+
 http://ipv6.rer.lol:6969/announce
 
 http://lucke.fenesisu.moe:6969/announce
@@ -48,11 +46,13 @@ http://p4p.arenabg.com:1337/announce
 
 http://retracker.hotplug.ru:2710/announce
 
+http://retracker.spark-rostov.ru:80/announce
+
 http://seeders-paradise.org:80/announce
 
 http://servandroidkino.ru:80/announce
 
-http://share.hkg-fansub.info:80/announce.php
+http://shubt.net:2710/announce
 
 http://tk.greedland.net:80/announce
 
@@ -72,6 +72,8 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.bz:80/announce
 
+http://tracker.corpscorp.online:80/announce
+
 http://tracker.cutie.dating:80/announce
 
 http://tracker.darkness.services:6969/announce
@@ -84,11 +86,11 @@ http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.moxing.party:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
+http://tracker.netmap.top:6969/announce
+
+http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.qu.ax:6969/announce
 
@@ -124,11 +126,13 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.genesis-sp.org:2710/announce
 
-http://www.torrentsnipe.info:2701/announce
-
 http://www.wareztorrent.com:80/announce
 
+https://1.tracker.eu.org:443/announce
+
 https://1337.abcvg.info:443/announce
+
+https://shahidrazi.online:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -137,8 +141,6 @@ https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
-
-https://tr.zukizuki.org:443/announce
 
 https://tracker.aburaya.live:443/announce
 
