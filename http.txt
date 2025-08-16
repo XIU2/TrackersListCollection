@@ -1,5 +1,7 @@
 http://0123456789nonexistent.com:80/announce
 
+http://0d.kebhana.mx:443/announce
+
 http://1337.abcvg.info:80/announce
 
 http://207.241.226.111:6969/announce
@@ -8,17 +10,11 @@ http://207.241.231.226:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
-http://asiatorrent.ddns.net:51413/announce
-
-http://asiatorrent.giize.com:51413/announce
-
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.okmp3.ru:2710/announce
 
 http://bt.poletracker.org:2710/announce
-
-http://bt1.xxxxbt.cc:6969/announce
 
 http://buny.uk:6969/announce
 
@@ -28,9 +24,9 @@ http://finbytes.org:80/announce.php
 
 http://highteahop.top:6960/announce
 
-http://ipv4.rer.lol:2710/announce
+http://home.yxgz.club:6969/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
+http://ipv4.rer.lol:2710/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -58,8 +54,6 @@ http://shubt.net:2710/announce
 
 http://speedtest.iperson.xyz:6969/announce
 
-http://t.jaekr.sh:6969/announce
-
 http://tk.greedland.net:80/announce
 
 http://torrent.hificode.in:6969/announce
@@ -84,10 +78,6 @@ http://tracker.cutie.dating:80/announce
 
 http://tracker.darkness.services:6969/announce
 
-http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
-
 http://tracker.dmcomic.org:2710/announce
 
 http://tracker.ghostchu-services.top:80/announce
@@ -95,8 +85,6 @@ http://tracker.ghostchu-services.top:80/announce
 http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.lintk.me:2710/announce
 
 http://tracker.moxing.party:6969/announce
 
@@ -121,6 +109,8 @@ http://tracker.vanitycore.co:6969/announce
 http://tracker.waaa.moe:6969/announce
 
 http://tracker.wepzone.net:6969/announce
+
+http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.zhuqiy.top:80/announce
 

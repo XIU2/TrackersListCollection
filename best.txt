@@ -1,3 +1,5 @@
+http://0123456789nonexistent.com:80/announce
+
 http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -7,8 +9,6 @@ http://ipv4.rer.lol:2710/announce
 http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
-
-http://open.tracker.cl:1337/announce
 
 http://open.trackerlist.xyz:80/announce
 
@@ -30,6 +30,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.netmap.top:6969/announce
+
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.renfei.net:8080/announce
@@ -45,6 +47,8 @@ https://3.tracker.eu.org:443/announce
 https://4.tracker.eu.org:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -147,6 +151,8 @@ udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.valete.tf:9999/announce
 
 udp://tracker.wepzone.net:6969/announce
+
+udp://tracker.zupix.online:1333/announce
 
 udp://tracker2.dler.org:80/announce
 
