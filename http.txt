@@ -8,11 +8,19 @@ http://207.241.231.226:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
+http://asiatorrent.ddns.net:51413/announce
+
+http://asiatorrent.giize.com:51413/announce
+
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.okmp3.ru:2710/announce
 
 http://bt.poletracker.org:2710/announce
+
+http://bt1.xxxxbt.cc:6969/announce
+
+http://buny.uk:6969/announce
 
 http://extracker.dahrkael.net:6969/announce
 
@@ -22,6 +30,8 @@ http://highteahop.top:6960/announce
 
 http://ipv4.rer.lol:2710/announce
 
+http://ipv4announce.sktorrent.eu:6969/announce
+
 http://ipv6.rer.lol:6969/announce
 
 http://lucke.fenesisu.moe:6969/announce
@@ -30,13 +40,15 @@ http://ns3109441.mypdns.org:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.tracker.cl:1337/announce
-
 http://open.trackerlist.xyz:80/announce
 
 http://p4p.arenabg.com:1337/announce
 
 http://retracker.hotplug.ru:2710/announce
+
+http://retracker.spark-rostov.ru:80/announce
+
+http://seeders-paradise.org:80/announce
 
 http://servandroidkino.ru:80/announce
 
@@ -46,7 +58,7 @@ http://shubt.net:2710/announce
 
 http://speedtest.iperson.xyz:6969/announce
 
-http://t.overflow.biz:6969/announce
+http://t.jaekr.sh:6969/announce
 
 http://tk.greedland.net:80/announce
 
@@ -72,11 +84,13 @@ http://tracker.cutie.dating:80/announce
 
 http://tracker.darkness.services:6969/announce
 
+http://tracker.dler.com:6969/announce
+
+http://tracker.dler.org:6969/announce
+
 http://tracker.dmcomic.org:2710/announce
 
 http://tracker.ghostchu-services.top:80/announce
-
-http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
@@ -84,9 +98,13 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lintk.me:2710/announce
 
+http://tracker.moxing.party:6969/announce
+
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.privateseedbox.xyz:2710/announce
+http://tracker.netmap.top:6969/announce
+
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
@@ -104,9 +122,9 @@ http://tracker.waaa.moe:6969/announce
 
 http://tracker.wepzone.net:6969/announce
 
-http://tracker.xiaoduola.xyz:6969/announce
-
 http://tracker.zhuqiy.top:80/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -120,9 +138,17 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.genesis-sp.org:2710/announce
 
+http://www.torrentsnipe.info:2701/announce
+
 https://1.tracker.eu.org:443/announce
 
 https://1337.abcvg.info:443/announce
+
+https://2.tracker.eu.org:443/announce
+
+https://3.tracker.eu.org:443/announce
+
+https://4.tracker.eu.org:443/announce
 
 https://shahidrazi.online:443/announce
 
@@ -137,8 +163,6 @@ https://tr.nyacat.pw:443/announce
 https://tracker.aburaya.live:443/announce
 
 https://tracker.bt4g.com:443/announce
-
-https://tracker.cangku.moe:443/announce
 
 https://tracker.cutie.dating:443/announce
 
