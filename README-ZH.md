@@ -43,9 +43,9 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 
 ### 更新时间: 2025-08-17
 
-- **精选列表：**(83 个)  
+- **精选列表：**(84 个)  
  _**https://cf.trackerslist.com/best.txt**_  
-- **完整列表：**(174 个)  
+- **完整列表：**(173 个)  
  _**https://cf.trackerslist.com/all.txt**_  
 - **HTTP(S) 列表：**(88 个)  
  _**https://cf.trackerslist.com/http.txt**_  
