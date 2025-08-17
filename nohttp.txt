@@ -8,6 +8,8 @@ https://3.tracker.eu.org:443/announce
 
 https://4.tracker.eu.org:443/announce
 
+https://shahidrazi.online:443/announce
+
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
@@ -98,8 +100,6 @@ udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://ns-1.x-fins.com:6969/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
@@ -122,9 +122,9 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://tr3.ysagin.top:2715/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -158,6 +158,8 @@ udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.hifitechindia.com:6969/announce
 
+udp://tracker.iperson.xyz:6969/announce
+
 udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -173,6 +175,8 @@ udp://tracker.skillindia.site:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.startwork.cv:1337/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
 
