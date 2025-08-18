@@ -30,8 +30,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.privateseedbox.xyz:2710/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -93,6 +91,8 @@ udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://t.overflow.biz:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
