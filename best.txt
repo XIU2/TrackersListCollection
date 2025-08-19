@@ -12,13 +12,9 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.trackerlist.xyz:80/announce
 
-http://shubt.net:2710/announce
-
 http://speedtest.iperson.xyz:6969/announce
 
 http://tk.greedland.net:80/announce
-
-http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -30,6 +26,10 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.netmap.top:6969/announce
+
+http://tracker.privateseedbox.xyz:2710/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://www.all4nothin.net:80/announce.php
@@ -37,8 +37,6 @@ http://www.all4nothin.net:80/announce.php
 https://1337.abcvg.info:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -91,8 +89,6 @@ udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
-
-udp://t.overflow.biz:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
