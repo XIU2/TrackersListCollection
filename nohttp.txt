@@ -12,6 +12,8 @@ https://shahidrazi.online:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
+https://tr-zhuqiy-1.dgj055.icu:443/announce
+
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga:443/announce
@@ -22,7 +24,11 @@ https://tr.zukizuki.org:443/announce
 
 https://tracker.aburaya.live:443/announce
 
+https://tracker.alaskantf.com:443/announce
+
 https://tracker.bt4g.com:443/announce
+
+https://tracker.cangku.moe:443/announce
 
 https://tracker.cutie.dating:443/announce
 
@@ -68,8 +74,6 @@ udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 udp://[2a0f:e586:f:f::81]:6969/announce
 
-udp://admin.52ywp.com:6969/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt.bontal.net:6969/announce
@@ -104,8 +108,6 @@ udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://ns-1.x-fins.com:6969/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
@@ -128,13 +130,19 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tr3.ysagin.top:2715/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.cloudbase.store:1333/announce
 
@@ -159,6 +167,8 @@ udp://tracker.healthcareindia.store:1337/announce
 udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.hifitechindia.com:6969/announce
+
+udp://tracker.home.kmzs123.cn:17272/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
