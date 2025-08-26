@@ -14,9 +14,11 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.trackerlist.xyz:80/announce
 
-http://tk.greedland.net:80/announce
+http://shubt.net:2710/announce
 
-http://torrent.hificode.in:6969/announce
+http://speedtest.iperson.xyz:6969/announce
+
+http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -36,6 +38,8 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.sbsub.com:2710/announce
+
 http://tracker.vanitycore.co:6969/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
@@ -44,7 +48,7 @@ http://tracker810.xyz:11450/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.genesis-sp.org:2710/announce
+http://www.torrentsnipe.info:2701/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -55,6 +59,8 @@ https://3.tracker.eu.org:443/announce
 https://4.tracker.eu.org:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tracker.alaskantf.com:443/announce
 
