@@ -12,12 +12,6 @@ http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.trackerlist.xyz:80/announce
-
-http://shubt.net:2710/announce
-
-http://speedtest.iperson.xyz:6969/announce
-
 http://tk.greedland.net:80/announce
 
 http://torrent.hificode.in:6969/announce
@@ -34,8 +28,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lintk.me:2710/announce
 
-http://tracker.moxing.party:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
@@ -44,9 +36,13 @@ http://tracker.sbsub.com:2710/announce
 
 http://tracker.vanitycore.co:6969/announce
 
+http://tracker.xiaoduola.xyz:6969/announce
+
 http://tracker810.xyz:11450/announce
 
 http://www.all4nothin.net:80/announce.php
+
+http://www.genesis-sp.org:2710/announce
 
 http://www.torrentsnipe.info:2701/announce
 
