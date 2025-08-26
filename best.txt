@@ -20,6 +20,8 @@ http://speedtest.iperson.xyz:6969/announce
 
 http://tk.greedland.net:80/announce
 
+http://torrent.hificode.in:6969/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tracker.beeimg.com:6969/announce
@@ -41,8 +43,6 @@ http://tracker.renfei.net:8080/announce
 http://tracker.sbsub.com:2710/announce
 
 http://tracker.vanitycore.co:6969/announce
-
-http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker810.xyz:11450/announce
 
@@ -123,8 +123,6 @@ udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
