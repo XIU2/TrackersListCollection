@@ -1,3 +1,5 @@
+http://0123456789nonexistent.com:80/announce
+
 http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -32,9 +34,13 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.sbsub.com:2710/announce
 
+http://tracker.vanitycore.co:6969/announce
+
+http://tracker.xiaoduola.xyz:6969/announce
+
 http://www.all4nothin.net:80/announce.php
 
-http://www.torrentsnipe.info:2701/announce
+http://www.genesis-sp.org:2710/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -53,8 +59,6 @@ https://tr.abir.ga:443/announce
 https://tr.nyacat.pw:443/announce
 
 https://tracker.alaskantf.com:443/announce
-
-https://tracker.cutie.dating:443/announce
 
 https://tracker.expli.top:443/announce
 
