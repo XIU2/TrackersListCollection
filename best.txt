@@ -2,8 +2,6 @@ http://0123456789nonexistent.com:80/announce
 
 http://1337.abcvg.info:80/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://ipv4.rer.lol:2710/announce
 
 http://ipv6.rer.lol:6969/announce
