@@ -60,11 +60,15 @@ http://speedtest.iperson.xyz:6969/announce
 
 http://t.jaekr.sh:6969/announce
 
+http://t.overflow.biz:6969/announce
+
 http://tk.greedland.net:80/announce
 
 http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
+
+http://tr.kxmp.cf:80/announce
 
 http://tracker.23794.top:6969/announce
 
@@ -82,10 +86,6 @@ http://tracker.corpscorp.online:80/announce
 
 http://tracker.cutie.dating:80/announce
 
-http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
-
 http://tracker.dmcomic.org:2710/announce
 
 http://tracker.ghostchu-services.top:80/announce
@@ -95,8 +95,6 @@ http://tracker.ipv6tracker.org:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lintk.me:2710/announce
-
-http://tracker.moxing.party:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -115,8 +113,6 @@ http://tracker.vanitycore.co:6969/announce
 http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.zhuqiy.top:80/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -159,8 +155,6 @@ https://tracker.aburaya.live:443/announce
 https://tracker.alaskantf.com:443/announce
 
 https://tracker.bt4g.com:443/announce
-
-https://tracker.cangku.moe:443/announce
 
 https://tracker.cutie.dating:443/announce
 
@@ -205,8 +199,6 @@ udp://[2a03:7220:8083:cd00::1]:451/announce
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 udp://[2a0f:e586:f:f::81]:6969/announce
-
-udp://admin.52ywp.com:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -271,8 +263,6 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://t.overflow.biz:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
 
@@ -349,6 +339,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://trl-zhuqiy.dgj055.icu:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
