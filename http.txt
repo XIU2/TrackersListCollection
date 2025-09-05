@@ -40,6 +40,8 @@ http://open.trackerlist.xyz:80/announce
 
 http://p4p.arenabg.com:1337/announce
 
+http://public.tracker.vraphim.com:6969/announce
+
 http://retracker.hotplug.ru:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
@@ -55,8 +57,6 @@ http://shubt.net:2710/announce
 http://speedtest.iperson.xyz:6969/announce
 
 http://t.jaekr.sh:6969/announce
-
-http://t.overflow.biz:6969/announce
 
 http://tk.greedland.net:80/announce
 
@@ -90,6 +90,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lintk.me:2710/announce
 
+http://tracker.moxing.party:6969/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
@@ -106,17 +108,11 @@ http://tracker.tritan.gg:8080/announce
 
 http://tracker.valete.tf:9999/announce
 
-http://tracker.vanitycore.co:6969/announce
-
 http://tracker.waaa.moe:6969/announce
 
 http://tracker.wepzone.net:6969/announce
 
-http://tracker.xiaoduola.xyz:6969/announce
-
 http://tracker.zhuqiy.top:80/announce
-
-http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -145,8 +141,6 @@ https://api.ipv4online.uk:443/announce
 https://shahidrazi.online:443/announce
 
 https://t1.hloli.org:443/announce
-
-https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
