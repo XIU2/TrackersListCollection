@@ -68,8 +68,6 @@ https://tracker.moeblog.cn:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
-https://tracker.zhuqiy.top:443/announce
-
 https://tracker1.520.jp:443/announce
 
 udp://1c.premierzal.ru:6969/announce
