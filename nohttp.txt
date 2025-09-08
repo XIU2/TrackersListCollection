@@ -54,6 +54,8 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
+https://tracker.zhuqiy.top:443/announce
+
 https://tracker1.520.jp:443/announce
 
 udp://1c.premierzal.ru:6969/announce
@@ -136,15 +138,11 @@ udp://t.overflow.biz:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://tracker-de-2.cutie.dating:1337/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
-
-udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.cloudbase.store:1333/announce
 

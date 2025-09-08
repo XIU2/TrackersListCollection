@@ -10,9 +10,7 @@ http://207.241.231.226:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
-http://asiatorrent.ddns.net:51413/announce
-
-http://asiatorrent.giize.com:51413/announce
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -68,11 +66,11 @@ http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tracker.23794.top:6969/announce
 
 http://tracker.beeimg.com:6969/announce
+
+http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt-hash.com:80/announce
 
@@ -85,10 +83,6 @@ http://tracker.corpscorp.online:80/announce
 http://tracker.cutie.dating:80/announce
 
 http://tracker.darkness.services:6969/announce
-
-http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.dmcomic.org:2710/announce
 
@@ -104,7 +98,7 @@ http://tracker.moxing.party:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.netmap.top:6969/announce
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -201,5 +195,7 @@ https://tracker.moeblog.cn:443/announce
 https://tracker.pmman.tech:443/announce
 
 https://tracker.yemekyedim.com:443/announce
+
+https://tracker.zhuqiy.top:443/announce
 
 https://tracker1.520.jp:443/announce
