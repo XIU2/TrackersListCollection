@@ -10,8 +10,6 @@ https://4.tracker.eu.org:443/announce
 
 https://api.ipv4online.uk:443/announce
 
-https://shahidrazi.online:443/announce
-
 https://t1.hloli.org:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
@@ -138,13 +136,15 @@ udp://t.overflow.biz:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://tracker-de-2.cutie.dating:1337/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
-udp://tracker.cloudbase.store:1333/announce
+udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
