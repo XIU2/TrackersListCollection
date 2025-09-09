@@ -10,17 +10,11 @@ http://207.241.231.226:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
-http://asiatorrent.ddns.net:51413/announce
-
-http://asiatorrent.giize.com:51413/announce
-
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.okmp3.ru:2710/announce
 
 http://bt.poletracker.org:2710/announce
-
-http://bt1.xxxxbt.cc:6969/announce
 
 http://buny.uk:6969/announce
 
@@ -66,8 +60,6 @@ http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tracker.23794.top:6969/announce
 
 http://tracker.beeimg.com:6969/announce
@@ -86,19 +78,21 @@ http://tracker.cutie.dating:80/announce
 
 http://tracker.darkness.services:6969/announce
 
-http://tracker.dhitechnical.com:6969/announce
-
 http://tracker.dmcomic.org:2710/announce
 
 http://tracker.ghostchu-services.top:80/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
+http://tracker.ipv6tracker.ru:80/announce
+
 http://tracker.lintk.me:2710/announce
 
 http://tracker.moxing.party:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.netmap.top:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -114,8 +108,6 @@ http://tracker.valete.tf:9999/announce
 
 http://tracker.vanitycore.co:6969/announce
 
-http://tracker.waaa.moe:6969/announce
-
 http://tracker.wepzone.net:6969/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
@@ -123,8 +115,6 @@ http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.zhuqiy.top:80/announce
-
-http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -156,8 +146,6 @@ https://t1.hloli.org:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-https://tr-rh-zhuqiy.dgj055.icu:443/announce
-
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga:443/announce
@@ -171,6 +159,8 @@ https://tracker.aburaya.live:443/announce
 https://tracker.alaskantf.com:443/announce
 
 https://tracker.bt4g.com:443/announce
+
+https://tracker.cangku.moe:443/announce
 
 https://tracker.cutie.dating:443/announce
 
