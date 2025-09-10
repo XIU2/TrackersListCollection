@@ -14,11 +14,7 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.trackerlist.xyz:80/announce
 
-http://shubt.net:2710/announce
-
 http://tk.greedland.net:80/announce
-
-http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -32,10 +28,6 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.tritan.gg:8080/announce
-
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
-
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
@@ -43,10 +35,6 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://2.tracker.eu.org:443/announce
-
-https://3.tracker.eu.org:443/announce
-
-https://4.tracker.eu.org:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
