@@ -2,11 +2,15 @@ https://1337.abcvg.info:443/announce
 
 https://api.ipv4online.uk:443/announce
 
+https://k.avc.cx:443/announce
+
 https://shahidrazi.online:443/announce
 
 https://t1.hloli.org:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
+
+https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 https://tr.abiir.top:443/announce
 
@@ -104,8 +108,6 @@ udp://ns-1.x-fins.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.demonii.si:80/announce
-
 udp://open.dstud.io:6969/announce
 
 udp://open.free-tracker.ga:6969/announce
@@ -127,8 +129,6 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://t.overflow.biz:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
 
@@ -161,6 +161,8 @@ udp://tracker.healthcareindia.store:1337/announce
 udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.hifitechindia.com:6969/announce
+
+udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
