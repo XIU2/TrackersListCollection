@@ -8,6 +8,8 @@ https://3.tracker.eu.org:443/announce
 
 https://4.tracker.eu.org:443/announce
 
+https://k.avc.cx:443/announce
+
 https://shahidrazi.online:443/announce
 
 https://t1.hloli.org:443/announce
@@ -25,6 +27,10 @@ https://tr.zukizuki.org:443/announce
 https://tracker.aburaya.live:443/announce
 
 https://tracker.bt4g.com:443/announce
+
+https://tracker.cangku.moe:443/announce
+
+https://tracker.cutie.dating:443/announce
 
 https://tracker.expli.top:443/announce
 
@@ -147,6 +153,8 @@ udp://tracker.ducks.party:1984/announce
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
+
+udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
