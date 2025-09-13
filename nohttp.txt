@@ -8,10 +8,6 @@ https://3.tracker.eu.org:443/announce
 
 https://4.tracker.eu.org:443/announce
 
-https://k.avc.cx:443/announce
-
-https://shahidrazi.online:443/announce
-
 https://t1.hloli.org:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
