@@ -104,8 +104,6 @@ udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://opentor.org:2710/announce
-
 udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
