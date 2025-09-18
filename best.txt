@@ -1,6 +1,6 @@
-http://0123456789nonexistent.com:80/announce
-
 http://1337.abcvg.info:80/announce
+
+http://bt.okmp3.ru:2710/announce
 
 http://ipv4.rer.lol:2710/announce
 
@@ -15,6 +15,8 @@ http://open.trackerlist.xyz:80/announce
 http://shubt.net:2710/announce
 
 http://tk.greedland.net:80/announce
+
+http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -37,8 +39,6 @@ https://1337.abcvg.info:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -70,6 +70,8 @@ udp://1c.premierzal.ru:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
+udp://anna.bt.bontal.net:6969/announce
+
 udp://bt.bontal.net:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -80,13 +82,9 @@ udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
-udp://isk.richardsw.club:6969/announce
-
 udp://martin-gebhardt.eu:25/announce
 
 udp://open.demonii.com:1337/announce
-
-udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -96,15 +94,11 @@ udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
-
-udp://run.publictracker.xyz:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
 
@@ -114,15 +108,13 @@ udp://tracker.cloudbase.store:1333/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.ducks.party:1984/announce
 
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.hifimarket.in:2710/announce
+udp://tracker.healthcareindia.store:1337/announce
 
 udp://tracker.hifitechindia.com:6969/announce
 
@@ -158,6 +150,8 @@ udp://tracker.valete.tf:9999/announce
 
 udp://tracker.zupix.online:1333/announce
 
+udp://tracker.zupix.online:6969/announce
+
 udp://tracker2.dler.org:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
@@ -167,5 +161,7 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://yuki.bt.bontal.net:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
