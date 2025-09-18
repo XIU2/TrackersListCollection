@@ -2,8 +2,6 @@ http://0123456789nonexistent.com:80/announce
 
 http://1337.abcvg.info:80/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://ipv4.rer.lol:2710/announce
 
 http://ipv6.rer.lol:6969/announce
@@ -17,6 +15,8 @@ http://open.trackerlist.xyz:80/announce
 http://shubt.net:2710/announce
 
 http://tk.greedland.net:80/announce
+
+http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -73,8 +73,6 @@ udp://1c.premierzal.ru:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://anna.bt.bontal.net:6969/announce
-
-udp://bt.bontal.net:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
