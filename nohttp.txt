@@ -102,6 +102,8 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://open.demonii.si:80/announce
+
 udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
@@ -154,6 +156,8 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.healthcareindia.store:1337/announce
 
+udp://tracker.hifimarket.in:2710/announce
+
 udp://tracker.hifitechindia.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -197,6 +201,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://trl-zhuqiy.dgj055.icu:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
