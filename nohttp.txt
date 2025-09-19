@@ -72,8 +72,6 @@ udp://[2a0f:e586:f:f::81]:6969/announce
 
 udp://admin.52ywp.com:6969/announce
 
-udp://anna.bt.bontal.net:6969/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt.rer.lol:2710/announce
@@ -101,8 +99,6 @@ udp://ipv4announce.sktorrent.eu:6969/announce
 udp://martin-gebhardt.eu:25/announce
 
 udp://open.demonii.com:1337/announce
-
-udp://open.demonii.si:80/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -136,8 +132,6 @@ udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 udp://tracker.cloudbase.store:1333/announce
 
 udp://tracker.cyberia.is:6969/announce
@@ -155,8 +149,6 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.healthcareindia.store:1337/announce
-
-udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.hifitechindia.com:6969/announce
 
@@ -201,8 +193,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://trl-zhuqiy.dgj055.icu:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
