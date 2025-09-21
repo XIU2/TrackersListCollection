@@ -44,8 +44,6 @@ https://tracker.leechshield.link:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
-https://tracker.pmman.tech:443/announce
-
 https://tracker.uraniumhexafluori.de:443/announce
 
 https://tracker.yemekyedim.com:443/announce
@@ -94,9 +92,7 @@ udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
-udp://hificode.in:6969/announce
-
-udp://ibksturm.synology.me:6969/announce
+udp://glotorrents.pw:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
 
@@ -109,8 +105,6 @@ udp://martin-gebhardt.eu:25/announce
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -139,6 +133,8 @@ udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.cloudbase.store:1333/announce
 
@@ -203,6 +199,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://trl-zhuqiy.dgj055.icu:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
