@@ -8,13 +8,13 @@ https://3.tracker.eu.org:443/announce
 
 https://4.tracker.eu.org:443/announce
 
-https://burmese.app:443/announce
-
 https://t1.hloli.org:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -27,8 +27,6 @@ https://tracker.alaskantf.com:443/announce
 https://tracker.belmult.online:443/announce
 
 https://tracker.bt4g.com:443/announce
-
-https://tracker.cutie.dating:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -90,31 +88,31 @@ udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://discord.heihachi.pw:6969/announce
-
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
+udp://glotorrents.pw:6969/announce
+
+udp://hificode.in:6969/announce
+
 udp://ipv4.rer.lol:2710/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
-
-udp://isk.richardsw.club:6969/announce
 
 udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://ns-1.x-fins.com:6969/announce
+udp://open-tracker.demonoid.ch:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.dstud.io:6969/announce
+udp://open.demonoid.ch:6969/announce
 
-udp://open.free-tracker.ga:6969/announce
+udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -123,6 +121,8 @@ udp://opentor.org:2710/announce
 udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
+
+udp://public.demonoid.ch:6969/announce
 
 udp://public.tracker.vraphim.com:6969/announce
 
@@ -144,6 +144,10 @@ udp://tracker-de-2.cutie.dating:1337/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
+udp://tracker.bittor.pw:1337/announce
+
+udp://tracker.breizh.pm:6969/announce
+
 udp://tracker.cloudbase.store:1333/announce
 
 udp://tracker.cyberia.is:6969/announce
@@ -164,8 +168,6 @@ udp://tracker.healthcareindia.store:1337/announce
 
 udp://tracker.hifitechindia.com:6969/announce
 
-udp://tracker.ololosh.space:6969/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.plx.im:6969/announce
@@ -180,11 +182,7 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.startwork.cv:1337/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.therarbg.to:6969/announce
-
-udp://tracker.tnl.one:8000/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -217,7 +215,5 @@ udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-udp://yuki.bt.bontal.net:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
