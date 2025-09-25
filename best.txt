@@ -36,8 +36,6 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.nyacat.pw:443/announce
 
 https://tracker.aburaya.live:443/announce
@@ -78,7 +76,11 @@ udp://extracker.dahrkael.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
+udp://open-tracker.demonoid.ch:6969/announce
+
 udp://open.demonii.com:1337/announce
+
+udp://open.demonoid.ch:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -87,6 +89,8 @@ udp://opentor.org:2710/announce
 udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
+
+udp://public.demonoid.ch:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -108,11 +112,7 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.hifimarket.in:2710/announce
-
 udp://tracker.hifitechindia.com:6969/announce
-
-udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
