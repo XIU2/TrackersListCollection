@@ -16,6 +16,8 @@ https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
+https://tr.zukizuki.org:443/announce
+
 https://tracker.aburaya.live:443/announce
 
 https://tracker.alaskantf.com:443/announce
@@ -106,8 +108,6 @@ udp://open-tracker.demonoid.ch:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.demonii.si:80/announce
-
 udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
@@ -132,6 +132,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run.publictracker.xyz:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tr3.ysagin.top:2715/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
@@ -139,6 +141,8 @@ udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.cloudbase.store:1333/announce
 
@@ -157,8 +161,6 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.healthcareindia.store:1337/announce
-
-udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.hifitechindia.com:6969/announce
 
@@ -203,8 +205,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://trl-zhuqiy.dgj055.icu:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 

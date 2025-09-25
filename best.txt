@@ -34,11 +34,7 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.nyacat.pw:443/announce
-
-https://tracker.aburaya.live:443/announce
 
 https://tracker.belmult.online:443/announce
 
@@ -53,6 +49,8 @@ https://tracker.kuroy.me:443/announce
 https://tracker.moeblog.cn:443/announce
 
 https://tracker.tamersunion.org:443/announce
+
+https://tracker.uraniumhexafluori.de:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
