@@ -4,8 +4,6 @@ http://bt.okmp3.ru:2710/announce
 
 http://ipv4.rer.lol:2710/announce
 
-http://ipv6.rer.lol:6969/announce
-
 http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
