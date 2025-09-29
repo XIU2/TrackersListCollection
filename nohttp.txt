@@ -28,8 +28,6 @@ https://tracker.belmult.online:443/announce
 
 https://tracker.bt4g.com:443/announce
 
-https://tracker.cangku.moe:443/announce
-
 https://tracker.cutie.dating:443/announce
 
 https://tracker.foreverpirates.co:443/announce
@@ -98,8 +96,6 @@ udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
-udp://ibksturm.synology.me:6969/announce
-
 udp://ipv4.rer.lol:2710/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
@@ -109,6 +105,8 @@ udp://martin-gebhardt.eu:25/announce
 udp://open-tracker.demonoid.ch:6969/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://open.demonii.si:80/announce
 
 udp://open.demonoid.ch:6969/announce
 
