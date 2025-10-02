@@ -32,6 +32,10 @@ https://1337.abcvg.info:443/announce
 
 https://2.tracker.eu.org:443/announce
 
+https://3.tracker.eu.org:443/announce
+
+https://4.tracker.eu.org:443/announce
+
 https://t.213891.xyz:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
@@ -55,8 +59,6 @@ https://tracker.kuroy.me:443/announce
 https://tracker.moeblog.cn:443/announce
 
 https://tracker.tamersunion.org:443/announce
-
-https://tracker.uraniumhexafluori.de:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
@@ -88,6 +90,8 @@ udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
 
+udp://open.dstud.io:6969/announce
+
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
@@ -98,17 +102,17 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://public.demonoid.ch:6969/announce
 
-udp://retracker.hotplug.ru:2710/announce
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://run.publictracker.xyz:6969/announce
+
 udp://tracker-de-2.cutie.dating:1337/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.cloudbase.store:1333/announce
 
@@ -123,8 +127,6 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
-
-udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.hifitechindia.com:6969/announce
 
@@ -142,13 +144,9 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.startwork.cv:1337/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
