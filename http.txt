@@ -18,8 +18,6 @@ http://bt.okmp3.ru:2710/announce
 
 http://bt.poletracker.org:2710/announce
 
-http://bt1.xxxxbt.cc:6969/announce
-
 http://buny.uk:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
@@ -31,8 +29,6 @@ http://extracker.dahrkael.net:6969/announce
 http://home.yxgz.club:6969/announce
 
 http://ipv4.rer.lol:2710/announce
-
-http://ipv4announce.sktorrent.eu:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -50,8 +46,6 @@ http://seeders-paradise.org:80/announce
 
 http://servandroidkino.ru:80/announce
 
-http://share.hkg-fansub.info:80/announce.php
-
 http://shubt.net:2710/announce
 
 http://tk.greedland.net:80/announce
@@ -68,11 +62,17 @@ http://tracker.beeimg.com:6969/announce
 
 http://tracker.bittor.pw:1337/announce
 
+http://tracker.bt-hash.com:80/announce
+
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.corpscorp.online:80/announce
 
 http://tracker.cutie.dating:80/announce
 
 http://tracker.dhitechnical.com:6969/announce
+
+http://tracker.dmcomic.org:2710/announce
 
 http://tracker.ghostchu-services.top:80/announce
 
@@ -80,7 +80,7 @@ http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.moxing.party:6969/announce
+http://tracker.lintk.me:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -98,11 +98,7 @@ http://tracker.vanitycore.co:6969/announce
 
 http://tracker.waaa.moe:6969/announce
 
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
-
 http://tracker.zhuqiy.top:80/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
