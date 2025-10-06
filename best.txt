@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://ipv4.rer.lol:2710/announce
 
 http://ipv6.rer.lol:6969/announce
@@ -113,6 +111,8 @@ udp://run.publictracker.xyz:6969/announce
 udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:54123/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
 
