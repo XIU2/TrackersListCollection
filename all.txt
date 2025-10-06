@@ -1,7 +1,5 @@
 http://0123456789nonexistent.com:80/announce
 
-http://0d.kebhana.mx:443/announce
-
 http://1337.abcvg.info:80/announce
 
 http://207.241.226.111:6969/announce
@@ -32,6 +30,8 @@ http://home.yxgz.club:6969/announce
 
 http://ipv4.rer.lol:2710/announce
 
+http://ipv4announce.sktorrent.eu:6969/announce
+
 http://ipv6.rer.lol:6969/announce
 
 http://ns3109441.mypdns.org:6969/announce
@@ -44,11 +44,11 @@ http://p4p.arenabg.com:1337/announce
 
 http://retracker.hotplug.ru:2710/announce
 
-http://seeders-paradise.org:80/announce
+http://retracker.spark-rostov.ru:80/announce
+
+http://share.hkg-fansub.info:80/announce.php
 
 http://shubt.net:2710/announce
-
-http://t.overflow.biz:6969/announce
 
 http://tk.greedland.net:80/announce
 
@@ -57,8 +57,6 @@ http://torrent.hificode.in:6969/announce
 http://torrentsmd.com:8080/announce
 
 http://tr.highstar.shop:80/announce
-
-http://tr.kxmp.cf:80/announce
 
 http://tracker.23794.top:6969/announce
 
@@ -78,8 +76,6 @@ http://tracker.darkness.services:6969/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
-http://tracker.dmcomic.org:2710/announce
-
 http://tracker.ghostchu-services.top:80/announce
 
 http://tracker.ipv6tracker.org:80/announce
@@ -88,17 +84,15 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lintk.me:2710/announce
 
+http://tracker.moxing.party:6969/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.sbsub.com:2710/announce
-
 http://tracker.tritan.gg:8080/announce
-
-http://tracker.valete.tf:9999/announce
 
 http://tracker.vanitycore.co:6969/announce
 
@@ -110,8 +104,6 @@ http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.zhuqiy.top:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
@@ -121,6 +113,8 @@ http://tracker810.xyz:11450/announce
 http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
+
+http://www.genesis-sp.org:2710/announce
 
 http://www.torrentsnipe.info:2701/announce
 
@@ -267,8 +261,6 @@ udp://t.overflow.biz:6969/announce
 udp://torrentclub.online:54123/announce
 
 udp://tr3.ysagin.top:2715/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
 
