@@ -54,8 +54,6 @@ https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
-https://yuki.bt.bontal.net:443/announce
-
 udp://1c.premierzal.ru:6969/announce
 
 udp://207.241.226.111:6969/announce
@@ -141,8 +139,6 @@ udp://t.overflow.biz:6969/announce
 udp://torrentclub.online:54123/announce
 
 udp://tr3.ysagin.top:2715/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
 
