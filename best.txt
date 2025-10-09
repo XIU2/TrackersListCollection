@@ -34,8 +34,6 @@ https://1337.abcvg.info:443/announce
 
 https://t.213891.xyz:443/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga:443/announce
@@ -61,6 +59,8 @@ https://tracker.tamersunion.org:443/announce
 https://tracker.uraniumhexafluori.de:443/announce
 
 https://tracker.yemekyedim.com:443/announce
+
+https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -159,7 +159,5 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-udp://yuki.bt.bontal.net:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
