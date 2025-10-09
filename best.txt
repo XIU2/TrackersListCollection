@@ -34,9 +34,9 @@ https://1337.abcvg.info:443/announce
 
 https://t.213891.xyz:443/announce
 
-https://tr.abiir.top:443/announce
+https://torrent.tracker.durukanbal.com:443/announce
 
-https://tr.abir.ga:443/announce
+https://tr.abiir.top:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -65,8 +65,6 @@ https://tracker.zhuqiy.com:443/announce
 https://tracker1.520.jp:443/announce
 
 udp://1c.premierzal.ru:6969/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://anna.bt.bontal.net:6969/announce
 
