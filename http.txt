@@ -1,3 +1,5 @@
+http://0123456789nonexistent.com:80/announce
+
 http://0d.kebhana.mx:443/announce
 
 http://1337.abcvg.info:80/announce
@@ -16,6 +18,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://bt.poletracker.org:2710/announce
 
+http://buny.uk:6969/announce
+
 http://bvarf.tracker.sh:2086/announce
 
 http://echostar.ddnsfree.com:8080/announce
@@ -23,6 +27,8 @@ http://echostar.ddnsfree.com:8080/announce
 http://extracker.dahrkael.net:6969/announce
 
 http://ipv4.rer.lol:2710/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -38,8 +44,6 @@ http://retracker.hotplug.ru:2710/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
-http://seeders-paradise.org:80/announce
-
 http://servandroidkino.ru:80/announce
 
 http://share.hkg-fansub.info:80/announce.php
@@ -48,19 +52,19 @@ http://shubt.net:2710/announce
 
 http://t-backup.213891.xyz:80/announce
 
+http://t.overflow.biz:6969/announce
+
 http://tk.greedland.net:80/announce
 
-http://torrent.hificode.in:6969/announce
-
 http://torrentsmd.com:8080/announce
+
+http://tr.highstar.shop:80/announce
 
 http://tr.nyacat.pw:80/announce
 
 http://tracker.23794.top:6969/announce
 
 http://tracker.beeimg.com:6969/announce
-
-http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt-hash.com:80/announce
 
@@ -78,13 +82,11 @@ http://tracker.ghostchu-services.top:80/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 http://tracker.lintk.me:2710/announce
 
-http://tracker.mywaifu.best:6969/announce
+http://tracker.moxing.party:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
+http://tracker.mywaifu.best:6969/announce
 
 http://tracker.qu.ax:6969/announce
 
@@ -98,17 +100,19 @@ http://tracker.valete.tf:9999/announce
 
 http://tracker.vanitycore.co:6969/announce
 
-http://tracker.waaa.moe:6969/announce
-
 http://tracker.xiaoduola.xyz:6969/announce
+
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.zhuqiy.com:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker810.xyz:11450/announce
+
+http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 

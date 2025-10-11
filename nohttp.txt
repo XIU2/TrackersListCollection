@@ -88,7 +88,7 @@ udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
-udp://hificode.in:6969/announce
+udp://glotorrents.pw:6969/announce
 
 udp://ibksturm.synology.me:6969/announce
 
@@ -102,11 +102,11 @@ udp://open-tracker.demonoid.ch:6969/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://open.demonii.si:80/announce
+
 udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -138,11 +138,7 @@ udp://tr3.ysagin.top:2715/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
-udp://tracker-de-2.cutie.dating:1337/announce
-
 udp://tracker.bitcoinindia.space:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.cloudbase.store:1333/announce
 
@@ -166,7 +162,7 @@ udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.hifitechindia.com:6969/announce
 
-udp://tracker.ololosh.space:6969/announce
+udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -185,6 +181,8 @@ udp://tracker.startwork.cv:1337/announce
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
+
+udp://tracker.tnl.one:8000/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -208,13 +206,13 @@ udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-udp://trl-zhuqiy.dgj055.icu:6969/announce
-
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
 
 udp://v74853.hosted-by-vdsina.com:6969/announce
+
+udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
