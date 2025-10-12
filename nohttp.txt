@@ -38,8 +38,6 @@ https://tracker.leechshield.link:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
-https://tracker.pmman.tech:443/announce
-
 https://tracker.tamersunion.org:443/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
@@ -67,6 +65,8 @@ udp://[2a03:7220:8083:cd00::1]:451/announce
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 udp://[2a0f:e586:f:f::81]:6969/announce
+
+udp://admin.52ywp.com:6969/announce
 
 udp://anna.bt.bontal.net:6969/announce
 
@@ -153,8 +153,6 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.hifitechindia.com:6969/announce
-
-udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
