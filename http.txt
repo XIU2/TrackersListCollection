@@ -22,21 +22,17 @@ http://bt.rer.lol:2710/announce
 
 http://bt1.xxxxbt.cc:6969/announce
 
-http://buny.uk:6969/announce
-
 http://bvarf.tracker.sh:2086/announce
 
 http://echostar.ddnsfree.com:8080/announce
 
 http://extracker.dahrkael.net:6969/announce
 
-http://home.yxgz.club:6969/announce
-
 http://ipv4.rer.lol:2710/announce
 
-http://ipv6.rer.lol:6969/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 
-http://ns3109441.mypdns.org:6969/announce
+http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -58,7 +54,7 @@ http://shubt.net:2710/announce
 
 http://t-backup.213891.xyz:80/announce
 
-http://t.al.uy:80/announce
+http://t.overflow.biz:6969/announce
 
 http://tk.greedland.net:80/announce
 
@@ -74,17 +70,19 @@ http://tracker.23794.top:6969/announce
 
 http://tracker.beeimg.com:6969/announce
 
-http://tracker.bittor.pw:1337/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.bz:80/announce
+
+http://tracker.chaoz.li:2710/announce
 
 http://tracker.cutie.dating:80/announce
 
 http://tracker.darkness.services:6969/announce
 
 http://tracker.dhitechnical.com:6969/announce
+
+http://tracker.dmcomic.org:2710/announce
 
 http://tracker.ghostchu-services.top:80/announce
 
@@ -100,21 +98,21 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.sbsub.com:2710/announce
+
 http://tracker.tritan.gg:8080/announce
+
+http://tracker.valete.tf:9999/announce
 
 http://tracker.vanitycore.co:6969/announce
 
+http://tracker.xiaoduola.xyz:6969/announce
+
 http://tracker.zhuqiy.com:80/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
-
-http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker810.xyz:11450/announce
-
-http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -134,11 +132,11 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
-
-https://tracker.aburaya.live:443/announce
 
 https://tracker.alaskantf.com:443/announce
 
@@ -163,6 +161,8 @@ https://tracker.kuroy.me:443/announce
 https://tracker.leechshield.link:443/announce
 
 https://tracker.moeblog.cn:443/announce
+
+https://tracker.pmman.tech:443/announce
 
 https://tracker.tamersunion.org:443/announce
 

@@ -8,11 +8,11 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
-
-https://tracker.aburaya.live:443/announce
 
 https://tracker.alaskantf.com:443/announce
 
@@ -38,6 +38,8 @@ https://tracker.leechshield.link:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
+https://tracker.pmman.tech:443/announce
+
 https://tracker.tamersunion.org:443/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
@@ -57,6 +59,8 @@ udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 
 udp://52.58.128.163:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://89.110.76.229:6969/announce
 
@@ -86,11 +90,15 @@ udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
-udp://ibksturm.synology.me:6969/announce
+udp://hificode.in:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
+
+udp://ns-1.x-fins.com:6969/announce
+
+udp://open-tracker.demonoid.ch:6969/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -124,11 +132,17 @@ udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:54123/announce
 
+udp://tr3.ysagin.top:2715/announce
+
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.cloudbase.store:1333/announce
 
@@ -199,8 +213,6 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 
 udp://v74853.hosted-by-vdsina.com:6969/announce
-
-udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
