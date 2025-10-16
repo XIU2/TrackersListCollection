@@ -32,11 +32,11 @@ _You can judge whether there is a problem with the BT configuration and network 
 
 - **BEST Tracker list:** (82 trackers)  
  _**https://cf.trackerslist.com/best.txt**_  
-- **ALL Tracker list:** (175 trackers)  
+- **ALL Tracker list:** (186 trackers)  
  _**https://cf.trackerslist.com/all.txt**_  
-- **HTTP(S) Tracker list:** (95 trackers)  
+- **HTTP(S) Tracker list:** (103 trackers)  
  _**https://cf.trackerslist.com/http.txt**_  
-- **No HTTP Tracker list:** (112 trackers)  
+- **No HTTP Tracker list:** (115 trackers)  
  _**https://cf.trackerslist.com/nohttp.txt**_  
 
 <details>
