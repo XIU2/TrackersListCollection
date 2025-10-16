@@ -20,6 +20,10 @@ http://bt.poletracker.org:2710/announce
 
 http://bt.rer.lol:2710/announce
 
+http://bt1.xxxxbt.cc:6969/announce
+
+http://buny.uk:6969/announce
+
 http://bvarf.tracker.sh:2086/announce
 
 http://echostar.ddnsfree.com:8080/announce
@@ -30,15 +34,11 @@ http://home.yxgz.club:6969/announce
 
 http://ipv4.rer.lol:2710/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 http://ipv6.rer.lol:6969/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
-
-http://open.tracker.cl:1337/announce
 
 http://open.trackerlist.xyz:80/announce
 
@@ -49,10 +49,6 @@ http://retracker.hotplug.ru:2710/announce
 http://retracker.spark-rostov.ru:80/announce
 
 http://seeders-paradise.org:80/announce
-
-http://servandroidkino.ru:80/announce
-
-http://share.hkg-fansub.info:80/announce.php
 
 http://shubt.net:2710/announce
 
@@ -72,9 +68,9 @@ http://tr.highstar.shop:80/announce
 
 http://tr.nyacat.pw:80/announce
 
-http://tracker.23794.top:6969/announce
-
 http://tracker.beeimg.com:6969/announce
+
+http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt-hash.com:80/announce
 
@@ -94,17 +90,15 @@ http://tracker.dmcomic.org:2710/announce
 
 http://tracker.ghostchu-services.top:80/announce
 
-http://tracker.internetwarriors.net:1337/announce
-
 http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.lintk.me:2710/announce
+
 http://tracker.moxing.party:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
@@ -118,15 +112,11 @@ http://tracker.valete.tf:9999/announce
 
 http://tracker.vanitycore.co:6969/announce
 
-http://tracker.waaa.moe:6969/announce
-
 http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.zhuqiy.com:80/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
-
-http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -183,8 +173,6 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
-
-https://tracker.guguan.us.kg:443/announce
 
 https://tracker.jdx3.org:443/announce
 

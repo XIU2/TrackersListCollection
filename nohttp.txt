@@ -40,8 +40,6 @@ https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
-https://tracker.guguan.us.kg:443/announce
-
 https://tracker.jdx3.org:443/announce
 
 https://tracker.kuroy.me:443/announce
@@ -133,6 +131,8 @@ udp://retracker.lanta.me:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://torrentclub.online:54123/announce
+
+udp://tr3.ysagin.top:2715/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
 
