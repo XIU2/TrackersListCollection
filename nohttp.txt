@@ -32,6 +32,8 @@ https://tracker.belmult.online:443/announce
 
 https://tracker.bt4g.com:443/announce
 
+https://tracker.cangku.moe:443/announce
+
 https://tracker.cutie.dating:443/announce
 
 https://tracker.foreverpirates.co:443/announce
@@ -40,6 +42,8 @@ https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
+https://tracker.guguan.us.kg:443/announce
+
 https://tracker.jdx3.org:443/announce
 
 https://tracker.kuroy.me:443/announce
@@ -47,8 +51,6 @@ https://tracker.kuroy.me:443/announce
 https://tracker.leechshield.link:443/announce
 
 https://tracker.moeblog.cn:443/announce
-
-https://tracker.tamersunion.org:443/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
 
@@ -102,8 +104,6 @@ udp://glotorrents.pw:6969/announce
 
 udp://hificode.in:6969/announce
 
-udp://ibksturm.synology.me:6969/announce
-
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://leet-tracker.moe:1337/announce
@@ -149,6 +149,8 @@ udp://torrentclub.online:54123/announce
 udp://tr3.ysagin.top:2715/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
+
+udp://tracker-de-2.cutie.dating:1337/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
@@ -215,6 +217,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://trl-zhuqiy.dgj055.icu:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 

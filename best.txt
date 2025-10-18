@@ -2,6 +2,8 @@ http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://echostar.ddnsfree.com:8080/announce
+
 http://ipv4.rer.lol:2710/announce
 
 http://ipv6.rer.lol:6969/announce
@@ -36,6 +38,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tracker.alaskantf.com:443/announce
@@ -53,8 +57,6 @@ https://tracker.kuroy.me:443/announce
 https://tracker.leechshield.link:443/announce
 
 https://tracker.moeblog.cn:443/announce
-
-https://tracker.tamersunion.org:443/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
 

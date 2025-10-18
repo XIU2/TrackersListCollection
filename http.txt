@@ -22,8 +22,6 @@ http://bt.rer.lol:2710/announce
 
 http://bt1.xxxxbt.cc:6969/announce
 
-http://buny.uk:6969/announce
-
 http://bvarf.tracker.sh:2086/announce
 
 http://echostar.ddnsfree.com:8080/announce
@@ -36,9 +34,13 @@ http://ipv4.rer.lol:2710/announce
 
 http://ipv6.rer.lol:6969/announce
 
+http://lucke.fenesisu.moe:6969/announce
+
 http://ns3109441.mypdns.org:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
+
+http://open.trackerlist.xyz:80/announce
 
 http://p4p.arenabg.com:1337/announce
 
@@ -47,6 +49,10 @@ http://retracker.hotplug.ru:2710/announce
 http://retracker.spark-rostov.ru:80/announce
 
 http://seeders-paradise.org:80/announce
+
+http://servandroidkino.ru:80/announce
+
+http://share.hkg-fansub.info:80/announce.php
 
 http://t-backup.213891.xyz:80/announce
 
@@ -64,9 +70,9 @@ http://tr.highstar.shop:80/announce
 
 http://tr.nyacat.pw:80/announce
 
-http://tracker.23794.top:6969/announce
-
 http://tracker.beeimg.com:6969/announce
+
+http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt-hash.com:80/announce
 
@@ -92,6 +98,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.lintk.me:2710/announce
 
+http://tracker.moxing.party:6969/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
@@ -100,21 +108,11 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.sbsub.com:2710/announce
-
-http://tracker.tritan.gg:8080/announce
-
 http://tracker.valete.tf:9999/announce
-
-http://tracker.waaa.moe:6969/announce
-
-http://tracker.xiaoduola.xyz:6969/announce
-
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.zhuqiy.com:80/announce
 
-http://tracker2.dler.org:80/announce
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -124,7 +122,7 @@ http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.torrentsnipe.info:2701/announce
+http://www.genesis-sp.org:2710/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -162,6 +160,8 @@ https://tracker.belmult.online:443/announce
 
 https://tracker.bt4g.com:443/announce
 
+https://tracker.cangku.moe:443/announce
+
 https://tracker.cutie.dating:443/announce
 
 https://tracker.foreverpirates.co:443/announce
@@ -170,6 +170,8 @@ https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
+https://tracker.guguan.us.kg:443/announce
+
 https://tracker.jdx3.org:443/announce
 
 https://tracker.kuroy.me:443/announce
@@ -177,8 +179,6 @@ https://tracker.kuroy.me:443/announce
 https://tracker.leechshield.link:443/announce
 
 https://tracker.moeblog.cn:443/announce
-
-https://tracker.tamersunion.org:443/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
 
