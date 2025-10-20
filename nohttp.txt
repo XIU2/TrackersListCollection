@@ -8,6 +8,8 @@ https://3.tracker.eu.org:443/announce
 
 https://4.tracker.eu.org:443/announce
 
+https://cny.fan:443/announce
+
 https://shahidrazi.online:443/announce
 
 https://t.213891.xyz:443/announce
@@ -29,6 +31,8 @@ https://tracker.alaskantf.com:443/announce
 https://tracker.belmult.online:443/announce
 
 https://tracker.bt4g.com:443/announce
+
+https://tracker.cangku.moe:443/announce
 
 https://tracker.cutie.dating:443/announce
 
@@ -56,8 +60,6 @@ https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
-https://yuki.bt.bontal.net:443/announce
-
 udp://1c.premierzal.ru:6969/announce
 
 udp://207.241.226.111:6969/announce
@@ -75,6 +77,8 @@ udp://[2a03:7220:8083:cd00::1]:451/announce
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 udp://[2a0f:e586:f:f::81]:6969/announce
+
+udp://admin.52ywp.com:6969/announce
 
 udp://anna.bt.bontal.net:6969/announce
 
@@ -137,6 +141,8 @@ udp://t.overflow.biz:6969/announce
 udp://torrentclub.online:54123/announce
 
 udp://tr3.ysagin.top:2715/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
 

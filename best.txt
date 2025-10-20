@@ -32,6 +32,8 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
+https://cny.fan:443/announce
+
 https://t.213891.xyz:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
