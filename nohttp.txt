@@ -20,6 +20,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
@@ -60,6 +62,8 @@ https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
+https://yuki.bt.bontal.net:443/announce
+
 udp://1c.premierzal.ru:6969/announce
 
 udp://207.241.226.111:6969/announce
@@ -92,8 +96,6 @@ udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://discord.heihachi.pw:6969/announce
-
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
@@ -114,8 +116,6 @@ udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://open.free-tracker.ga:6969/announce
-
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
@@ -127,6 +127,8 @@ udp://p4p.arenabg.com:1337/announce
 udp://public.demonoid.ch:6969/announce
 
 udp://public.tracker.vraphim.com:6969/announce
+
+udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -169,8 +171,6 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.hifitechindia.com:6969/announce
-
-udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
