@@ -34,8 +34,6 @@ https://tracker.belmult.online:443/announce
 
 https://tracker.bt4g.com:443/announce
 
-https://tracker.cangku.moe:443/announce
-
 https://tracker.cutie.dating:443/announce
 
 https://tracker.foreverpirates.co:443/announce
@@ -127,8 +125,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://public.demonoid.ch:6969/announce
 
 udp://public.tracker.vraphim.com:6969/announce
-
-udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker.hotplug.ru:2710/announce
 

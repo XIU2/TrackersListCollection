@@ -110,6 +110,8 @@ udp://run.publictracker.xyz:6969/announce
 
 udp://torrentclub.online:54123/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.cloudbase.store:1333/announce
