@@ -40,8 +40,6 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
@@ -109,8 +107,6 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://run.publictracker.xyz:6969/announce
 
 udp://torrentclub.online:54123/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
