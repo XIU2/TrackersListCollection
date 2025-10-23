@@ -20,9 +20,9 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.nyacat.pw:443/announce
+https://tr.abir.ga:443/announce
 
-https://tr.zukizuki.org:443/announce
+https://tr.nyacat.pw:443/announce
 
 https://tracker.aburaya.live:443/announce
 
@@ -100,11 +100,9 @@ udp://extracker.dahrkael.net:6969/announce
 
 udp://glotorrents.pw:6969/announce
 
+udp://ibksturm.synology.me:6969/announce
+
 udp://ipv4announce.sktorrent.eu:6969/announce
-
-udp://isk.richardsw.club:6969/announce
-
-udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -115,8 +113,6 @@ udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -129,6 +125,8 @@ udp://p4p.arenabg.com:1337/announce
 udp://public.demonoid.ch:6969/announce
 
 udp://public.tracker.vraphim.com:6969/announce
+
+udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -150,7 +148,7 @@ udp://tracker-de-2.cutie.dating:1337/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
-udp://tracker.breizh.pm:6969/announce
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.cloudbase.store:1333/announce
 
@@ -191,6 +189,8 @@ udp://tracker.startwork.cv:1337/announce
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
+
+udp://tracker.tnl.one:8000/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
