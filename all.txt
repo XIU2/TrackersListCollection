@@ -1,3 +1,5 @@
+http://0123456789nonexistent.com:80/announce
+
 http://0d.kebhana.mx:443/announce
 
 http://1337.abcvg.info:80/announce
@@ -18,15 +20,13 @@ http://bt.poletracker.org:2710/announce
 
 http://bt.rer.lol:2710/announce
 
-http://bt1.xxxxbt.cc:6969/announce
-
-http://buny.uk:6969/announce
-
 http://bvarf.tracker.sh:2086/announce
 
 http://echostar.ddnsfree.com:8080/announce
 
 http://extracker.dahrkael.net:6969/announce
+
+http://home.yxgz.club:6969/announce
 
 http://ipv4.rer.lol:2710/announce
 
@@ -58,11 +58,7 @@ http://t-backup.213891.xyz:80/announce
 
 http://t.al.uy:80/announce
 
-http://t.overflow.biz:6969/announce
-
 http://tk.greedland.net:80/announce
-
-http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -118,19 +114,17 @@ http://tracker.vanitycore.co:6969/announce
 
 http://tracker.waaa.moe:6969/announce
 
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
+
 http://tracker.zhuqiy.com:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker810.xyz:11450/announce
 
-http://wepzone.net:6969/announce
-
 http://www.all4nothin.net:80/announce.php
-
-http://www.genesis-sp.org:2710/announce
 
 http://www.torrentsnipe.info:2701/announce
 
@@ -157,8 +151,6 @@ https://threads.canofsocks.com:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -198,8 +190,6 @@ https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
-https://yuki.bt.bontal.net:443/announce
-
 udp://1c.premierzal.ru:6969/announce
 
 udp://207.241.226.111:6969/announce
@@ -238,13 +228,9 @@ udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
-udp://ibksturm.synology.me:6969/announce
-
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
-
-udp://ns-1.x-fins.com:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
@@ -253,6 +239,8 @@ udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -266,8 +254,6 @@ udp://public.demonoid.ch:6969/announce
 
 udp://public.tracker.vraphim.com:6969/announce
 
-udp://rekcart.duckdns.org:15480/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
@@ -276,11 +262,13 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run.publictracker.xyz:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://torrentclub.online:54123/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
+udp://tracker-de-2.cutie.dating:1337/announce
 
 udp://tracker.1h.is:1337/announce
 
@@ -308,7 +296,7 @@ udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.hifitechindia.com:6969/announce
 
-udp://tracker.ololosh.space:6969/announce
+udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
