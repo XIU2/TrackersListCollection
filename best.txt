@@ -1,5 +1,7 @@
 http://1337.abcvg.info:80/announce
 
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://ipv4.rer.lol:2710/announce
@@ -9,8 +11,6 @@ http://ipv6.rer.lol:6969/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://tk.greedland.net:80/announce
-
-http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -26,6 +26,10 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
+http://tracker.tritan.gg:8080/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
@@ -40,6 +44,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tracker.alaskantf.com:443/announce
@@ -49,8 +55,6 @@ https://tracker.belmult.online:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
-
-https://tracker.jdx3.org:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -94,6 +98,10 @@ udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://rekcart.duckdns.org:15480/announce
+
+udp://retracker.hotplug.ru:2710/announce
+
 udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
@@ -116,6 +124,8 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
+udp://tracker.hifimarket.in:2710/announce
+
 udp://tracker.hifitechindia.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -134,13 +144,7 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.startwork.cv:1337/announce
 
-udp://tracker.theoks.net:6969/announce
-
-udp://tracker.therarbg.to:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
