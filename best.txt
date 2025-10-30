@@ -18,6 +18,8 @@ http://tr.highstar.shop:80/announce
 
 http://tracker.beeimg.com:6969/announce
 
+http://tracker.bt4g.com:2095/announce
+
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
@@ -25,8 +27,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.tritan.gg:8080/announce
 
@@ -86,6 +86,8 @@ udp://extracker.dahrkael.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
+udp://open-tracker.demonoid.ch:6969/announce
+
 udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
@@ -97,6 +99,8 @@ udp://open.stealth.si:80/announce
 udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
+
+udp://public.demonoid.ch:6969/announce
 
 udp://rekcart.duckdns.org:15480/announce
 
@@ -118,15 +122,19 @@ udp://tracker.cloudbase.store:1333/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.ducks.party:1984/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.hifimarket.in:2710/announce
-
 udp://tracker.hifitechindia.com:6969/announce
+
+udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -143,6 +151,8 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.startwork.cv:1337/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
