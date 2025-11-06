@@ -18,12 +18,6 @@ https://threads.canofsocks.com:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-https://tr-rh-zhuqiy.dgj055.icu:443/announce
-
-https://tr-zhuqiy-1.dgj055.icu:443/announce
-
-https://tr-zhuqiy-2.dgj055.icu:443/announce
-
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga:443/announce
@@ -43,8 +37,6 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
-
-https://tracker.kuroy.me:443/announce
 
 https://tracker.leechshield.link:443/announce
 
@@ -102,9 +94,9 @@ udp://extracker.dahrkael.net:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
-udp://martin-gebhardt.eu:25/announce
+udp://leet-tracker.moe:1337/announce
 
-udp://ns-1.x-fins.com:6969/announce
+udp://martin-gebhardt.eu:25/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
@@ -142,13 +134,19 @@ udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:54123/announce
 
+udp://tr3.ysagin.top:2715/announce
+
 udp://tr4ck3r.duckdns.org:6969/announce
+
+udp://tracker-de-2.cutie.dating:1337/announce
 
 udp://tracker.1h.is:1337/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
+
+udp://tracker.cloudbase.store:1333/announce
 
 udp://tracker.cyberia.is:6969/announce
 
