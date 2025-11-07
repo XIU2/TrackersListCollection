@@ -30,6 +30,8 @@ https://tracker.belmult.online:443/announce
 
 https://tracker.bt4g.com:443/announce
 
+https://tracker.cangku.moe:443/announce
+
 https://tracker.cutie.dating:443/announce
 
 https://tracker.foreverpirates.co:443/announce
@@ -37,6 +39,8 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
+
+https://tracker.kuroy.me:443/announce
 
 https://tracker.leechshield.link:443/announce
 
@@ -54,6 +58,8 @@ https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
+https://yuki.bt.bontal.net:443/announce
+
 udp://1c.premierzal.ru:6969/announce
 
 udp://207.241.226.111:6969/announce
@@ -61,8 +67,6 @@ udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 
 udp://52.58.128.163:6969/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://89.110.76.229:6969/announce
 
@@ -134,8 +138,6 @@ udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:54123/announce
 
-udp://tr3.ysagin.top:2715/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
@@ -143,6 +145,8 @@ udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker.1h.is:1337/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -166,13 +170,7 @@ udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.hifitechindia.com:6969/announce
 
-udp://tracker.home.kmzs123.cn:17272/announce
-
 udp://tracker.iperson.xyz:6969/announce
-
-udp://tracker.kmzs123.cn:17272/announce
-
-udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -205,10 +203,6 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
-
-udp://tracker.zupix.online:1333/announce
-
-udp://tracker.zupix.online:6969/announce
 
 udp://tracker2.dler.org:80/announce
 
