@@ -8,6 +8,8 @@ http://ipv4.rer.lol:2710/announce
 
 http://ipv6.rer.lol:6969/announce
 
+http://lucke.fenesisu.moe:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://tk.greedland.net:80/announce
@@ -46,8 +48,6 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.nyacat.pw:443/announce
 
 https://tracker.alaskantf.com:443/announce
@@ -74,8 +74,6 @@ https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://anna.bt.bontal.net:6969/announce
 
 udp://burmese.app:6969/announce
@@ -83,8 +81,6 @@ udp://burmese.app:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://evan.im:6969/announce
-
-udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
@@ -120,19 +116,15 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker.1h.is:1337/announce
 
-udp://tracker.cloudbase.store:1333/announce
-
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.ducks.party:1984/announce
-
-udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -149,6 +141,8 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.startwork.cv:1337/announce
+
+udp://tracker.t-1.org:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
