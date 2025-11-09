@@ -48,6 +48,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tracker.alaskantf.com:443/announce
@@ -63,6 +65,8 @@ https://tracker.kuroy.me:443/announce
 https://tracker.leechshield.link:443/announce
 
 https://tracker.moeblog.cn:443/announce
+
+https://tracker.pmman.tech:443/announce
 
 https://tracker.qingwa.pro:443/announce
 
@@ -81,6 +85,8 @@ udp://burmese.app:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://evan.im:6969/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
@@ -112,8 +118,6 @@ udp://run.publictracker.xyz:6969/announce
 
 udp://torrentclub.online:54123/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://tracker.1h.is:1337/announce
 
 udp://tracker.dler.com:6969/announce
@@ -124,8 +128,6 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.hifimarket.in:2710/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.playground.ru:6969/announce
@@ -133,8 +135,6 @@ udp://tracker.playground.ru:6969/announce
 udp://tracker.plx.im:6969/announce
 
 udp://tracker.qu.ax:6969/announce
-
-udp://tracker.rescuecrew7.com:1337/announce
 
 udp://tracker.skyts.net:6969/announce
 
@@ -150,8 +150,6 @@ udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
@@ -165,7 +163,5 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-udp://yuki.bt.bontal.net:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
