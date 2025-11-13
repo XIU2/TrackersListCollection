@@ -92,11 +92,7 @@ udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
-udp://hificode.in:6969/announce
-
 udp://ipv4announce.sktorrent.eu:6969/announce
-
-udp://isk.richardsw.club:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -138,6 +134,8 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
 
+udp://tracker.bitcoinindia.space:6969/announce
+
 udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.cloudbase.store:1333/announce
@@ -162,6 +160,8 @@ udp://tracker.hifitechindia.com:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
+udp://tracker.ololosh.space:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.playground.ru:6969/announce
@@ -169,6 +169,8 @@ udp://tracker.playground.ru:6969/announce
 udp://tracker.plx.im:6969/announce
 
 udp://tracker.qu.ax:6969/announce
+
+udp://tracker.rescuecrew7.com:1337/announce
 
 udp://tracker.skillindia.site:6969/announce
 
