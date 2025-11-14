@@ -22,6 +22,8 @@ https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
+https://tr.zukizuki.org:443/announce
+
 https://tracker.alaskantf.com:443/announce
 
 https://tracker.belmult.online:443/announce
@@ -53,8 +55,6 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
-
-udp://1c.premierzal.ru:6969/announce
 
 udp://207.241.226.111:6969/announce
 
@@ -160,8 +160,6 @@ udp://tracker.hifitechindia.com:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-udp://tracker.ololosh.space:6969/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.playground.ru:6969/announce
@@ -171,8 +169,6 @@ udp://tracker.plx.im:6969/announce
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.rescuecrew7.com:1337/announce
-
-udp://tracker.skillindia.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
