@@ -10,15 +10,11 @@ https://threads.canofsocks.com:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-https://tr-rh-zhuqiy.dgj055.icu:443/announce
-
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -92,9 +88,13 @@ udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
+udp://hificode.in:6969/announce
+
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
+
+udp://ns-1.x-fins.com:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
@@ -113,8 +113,6 @@ udp://opentracker.io:6969/announce
 udp://p4p.arenabg.com:1337/announce
 
 udp://public.demonoid.ch:6969/announce
-
-udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -169,6 +167,8 @@ udp://tracker.plx.im:6969/announce
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.rescuecrew7.com:1337/announce
+
+udp://tracker.skillindia.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
