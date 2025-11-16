@@ -10,8 +10,6 @@ https://threads.canofsocks.com:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-https://tr-zhuqiy-1.dgj055.icu:443/announce
-
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 https://tr.abiir.top:443/announce
@@ -88,13 +86,9 @@ udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
-udp://hificode.in:6969/announce
-
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
-
-udp://ns-1.x-fins.com:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
@@ -102,7 +96,7 @@ udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
 
-udp://open.dstud.io:6969/announce
+udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -132,9 +126,9 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
 
-udp://tracker.bitcoinindia.space:6969/announce
+udp://tracker.1h.is:1337/announce
 
-udp://tracker.breizh.pm:6969/announce
+udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.cloudbase.store:1333/announce
 
@@ -176,6 +170,8 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.startwork.cv:1337/announce
 
+udp://tracker.t-1.org:6969/announce
+
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
@@ -192,11 +188,15 @@ udp://tracker.zupix.online:1333/announce
 
 udp://tracker.zupix.online:6969/announce
 
+udp://tracker1.t-1.org:6969/announce
+
 udp://tracker2.dler.org:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker3.itzmx.com:6961/announce
+
+udp://tracker3.t-1.org:6969/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
