@@ -22,8 +22,6 @@ https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
-https://tr.zukizuki.org:443/announce
-
 https://tracker.alaskantf.com:443/announce
 
 https://tracker.belmult.online:443/announce
@@ -64,6 +62,8 @@ udp://207.241.231.226:6969/announce
 
 udp://52.58.128.163:6969/announce
 
+udp://6ahddutb1ucc3cp.ru:6969/announce
+
 udp://89.110.76.229:6969/announce
 
 udp://[2a03:7220:8083:cd00::1]:451/announce
@@ -71,6 +71,8 @@ udp://[2a03:7220:8083:cd00::1]:451/announce
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 udp://[2a0f:e586:f:f::81]:6969/announce
+
+udp://admin.52ywp.com:6969/announce
 
 udp://anna.bt.bontal.net:6969/announce
 
@@ -90,11 +92,13 @@ udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
+udp://glotorrents.pw:6969/announce
+
+udp://hificode.in:6969/announce
+
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
-
-udp://ns-1.x-fins.com:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
@@ -124,17 +128,21 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run.publictracker.xyz:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://torrentclub.online:54123/announce
 
 udp://tr3.ysagin.top:2715/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
-udp://tracker-de-2.cutie.dating:1337/announce
-
 udp://tracker.1h.is:1337/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
+
+udp://tracker.breizh.pm:6969/announce
+
+udp://tracker.cloudbase.store:1333/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -174,6 +182,8 @@ udp://tracker.startwork.cv:1337/announce
 
 udp://tracker.t-1.org:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -187,6 +197,8 @@ udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.zupix.online:1333/announce
 
 udp://tracker.zupix.online:6969/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker1.t-1.org:6969/announce
 
