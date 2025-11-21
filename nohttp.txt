@@ -1,7 +1,5 @@
 https://1337.abcvg.info:443/announce
 
-https://cny.fan:443/announce
-
 https://shahidrazi.online:443/announce
 
 https://t.213891.xyz:443/announce
@@ -92,13 +90,15 @@ udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
-udp://glotorrents.pw:6969/announce
-
 udp://hificode.in:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
+udp://isk.richardsw.club:6969/announce
+
 udp://martin-gebhardt.eu:25/announce
+
+udp://ns-1.x-fins.com:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
@@ -136,11 +136,11 @@ udp://tr3.ysagin.top:2715/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
+udp://tracker-de-2.cutie.dating:1337/announce
+
 udp://tracker.1h.is:1337/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
-
-udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.cloudbase.store:1333/announce
 
@@ -157,6 +157,10 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.hifimarket.in:2710/announce
+
+udp://tracker.hifitechindia.com:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 

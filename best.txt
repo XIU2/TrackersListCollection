@@ -52,6 +52,8 @@ https://tr.abiir.top:443/announce
 
 https://tr.abir.ga:443/announce
 
+https://tr.nyacat.pw:443/announce
+
 https://tracker.alaskantf.com:443/announce
 
 https://tracker.belmult.online:443/announce
@@ -84,8 +86,6 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://evan.im:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://extracker.dahrkael.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
@@ -100,8 +100,6 @@ udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
-udp://opentracker.io:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://public.demonoid.ch:6969/announce
@@ -114,23 +112,19 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://run.publictracker.xyz:6969/announce
-
-udp://t.overflow.biz:6969/announce
-
 udp://torrentclub.online:54123/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.ducks.party:1984/announce
-
-udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -146,15 +140,21 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.startwork.cv:1337/announce
+
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.torrust-demo.com:6969/announce
+
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
+
+udp://tracker.zupix.online:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
