@@ -22,8 +22,6 @@ http://torrentsmd.com:8080/announce
 
 http://tr.highstar.shop:80/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
-
 http://tracker.beeimg.com:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -33,6 +31,8 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
@@ -45,6 +45,8 @@ https://t.213891.xyz:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -80,8 +82,6 @@ udp://evan.im:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
-udp://leet-tracker.moe:1337/announce
-
 udp://martin-gebhardt.eu:25/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
@@ -90,13 +90,9 @@ udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
 
-udp://open.dstud.io:6969/announce
-
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
-
-udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -110,7 +106,11 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run.publictracker.xyz:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://torrentclub.online:54123/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -128,8 +128,6 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.ololosh.space:6969/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.playground.ru:6969/announce
@@ -141,6 +139,10 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.startwork.cv:1337/announce
+
+udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
