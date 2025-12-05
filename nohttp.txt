@@ -12,8 +12,6 @@ https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
@@ -23,6 +21,8 @@ https://tracker.alaskantf.com:443/announce
 https://tracker.belmult.online:443/announce
 
 https://tracker.bt4g.com:443/announce
+
+https://tracker.cangku.moe:443/announce
 
 https://tracker.cutie.dating:443/announce
 
@@ -74,11 +74,17 @@ udp://admin.52ywp.com:6969/announce
 
 udp://anna.bt.bontal.net:6969/announce
 
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
 udp://bt.rer.lol:6969/announce
+
+udp://burmese.app:6969/announce
 
 udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
+
+udp://discord.heihachi.pw:6969/announce
 
 udp://evan.im:6969/announce
 
@@ -86,9 +92,9 @@ udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
-udp://ipv4announce.sktorrent.eu:6969/announce
+udp://hificode.in:6969/announce
 
-udp://leet-tracker.moe:1337/announce
+udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -114,8 +120,6 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://run.publictracker.xyz:6969/announce
-
 udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:54123/announce
@@ -131,8 +135,6 @@ udp://tracker.0x7c0.com:6969/announce
 udp://tracker.1h.is:1337/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
-
-udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.cloudbase.store:1333/announce
 
@@ -153,8 +155,6 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.hifimarket.in:2710/announce
-
-udp://tracker.hifitechindia.com:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -187,6 +187,8 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
+
+udp://tracker.zupix.online:1333/announce
 
 udp://tracker.zupix.online:6969/announce
 
