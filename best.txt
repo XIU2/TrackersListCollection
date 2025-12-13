@@ -32,6 +32,8 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.sbsub.com:2710/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
@@ -76,9 +78,9 @@ udp://anna.bt.bontal.net:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://extracker.dahrkael.net:6969/announce
+
+udp://glotorrents.pw:6969/announce
 
 udp://laestrygonian.ooguy.com:9001/announce
 
@@ -104,23 +106,17 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://run.publictracker.xyz:6969/announce
-
 udp://torrentclub.online:54123/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
 
-udp://tracker.0x7c0.com:6969/announce
-
 udp://tracker.1h.is:1337/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.ducks.party:1984/announce
-
-udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
@@ -128,9 +124,7 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.hifimarket.in:2710/announce
-
-udp://tracker.ololosh.space:6969/announce
+udp://tracker.opentorrent.top:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -150,11 +144,13 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.torrust-demo.com:6969/announce
+
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
 
-udp://tracker.x6c.co:6969/announce
+udp://tracker.zupix.online:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
