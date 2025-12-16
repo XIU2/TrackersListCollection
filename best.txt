@@ -76,27 +76,27 @@ https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
+udp://6ahddutb1ucc3cp.ru:6969/announce
+
 udp://anna.bt.bontal.net:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://discord.heihachi.pw:6969/announce
-
-udp://exodus.desync.com:6969/announce
-
 udp://extracker.dahrkael.net:6969/announce
-
-udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://ns-1.x-fins.com:6969/announce
+udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
 udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
+
+udp://open.dstud.io:6969/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -142,13 +142,9 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.playground.ru:6969/announce
 
-udp://tracker.plx.im:6969/announce
-
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skyts.net:6969/announce
-
-udp://tracker.srv00.com:6969/announce
 
 udp://tracker.t-1.org:6969/announce
 
@@ -159,8 +155,6 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker1.t-1.org:6969/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://tracker3.t-1.org:6969/announce
 
