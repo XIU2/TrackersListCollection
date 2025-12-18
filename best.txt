@@ -4,6 +4,8 @@ http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://bvarf.tracker.sh:2086/announce
+
 http://echostar.ddnsfree.com:8080/announce
 
 http://ipv4.rer.lol:2710/announce
@@ -13,8 +15,6 @@ http://ipv6.rer.lol:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
-
-http://t-backup.213891.xyz:80/announce
 
 http://tk.greedland.net:80/announce
 
@@ -44,9 +44,9 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.nyacat.pw:443/announce
+https://tr.abir.ga:443/announce
 
-https://tr.zukizuki.org:443/announce
+https://tr.nyacat.pw:443/announce
 
 https://tracker.alaskantf.com:443/announce
 
@@ -68,8 +68,6 @@ https://tracker.qingwa.pro:443/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
 
-https://tracker.yemekyedim.com:443/announce
-
 https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
@@ -82,8 +80,6 @@ udp://extracker.dahrkael.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://node01.trackerstatus.live:42069/announce
-
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
@@ -91,8 +87,6 @@ udp://open-tracker.demonoid.ch:6969/announce
 udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
-
-udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -110,10 +104,6 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://run.publictracker.xyz:6969/announce
-
-udp://t.overflow.biz:6969/announce
-
 udp://torrentclub.online:54123/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
@@ -129,6 +119,8 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
