@@ -56,8 +56,6 @@ https://tracker.ghostchu-services.top:443/announce
 
 https://tracker.kuroy.me:443/announce
 
-https://tracker.leechshield.link:443/announce
-
 https://tracker.moeblog.cn:443/announce
 
 https://tracker.moeking.me:443/announce
@@ -74,11 +72,11 @@ https://tracker1.520.jp:443/announce
 
 udp://anna.bt.bontal.net:6969/announce
 
-udp://d40969.acod.regrucolo.ru:6969/announce
-
 udp://extracker.dahrkael.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
+
+udp://node02.torrentonline.cc:42069/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
@@ -89,6 +87,8 @@ udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
 
 udp://open.stealth.si:80/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://opentor.org:2710/announce
 
@@ -104,6 +104,10 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://run.publictracker.xyz:6969/announce
+
+udp://t.overflow.biz:6969/announce
+
 udp://torrentclub.online:54123/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
@@ -115,8 +119,6 @@ udp://tracker.1h.is:1337/announce
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.dler.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
@@ -142,6 +144,8 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.t-1.org:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
@@ -149,8 +153,6 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker1.t-1.org:6969/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://tracker3.t-1.org:6969/announce
 
