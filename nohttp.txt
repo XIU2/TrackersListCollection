@@ -8,8 +8,6 @@ https://t.213891.xyz:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-https://tr-zhuqiy-1.dgj055.icu:443/announce
-
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga:443/announce
@@ -82,6 +80,10 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://extracker.dahrkael.net:6969/announce
+
+udp://ipv4announce.sktorrent.eu:6969/announce
+
 udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
@@ -104,9 +106,15 @@ udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
 
+udp://open.tracker.cl:1337/announce
+
+udp://opentor.org:2710/announce
+
 udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
+
+udp://public.demonoid.ch:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -124,6 +132,8 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
 
+udp://tracker.0x7c0.com:6969/announce
+
 udp://tracker.1h.is:1337/announce
 
 udp://tracker.bittor.pw:1337/announce
@@ -133,6 +143,8 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.cloudbase.store:1333/announce
 
 udp://tracker.cyberia.is:6969/announce
+
+udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
@@ -146,7 +158,9 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.hifitechindia.com:6969/announce
+udp://tracker.iperson.xyz:6969/announce
+
+udp://tracker.opentorrent.top:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -155,6 +169,10 @@ udp://tracker.playground.ru:6969/announce
 udp://tracker.plx.im:6969/announce
 
 udp://tracker.qu.ax:6969/announce
+
+udp://tracker.skillindia.site:6969/announce
+
+udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -187,3 +205,11 @@ udp://tracker3.t-1.org:6969/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://udp.tracker.projectk.org:23333/announce
+
+udp://v74853.hosted-by-vdsina.com:6969/announce
+
+udp://wepzone.net:6969/announce
+
+udp://www.torrent.eu.org:451/announce
+
+wss://tracker.openwebtorrent.com:443/announce

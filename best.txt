@@ -152,6 +152,8 @@ udp://tracker1.t-1.org:6969/announce
 
 udp://tracker3.t-1.org:6969/announce
 
+udp://wepzone.net:6969/announce
+
 udp://www.torrent.eu.org:451/announce
 
 wss://tracker.openwebtorrent.com:443/announce
