@@ -10,6 +10,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
@@ -17,8 +19,6 @@ https://tr.zukizuki.org:443/announce
 https://tracker.alaskantf.com:443/announce
 
 https://tracker.bt4g.com:443/announce
-
-https://tracker.cangku.moe:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -88,6 +88,8 @@ udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
+udp://node01.trackerstatus.live:42069/announce
+
 udp://node02.torrentonline.cc:42069/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
@@ -97,8 +99,6 @@ udp://open-tracker.demonoid.ch:6969/announce
 udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
-
-udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -120,15 +120,17 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run.publictracker.xyz:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://torrentclub.online:54123/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.1h.is:1337/announce
-
-udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
@@ -152,8 +154,6 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.hifitechindia.com:6969/announce
-
 udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.opentorrent.top:6969/announce
@@ -173,6 +173,8 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.t-1.org:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
 
@@ -206,7 +208,7 @@ udp://udp.tracker.projectk.org:23333/announce
 
 udp://v74853.hosted-by-vdsina.com:6969/announce
 
-udp://wepzone.net:6969/announce
+udp://www.2600.com:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 

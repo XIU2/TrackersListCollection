@@ -1,5 +1,3 @@
-http://0123456789nonexistent.com:80/announce
-
 http://1337.abcvg.info:80/announce
 
 http://207.241.226.111:6969/announce
@@ -18,9 +16,9 @@ http://bt.rer.lol:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-http://extracker.dahrkael.net:6969/announce
+http://echostar.ddnsfree.com:8080/announce
 
-http://home.yxgz.club:6969/announce
+http://extracker.dahrkael.net:6969/announce
 
 http://ipv4.rer.lol:2710/announce
 
@@ -38,29 +36,21 @@ http://p4p.arenabg.com:1337/announce
 
 http://retracker.hotplug.ru:2710/announce
 
-http://share.hkg-fansub.info:80/announce.php
-
-http://t.overflow.biz:6969/announce
-
 http://tk.greedland.net:80/announce
-
-http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
 http://tr.highstar.shop:80/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tr.nyacat.pw:80/announce
+
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.23794.top:6969/announce
 
 http://tracker.beeimg.com:6969/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.cutie.dating:80/announce
 
 http://tracker.darkness.services:6969/announce
 
@@ -84,19 +74,17 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.tricitytorrents.com:2710/announce
 
-http://tracker.tritan.gg:8080/announce
-
 http://tracker.waaa.moe:6969/announce
 
 http://tracker.zhuqiy.com:80/announce
+
+http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -112,6 +100,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
@@ -119,8 +109,6 @@ https://tr.zukizuki.org:443/announce
 https://tracker.alaskantf.com:443/announce
 
 https://tracker.bt4g.com:443/announce
-
-https://tracker.cangku.moe:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
