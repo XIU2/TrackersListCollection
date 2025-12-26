@@ -36,6 +36,8 @@ http://p4p.arenabg.com:1337/announce
 
 http://retracker.hotplug.ru:2710/announce
 
+http://t.overflow.biz:6969/announce
+
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
@@ -43,8 +45,6 @@ http://torrentsmd.com:8080/announce
 http://tr.highstar.shop:80/announce
 
 http://tr.nyacat.pw:80/announce
-
-http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.23794.top:6969/announce
 
@@ -65,8 +65,6 @@ http://tracker.dler.org:6969/announce
 http://tracker.ghostchu-services.top:80/announce
 
 http://tracker.internetwarriors.net:1337/announce
-
-http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -102,13 +100,13 @@ https://tr.abiir.top:443/announce
 
 https://tr.nyacat.pw:443/announce
 
-https://tr.zukizuki.org:443/announce
-
 https://tracker.alaskantf.com:443/announce
 
 https://tracker.bt4g.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
+
+https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
@@ -152,8 +150,6 @@ udp://[2a0f:e586:f:f::81]:6969/announce
 
 udp://admin.52ywp.com:6969/announce
 
-udp://anna.bt.bontal.net:6969/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt.rer.lol:6969/announce
@@ -173,6 +169,10 @@ udp://ipv4announce.sktorrent.eu:6969/announce
 udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
+
+udp://node01.trackerstatus.live:42069/announce
+
+udp://node02.torrentonline.cc:42069/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
@@ -204,11 +204,7 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://torrentclub.online:54123/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
 
@@ -244,6 +240,8 @@ udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.hifitechindia.com:6969/announce
 
+udp://tracker.iperson.xyz:6969/announce
+
 udp://tracker.opentorrent.top:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -253,6 +251,8 @@ udp://tracker.playground.ru:6969/announce
 udp://tracker.plx.im:6969/announce
 
 udp://tracker.qu.ax:6969/announce
+
+udp://tracker.rescuecrew7.com:1337/announce
 
 udp://tracker.skyts.net:6969/announce
 
@@ -273,10 +273,6 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.waaa.moe:6969/announce
-
-udp://tracker.zupix.online:1333/announce
-
-udp://tracker.zupix.online:6969/announce
 
 udp://tracker1.t-1.org:6969/announce
 

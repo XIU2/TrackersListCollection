@@ -36,6 +36,8 @@ http://p4p.arenabg.com:1337/announce
 
 http://retracker.hotplug.ru:2710/announce
 
+http://t.overflow.biz:6969/announce
+
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
@@ -43,8 +45,6 @@ http://torrentsmd.com:8080/announce
 http://tr.highstar.shop:80/announce
 
 http://tr.nyacat.pw:80/announce
-
-http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.23794.top:6969/announce
 
@@ -65,8 +65,6 @@ http://tracker.dler.org:6969/announce
 http://tracker.ghostchu-services.top:80/announce
 
 http://tracker.internetwarriors.net:1337/announce
-
-http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -102,13 +100,13 @@ https://tr.abiir.top:443/announce
 
 https://tr.nyacat.pw:443/announce
 
-https://tr.zukizuki.org:443/announce
-
 https://tracker.alaskantf.com:443/announce
 
 https://tracker.bt4g.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
+
+https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
