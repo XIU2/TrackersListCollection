@@ -10,6 +10,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tracker.alaskantf.com:443/announce
@@ -50,8 +52,6 @@ udp://207.241.231.226:6969/announce
 
 udp://52.58.128.163:6969/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://89.110.76.229:6969/announce
 
 udp://[2a03:7220:8083:cd00::1]:451/announce
@@ -62,11 +62,11 @@ udp://[2a0f:e586:f:f::81]:6969/announce
 
 udp://admin.52ywp.com:6969/announce
 
+udp://anna.bt.bontal.net:6969/announce
+
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt.rer.lol:6969/announce
-
-udp://burmese.app:6969/announce
 
 udp://concen.org:6969/announce
 
@@ -83,8 +83,6 @@ udp://leet-tracker.moe:1337/announce
 udp://martin-gebhardt.eu:25/announce
 
 udp://node01.trackerstatus.live:42069/announce
-
-udp://node02.torrentonline.cc:42069/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
@@ -118,13 +116,13 @@ udp://run.publictracker.xyz:6969/announce
 
 udp://torrentclub.online:54123/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://tracker-de-2.cutie.dating:1337/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.1h.is:1337/announce
-
-udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
@@ -148,10 +146,6 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.hifimarket.in:2710/announce
-
-udp://tracker.hifitechindia.com:6969/announce
-
 udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.opentorrent.top:6969/announce
@@ -164,7 +158,9 @@ udp://tracker.plx.im:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.rescuecrew7.com:1337/announce
+udp://tracker.skillindia.site:6969/announce
+
+udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
@@ -186,6 +182,8 @@ udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.waaa.moe:6969/announce
 
+udp://tracker.zupix.online:1333/announce
+
 udp://tracker1.t-1.org:6969/announce
 
 udp://tracker2.dler.org:80/announce
@@ -205,5 +203,7 @@ udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://www.2600.com:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://yuki.bt.bontal.net:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
