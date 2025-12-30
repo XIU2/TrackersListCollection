@@ -2,6 +2,8 @@ http://1337.abcvg.info:80/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
+http://bt.okmp3.ru:2710/announce
+
 http://bvarf.tracker.sh:2086/announce
 
 http://echostar.ddnsfree.com:8080/announce
@@ -98,11 +100,11 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://run.publictracker.xyz:6969/announce
+
 udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:54123/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
 
@@ -111,10 +113,6 @@ udp://tracker.0x7c0.com:6969/announce
 udp://tracker.1h.is:1337/announce
 
 udp://tracker.bittor.pw:1337/announce
-
-udp://tracker.bluefrog.pw:2710/announce
-
-udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
@@ -126,8 +124,6 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.hifimarket.in:2710/announce
-
 udp://tracker.opentorrent.top:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -138,17 +134,13 @@ udp://tracker.plx.im:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.skynetcloud.site:6969/announce
-
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.t-1.org:6969/announce
 
-udp://tracker.therarbg.to:6969/announce
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
