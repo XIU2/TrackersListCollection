@@ -28,6 +28,8 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
@@ -43,6 +45,8 @@ https://t.213891.xyz:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -114,9 +118,15 @@ udp://tracker.1h.is:1337/announce
 
 udp://tracker.bittor.pw:1337/announce
 
+udp://tracker.bluefrog.pw:2710/announce
+
+udp://tracker.dler.com:6969/announce
+
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
@@ -137,8 +147,6 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.t-1.org:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 

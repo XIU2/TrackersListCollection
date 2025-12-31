@@ -62,11 +62,15 @@ http://tracker.ghostchu-services.top:80/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
+http://tracker.ipv6tracker.ru:80/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.tricitytorrents.com:2710/announce
 
@@ -93,6 +97,8 @@ https://t.213891.xyz:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -158,6 +164,8 @@ udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
+udp://evan.im:6969/announce
+
 udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
@@ -190,6 +198,8 @@ udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://public.demonoid.ch:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
@@ -198,11 +208,7 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://torrentclub.online:54123/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
 
@@ -210,15 +216,11 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.1h.is:1337/announce
 
-udp://tracker.bitcoinindia.space:6969/announce
-
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.bluefrog.pw:2710/announce
 
 udp://tracker.breizh.pm:6969/announce
-
-udp://tracker.cloudbase.store:1333/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -236,8 +238,6 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.hifitechindia.com:6969/announce
-
 udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.opentorrent.top:6969/announce
@@ -250,17 +250,11 @@ udp://tracker.plx.im:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.rescuecrew7.com:1337/announce
-
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.startwork.cv:1337/announce
-
 udp://tracker.t-1.org:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
 

@@ -62,11 +62,15 @@ http://tracker.ghostchu-services.top:80/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
+http://tracker.ipv6tracker.ru:80/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.tricitytorrents.com:2710/announce
 
@@ -93,6 +97,8 @@ https://t.213891.xyz:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
