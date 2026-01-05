@@ -8,6 +8,8 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://bt.rer.lol:2710/announce
@@ -46,6 +48,8 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.cutie.dating:80/announce
 
+http://tracker.darkness.services:6969/announce
+
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
@@ -64,7 +68,7 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.tritan.gg:8080/announce
+http://tracker.skyts.net:6969/announce
 
 http://tracker.waaa.moe:6969/announce
 

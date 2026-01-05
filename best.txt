@@ -6,6 +6,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+http://echostar.ddnsfree.com:8080/announce
+
 http://ipv4.rer.lol:2710/announce
 
 http://ipv6.rer.lol:6969/announce
@@ -68,15 +70,11 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.qingwa.pro:443/announce
 
-https://tracker.soshifanclub.com:443/announce
-
 https://tracker.uraniumhexafluori.de:443/announce
 
 https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
-
-udp://anna.bt.bontal.net:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -88,21 +86,19 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
-udp://open-tracker.demonoid.ch:6969/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
 
 udp://open.stealth.si:80/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
-
-udp://public.demonoid.ch:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -124,9 +120,9 @@ udp://tracker.bluefrog.pw:2710/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.ducks.party:1984/announce
+udp://tracker.dler.org:6969/announce
 
-udp://tracker.filemail.com:6969/announce
+udp://tracker.ducks.party:1984/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
@@ -146,6 +142,8 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
+udp://tracker.srv00.com:6969/announce
+
 udp://tracker.t-1.org:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -157,8 +155,6 @@ udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker1.t-1.org:6969/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://tracker3.t-1.org:6969/announce
 
