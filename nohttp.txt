@@ -18,6 +18,8 @@ https://tracker.cutie.dating:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
+https://tracker.gcrenwp.top:443/announce
+
 https://tracker.ghostchu-services.top:443/announce
 
 https://tracker.iochimari.moe:443/announce
@@ -33,8 +35,6 @@ https://tracker.moeking.me:443/announce
 https://tracker.pmman.tech:443/announce
 
 https://tracker.qingwa.pro:443/announce
-
-https://tracker.soshifanclub.com:443/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
 
@@ -84,17 +84,15 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://node01.trackerstatus.live:42069/announce
 
-udp://node02.torrentonline.cc:42069/announce
-
 udp://ns575949.ip-51-222-82.net:6969/announce
+
+udp://open-tracker.demonoid.ch:6969/announce
 
 udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
 
 udp://open.stealth.si:80/announce
-
-udp://open.tracker.cl:1337/announce
 
 udp://opentor.org:2710/announce
 
@@ -116,8 +114,6 @@ udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:54123/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://tracker-de-2.cutie.dating:1337/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -127,6 +123,8 @@ udp://tracker.1h.is:1337/announce
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.bluefrog.pw:2710/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -177,6 +175,8 @@ udp://tracker.waaa.moe:6969/announce
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker1.t-1.org:6969/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
 

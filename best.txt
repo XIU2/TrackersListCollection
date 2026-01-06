@@ -30,8 +30,6 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
@@ -76,9 +74,9 @@ https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://d40969.acod.regrucolo.ru:6969/announce
+udp://colivioo.com:6969/announce
 
-udp://evan.im:6969/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
@@ -92,11 +90,7 @@ udp://open.demonoid.ch:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://opentor.org:2710/announce
-
-udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -124,6 +118,8 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
+udp://tracker.filemail.com:6969/announce
+
 udp://tracker.flatuslifir.is:6969/announce
 
 udp://tracker.fnix.net:6969/announce
@@ -148,6 +144,8 @@ udp://tracker.t-1.org:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.torrust-demo.com:6969/announce
+
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
@@ -155,6 +153,8 @@ udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker1.t-1.org:6969/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker3.t-1.org:6969/announce
 
