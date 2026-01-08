@@ -44,21 +44,7 @@ https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://207.241.226.111:6969/announce
-
-udp://207.241.231.226:6969/announce
-
-udp://52.58.128.163:6969/announce
-
 udp://6ahddutb1ucc3cp.ru:6969/announce
-
-udp://89.110.76.229:6969/announce
-
-udp://[2a03:7220:8083:cd00::1]:451/announce
-
-udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
-
-udp://[2a0f:e586:f:f::81]:6969/announce
 
 udp://admin.52ywp.com:6969/announce
 
@@ -84,6 +70,8 @@ udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
+udp://node01.trackerstatus.live:42069/announce
+
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
@@ -100,7 +88,7 @@ udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://retracker.hotplug.ru:2710/announce
+udp://public.demonoid.ch:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -112,7 +100,7 @@ udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:54123/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
+udp://tracker-de-2.cutie.dating:1337/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -123,8 +111,6 @@ udp://tracker.bittor.pw:1337/announce
 udp://tracker.bluefrog.pw:2710/announce
 
 udp://tracker.breizh.pm:6969/announce
-
-udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -139,6 +125,8 @@ udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.ixuexi.click:6969/announce
 
@@ -176,24 +164,14 @@ udp://tracker1.t-1.org:6969/announce
 
 udp://tracker2.dler.org:80/announce
 
-udp://tracker2.itzmx.com:6961/announce
-
-udp://tracker3.itzmx.com:6961/announce
-
 udp://tracker3.t-1.org:6969/announce
-
-udp://tracker4.itzmx.com:2710/announce
 
 udp://udp.tracker.projectk.org:23333/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
-udp://v74853.hosted-by-vdsina.com:6969/announce
-
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-udp://yuki.bt.bontal.net:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
