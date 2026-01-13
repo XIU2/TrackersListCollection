@@ -1,5 +1,3 @@
-http://0d.kebhana.mx:443/announce
-
 http://1337.abcvg.info:80/announce
 
 http://207.241.226.111:6969/announce
@@ -14,13 +12,9 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://bt.poletracker.org:2710/announce
-
 http://bt.rer.lol:2710/announce
 
 http://bt1.xxxxbt.cc:6969/announce
-
-http://buny.uk:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
@@ -34,9 +28,7 @@ http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://share.hkg-fansub.info:80/announce.php
-
-http://t.overflow.biz:6969/announce
+http://seeders-paradise.org:80/announce
 
 http://torrent.hificode.in:6969/announce
 
@@ -46,15 +38,13 @@ http://tr.highstar.shop:80/announce
 
 http://tr.nyacat.pw:80/announce
 
-http://tracker.23794.top:6969/announce
+http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt-hash.com:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.cutie.dating:80/announce
-
-http://tracker.darkness.services:6969/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
@@ -63,8 +53,6 @@ http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 
 http://tracker.ghostchu-services.top:80/announce
-
-http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -76,7 +64,9 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.vanitycore.co:6969/announce
+http://tracker.sbsub.com:2710/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -86,11 +76,11 @@ http://tracker.zhuqiy.com:80/announce
 
 http://tracker2.dler.org:80/announce
 
+http://tracker810.xyz:11450/announce
+
 http://trackr.appolon.dev:6969/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
