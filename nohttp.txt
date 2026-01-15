@@ -8,6 +8,8 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
@@ -50,6 +52,8 @@ udp://[2a03:7220:8083:cd00::1]:451/announce
 
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
+udp://admin.52ywp.com:6969/announce
+
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt.rer.lol:6969/announce
@@ -71,6 +75,8 @@ udp://ipv4announce.sktorrent.eu:6969/announce
 udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
+
+udp://node01.trackerstatus.live:42069/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
