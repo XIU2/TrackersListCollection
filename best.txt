@@ -44,6 +44,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tracker.foreverpirates.co:443/announce
@@ -84,9 +86,9 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
-udp://opentor.org:2710/announce
+udp://open.tracker.cl:1337/announce
 
-udp://opentracker.io:6969/announce
+udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -95,8 +97,6 @@ udp://retracker.lanta.me:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run.publictracker.xyz:6969/announce
-
-udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:54123/announce
 
@@ -142,13 +142,15 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.t-1.org:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
+udp://tracker.therarbg.to:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://tracker1.t-1.org:6969/announce
 
