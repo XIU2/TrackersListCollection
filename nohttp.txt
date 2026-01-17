@@ -4,8 +4,6 @@ https://cny.fan:443/announce
 
 https://shahidrazi.online:443/announce
 
-https://t.213891.xyz:443/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
@@ -16,7 +14,11 @@ https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
 
+https://tracker.alaskantf.com:443/announce
+
 https://tracker.bt4g.com:443/announce
+
+https://tracker.cangku.moe:443/announce
 
 https://tracker.cutie.dating:443/announce
 
@@ -42,11 +44,7 @@ https://tracker.qingwa.pro:443/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
 
-https://tracker.zhuqiy.com:443/announce
-
 https://tracker1.520.jp:443/announce
-
-https://yuki.bt.bontal.net:443/announce
 
 udp://52.58.128.163:6969/announce
 
@@ -61,8 +59,6 @@ udp://admin.52ywp.com:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt.rer.lol:6969/announce
-
-udp://burmese.app:6969/announce
 
 udp://concen.org:6969/announce
 
@@ -80,6 +76,10 @@ udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
+udp://node01.trackerstatus.live:42069/announce
+
+udp://node02.torrentonline.cc:42069/announce
+
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
@@ -91,8 +91,6 @@ udp://open.demonoid.ch:6969/announce
 udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
-
-udp://open.tracker.cl:1337/announce
 
 udp://opentor.org:2710/announce
 
@@ -162,13 +160,9 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.t-1.org:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
