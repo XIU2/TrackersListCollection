@@ -14,6 +14,8 @@ http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://open.tracker.cl:1337/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.highstar.shop:80/announce
@@ -23,8 +25,6 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
@@ -44,7 +44,7 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
+https://tracker.cutie.dating:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -64,6 +64,8 @@ https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
+udp://6ahddutb1ucc3cp.ru:6969/announce
+
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -80,11 +82,13 @@ udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
 
+udp://open.dstud.io:6969/announce
+
 udp://open.stealth.si:80/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://opentor.org:2710/announce
+
+udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -93,6 +97,10 @@ udp://public.demonoid.ch:6969/announce
 udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://run.publictracker.xyz:6969/announce
+
+udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:54123/announce
 
@@ -124,8 +132,6 @@ udp://tracker.opentorrent.top:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker.orsvarn.com:6969/announce
-
 udp://tracker.playground.ru:6969/announce
 
 udp://tracker.plx.im:6969/announce
@@ -149,8 +155,6 @@ udp://tracker1.t-1.org:6969/announce
 udp://tracker2.dler.org:80/announce
 
 udp://tracker3.t-1.org:6969/announce
-
-udp://utracker.ghostchu-services.top:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
