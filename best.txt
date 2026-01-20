@@ -14,8 +14,6 @@ http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.tracker.cl:1337/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tr.highstar.shop:80/announce
@@ -27,8 +25,6 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
-
-http://trackr.appolon.dev:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -43,8 +39,6 @@ https://shahidrazi.online:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tracker.cutie.dating:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -100,8 +94,6 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://torrentclub.online:54123/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
@@ -119,6 +111,8 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
@@ -149,6 +143,8 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker1.t-1.org:6969/announce
 

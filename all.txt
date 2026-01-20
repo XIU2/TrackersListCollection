@@ -8,8 +8,6 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://bt.rer.lol:2710/announce
@@ -20,21 +18,23 @@ http://extracker.dahrkael.net:6969/announce
 
 http://ipv4.rer.lol:2710/announce
 
+http://ipv4announce.sktorrent.eu:6969/announce
+
 http://ipv6.rer.lol:6969/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://t.overflow.biz:6969/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tr.highstar.shop:80/announce
 
+http://tr.nyacat.pw:80/announce
+
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.cutie.dating:80/announce
+http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
 
@@ -50,7 +50,7 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.tritan.gg:8080/announce
+http://tracker.skyts.net:6969/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -59,6 +59,8 @@ http://tracker.wepzone.net:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.zhuqiy.com:80/announce
+
+http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -80,11 +82,9 @@ https://t.213891.xyz:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-https://tr-rh-zhuqiy.dgj055.icu:443/announce
-
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
+https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
 
@@ -92,9 +92,9 @@ https://tracker.alaskantf.com:443/announce
 
 https://tracker.bt4g.com:443/announce
 
-https://tracker.cutie.dating:443/announce
-
 https://tracker.foreverpirates.co:443/announce
+
+https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
@@ -130,8 +130,6 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://burmese.app:6969/announce
-
 udp://colivioo.com:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -147,10 +145,6 @@ udp://ipv4announce.sktorrent.eu:6969/announce
 udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
-
-udp://node01.trackerstatus.live:42069/announce
-
-udp://node02.torrentonline.cc:42069/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
@@ -181,8 +175,6 @@ udp://retracker.lanta.me:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run.publictracker.xyz:6969/announce
-
-udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:54123/announce
 
@@ -234,6 +226,8 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.t-1.org:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -245,6 +239,8 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.waaa.moe:6969/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker1.t-1.org:6969/announce
 
