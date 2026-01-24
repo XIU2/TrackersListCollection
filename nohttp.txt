@@ -10,6 +10,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
@@ -18,11 +20,7 @@ https://tracker.alaskantf.com:443/announce
 
 https://tracker.bt4g.com:443/announce
 
-https://tracker.cangku.moe:443/announce
-
 https://tracker.foreverpirates.co:443/announce
-
-https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
@@ -72,8 +70,6 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://node01.trackerstatus.live:42069/announce
 
-udp://node02.torrentonline.cc:42069/announce
-
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
@@ -90,6 +86,8 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
 
+udp://opentracker.xyz:443/announce
+
 udp://p4p.arenabg.com:1337/announce
 
 udp://public.demonoid.ch:6969/announce
@@ -105,6 +103,8 @@ udp://run.publictracker.xyz:6969/announce
 udp://torrentclub.online:54123/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
+
+udp://tracker-de-2.cutie.dating:1337/announce
 
 udp://tracker.1h.is:1337/announce
 
@@ -163,6 +163,8 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.waaa.moe:6969/announce
+
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
