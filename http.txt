@@ -14,9 +14,13 @@ http://bt.rer.lol:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+http://cn.pcfreetime.com:6969/announce
+
 http://extracker.dahrkael.net:6969/announce
 
 http://ipv4.rer.lol:2710/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -60,6 +64,8 @@ http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.zhuqiy.com:80/announce
 
+http://tracker.zhuqiy.dgj055.icu:80/announce
+
 http://tracker2.dler.org:80/announce
 
 http://wepzone.net:6969/announce
@@ -78,9 +84,9 @@ https://t.213891.xyz:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-https://tr-zhuqiy-2.dgj055.icu:443/announce
-
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -90,11 +96,7 @@ https://tracker.alaskantf.com:443/announce
 
 https://tracker.bt4g.com:443/announce
 
-https://tracker.cangku.moe:443/announce
-
 https://tracker.foreverpirates.co:443/announce
-
-https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
@@ -103,8 +105,6 @@ https://tracker.iochimari.moe:443/announce
 https://tracker.kuroy.me:443/announce
 
 https://tracker.moeblog.cn:443/announce
-
-https://tracker.moeking.me:443/announce
 
 https://tracker.pmman.tech:443/announce
 
