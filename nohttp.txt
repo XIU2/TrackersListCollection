@@ -2,8 +2,6 @@ https://1337.abcvg.info:443/announce
 
 https://cny.fan:443/announce
 
-https://shahidrazi.online:443/announce
-
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
@@ -13,6 +11,8 @@ https://tr.abir.ga:443/announce
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
+
+https://tracker.bt4g.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -37,6 +37,8 @@ https://tracker.zhuqiy.com:443/announce
 https://tracker1.520.jp:443/announce
 
 udp://52.58.128.163:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://[2a03:7220:8083:cd00::1]:451/announce
 
@@ -66,8 +68,6 @@ udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
 
-udp://open.dstud.io:6969/announce
-
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
@@ -83,6 +83,8 @@ udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta.me:2710/announce
 
 udp://run.publictracker.xyz:6969/announce
+
+udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:54123/announce
 
@@ -152,6 +154,8 @@ udp://tracker.umunu.ru:6969/announce
 
 udp://tracker.waaa.moe:6969/announce
 
+udp://tracker.yume-hatsuyuki.moe:6969/announce
+
 udp://tracker.zupix.online:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
@@ -169,7 +173,5 @@ udp://utracker.ghostchu-services.top:6969/announce
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-udp://zer0day.ch:1337/announce
 
 wss://tracker.openwebtorrent.com:443/announce
