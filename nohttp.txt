@@ -4,17 +4,17 @@ https://cny.fan:443/announce
 
 https://t.213891.xyz:443/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.nyacat.pw:443/announce
-
-https://tr.zukizuki.org:443/announce
 
 https://tracker.bt4g.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
+
+https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
@@ -25,8 +25,6 @@ https://tracker.iperson.xyz:443/announce
 https://tracker.kuroy.me:443/announce
 
 https://tracker.moeblog.cn:443/announce
-
-https://tracker.moeking.me:443/announce
 
 https://tracker.pmman.tech:443/announce
 
@@ -68,6 +66,8 @@ udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
 
+udp://open.dstud.io:6969/announce
+
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
@@ -81,8 +81,6 @@ udp://rekcart.duckdns.org:15480/announce
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
-
-udp://run.publictracker.xyz:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
