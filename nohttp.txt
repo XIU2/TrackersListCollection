@@ -10,6 +10,8 @@ https://tr.abiir.top:443/announce
 
 https://tr.nyacat.pw:443/announce
 
+https://tr.zukizuki.org:443/announce
+
 https://tracker.bt4g.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
@@ -60,6 +62,8 @@ udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
+udp://node02.torrentonline.cc:42069/announce
+
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://open.demonii.com:1337/announce
@@ -82,9 +86,13 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
 
+udp://run.publictracker.xyz:6969/announce
+
 udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:54123/announce
+
+udp://tracker-de-2.cutie.dating:1337/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -171,5 +179,7 @@ udp://utracker.ghostchu-services.top:6969/announce
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://zer0day.ch:1337/announce
 
 wss://tracker.openwebtorrent.com:443/announce
