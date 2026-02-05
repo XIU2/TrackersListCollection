@@ -2,27 +2,25 @@ https://1337.abcvg.info:443/announce
 
 https://cny.fan:443/announce
 
+https://shahidrazi.online:443/announce
+
 https://t.213891.xyz:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.nyacat.pw:443/announce
+https://tr.abir.ga:443/announce
 
-https://tr.zukizuki.org:443/announce
+https://tr.nyacat.pw:443/announce
 
 https://tracker.bt4g.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
-https://tracker.gcrenwp.top:443/announce
-
 https://tracker.ghostchu-services.top:443/announce
 
 https://tracker.iochimari.moe:443/announce
-
-https://tracker.iperson.xyz:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -67,8 +65,6 @@ udp://node02.torrentonline.cc:42069/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://open.demonii.com:1337/announce
-
-udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -143,8 +139,6 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.t-1.org:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
 
