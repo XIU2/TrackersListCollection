@@ -10,7 +10,11 @@ https://tr.abiir.top:443/announce
 
 https://tr.nyacat.pw:443/announce
 
+https://tr.zukizuki.org:443/announce
+
 https://tracker.bt4g.com:443/announce
+
+https://tracker.cangku.moe:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -19,8 +23,6 @@ https://tracker.gcrenwp.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
 
 https://tracker.iochimari.moe:443/announce
-
-https://tracker.iperson.xyz:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -56,15 +58,11 @@ udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
-udp://ibksturm.synology.me:6969/announce
-
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
-
-udp://node02.torrentonline.cc:42069/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
@@ -75,6 +73,8 @@ udp://open.demonoid.ch:6969/announce
 udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://opentor.org:2710/announce
 
@@ -91,8 +91,6 @@ udp://retracker.lanta.me:2710/announce
 udp://run.publictracker.xyz:6969/announce
 
 udp://t.overflow.biz:6969/announce
-
-udp://torrentclub.online:54123/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 

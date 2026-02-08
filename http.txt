@@ -14,13 +14,13 @@ http://bvarf.tracker.sh:2086/announce
 
 http://ipv4.rer.lol:2710/announce
 
+http://ipv4announce.sktorrent.eu:6969/announce
+
 http://ipv6.rer.lol:6969/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
-
-http://open.tracker.cl:1337/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -31,6 +31,8 @@ http://tr.cili001.com:8070/announce
 http://tr.highstar.shop:80/announce
 
 http://tr.nyacat.pw:80/announce
+
+http://tracker.23794.top:6969/announce
 
 http://tracker.alaskantf.com:6969/announce
 
@@ -74,6 +76,8 @@ http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
+http://wepzone.net:6969/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
@@ -90,7 +94,11 @@ https://tr.abiir.top:443/announce
 
 https://tr.nyacat.pw:443/announce
 
+https://tr.zukizuki.org:443/announce
+
 https://tracker.bt4g.com:443/announce
+
+https://tracker.cangku.moe:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -99,8 +107,6 @@ https://tracker.gcrenwp.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
 
 https://tracker.iochimari.moe:443/announce
-
-https://tracker.iperson.xyz:443/announce
 
 https://tracker.kuroy.me:443/announce
 
