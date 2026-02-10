@@ -1,3 +1,7 @@
+http://0123456789nonexistent.com:80/announce
+
+http://0d.kebhana.mx:443/announce
+
 http://1337.abcvg.info:80/announce
 
 http://207.241.226.111:6969/announce
@@ -10,11 +14,13 @@ http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://bt.poletracker.org:2710/announce
+http://bt1.xxxxbt.cc:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
 http://echostar.ddnsfree.com:8080/announce
+
+http://home.yxgz.club:6969/announce
 
 http://ipv4.rer.lol:2710/announce
 
@@ -24,15 +30,11 @@ http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.trackerlist.xyz:80/announce
-
-http://retracker.spark-rostov.ru:80/announce
+http://servandroidkino.ru:80/announce
 
 http://share.hkg-fansub.info:80/announce.php
 
-http://t.overflow.biz:6969/announce
-
-http://torrent.hificode.in:6969/announce
+http://shubt.net:2710/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -40,17 +42,9 @@ http://tr.cili001.com:8070/announce
 
 http://tr.highstar.shop:80/announce
 
-http://tr.nyacat.pw:80/announce
-
 http://tracker.alaskantf.com:6969/announce
 
-http://tracker.beeimg.com:6969/announce
-
-http://tracker.bittor.pw:1337/announce
-
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.corpscorp.online:80/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
@@ -62,8 +56,6 @@ http://tracker.ghostchu-services.top:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.moxing.party:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
@@ -74,9 +66,9 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://tracker.umunu.ru:6969/announce
-
 http://tracker.waaa.moe:6969/announce
+
+http://tracker.wepzone.net:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
@@ -88,11 +80,11 @@ http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
-http://tracker810.xyz:11450/announce
+http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
-http://www.torrentsnipe.info:2701/announce
+http://www.genesis-sp.org:2710/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -114,9 +106,9 @@ https://tr.zukizuki.org:443/announce
 
 https://tracker.bt4g.com:443/announce
 
-https://tracker.foreverpirates.co:443/announce
+https://tracker.bug38.com:443/announce
 
-https://tracker.gcrenwp.top:443/announce
+https://tracker.foreverpirates.co:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 

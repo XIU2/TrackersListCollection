@@ -16,9 +16,9 @@ https://tr.zukizuki.org:443/announce
 
 https://tracker.bt4g.com:443/announce
 
-https://tracker.foreverpirates.co:443/announce
+https://tracker.bug38.com:443/announce
 
-https://tracker.gcrenwp.top:443/announce
+https://tracker.foreverpirates.co:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
@@ -58,13 +58,17 @@ udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
+udp://ibksturm.synology.me:6969/announce
+
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://node02.torrentonline.cc:42069/announce
+udp://node01.torrentonline.cc:42069/announce
+
+udp://node01.trackerstatus.live:42069/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
@@ -90,8 +94,6 @@ udp://retracker.lanta.me:2710/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://tracker-de-2.cutie.dating:1337/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -105,6 +107,8 @@ udp://tracker.bittor.pw:1337/announce
 udp://tracker.bluefrog.pw:2710/announce
 
 udp://tracker.breizh.pm:6969/announce
+
+udp://tracker.cloudbase.store:1333/announce
 
 udp://tracker.corpscorp.online:80/announce
 
@@ -142,6 +146,8 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.startwork.cv:1337/announce
+
 udp://tracker.t-1.org:6969/announce
 
 udp://tracker.theoks.net:6969/announce
@@ -156,15 +162,13 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
 
-udp://tracker.umunu.ru:6969/announce
+udp://tracker.wepzone.net:6969/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://tracker.zupix.online:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
@@ -175,6 +179,8 @@ udp://tracker4.itzmx.com:2710/announce
 udp://udp.tracker.projectk.org:23333/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
+
+udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
