@@ -26,9 +26,9 @@ https://tracker.ghostchu-services.top:443/announce
 
 https://tracker.iochimari.moe:443/announce
 
-https://tracker.iperson.xyz:443/announce
-
 https://tracker.kuroy.me:443/announce
+
+https://tracker.manager.v6.navy:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
@@ -41,6 +41,8 @@ https://tracker.zhuqiy.com:443/announce
 https://tracker1.520.jp:443/announce
 
 udp://52.58.128.163:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://[2a03:7220:8083:cd00::1]:451/announce
 
@@ -81,6 +83,8 @@ udp://open.stealth.si:80/announce
 udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
+
+udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -154,7 +158,7 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
 
-udp://tracker.yume-hatsuyuki.moe:6969/announce
+udp://tracker.wepzone.net:6969/announce
 
 udp://tracker.zupix.online:6969/announce
 
@@ -169,8 +173,6 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://utracker.ghostchu-services.top:6969/announce
 
 udp://wepzone.net:6969/announce
-
-udp://www.torrent.eu.org:451/announce
 
 udp://zer0day.ch:1337/announce
 
