@@ -36,17 +36,11 @@ https://1337.abcvg.info:443/announce
 
 https://t.213891.xyz:443/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
-
-https://tr.zukizuki.org:443/announce
-
-https://tracker.bt4g.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -64,11 +58,17 @@ https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
+udp://6ahddutb1ucc3cp.ru:6969/announce
+
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://evan.im:6969/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://extracker.dahrkael.net:6969/announce
+
+udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -88,21 +88,19 @@ udp://retracker.lanta.me:2710/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.1h.is:1337/announce
 
 udp://tracker.alaskantf.com:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker.bluefrog.pw:2710/announce
 
 udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.dler.com:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
@@ -137,6 +135,8 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
+
+udp://tracker.wepzone.net:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
 
