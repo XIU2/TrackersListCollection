@@ -16,6 +16,8 @@ https://tr.nyacat.pw:443/announce
 
 https://tracker.bt4g.com:443/announce
 
+https://tracker.gcrenwp.top:443/announce
+
 https://tracker.ghostchu-services.top:443/announce
 
 https://tracker.iochimari.moe:443/announce
@@ -32,11 +34,7 @@ https://tracker.novy.vip:443/announce
 
 https://tracker.pmman.tech:443/announce
 
-https://tracker.puvvadi.net:443/announce
-
 https://tracker.qingwapt.org:443/announce
-
-https://tracker.uraniumhexafluori.de:443/announce
 
 https://tracker.zhuqiy.com:443/announce
 
@@ -44,13 +42,13 @@ https://tracker1.520.jp:443/announce
 
 udp://52.58.128.163:6969/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://[2a03:7220:8083:cd00::1]:451/announce
 
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 udp://admin.52ywp.com:6969/announce
+
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -62,8 +60,6 @@ udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
-udp://ibksturm.synology.me:6969/announce
-
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://leet-tracker.moe:1337/announce
@@ -73,6 +69,8 @@ udp://martin-gebhardt.eu:25/announce
 udp://navegador.click:6969/announce
 
 udp://node01.torrentonline.cc:42069/announce
+
+udp://node01.trackerstatus.live:42069/announce
 
 udp://node02.torrentonline.cc:42069/announce
 
@@ -86,6 +84,8 @@ udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
+udp://opentracker.io:6969/announce
+
 udp://p4p.arenabg.com:1337/announce
 
 udp://rekcart.duckdns.org:15480/announce
@@ -94,9 +94,9 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
 
-udp://run.publictracker.xyz:6969/announce
-
 udp://t.overflow.biz:6969/announce
+
+udp://torrentclub.online:54123/announce
 
 udp://torrentvpn.club:6990/announce
 
@@ -193,7 +193,5 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://utracker.ghostchu-services.top:6969/announce
 
 udp://wepzone.net:6969/announce
-
-udp://zer0day.ch:1337/announce
 
 wss://tracker.openwebtorrent.com:443/announce

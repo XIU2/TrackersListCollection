@@ -41,15 +41,15 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 
 ****
 
-### 更新时间: 2026-02-17
+### 更新时间: 2026-02-18
 
-- **精选列表：**(74 个)  
+- **精选列表：**(73 个)  
  _**https://cf.trackerslist.com/best.txt**_  
-- **完整列表：**(163 个)  
+- **完整列表：**(169 个)  
  _**https://cf.trackerslist.com/all.txt**_  
-- **HTTP(S) 列表：**(85 个)  
+- **HTTP(S) 列表：**(91 个)  
  _**https://cf.trackerslist.com/http.txt**_  
-- **无 HTTP 列表：**(100 个)  
+- **无 HTTP 列表：**(99 个)  
  _**https://cf.trackerslist.com/nohttp.txt**_  
 
 > 如果上面链接地址无法打开或很慢，请尝试使用以下其他 **CDN 分流**地址。
