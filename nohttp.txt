@@ -10,19 +10,19 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.nyacat.pw:443/announce
 
+https://tr.zukizuki.org:443/announce
+
 https://tracker.bt4g.com:443/announce
+
+https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
 https://tracker.iochimari.moe:443/announce
-
-https://tracker.iperson.xyz:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -41,6 +41,8 @@ https://tracker.zhuqiy.com:443/announce
 https://tracker1.520.jp:443/announce
 
 udp://52.58.128.163:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://[2a03:7220:8083:cd00::1]:451/announce
 
@@ -71,8 +73,6 @@ udp://navegador.click:6969/announce
 udp://node01.torrentonline.cc:42069/announce
 
 udp://node01.trackerstatus.live:42069/announce
-
-udp://node02.torrentonline.cc:42069/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
