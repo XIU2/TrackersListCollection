@@ -10,13 +10,15 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
+
+https://tr.zukizuki.org:443/announce
 
 https://tracker.bt4g.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
-
-https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
@@ -60,8 +62,6 @@ udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
-udp://ibksturm.synology.me:6969/announce
-
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://leet-tracker.moe:1337/announce
@@ -70,7 +70,11 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://navegador.click:6969/announce
 
+udp://node01.madtia.cc:42069/announce
+
 udp://node01.trackerstatus.live:42069/announce
+
+udp://node02.madtia.cc:42069/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
@@ -81,8 +85,6 @@ udp://open.dstud.io:6969/announce
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
-
-udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -175,8 +177,6 @@ udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://tracker.zupix.online:6969/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
