@@ -14,8 +14,6 @@ http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
 
-http://tracker.bt4g.com:2095/announce
-
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
@@ -42,8 +40,6 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.nyacat.pw:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
@@ -59,8 +55,6 @@ https://tracker.qingwapt.org:443/announce
 https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -82,13 +76,9 @@ udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://opentor.org:2710/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.lanta.me:2710/announce
-
-udp://t.overflow.biz:6969/announce
 
 udp://torrentvpn.club:6990/announce
 
@@ -98,6 +88,8 @@ udp://tracker.1h.is:1337/announce
 
 udp://tracker.alaskantf.com:6969/announce
 
+udp://tracker.bittor.pw:1337/announce
+
 udp://tracker.bluefrog.pw:2710/announce
 
 udp://tracker.breizh.pm:6969/announce
@@ -105,10 +97,6 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.dler.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
-
-udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
@@ -144,12 +132,14 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
+udp://tracker.wepzone.net:6969/announce
+
 udp://tracker1.myporn.club:9337/announce
 
 udp://uabits.today:6990/announce
 
 udp://udp.tracker.projectk.org:23333/announce
 
-udp://utracker.ghostchu-services.top:6969/announce
+udp://wepzone.net:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
