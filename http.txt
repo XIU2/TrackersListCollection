@@ -8,6 +8,8 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
+http://asiatorrent.giize.com:51413/announce
+
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -23,8 +25,6 @@ http://ipv6.rer.lol:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
-
-http://speedtest.iperson.xyz:6969/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -96,8 +96,6 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
@@ -106,13 +104,9 @@ https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
 https://tracker.bt4g.com:443/announce
 
-https://tracker.gcrenwp.top:443/announce
-
 https://tracker.ghostchu-services.top:443/announce
 
 https://tracker.iochimari.moe:443/announce
-
-https://tracker.iperson.xyz:443/announce
 
 https://tracker.kuroy.me:443/announce
 
