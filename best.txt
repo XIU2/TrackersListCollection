@@ -136,8 +136,6 @@ udp://uabits.today:6990/announce
 
 udp://udp.tracker.projectk.org:23333/announce
 
-udp://utracker.ghostchu-services.top:6969/announce
-
 udp://wepzone.net:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
