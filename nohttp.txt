@@ -6,6 +6,8 @@ https://shahidrazi.online:443/announce
 
 https://t.213891.xyz:443/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
 https://tr.abiir.top:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -13,6 +15,8 @@ https://tr.nyacat.pw:443/announce
 https://tr.zukizuki.org:443/announce
 
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
+
+https://tracker.bt4g.com:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
@@ -82,7 +86,11 @@ udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
 
+udp://open.dstud.io:6969/announce
+
 udp://open.stealth.si:80/announce
+
+udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -181,6 +189,8 @@ udp://tracker4.itzmx.com:2710/announce
 udp://uabits.today:6990/announce
 
 udp://udp.tracker.projectk.org:23333/announce
+
+udp://udp1.torrust-tracker-demo.com:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
