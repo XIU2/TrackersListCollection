@@ -40,6 +40,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
@@ -60,8 +62,6 @@ https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt.rer.lol:6969/announce
@@ -69,8 +69,6 @@ udp://bt.rer.lol:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://evan.im:6969/announce
-
-udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
@@ -83,6 +81,8 @@ udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
+
+udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -102,8 +102,6 @@ udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.bluefrog.pw:2710/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.dler.com:6969/announce
@@ -115,8 +113,6 @@ udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
-
-udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.ixuexi.click:6969/announce
 
