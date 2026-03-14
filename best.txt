@@ -18,6 +18,8 @@ http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
@@ -27,8 +29,6 @@ http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://www.all4nothin.net:80/announce.php
-
-http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -54,7 +54,7 @@ https://tracker.manager.v6.navy:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
-https://tracker.novy.vip:443/announce
+https://tracker.pmman.tech:443/announce
 
 https://tracker.qingwapt.org:443/announce
 
@@ -70,6 +70,8 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://evan.im:6969/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://extracker.dahrkael.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
@@ -81,8 +83,6 @@ udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
-
-udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -98,8 +98,6 @@ udp://tracker.1h.is:1337/announce
 
 udp://tracker.alaskantf.com:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker.bluefrog.pw:2710/announce
 
 udp://tracker.corpscorp.online:80/announce
@@ -107,6 +105,8 @@ udp://tracker.corpscorp.online:80/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 

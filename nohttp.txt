@@ -12,8 +12,6 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
@@ -26,6 +24,8 @@ https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
+https://tracker.iochimari.moe:443/announce
+
 https://tracker.iperson.xyz:443/announce
 
 https://tracker.kuroy.me:443/announce
@@ -35,8 +35,6 @@ https://tracker.manager.v6.navy:443/announce
 https://tracker.moeblog.cn:443/announce
 
 https://tracker.nekomi.cn:443/announce
-
-https://tracker.novy.vip:443/announce
 
 https://tracker.pmman.tech:443/announce
 
@@ -78,7 +76,7 @@ udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://node01.madtia.cc:42069/announce
+udp://node01.torrentonline.cc:42069/announce
 
 udp://node01.trackerstatus.live:42069/announce
 
@@ -147,6 +145,10 @@ udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.huadongblower.xyz:8080/announce
+
+udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.ixuexi.click:6969/announce
 
