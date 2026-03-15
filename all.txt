@@ -24,6 +24,12 @@ http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://s1130638.ha016.t.mydomain.zone:80/announce
+
+http://s1130639.ha009.t.mydomain.zone:80/announce
+
+http://s1130642.ha014.t.mydomain.zone:80/announce
+
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
@@ -54,6 +60,8 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.qu.ax:6969/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
@@ -61,6 +69,8 @@ http://tracker.skyts.net:6969/announce
 http://tracker.tritan.gg:8080/announce
 
 http://tracker.waaa.moe:6969/announce
+
+http://tracker.wepzone.net:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
@@ -71,6 +81,8 @@ http://tracker2.dler.org:80/announce
 http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
+
+http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -87,6 +99,8 @@ https://t.213891.xyz:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -122,6 +136,8 @@ https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
+https://wsad.run.place:443/announce
+
 udp://52.58.128.163:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
@@ -152,11 +168,11 @@ udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
+udp://node01.madtia.cc:42069/announce
+
 udp://node01.torrentonline.cc:42069/announce
 
 udp://node01.trackerstatus.live:42069/announce
-
-udp://node02.madtia.cc:42069/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
@@ -261,8 +277,6 @@ udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.wepzone.net:6969/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
