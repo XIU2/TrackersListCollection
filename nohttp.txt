@@ -4,6 +4,8 @@ https://1337.abcvg.info:443/announce
 
 https://cny.fan:443/announce
 
+https://colibri.parrot.run:443/announce
+
 https://shahidrazi.online:443/announce
 
 https://t.213891.xyz:443/announce
@@ -11,8 +13,6 @@ https://t.213891.xyz:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -22,6 +22,8 @@ https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
 https://tracker.bt4g.com:443/announce
 
+https://tracker.gcrenwp.top:443/announce
+
 https://tracker.ghostchu-services.top:443/announce
 
 https://tracker.kuroy.me:443/announce
@@ -29,8 +31,6 @@ https://tracker.kuroy.me:443/announce
 https://tracker.manager.v6.navy:443/announce
 
 https://tracker.moeblog.cn:443/announce
-
-https://tracker.moeking.me:443/announce
 
 https://tracker.nekomi.cn:443/announce
 
@@ -44,7 +44,7 @@ https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
-https://wsad.run.place:443/announce
+https://wolf.parrot.run:443/announce
 
 udp://52.58.128.163:6969/announce
 
@@ -76,17 +76,13 @@ udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://node01.madtia.cc:42069/announce
+udp://node01.torrentonline.cc:42069/announce
 
 udp://node01.trackerstatus.live:42069/announce
-
-udp://node02.madtia.cc:42069/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://open.demonii.com:1337/announce
-
-udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -146,6 +142,8 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
+udp://tracker.huadongblower.xyz:8080/announce
+
 udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.ixuexi.click:6969/announce
@@ -178,8 +176,6 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
 
-udp://tracker.wepzone.net:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.itzmx.com:6961/announce
@@ -195,7 +191,5 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
-
-udp://wepzone.net:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
