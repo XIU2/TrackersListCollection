@@ -1,0 +1,398 @@
+name: Update Trackers
+# 说明：之前是托管在服务器上自动化运行的，但当服务器出现问题导致中断了几天后，我决定交给 Github Actions 处理（顺便省了个服务器费用），不过因为不熟悉，所以目前该 workflow 是精简过的（相比之前的过滤更宽松），后续会逐渐更新使其接近原来的效果。
+# Note: Previously, this was hosted on a server and ran automatically, but after the server went down and caused a few days of downtime, I decided to switch to GitHub Actions (which also saved me some server costs). However, since I’m still getting used to it, the current workflow has been simplified (with less stringent filtering criteria than before). I’ll be updating it gradually to bring the results closer to the original version.
+
+on:
+  # 定时执行。这里使用 UTC 时间。
+  schedule:
+    # 每天 UTC 00:00 运行一次，对应 UTC+8 的 8:00
+    - cron: "0 0 * * *"
+  # 允许在 GitHub Actions 页面手动触发，便于测试。
+  workflow_dispatch:
+
+permissions:
+  # 允许工作流把生成结果提交回当前仓库。
+  contents: write
+
+concurrency:
+  # 避免同一工作流并发执行，导致互相覆盖提交。
+  group: update-trackers-optimized
+  # false 表示不取消已在运行的任务，新任务排队等待。
+  cancel-in-progress: false
+
+jobs:
+  update:
+    # 使用 GitHub 提供的 Ubuntu 运行环境。
+    runs-on: ubuntu-latest
+    # 给整个任务一个总超时，防止外部源异常时无限挂住。
+    timeout-minutes: 45
+
+    env:
+      UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+      TRACKERSLIST_ALL_URL: |
+        https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
+        http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt
+        https://newtrackon.com/api/live
+        https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_best.txt
+      TRACKERSLIST_BEST_URL: |
+        https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt
+        https://newtrackon.com/api/stable
+        https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_best.txt
+
+    steps:
+      - name: Checkout
+        # 检出仓库内容。后续所有文件读写都基于这里的工作目录。
+        uses: actions/checkout@v4
+        with:
+          # 拉取完整历史，方便后面 git commit / git push 更稳定。
+          fetch-depth: 0
+
+      - name: Generate tracker files
+        # 生成最终 Tracker 列表文件（拉取 -> 清洗 -> 黑名单过滤 -> 解析检查 -> TCP 检查 -> 输出文件）
+        shell: bash
+        run: |
+          # 严格模式：
+          # -e 任意命令失败立即退出
+          # -u 使用未定义变量时报错
+          # -o pipefail 管道任一环节失败都视为失败
+          set -Eeuo pipefail
+
+          # 所有输入输出文件名都集中定义，便于后续维护。
+          FILE_ALL="all.txt"
+          FILE_BEST="best.txt"
+          FILE_HTTP="http.txt"
+          FILE_NOHTTP="nohttp.txt"
+          FILE_ALL_ARIA2="all_aria2.txt"
+          FILE_BEST_ARIA2="best_aria2.txt"
+          FILE_HTTP_ARIA2="http_aria2.txt"
+          FILE_NOHTTP_ARIA2="nohttp_aria2.txt"
+          FILE_OTHER="other.txt"
+          FILE_BLACKLIST="blacklist.txt"
+
+          # 基础文件检查：这些文件缺失时，直接终止工作流并报错。
+          [[ -f "${FILE_OTHER}" ]] || { echo "${FILE_OTHER} not found" >&2; exit 1; }
+          [[ -f "${FILE_BLACKLIST}" ]] || { echo "${FILE_BLACKLIST} not found" >&2; exit 1; }
+
+          # 拉取远程源。这里用 curl，不依赖额外安装。
+          # 参数说明：
+          # -4 只走 IPv4，避免某些源在 Actions 环境下 IPv6 异常
+          # -f 服务器返回 4xx/5xx 时直接失败
+          # -sS 静默但保留错误
+          # -L 自动跟随重定向
+          fetch_url() {
+            local url="$1"
+            curl -4fsSL --max-redirs 5 --retry 2 --retry-delay 1 --connect-timeout 4 --max-time 10 \
+              -A "${UA}" "${url}" || true
+          }
+
+          # TCP 连通性检查。
+          # 使用 Python 标准库 socket 做 TCP 连接测试，原因是：
+          # 1. GitHub Actions 自带 python3
+          # 2. 可同时支持 IPv4 / 域名 / IPv6
+          # 3. 不需要额外安装 nc、telnet 等工具
+          tcping() {
+            local host="$1"
+            local port="$2"
+            python3 -c 'import socket, sys; socket.create_connection((sys.argv[1], int(sys.argv[2])), timeout=1.5).close()' "$host" "$port" 2>/dev/null
+          }
+
+          # 规范化并过滤 Tracker：
+          # 1. 清理空白与注释
+          # 2. 保留包含 announce 的合法 URL
+          # 3. 过滤掉部分 Cloudflare CDN 的网段（CDN 直接用 IP 是不行的）
+          # 4. 给未显式带端口的 http/https 自动补 80/443
+          # 5. 只保留最终带端口的记录
+          normalize_and_filter() {
+            awk '
+              function trim(s){ sub(/^[[:space:]]+/,"",s); sub(/[[:space:]]+$/,"",s); return s }
+              {
+                gsub(/\r/, "", $0)
+                line = trim($0)
+                if (line == "" || line ~ /^#/) next
+                if (line !~ /:\/\//) next
+                if (line !~ /\/announce/) next
+                if (line ~ /:\/\/104\./) next
+                if (line ~ /:\/\/172\./) next
+
+                # 在清洗阶段统一补齐（http/https 缺省端口的处理）
+                if (line ~ /^http:\/\//) {
+                  if (line !~ /^http:\/\/.*:[0-9]+\/announce/) {
+                    sub(/\/announce/, ":80/announce", line)
+                  }
+                } else if (line ~ /^https:\/\//) {
+                  if (line !~ /^https:\/\/.*:[0-9]+\/announce/) {
+                    sub(/\/announce/, ":443/announce", line)
+                  }
+                }
+
+                if (line ~ /:[0-9]+/) print line
+              }
+            ' | sort -u
+          }
+
+          apply_blacklist() {
+            local trackers="$1"
+            local output="${trackers}"
+            local line
+
+            while IFS= read -r line; do
+              [[ -z "${line}" ]] && continue
+              [[ "${line}" =~ ^# ]] && continue
+              output=$(printf '%s\n' "${output}" | grep -Fvx "${line}" || true)
+            done < "${FILE_BLACKLIST}"
+
+            printf '%s\n' "${output}" | sed '/^\s*$/d' | sort -u
+          }
+
+          # 从 tracker URL 中提取主机名或 IP。
+          # 支持以下形式：
+          # - 域名: tracker.example.com:443
+          # - IPv4: 1.2.3.4:6969
+          # - IPv6: [2001:db8::1]:443
+          host_from_tracker() {
+            local tracker="$1"
+            local host_port
+
+            host_port=$(printf '%s\n' "${tracker}" \
+              | sed -E 's#^[a-z]+://##' \
+              | sed -E 's#/.*$##')
+
+            # 带括号的 IPv6，例如 [2001:db8::1]:443
+            if [[ "${host_port}" =~ ^\[.*\](:[0-9]+)?$ ]]; then
+              printf '%s\n' "${host_port}" | sed -E 's#^\[([^]]+)\](:[0-9]+)?$#\1#'
+              return 0
+            fi
+
+            # 普通 host:port 场景，去掉尾部端口即可。
+            printf '%s\n' "${host_port}" | sed -E 's#:[0-9]+$##'
+          }
+
+          # 域名解析检查：
+          # - IPv4 字面量和 IPv6 字面量直接保留
+          # - 域名使用 getent ahosts 检查是否能解析到有效地址
+          # getent 是 Ubuntu runner 自带工具
+          check_host_resolution() {
+            local trackers="$1"
+            local keep=""
+            local invalid=0
+            local t host
+
+            while IFS= read -r t; do
+              [[ -z "${t}" ]] && continue
+              host=$(host_from_tracker "${t}")
+
+              # IPv4 和 IPv6 字面量直接放行，不做额外 DNS 解析。
+              if [[ "${host}" =~ ^([0-9]{1,3}\.){3}[0-9]{1,3}$ ]] || [[ "${host}" == *:* ]]; then
+                keep+=$'\n'"${t}"
+                continue
+              fi
+
+              if getent ahosts "${host}" \
+                | awk '{print $1}' \
+                | grep -Ev '^(127\.|0\.0\.0\.0$|10\.|::1$|::$)' >/dev/null; then
+                keep+=$'\n'"${t}"
+              else
+                invalid=$((invalid + 1))
+              fi
+            done <<< "${trackers}"
+
+            echo "Host invalid count: ${invalid}" >&2
+            printf '%s\n' "${keep}" | sed '/^\s*$/d' | sort -u
+          }
+
+          # 从 tracker URL 中提取 host 和 port。
+          # 输出格式固定为：host<TAB>port
+          split_host_port() {
+            local tracker="$1"
+            local host_port host port
+
+            host_port=$(printf '%s\n' "${tracker}" \
+              | sed -E 's#^[a-z]+://##' \
+              | sed -E 's#/.*$##')
+
+            # IPv6 形式：[2001:db8::1]:443
+            if [[ "${host_port}" =~ ^\[([^]]+)\]:([0-9]+)$ ]]; then
+              host=$(printf '%s\n' "${host_port}" | sed -E 's#^\[([^]]+)\]:([0-9]+)$#\1#')
+              port=$(printf '%s\n' "${host_port}" | sed -E 's#^\[([^]]+)\]:([0-9]+)$#\2#')
+              printf '%s\t%s\n' "${host}" "${port}"
+              return 0
+            fi
+
+            # 普通 host:port 形式
+            host=$(printf '%s\n' "${host_port}" | sed -E 's#:[0-9]+$##')
+            port=$(printf '%s\n' "${host_port}" | grep -Eo ':[0-9]+$' | tr -d ':' || true)
+            printf '%s\t%s\n' "${host}" "${port}"
+          }
+
+          # TCP 端口检查：
+          # - 只跳过 UDP
+          # 这一步会去掉 DNS 可解析但端口不可达的 tracker
+          check_port_tcp() {
+            local trackers="$1"
+            local keep=""
+            local invalid=0
+            local t host port split
+
+            while IFS= read -r t; do
+              [[ -z "${t}" ]] && continue
+
+              # UDP 不做 TCP 检查，直接保留。
+              if [[ "${t}" =~ ^udp:// ]]; then
+                keep+=$'\n'"${t}"
+                continue
+              fi
+
+              split=$(split_host_port "${t}")
+              host=$(printf '%s\n' "${split}" | cut -f1)
+              port=$(printf '%s\n' "${split}" | cut -f2)
+
+              if [[ -z "${host}" || -z "${port}" ]]; then
+                invalid=$((invalid + 1))
+                continue
+              fi
+
+              if tcping "${host}" "${port}"; then
+                keep+=$'\n'"${t}"
+              else
+                invalid=$((invalid + 1))
+              fi
+            done <<< "${trackers}"
+
+            echo "TCP invalid count: ${invalid}" >&2
+            printf '%s\n' "${keep}" | sed '/^\s*$/d' | sort -u
+          }
+
+          # 生成两种输出：
+          # - 普通文本格式：每个 tracker 后面空一行
+          # - aria2 格式：单行逗号分隔
+          write_bt_and_aria2() {
+            local trackers="$1"
+            local out_bt="$2"
+            local out_aria2="$3"
+
+            printf '%s\n' "${trackers}" | sed '/^\s*$/d' | sed 's/$/\n/g' > "${out_bt}"
+            grep -v '^\s*$' "${out_bt}" | paste -sd, - > "${out_aria2}"
+          }
+
+          # 拉取外部 tracker 源，并与 other.txt 中的内容合并。
+          collect_trackers() {
+            local urls="$1"
+            local combined
+            local url body
+
+            combined=$(cat "${FILE_OTHER}")
+            while IFS= read -r url; do
+              [[ -z "${url}" ]] && continue
+              body=$(fetch_url "${url}")
+              combined+=$'\n'"${body}"
+            done <<< "${urls}"
+
+            printf '%s\n' "${combined}"
+          }
+
+          # 生成 ALL 或 BEST 的统一流程：
+          # 拉取 -> 清洗 -> 黑名单过滤 -> 解析检查 -> TCP 检查 -> 输出文件
+          build_set() {
+            local mode="$1"
+            local urls out_bt out_aria2
+            local trackers
+
+            if [[ "${mode}" == "ALL" ]]; then
+              echo "ALL:"
+              urls="${TRACKERSLIST_ALL_URL}"
+              out_bt="${FILE_ALL}"
+              out_aria2="${FILE_ALL_ARIA2}"
+            else
+              echo "BEST:"
+              urls="${TRACKERSLIST_BEST_URL}"
+              out_bt="${FILE_BEST}"
+              out_aria2="${FILE_BEST_ARIA2}"
+            fi
+
+            trackers=$(collect_trackers "${urls}" | normalize_and_filter)
+            trackers=$(apply_blacklist "${trackers}")
+            trackers=$(check_host_resolution "${trackers}")
+            trackers=$(check_port_tcp "${trackers}")
+            write_bt_and_aria2 "${trackers}" "${out_bt}" "${out_aria2}"
+          }
+
+          # 先生成全量和精选集合。
+          build_set ALL
+          build_set BEST
+
+          # 从 ALL 中再拆分出 HTTP/HTTPS 集合。
+          grep -v '^\s*$' "${FILE_ALL}" \
+            | sed -e 's/^[ ]*//g' -e 's/[ ]*$//g' -e 's/\r//g' \
+            | grep -E '^http(s)?:' \
+            | sed 's/$/\n/g' > "${FILE_HTTP}"
+
+          # 从 ALL 中拆分出非 HTTP/HTTPS、非 WS/WSS 的集合。
+          grep -v '^\s*$' "${FILE_ALL}" \
+            | sed -e 's/^[ ]*//g' -e 's/[ ]*$//g' -e 's/\r//g' \
+            | grep -vE '^http(s)?:' \
+            | grep -vE '^ws(s)?:' \
+            | sed 's/$/\n/g' > "${FILE_NOHTTP}"
+
+          # 同步生成 aria2 版本文件。
+          grep -v '^\s*$' "${FILE_HTTP}" | paste -sd, - > "${FILE_HTTP_ARIA2}"
+          grep -v '^\s*$' "${FILE_NOHTTP}" | paste -sd, - > "${FILE_NOHTTP_ARIA2}"
+
+      - name: Update README and export stats
+        # 更新 README 文件并统计数据
+        shell: bash
+        run: |
+          set -Eeuo pipefail
+
+          # 统一使用北京时间作为 README 中展示的日期。
+          UPDATE=$(TZ='Asia/Shanghai' date '+%Y-%m-%d')
+          # 统计各输出文件中的有效 tracker 数量。
+          ALL_NUM=$(grep -v '^\s*$' all.txt | wc -l)
+          BEST_NUM=$(grep -v '^\s*$' best.txt | wc -l)
+          HTTP_NUM=$(grep -v '^\s*$' http.txt | wc -l)
+          NOHTTP_NUM=$(grep -v '^\s*$' nohttp.txt | wc -l)
+
+          # 更新英文 README。
+          sed -i -E "s|^### Updated: .*|### Updated: ${UPDATE}|" README.md
+          sed -i -E "s|^- \*\*BEST Tracker list:\*\* \([0-9]+ trackers\).*$|- **BEST Tracker list:** (${BEST_NUM} trackers)  |" README.md
+          sed -i -E "s|^- \*\*ALL Tracker list:\*\* \([0-9]+ trackers\).*$|- **ALL Tracker list:** (${ALL_NUM} trackers)  |" README.md
+          sed -i -E "s|^- \*\*HTTP\(S\) Tracker list:\*\* \([0-9]+ trackers\).*$|- **HTTP(S) Tracker list:** (${HTTP_NUM} trackers)  |" README.md
+          sed -i -E "s|^- \*\*No HTTP Tracker list:\*\* \([0-9]+ trackers\).*$|- **No HTTP Tracker list:** (${NOHTTP_NUM} trackers)  |" README.md
+
+          # 更新中文 README。
+          sed -i -E "s|^### 更新时间: .*|### 更新时间: ${UPDATE}|" README-ZH.md
+          sed -i -E "s|^- \*\*精选列表：\*\*\([0-9]+ 个\).*$|- **精选列表：**(${BEST_NUM} 个)  |" README-ZH.md
+          sed -i -E "s|^- \*\*完整列表：\*\*\([0-9]+ 个\).*$|- **完整列表：**(${ALL_NUM} 个)  |" README-ZH.md
+          sed -i -E "s|^- \*\*HTTP\(S\) 列表：\*\*\([0-9]+ 个\).*$|- **HTTP(S) 列表：**(${HTTP_NUM} 个)  |" README-ZH.md
+          sed -i -E "s|^- \*\*无 HTTP 列表：\*\*\([0-9]+ 个\).*$|- **无 HTTP 列表：**(${NOHTTP_NUM} 个)  |" README-ZH.md
+
+          echo "[$(TZ='Asia/Shanghai' date '+%Y/%m/%d %H:%M:%S')] ALL数量：${ALL_NUM} 个，BEST数量：${BEST_NUM} 个，HTTP(S)数量：${HTTP_NUM} 个，NoHTTP数量：${NOHTTP_NUM} 个。"
+
+      - name: Commit and push when changed
+        # 如有修改则提交推送
+        shell: bash
+        env:
+          BITBUCKET_TOKEN: ${{ secrets.BITBUCKET_TOKEN }}
+        run: |
+          set -Eeuo pipefail
+
+          # 设置提交身份为 GitHub Actions 的机器人账号。
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # 只有存在文件变更时才提交，避免空提交失败。
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          # 提交并推送到当前触发运行的分支。
+          UPDATE=$(TZ='Asia/Shanghai' date '+%Y-%m-%d')
+          git commit -m "${UPDATE}"
+
+          # 1) 推送到 GitHub（origin）
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+          # 2) 推送到 Bitbucket（镜像）
+          git remote add bitbucket "https://x-token-auth:${BITBUCKET_TOKEN}@bitbucket.org/xiu2/trackerslistcollection.git"
+          git push bitbucket "HEAD:${GITHUB_REF_NAME}"
