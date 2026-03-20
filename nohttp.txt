@@ -12,8 +12,6 @@ udp://bandito.byterunner.io:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://bt.rer.lol:6969/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://evan.im:6969/announce
@@ -34,6 +32,8 @@ udp://node01.madtia.cc:42069/announce
 
 udp://node01.trackerstatus.live:42069/announce
 
+udp://node02.madtia.cc:42069/announce
+
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://open.demonii.com:1337/announce
@@ -47,8 +47,6 @@ udp://open.stealth.si:80/announce
 udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
-
-udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
