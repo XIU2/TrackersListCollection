@@ -1,6 +1,6 @@
 name: Update Trackers
-# 说明：之前是托管在服务器上自动化运行的，但当服务器出现问题导致中断了几天后，我决定交给 Github Actions 处理（顺便省了个服务器费用），不过因为不熟悉，所以目前该 workflow 是精简过的（相比之前的过滤更宽松），后续会逐渐更新使其接近原来的效果。
-# Note: Previously, this was hosted on a server and ran automatically, but after the server went down and caused a few days of downtime, I decided to switch to GitHub Actions (which also saved me some server costs). However, since I’m still getting used to it, the current workflow has been simplified (with less stringent filtering criteria than before). I’ll be updating it gradually to bring the results closer to the original version.
+# 说明：之前因为我的服务器掉链子导致自动化更新中断，现已迁移至 GitHub Actions 稳定运行。为顺利迁移暂时精简了筛选过滤流程（以及部分处理起来麻烦的 Tracker 来源），后续会逐步恢复接近原来的效果！
+# Note: Previously, my automated updates were interrupted due to server issues, but they have now been migrated to GitHub Actions and are running stably. To ensure a smooth migration, the filtering process has been temporarily streamlined, and I will gradually restore it to its original effect in the future!
 
 on:
   # 定时执行。这里使用 UTC 时间。
