@@ -42,7 +42,7 @@ jobs:
     steps:
       - name: Checkout
         # 检出仓库内容。后续所有文件读写都基于这里的工作目录。
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           # 拉取完整历史，方便后面 git commit / git push 更稳定。
           fetch-depth: 0
