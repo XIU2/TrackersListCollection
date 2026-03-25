@@ -30,6 +30,8 @@ udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
+udp://node01.torrentonline.cc:42069/announce
+
 udp://node01.trackerstatus.live:42069/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
@@ -52,11 +54,13 @@ udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
+udp://speedtest.iperson.xyz:6969/announce
+
+udp://t.overflow.biz:6969/announce
+
 udp://torrentclub.online:54123/announce
 
 udp://torrentvpn.club:6990/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
 
@@ -133,8 +137,6 @@ udp://tracker.wepzone.net:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://tracker1.itzmx.com:8080/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.itzmx.com:6961/announce
 

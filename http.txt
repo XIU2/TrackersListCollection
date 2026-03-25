@@ -12,8 +12,6 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://bt.poletracker.org:2710/announce
-
 http://bughome.de:2832/announce
 
 http://bvarf.tracker.sh:2086/announce
@@ -28,21 +26,17 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgtracker.com:1096/announce
 
-http://open.trackerlist.xyz:80/announce
-
 http://s1130639.ha009.t.mydomain.zone:80/announce
 
 http://s1130642.ha014.t.mydomain.zone:80/announce
 
-http://shubt.net:2710/announce
+http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
 http://tr.highstar.shop:80/announce
 
 http://tr.nyacat.pw:80/announce
-
-http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -55,8 +49,6 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.dmcomic.org:2710/announce
 
 http://tracker.exe.in.th:6969/announce
 
@@ -72,8 +64,6 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.tvunderground.org.ru:3218/announce
 
-http://tracker.xiaoduola.xyz:6969/announce
-
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.zhuqiy.com:80/announce
@@ -83,8 +73,6 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker2.dler.org:80/announce
 
 http://tracker3.ctix.cn:8080/announce
-
-http://vps-c1adea63.vps.ovh.net:6969/announce
 
 http://wepzone.net:6969/announce
 
@@ -118,6 +106,8 @@ https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
 https://tracker.bt4g.com:443/announce
 
+https://tracker.gcrenwp.top:443/announce
+
 https://tracker.ghostchu-services.top:443/announce
 
 https://tracker.iperson.xyz:443/announce
@@ -130,19 +120,17 @@ https://tracker.moeblog.cn:443/announce
 
 https://tracker.moeking.me:443/announce
 
-https://tracker.mrhei.tech:666/announce
-
 https://tracker.nekomi.cn:443/announce
 
 https://tracker.pmman.tech:443/announce
 
 https://tracker.qingwapt.org:443/announce
 
-https://tracker.vectahosting.eu:443/announce
-
 https://tracker.yggleak.top:443/announce
 
 https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
+
+https://wsad.run.place:443/announce
 
