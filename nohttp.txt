@@ -34,6 +34,8 @@ udp://node01.torrentonline.cc:42069/announce
 
 udp://node01.trackerstatus.live:42069/announce
 
+udp://node02.madtia.cc:42069/announce
+
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://open.demonii.com:1337/announce
@@ -60,7 +62,7 @@ udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:54123/announce
 
-udp://torrentvpn.club:6990/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
 

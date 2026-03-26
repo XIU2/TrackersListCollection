@@ -28,8 +28,6 @@ http://open.acgtracker.com:1096/announce
 
 http://s1130639.ha009.t.mydomain.zone:80/announce
 
-http://s1130642.ha014.t.mydomain.zone:80/announce
-
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
@@ -39,8 +37,6 @@ http://tr.highstar.shop:80/announce
 http://tr.nyacat.pw:80/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.cubonegro.org:80/announce
 
 http://tracker.darkness.services:6969/announce
 
@@ -82,8 +78,6 @@ https://1337.abcvg.info:443/announce
 
 https://cny.fan:443/announce
 
-https://colibri.parrot.run:443/announce
-
 https://http1.torrust-tracker-demo.com:443/announce
 
 https://pybittrack.retiolus.net:443/announce
@@ -96,21 +90,19 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
 
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
+https://tracker.7471.top:443/announce
+
 https://tracker.bt4g.com:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
-
-https://tracker.iperson.xyz:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -119,6 +111,8 @@ https://tracker.manager.v6.navy:443/announce
 https://tracker.moeblog.cn:443/announce
 
 https://tracker.moeking.me:443/announce
+
+https://tracker.mrhei.tech:666/announce
 
 https://tracker.nekomi.cn:443/announce
 
