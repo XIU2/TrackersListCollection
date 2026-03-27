@@ -1,10 +1,10 @@
 http://004430.xyz:80/announce
 
+http://0d.kebhana.mx:443/announce
+
 http://1337.abcvg.info:80/announce
 
 http://207.241.226.111:6969/announce
-
-http://207.241.231.226:6969/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
@@ -14,21 +14,19 @@ http://bt.okmp3.ru:2710/announce
 
 http://bughome.de:2832/announce
 
+http://buny.uk:6969/announce
+
 http://bvarf.tracker.sh:2086/announce
 
 http://extracker.dahrkael.net:6969/announce
 
 http://ipv4.rer.lol:2710/announce
 
-http://lucke.fenesisu.moe:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgtracker.com:1096/announce
 
-http://s1130639.ha009.t.mydomain.zone:80/announce
-
-http://t.overflow.biz:6969/announce
+http://share.hkg-fansub.info:80/announce.php
 
 http://torrentsmd.com:8080/announce
 
@@ -50,6 +48,8 @@ http://tracker.exe.in.th:6969/announce
 
 http://tracker.ghostchu-services.top:80/announce
 
+http://tracker.lintk.me:2710/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.qu.ax:6969/announce
@@ -70,13 +70,19 @@ http://tracker2.dler.org:80/announce
 
 http://tracker3.ctix.cn:8080/announce
 
+http://tracker810.xyz:11450/announce
+
 http://wepzone.net:6969/announce
+
+http://www.genesis-sp.org:2710/announce
 
 https://004430.xyz:443/announce
 
 https://1337.abcvg.info:443/announce
 
 https://cny.fan:443/announce
+
+https://colibri.parrot.run:443/announce
 
 https://http1.torrust-tracker-demo.com:443/announce
 
@@ -90,6 +96,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
@@ -99,6 +107,8 @@ https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 https://tracker.7471.top:443/announce
 
 https://tracker.bt4g.com:443/announce
+
+https://tracker.cangku.moe:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
@@ -126,5 +136,5 @@ https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
-https://wsad.run.place:443/announce
+https://wolf.parrot.run:443/announce
 
