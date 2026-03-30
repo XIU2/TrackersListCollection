@@ -1,5 +1,7 @@
 udp://52.58.128.163:6969/announce
 
+udp://6ahddutb1ucc3cp.ru:6969/announce
+
 udp://[2a03:7220:8083:cd00::1]:451/announce
 
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
@@ -46,8 +48,6 @@ udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
-udp://opentracker.io:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://rekcart.duckdns.org:15480/announce
@@ -55,6 +55,8 @@ udp://rekcart.duckdns.org:15480/announce
 udp://retracker.hotplug.ru:2710/announce
 
 udp://seedpeer.net:6969/announce
+
+udp://speedtest.iperson.xyz:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -147,4 +149,6 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
+
+udp://www.nartlof.com:6969/announce
 

@@ -8,11 +8,13 @@ http://207.241.231.226:6969/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
-http://asiatorrent.giize.com:51413/announce
-
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.okmp3.ru:2710/announce
+
+http://bt.poletracker.org:2710/announce
+
+http://bt1.xxxxbt.cc:6969/announce
 
 http://bughome.de:2832/announce
 
@@ -20,15 +22,23 @@ http://bvarf.tracker.sh:2086/announce
 
 http://extracker.dahrkael.net:6969/announce
 
-http://ipv4.rer.lol:2710/announce
+http://home.yxgz.club:6969/announce
+
+http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgtracker.com:1096/announce
 
-http://s1130642.ha014.t.mydomain.zone:80/announce
+http://open.trackerlist.xyz:80/announce
+
+http://s1130639.ha009.t.mydomain.zone:80/announce
+
+http://shubt.net:2710/announce
 
 http://t.overflow.biz:6969/announce
+
+http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -37,6 +47,8 @@ http://tr.highstar.shop:80/announce
 http://tr.nyacat.pw:80/announce
 
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.bz:80/announce
 
 http://tracker.darkness.services:6969/announce
 
@@ -49,6 +61,8 @@ http://tracker.dler.org:6969/announce
 http://tracker.exe.in.th:6969/announce
 
 http://tracker.ghostchu-services.top:80/announce
+
+http://tracker.moxing.party:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -74,6 +88,8 @@ https://004430.xyz:443/announce
 
 https://1337.abcvg.info:443/announce
 
+https://colibri.parrot.run:443/announce
+
 https://http1.torrust-tracker-demo.com:443/announce
 
 https://opentracker.8880085.xyz:443/announce
@@ -98,13 +114,9 @@ https://tracker.7471.top:443/announce
 
 https://tracker.bt4g.com:443/announce
 
-https://tracker.cangku.moe:443/announce
-
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
-
-https://tracker.iperson.xyz:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -123,6 +135,4 @@ https://tracker.yggleak.top:443/announce
 https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
-
-https://wolf.parrot.run:443/announce
 

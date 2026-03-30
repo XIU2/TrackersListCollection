@@ -28,6 +28,8 @@ http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker3.ctix.cn:8080/announce
 
+http://www.torrentsnipe.info:2701/announce
+
 https://1337.abcvg.info:443/announce
 
 https://http1.torrust-tracker-demo.com:443/announce
@@ -37,6 +39,8 @@ https://shahidrazi.online:443/announce
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -76,8 +80,6 @@ udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
-udp://leet-tracker.moe:1337/announce
-
 udp://martin-gebhardt.eu:25/announce
 
 udp://node01.trackerstatus.live:42069/announce
@@ -90,8 +92,6 @@ udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
-udp://opentracker.io:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://t.overflow.biz:6969/announce
@@ -102,6 +102,8 @@ udp://tracker.004430.xyz:1337/announce
 
 udp://tracker.1h.is:1337/announce
 
+udp://tracker.bittor.pw:1337/announce
+
 udp://tracker.bluefrog.pw:2710/announce
 
 udp://tracker.corpscorp.online:80/announce
@@ -109,6 +111,8 @@ udp://tracker.corpscorp.online:80/announce
 udp://tracker.darkness.services:6969/announce
 
 udp://tracker.dler.com:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
@@ -134,9 +138,9 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.t-1.org:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -145,6 +149,8 @@ udp://uabits.today:6990/announce
 udp://udp.tracker.projectk.org:23333/announce
 
 udp://udp1.torrust-tracker-demo.com:6969/announce
+
+udp://utracker.ghostchu-services.top:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
