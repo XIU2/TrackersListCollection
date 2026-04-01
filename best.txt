@@ -30,6 +30,8 @@ https://1337.abcvg.info:443/announce
 
 https://http1.torrust-tracker-demo.com:443/announce
 
+https://pybittrack.retiolus.net:443/announce
+
 https://shahidrazi.online:443/announce
 
 https://t.213891.xyz:443/announce
@@ -42,8 +44,6 @@ https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
-https://tr.zukizuki.org:443/announce
-
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
@@ -51,8 +51,6 @@ https://tracker.ghostchu-services.top:443/announce
 https://tracker.kuroy.me:443/announce
 
 https://tracker.manager.v6.navy:443/announce
-
-https://tracker.moeblog.cn:443/announce
 
 https://tracker.nekomi.cn:443/announce
 
@@ -66,19 +64,15 @@ https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://d40969.acod.regrucolo.ru:6969/announce
-
 udp://evan.im:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://extracker.dahrkael.net:6969/announce
+
+udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://leet-tracker.moe:1337/announce
 
@@ -90,21 +84,25 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://open.dstud.io:6969/announce
+
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://seedpeer.net:6969/announce
+
 udp://t.overflow.biz:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.004430.xyz:1337/announce
 
 udp://tracker.1h.is:1337/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.bluefrog.pw:2710/announce
 
@@ -113,8 +111,6 @@ udp://tracker.corpscorp.online:80/announce
 udp://tracker.darkness.services:6969/announce
 
 udp://tracker.dler.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
@@ -153,6 +149,8 @@ udp://uabits.today:6990/announce
 udp://udp.tracker.projectk.org:23333/announce
 
 udp://udp1.torrust-tracker-demo.com:6969/announce
+
+udp://utracker.ghostchu-services.top:6969/announce
 
 udp://wepzone.net:6969/announce
 
