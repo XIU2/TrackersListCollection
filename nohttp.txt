@@ -1,7 +1,5 @@
 udp://52.58.128.163:6969/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://[2a03:7220:8083:cd00::1]:451/announce
 
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
@@ -15,8 +13,6 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://bt.rer.lol:6969/announce
 
 udp://coeus.torrentonline.cc:42069/announce
-
-udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://evan.im:6969/announce
 
@@ -41,6 +37,8 @@ udp://open.dstud.io:6969/announce
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
+
+udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -141,6 +139,8 @@ udp://tracker4.itzmx.com:2710/announce
 udp://uabits.today:6990/announce
 
 udp://udp.tracker.projectk.org:23333/announce
+
+udp://udp1.torrust-tracker-demo.com:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
