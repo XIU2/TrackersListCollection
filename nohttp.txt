@@ -32,9 +32,13 @@ udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
 
+udp://open.dstud.io:6969/announce
+
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
+
+udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -65,6 +69,8 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.darkness.services:6969/announce
+
+udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -137,8 +143,6 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
-
-udp://wepzone.net:6969/announce
 
 udp://www.nartlof.com:6969/announce
 
