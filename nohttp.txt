@@ -30,15 +30,9 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.demonoid.ch:6969/announce
-
-udp://open.dstud.io:6969/announce
-
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
-
-udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -129,6 +123,8 @@ udp://tracker.wildkat.net:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://tracker1.itzmx.com:8080/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
