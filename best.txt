@@ -34,6 +34,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
 https://tracker.7471.top:443/announce
@@ -54,9 +56,9 @@ https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://admin.52ywp.com:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://bandito.byterunner.io:6969/announce
+udp://admin.52ywp.com:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -66,7 +68,7 @@ udp://evan.im:6969/announce
 
 udp://explodie.org:6969/announce
 
-udp://leet-tracker.moe:1337/announce
+udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -88,17 +90,15 @@ udp://tracker.004430.xyz:1337/announce
 
 udp://tracker.1h.is:1337/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker.bluefrog.pw:2710/announce
 
 udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
 
-udp://tracker.darkness.services:6969/announce
-
 udp://tracker.dler.com:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
@@ -141,8 +141,6 @@ udp://tracker.wildkat.net:6969/announce
 udp://uabits.today:6990/announce
 
 udp://udp.tracker.projectk.org:23333/announce
-
-udp://utracker.ghostchu-services.top:6969/announce
 
 udp://www.nartlof.com:6969/announce
 
