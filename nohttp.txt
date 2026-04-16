@@ -34,6 +34,8 @@ udp://obey.torrentonline.cc:42069/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://open.ftorrent.com:443/announce
+
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
@@ -88,8 +90,6 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.hismz.cn:6969/announce
 
-udp://tracker.huadongblower.xyz:8080/announce
-
 udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.ixuexi.click:6969/announce
@@ -125,8 +125,6 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.wildkat.net:6969/announce
-
-udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://tracker1.itzmx.com:8080/announce
 
