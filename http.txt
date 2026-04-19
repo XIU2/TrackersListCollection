@@ -16,19 +16,23 @@ http://bt.poletracker.org:2710/announce
 
 http://bt1.archive.org:6969/announce
 
-http://bt2.archive.org:6969/announce
-
 http://bvarf.tracker.sh:2086/announce
+
+http://home.yxgz.club:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://seeders-paradise.org:80/announce
+
 http://t.overflow.biz:6969/announce
+
+http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
 http://tr.highstar.shop:80/announce
 
-http://tr.nyacat.pw:80/announce
+http://tracker.23794.top:6969/announce
 
 http://tracker.bittor.pw:1337/announce
 
@@ -44,11 +48,13 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.dmcomic.org:2710/announce
-
 http://tracker.exe.in.th:6969/announce
 
 http://tracker.ghostchu-services.top:80/announce
+
+http://tracker.ipv6tracker.org:80/announce
+
+http://tracker.lintk.me:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -57,10 +63,6 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
-
-http://tracker.tvunderground.org.ru:3218/announce
-
-http://tracker.waaa.moe:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
@@ -72,11 +74,13 @@ http://tracker2.dler.org:80/announce
 
 http://tracker3.ctix.cn:8080/announce
 
-http://www.genesis-sp.org:2710/announce
+http://tracker810.xyz:11450/announce
 
 https://004430.xyz:443/announce
 
 https://1337.abcvg.info:443/announce
+
+https://colibri.parrot.run:443/announce
 
 https://http1.torrust-tracker-demo.com:443/announce
 
@@ -97,8 +101,6 @@ https://tr.abiir.top:443/announce
 https://tr.nyacat.pw:443/announce
 
 https://tracker.7471.top:443/announce
-
-https://tracker.bt4g.com:443/announce
 
 https://tracker.cutie.dating:443/announce
 
@@ -121,4 +123,6 @@ https://tracker.yggleak.top:443/announce
 https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
+
+https://wsad.run.place:443/announce
 
