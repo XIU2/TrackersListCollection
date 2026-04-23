@@ -2,6 +2,8 @@ http://1337.abcvg.info:80/announce
 
 http://bt1.archive.org:6969/announce
 
+http://bt2.archive.org:6969/announce
+
 http://bvarf.tracker.sh:2086/announce
 
 http://nyaa.tracker.wf:7777/announce
@@ -18,11 +20,11 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://tracker.tritan.gg:8080/announce
-
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker3.ctix.cn:8080/announce
+
+http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -63,6 +65,8 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://bt.rer.lol:6969/announce
 
 udp://evan.im:6969/announce
+
+udp://explodie.org:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
