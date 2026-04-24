@@ -20,8 +20,6 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
-
 http://tracker3.ctix.cn:8080/announce
 
 http://www.wareztorrent.com:80/announce
@@ -39,6 +37,8 @@ https://t.213891.xyz:443/announce
 https://torrents.tmtime.dev:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tracker.7471.top:443/announce
 
@@ -66,11 +66,7 @@ udp://bt.rer.lol:6969/announce
 
 udp://evan.im:6969/announce
 
-udp://explodie.org:6969/announce
-
 udp://ipv4announce.sktorrent.eu:6969/announce
-
-udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -97,6 +93,8 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.004430.xyz:1337/announce
 
 udp://tracker.1h.is:1337/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.bluefrog.pw:2710/announce
 
@@ -147,6 +145,12 @@ udp://trackthis.cyber.pz.it:1337/announce
 udp://uabits.today:6990/announce
 
 udp://udp.tracker.projectk.org:23333/announce
+
+udp://udp1.torrust-tracker-demo.com:6969/announce
+
+udp://utracker.ghostchu-services.top:6969/announce
+
+udp://vito-tracker.duckdns.org:6969/announce
 
 udp://wepzone.net:6969/announce
 
