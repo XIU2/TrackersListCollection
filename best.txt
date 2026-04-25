@@ -18,7 +18,7 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
+http://tracker.tritan.gg:8080/announce
 
 http://tracker3.ctix.cn:8080/announce
 
@@ -27,8 +27,6 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://http1.torrust-tracker-demo.com:443/announce
-
-https://opentracker.8880085.xyz:443/announce
 
 https://shahidrazi.online:443/announce
 
@@ -60,17 +58,19 @@ https://tracker1.520.jp:443/announce
 
 udp://admin.52ywp.com:6969/announce
 
+udp://archive.torrentonline.cc:42069/announce
+
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt.rer.lol:6969/announce
 
 udp://evan.im:6969/announce
 
-udp://ipv4announce.sktorrent.eu:6969/announce
-
 udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
+
+udp://obey.torrentonline.cc:42069/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -84,17 +84,11 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://seedpeer.net:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://tracker.004430.xyz:1337/announce
-
 udp://tracker.1h.is:1337/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.bluefrog.pw:2710/announce
 
@@ -103,6 +97,10 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.dler.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
+
+udp://tracker.ducks.party:1984/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
@@ -132,11 +130,11 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.t-1.org:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.wildkat.net:6969/announce
 
@@ -148,11 +146,11 @@ udp://udp.tracker.projectk.org:23333/announce
 
 udp://udp1.torrust-tracker-demo.com:6969/announce
 
-udp://utracker.ghostchu-services.top:6969/announce
-
 udp://vito-tracker.duckdns.org:6969/announce
 
 udp://wepzone.net:6969/announce
+
+udp://whybother.torrentonline.cc:42069/announce
 
 udp://www.nartlof.com:6969/announce
 
