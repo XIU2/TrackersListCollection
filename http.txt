@@ -14,9 +14,11 @@ http://64.226.122.118:6969/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
+http://asiatorrent.giize.com:51413/announce
+
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-http://bt.okmp3.ru:2710/announce
+http://bt.poletracker.org:2710/announce
 
 http://bt1.archive.org:6969/announce
 
@@ -27,8 +29,6 @@ http://bt2.archive.org:6969/announce
 http://buny.uk:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
-
-http://home.yxgz.club:6969/announce
 
 http://jvavav.com:80/announce
 
@@ -42,9 +42,9 @@ http://seeders-paradise.org:80/announce
 
 http://share.hkg-fansub.info:80/announce.php
 
-http://shubt.net:2710/announce
-
 http://t.overflow.biz:6969/announce
+
+http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -59,6 +59,8 @@ http://tracker.bt-hash.com:80/announce
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.bz:80/announce
+
+http://tracker.corpscorp.online:80/announce
 
 http://tracker.cutie.dating:80/announce
 
@@ -90,8 +92,6 @@ http://tracker.sbsub.com:2710/announce
 
 http://tracker.tritan.gg:8080/announce
 
-http://tracker.tvunderground.org.ru:3218/announce
-
 http://tracker.vanitycore.co:6969/announce
 
 http://tracker.waaa.moe:6969/announce
@@ -101,6 +101,8 @@ http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.zhuqiy.com:80/announce
+
+http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -122,8 +124,6 @@ https://1337.abcvg.info:443/announce
 
 https://cny.fan:443/announce
 
-https://colibri.parrot.run:443/announce
-
 https://http1.torrust-tracker-demo.com:443/announce
 
 https://pybittrack.retiolus.net:443/announce
@@ -131,8 +131,6 @@ https://pybittrack.retiolus.net:443/announce
 https://shahidrazi.online:443/announce
 
 https://t.213891.xyz:443/announce
-
-https://torrent.tracker.durukanbal.com:443/announce
 
 https://torrents.tmtime.dev:443/announce
 
@@ -153,6 +151,8 @@ https://tracker.gcrenwp.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
 
 https://tracker.kuroy.me:443/announce
+
+https://tracker.moeblog.cn:443/announce
 
 https://tracker.nekomi.cn:443/announce
 
