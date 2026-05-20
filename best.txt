@@ -20,6 +20,8 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
 
+http://tracker.tritan.gg:8080/announce
+
 http://tracker.waaa.moe:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
@@ -29,6 +31,8 @@ http://tracker3.ctix.cn:8080/announce
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 https://t.213891.xyz:443/announce
 
@@ -40,8 +44,6 @@ https://tr.nyacat.pw:443/announce
 
 https://tracker.7471.top:443/announce
 
-https://tracker.foreverpirates.co:443/announce
-
 https://tracker.kuroy.me:443/announce
 
 https://tracker.manager.v6.navy:443/announce
@@ -52,13 +54,9 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.qingwapt.org:443/announce
 
-https://tracker.yemekyedim.com:443/announce
-
 https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://archive.torrentonline.cc:42069/announce
 
@@ -85,12 +83,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://retracker.hotplug.ru:2710/announce
 
 udp://seedpeer.net:6969/announce
-
-udp://t.overflow.biz:6969/announce
-
-udp://torrents.tmtime.dev:6969/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.004430.xyz:1337/announce
 
@@ -126,6 +118,8 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.startwork.cv:1337/announce
+
 udp://tracker.t-1.org:6969/announce
 
 udp://tracker.theoks.net:6969/announce
@@ -133,8 +127,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker.wildkat.net:6969/announce
 
 udp://uabits.today:6990/announce
 
