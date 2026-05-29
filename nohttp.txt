@@ -18,6 +18,8 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://explodie.org:6969/announce
+
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://leet-tracker.moe:1337/announce
@@ -50,6 +52,8 @@ udp://speedtest.iperson.xyz:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
+udp://torrent.bowed.net:8081/announce
+
 udp://torrentclub.online:54123/announce
 
 udp://torrents.tmtime.dev:6969/announce
@@ -75,6 +79,8 @@ udp://tracker.corpscorp.online:80/announce
 udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.dler.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
@@ -135,8 +141,6 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://v6.vito-tracker.space:6969/announce
 
 udp://vito-tracker.duckdns.org:6969/announce
-
-udp://wepzone.net:6969/announce
 
 udp://whybother.torrentonline.cc:42069/announce
 
