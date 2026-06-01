@@ -14,8 +14,6 @@ http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
@@ -37,6 +35,8 @@ https://torrents.tmtime.dev:443/announce
 https://tr.abiir.top:443/announce
 
 https://tracker.7471.top:443/announce
+
+https://tracker.gcrenwp.top:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -64,7 +64,7 @@ udp://coeus.torrentonline.cc:42069/announce
 
 udp://evan.im:6969/announce
 
-udp://exodus.desync.com:6969/announce
+udp://explodie.org:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -73,6 +73,8 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 udp://obey.torrentonline.cc:42069/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://open.demonoid.ch:6969/announce
 
 udp://open.ftorrent.com:443/announce
 
@@ -102,8 +104,6 @@ udp://tracker.1h.is:1337/announce
 
 udp://tracker.aruku.ovh:8081/announce
 
-udp://tracker.auctor.tv:6969/announce
-
 udp://tracker.bluefrog.pw:2710/announce
 
 udp://tracker.breizh.pm:6969/announce
@@ -112,13 +112,15 @@ udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
+udp://tracker.filemail.com:6969/announce
+
 udp://tracker.flatuslifir.is:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
-
-udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.nyaa.vc:6969/announce
 
@@ -130,13 +132,9 @@ udp://tracker.plx.im:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.t-1.org:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -147,6 +145,10 @@ udp://tracker.wildkat.net:6969/announce
 udp://uabits.today:6990/announce
 
 udp://udp.tracker.projectk.org:23333/announce
+
+udp://vito-tracker.duckdns.org:6969/announce
+
+udp://vito-tracker.space:6969/announce
 
 udp://whybother.torrentonline.cc:42069/announce
 
