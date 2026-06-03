@@ -16,7 +16,11 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.waaa.moe:6969/announce
+
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -27,8 +31,6 @@ https://t.213891.xyz:443/announce
 https://torrents.tmtime.dev:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tracker.7471.top:443/announce
 
@@ -73,8 +75,6 @@ udp://open.tracker.ink:6969/announce
 udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
-
-udp://retracker.hotplug.ru:2710/announce
 
 udp://seedpeer.net:6969/announce
 
