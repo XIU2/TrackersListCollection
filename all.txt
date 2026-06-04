@@ -10,17 +10,23 @@ http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-http://bt.okmp3.ru:2710/announce
+http://bt.poletracker.org:2710/announce
 
 http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
 
+http://buny.uk:6969/announce
+
 http://bvarf.tracker.sh:2086/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
+http://jvavav.com:80/announce
+
 http://nyaa.tracker.wf:7777/announce
+
+http://seeders-paradise.org:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -32,6 +38,8 @@ http://tr.kxmp.cf:80/announce
 
 http://tr.nyacat.pw:80/announce
 
+http://tracker.23794.top:6969/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dhitechnical.com:6969/announce
@@ -39,6 +47,12 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
+
+http://tracker.ipv6tracker.org:80/announce
+
+http://tracker.lintk.me:2710/announce
+
+http://tracker.moxing.party:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -58,11 +72,15 @@ http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.zhuqiy.com:80/announce
 
-http://tracker.zhuqiy.dgj055.icu:80/announce
-
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
+
+http://vito-tracker.space:6969/announce
+
+http://www.genesis-sp.org:2710/announce
+
+http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -84,11 +102,11 @@ https://shahidrazi.online:443/announce
 
 https://t.213891.xyz:443/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 https://torrents.tmtime.dev:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -172,7 +190,11 @@ udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
+udp://retracker01-msk-virt.corbina.net:80/announce
+
 udp://seedpeer.net:6969/announce
+
+udp://speedtest.iperson.xyz:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -217,8 +239,6 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.hismz.cn:6969/announce
-
-udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.nyaa.vc:6969/announce
 
@@ -265,6 +285,8 @@ udp://uabits.today:6990/announce
 udp://udp.tracker.projectk.org:23333/announce
 
 udp://v6.vito-tracker.space:6969/announce
+
+udp://vito-tracker.duckdns.org:6969/announce
 
 udp://whybother.torrentonline.cc:42069/announce
 
