@@ -46,9 +46,13 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.qingwapt.org:443/announce
 
+https://tracker.yemekyedim.com:443/announce
+
 https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://anime-tracker.aruku.kro.kr:8081/announce
 
@@ -78,9 +82,13 @@ udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://retracker01-msk-virt.corbina.net:80/announce
+
 udp://seedpeer.net:6969/announce
 
 udp://t.overflow.biz:6969/announce
+
+udp://torrents.tmtime.dev:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -100,13 +108,13 @@ udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.flatuslifir.is:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.nyaa.vc:6969/announce
 
@@ -122,8 +130,6 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
-udp://tracker.startwork.cv:1337/announce
-
 udp://tracker.t-1.org:6969/announce
 
 udp://tracker.theoks.net:6969/announce
@@ -137,6 +143,8 @@ udp://tracker.wildkat.net:6969/announce
 udp://uabits.today:6990/announce
 
 udp://udp.tracker.projectk.org:23333/announce
+
+udp://vito-tracker.space:6969/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
