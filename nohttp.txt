@@ -1,7 +1,5 @@
 udp://52.58.128.163:6969/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://[2a03:7220:8083:cd00::1]:451/announce
 
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
@@ -64,8 +62,6 @@ udp://torrentclub.online:54123/announce
 
 udp://torrents.tmtime.dev:6969/announce
 
-udp://tr.btube3.com:2010/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -100,13 +96,9 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
-udp://tracker.fnix.net:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.hismz.cn:6969/announce
-
-udp://tracker.huadongblower.xyz:8080/announce
 
 udp://tracker.opentorrent.top:6969/announce
 
@@ -134,9 +126,13 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.trackarr.org:6969/announce
 
+udp://tracker.tryhackx.org:6969/announce
+
 udp://tracker.wildkat.net:6969/announce
 
 udp://tracker1.itzmx.com:8080/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
@@ -146,9 +142,13 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://uabits.today:6990/announce
 
+udp://udp.tracker.projectk.org:23333/announce
+
 udp://v6.vito-tracker.space:6969/announce
 
 udp://vito-tracker.duckdns.org:6969/announce
+
+udp://vito-tracker.space:6969/announce
 
 udp://wepzone.net:6969/announce
 
