@@ -6,6 +6,8 @@ http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
 
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+
 http://announce.sktorrent.eu:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
@@ -16,6 +18,8 @@ http://bt2.archive.org:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+http://de7c0e7a567e.sn.mynetname.net:59002/announce
+
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
@@ -25,6 +29,8 @@ http://retracker01-msk-virt.corbina.net:80/announce
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
+
+http://tr.highstar.shop:80/announce
 
 http://tr.nyacat.pw:80/announce
 
@@ -38,13 +44,15 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.plx.im:6969/announce
+
+http://tracker.privateseedbox.xyz:2710/announce
+
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
-
-http://tracker.tritan.gg:8080/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -124,6 +132,8 @@ udp://admin.52ywp.com:6969/announce
 
 udp://anime-tracker.aruku.kro.kr:8081/announce
 
+udp://archive.torrentonline.cc:42069/announce
+
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://coeus.torrentonline.cc:42069/announce
@@ -144,6 +154,8 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
+udp://obey.torrentonline.cc:42069/announce
+
 udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
@@ -157,6 +169,8 @@ udp://open.tracker.ink:6969/announce
 udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
+
+udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -202,8 +216,6 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
-udp://tracker.fnix.net:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.hismz.cn:6969/announce
@@ -215,6 +227,8 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
+
+udp://tracker.plx.im:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
@@ -234,7 +248,11 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.trackarr.org:6969/announce
 
+udp://tracker.tryhackx.org:6969/announce
+
 udp://tracker.wildkat.net:6969/announce
+
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://tracker1.itzmx.com:8080/announce
 
@@ -247,6 +265,8 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://uabits.today:6990/announce
+
+udp://udp.tracker.projectk.org:23333/announce
 
 udp://wepzone.net:6969/announce
 

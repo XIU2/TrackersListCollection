@@ -6,6 +6,8 @@ http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
 
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+
 http://announce.sktorrent.eu:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
@@ -16,6 +18,8 @@ http://bt2.archive.org:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+http://de7c0e7a567e.sn.mynetname.net:59002/announce
+
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
@@ -25,6 +29,8 @@ http://retracker01-msk-virt.corbina.net:80/announce
 http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
+
+http://tr.highstar.shop:80/announce
 
 http://tr.nyacat.pw:80/announce
 
@@ -38,13 +44,15 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.plx.im:6969/announce
+
+http://tracker.privateseedbox.xyz:2710/announce
+
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
-
-http://tracker.tritan.gg:8080/announce
 
 http://tracker.waaa.moe:6969/announce
 
