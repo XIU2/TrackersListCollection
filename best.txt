@@ -16,6 +16,8 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.waaa.moe:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
@@ -35,6 +37,8 @@ https://t.213891.xyz:443/announce
 https://torrents.tmtime.dev:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -66,6 +70,8 @@ udp://coeus.torrentonline.cc:42069/announce
 
 udp://evan.im:6969/announce
 
+udp://mail.segso.net:6969/announce
+
 udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
@@ -88,7 +94,11 @@ udp://shahidrazi.online:1984/announce
 
 udp://t.overflow.biz:6969/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://tracker.004430.xyz:1337/announce
 
 udp://tracker.aruku.ovh:8081/announce
 
@@ -105,10 +115,6 @@ udp://tracker.corpscorp.online:80/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.ducks.party:1984/announce
-
-udp://tracker.filemail.com:6969/announce
-
-udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -128,17 +134,15 @@ udp://tracker.t-1.org:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.trackarr.org:6969/announce
 
+udp://tracker.tryhackx.org:6969/announce
+
 udp://tracker.wildkat.net:6969/announce
 
 udp://uabits.today:6990/announce
-
-udp://udp.tracker.projectk.org:23333/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
