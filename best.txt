@@ -2,6 +2,8 @@ http://1337.abcvg.info:80/announce
 
 http://bt1.archive.org:6969/announce
 
+http://bt2.archive.org:6969/announce
+
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
@@ -35,6 +37,8 @@ https://t.213891.xyz:443/announce
 https://torrents.tmtime.dev:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -94,6 +98,10 @@ udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:1984/announce
 
+udp://torrentclub.online:54123/announce
+
+udp://torrents.tmtime.dev:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.004430.xyz:1337/announce
@@ -137,8 +145,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.trackarr.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
