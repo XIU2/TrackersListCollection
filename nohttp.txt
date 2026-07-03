@@ -98,8 +98,6 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
-udp://tracker.fnix.net:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.hismz.cn:6969/announce
@@ -152,5 +150,9 @@ udp://whybother.torrentonline.cc:42069/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
-udp://zer0day.ch:1337/announce
+udp://yuptracker-sa.gaijinent.com:27022/announce
+
+udp://yuptracker-us.gaijinent.com:27022/announce
+
+udp://yuptracker.gaijinent.com:27022/announce
 

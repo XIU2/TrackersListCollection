@@ -16,9 +16,9 @@ http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 http://tracker.renfei.net:8080/announce
+
+http://tracker.tritan.gg:8080/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -44,6 +44,8 @@ https://torrents.tmtime.dev:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
@@ -60,8 +62,6 @@ https://tracker.manager.v6.navy:443/announce
 
 https://tracker.nekomi.cn:443/announce
 
-https://tracker.yemekyedim.com:443/announce
-
 https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
@@ -72,9 +72,7 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://evan.im:6969/announce
 
-udp://explodie.org:6969/announce
-
-udp://leet-tracker.moe:1337/announce
+udp://exodus.desync.com:6969/announce
 
 udp://mail.segso.net:6969/announce
 
@@ -94,6 +92,8 @@ udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://rekcart.duckdns.org:15480/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
@@ -102,9 +102,11 @@ udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:1984/announce
 
-udp://tracker-udp.gbitt.info:80/announce
+udp://torrentclub.online:54123/announce
 
-udp://tracker.004430.xyz:1337/announce
+udp://tr.btube3.com:2010/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.aruku.ovh:8081/announce
 
@@ -120,13 +122,19 @@ udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.ducks.party:1984/announce
+
+udp://tracker.flatuslifir.is:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.hismz.cn:6969/announce
 
 udp://tracker.opentorrent.top:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.plx.im:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
@@ -142,9 +150,9 @@ udp://tracker.trackarr.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 
-udp://yuptracker-eu.gaijinent.com:27022/announce
+udp://tracker2.dler.org:80/announce
 
-udp://zer0day.ch:1337/announce
+udp://yuptracker-eu.gaijinent.com:27022/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
