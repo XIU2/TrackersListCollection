@@ -12,6 +12,8 @@ http://announce.sktorrent.eu:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
+http://bt.poletracker.org:2710/announce
+
 http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
@@ -22,7 +24,11 @@ http://nyaa.tracker.wf:7777/announce
 
 http://retracker01-msk-virt.corbina.net:80/announce
 
+http://shubt.net:2710/announce
+
 http://t.overflow.biz:6969/announce
+
+http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -46,15 +52,11 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.plx.im:6969/announce
-
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.tritan.gg:8080/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -90,6 +92,8 @@ https://shahidrazi.online:443/announce
 
 https://t.213891.xyz:443/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
 https://torrents.tmtime.dev:443/announce
 
 https://tr.abiir.top:443/announce
@@ -103,8 +107,6 @@ https://tracker.7471.top:443/announce
 https://tracker.anibt.net:443/announce
 
 https://tracker.bt4g.com:443/announce
-
-https://tracker.bug38.com:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
@@ -143,8 +145,6 @@ udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://archive.torrentonline.cc:42069/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
-udp://coeus.torrentonline.cc:42069/announce
 
 udp://concen.org:6969/announce
 
@@ -246,8 +246,6 @@ udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
-udp://tracker.plx.im:6969/announce
-
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -278,13 +276,7 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://whybother.torrentonline.cc:42069/announce
 
-udp://yuptracker-eu.gaijinent.com:27022/announce
-
-udp://yuptracker-sa.gaijinent.com:27022/announce
-
-udp://yuptracker-us.gaijinent.com:27022/announce
-
-udp://yuptracker.gaijinent.com:27022/announce
+udp://zer0day.ch:1337/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
