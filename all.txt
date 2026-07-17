@@ -28,25 +28,17 @@ http://bt2.archive.org:6969/announce
 
 http://buny.uk:6969/announce
 
-http://home.yxgz.club:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
-
-http://jvavav.com:80/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.trackerlist.xyz:80/announce
+http://open.tracker.cl:1337/announce
+
+http://retracker.spark-rostov.ru:80/announce
 
 http://retracker01-msk-virt.corbina.net:80/announce
-
-http://seeders-paradise.org:80/announce
-
-http://shubt.net:2710/announce
-
-http://supertracker.cc.cd:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -59,8 +51,6 @@ http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf:80/announce
 
 http://tr.nyacat.pw:80/announce
-
-http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt-hash.com:80/announce
 
@@ -84,15 +74,19 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentorrent.top:6969/announce
 
-http://tracker.plx.im:6969/announce
-
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.sbsub.com:2710/announce
+
+http://tracker.vanitycore.co:6969/announce
+
 http://tracker.waaa.moe:6969/announce
+
+http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
@@ -129,8 +123,6 @@ https://shahidrazi.online:443/announce
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -221,6 +213,8 @@ udp://rekcart.duckdns.org:15480/announce
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://seedpeer.net:6969/announce
 
 udp://t.overflow.biz:6969/announce
 

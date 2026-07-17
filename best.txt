@@ -8,8 +8,6 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.tracker.cl:1337/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -21,8 +19,6 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
-
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -41,8 +37,6 @@ https://orgtgju.org:443/announce
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tracker.7471.top:443/announce
 
