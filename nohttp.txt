@@ -116,8 +116,6 @@ udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.skynetcloud.site:6969/announce
-
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce

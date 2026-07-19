@@ -16,9 +16,13 @@ http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
+
+http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -37,8 +41,6 @@ https://orgtgju.org:443/announce
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tracker.7471.top:443/announce
 
