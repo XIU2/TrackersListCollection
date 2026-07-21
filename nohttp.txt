@@ -64,6 +64,8 @@ udp://torrentclub.online:1984/announce
 
 udp://torrentclub.online:54123/announce
 
+udp://tr.btube3.com:2010/announce
+
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -89,6 +91,8 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
 
 udp://tracker.filemail.com:6969/announce
+
+udp://tracker.flatuslifir.is:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -119,6 +123,10 @@ udp://tracker.teambelgium.net:6969/announce
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.trackarr.org:6969/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 
