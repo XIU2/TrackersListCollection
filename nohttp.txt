@@ -32,8 +32,6 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
-udp://obey.torrentonline.cc:42069/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
@@ -63,8 +61,6 @@ udp://t.overflow.biz:6969/announce
 udp://torrentclub.online:1984/announce
 
 udp://torrentclub.online:54123/announce
-
-udp://tr.btube3.com:2010/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -98,6 +94,8 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
 
+udp://tracker.iperson.xyz:6969/announce
+
 udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.vc:6969/announce
@@ -112,6 +110,8 @@ udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
+udp://tracker.plx.im:6969/announce
+
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -120,11 +120,7 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.trackarr.org:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -141,8 +137,4 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://v6.vito-tracker.space:6969/announce
-
-udp://whybother.torrentonline.cc:42069/announce
-
-udp://zer0day.ch:1337/announce
 
