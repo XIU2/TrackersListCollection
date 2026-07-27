@@ -14,6 +14,8 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
+http://tracker.mywaifu.best:6969/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
@@ -37,6 +39,8 @@ https://orgtgju.org:443/announce
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tracker.7471.top:443/announce
 
@@ -84,9 +88,13 @@ udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:1984/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.aruku.ovh:8081/announce
+
+udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
@@ -106,6 +114,8 @@ udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.vc:6969/announce
 
+udp://tracker.opentorrent.top:6969/announce
+
 udp://tracker.opentrackr.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -120,13 +130,11 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.wildkat.net:6969/announce
 
-udp://tracker2.dler.org:80/announce
+udp://zer0day.ch:1337/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
