@@ -22,8 +22,6 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
-http://ns3109441.mypdns.org:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://retracker01-msk-virt.corbina.net:80/announce
@@ -38,6 +36,8 @@ http://tr.kxmp.cf:80/announce
 
 http://tr.nyacat.pw:80/announce
 
+http://tracker.bt4g.com:2095/announce
+
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
@@ -49,8 +49,6 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.nexusstream.eu:6969/announce
 
 http://tracker.opentorrent.top:6969/announce
-
-http://tracker.plx.im:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -101,6 +99,8 @@ https://tr.zukizuki.org:443/announce
 https://tracker.7471.top:443/announce
 
 https://tracker.adgk.net:443/announce
+
+https://tracker.bt4g.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -184,9 +184,13 @@ udp://torrentclub.online:1984/announce
 
 udp://torrentclub.online:54123/announce
 
-udp://tr.btube3.com:2010/announce
+udp://tr3.ysagin.top:2715/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.aruku.ovh:8081/announce
 
@@ -210,11 +214,19 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
+udp://tracker.fnix.net:6969/announce
+
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
 
+udp://tracker.iperson.xyz:6969/announce
+
 udp://tracker.nexusstream.eu:6969/announce
+
+udp://tracker.nyaa.net:6969/announce
+
+udp://tracker.nyaa.vc:6969/announce
 
 udp://tracker.opentorrent.top:6969/announce
 
@@ -226,6 +238,8 @@ udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
+udp://tracker.plx.im:6969/announce
+
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -234,7 +248,11 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 
