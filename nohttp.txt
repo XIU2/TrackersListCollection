@@ -14,8 +14,6 @@ udp://archive.torrentonline.cc:42069/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://edgev.duckdns.org:6969/announce
-
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
@@ -110,8 +108,6 @@ udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.k.vu:6969/announce
 
-udp://tracker.linvk.com:6969/announce
-
 udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
@@ -124,8 +120,6 @@ udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
-udp://tracker.plx.im:6969/announce
-
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -135,8 +129,6 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
