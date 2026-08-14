@@ -20,6 +20,8 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
 
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
+
 http://www.wareztorrent.com:80/announce
 
 https://004430.xyz:443/announce
@@ -31,6 +33,8 @@ https://t.213891.xyz:443/announce
 https://tr.abiir.top:443/announce
 
 https://tr.abir.ga:443/announce
+
+https://tr.zukizuki.org:443/announce
 
 https://tracker.7471.top:443/announce
 
@@ -92,13 +96,9 @@ udp://tr3.ysagin.top:2715/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://tracker.0x7c0.com:6969/announce
-
 udp://tracker.aruku.ovh:8081/announce
 
 udp://tracker.auctor.tv:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -110,7 +110,7 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.farted.net:6969/announce
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -137,6 +137,8 @@ udp://tracker.teambelgium.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://whybother.torrentonline.cc:42069/announce
+
+udp://zer0day.ch:1337/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
