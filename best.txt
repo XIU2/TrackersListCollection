@@ -32,6 +32,8 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.zukizuki.org:443/announce
 
 https://tracker.7471.top:443/announce
@@ -56,10 +58,6 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://evan.im:6969/announce
 
-udp://explodie.org:6969/announce
-
-udp://leet-tracker.moe:1337/announce
-
 udp://mail.segso.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
@@ -82,19 +80,21 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://t.overflow.biz:6969/announce
+
+udp://torrent.tracker.durukanbal.com:6969/announce
 
 udp://torrentclub.online:1984/announce
 
 udp://torrentclub.online:54123/announce
 
-udp://tr.btube3.com:2010/announce
-
 udp://tr3.ysagin.top:2715/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.aruku.ovh:8081/announce
 
@@ -110,7 +110,7 @@ udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.farted.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -129,6 +129,8 @@ udp://tracker.peerfect.org:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
+
+udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
