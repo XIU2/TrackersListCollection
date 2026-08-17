@@ -2,8 +2,6 @@ http://1337.abcvg.info:80/announce
 
 http://bt1.archive.org:6969/announce
 
-http://bt2.archive.org:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://lucke.fenesisu.moe:6969/announce
@@ -16,11 +14,11 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
+http://tracker.mywaifu.best:6969/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
-
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -44,6 +42,8 @@ https://tracker.kuroy.me:443/announce
 
 https://tracker.leechshield.link:443/announce
 
+https://tracker.linvk.com:443/announce
+
 https://tracker.nekomi.cn:443/announce
 
 https://tracker.pmman.tech:443/announce
@@ -57,6 +57,8 @@ udp://archive.torrentonline.cc:42069/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://evan.im:6969/announce
+
+udp://ipv6.govt.hu:6969/announce
 
 udp://mail.segso.net:6969/announce
 
@@ -80,6 +82,10 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
+udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://seedpeer.net:6969/announce
+
 udp://t.overflow.biz:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
@@ -87,6 +93,8 @@ udp://torrent.tracker.durukanbal.com:6969/announce
 udp://torrentclub.online:1984/announce
 
 udp://torrentclub.online:54123/announce
+
+udp://tr.btube3.com:2010/announce
 
 udp://tr3.ysagin.top:2715/announce
 
@@ -110,11 +118,13 @@ udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.farted.net:6969/announce
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
+
+udp://tracker.k.vu:6969/announce
 
 udp://tracker.nexusstream.eu:6969/announce
 
@@ -129,8 +139,6 @@ udp://tracker.peerfect.org:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
-
-udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
