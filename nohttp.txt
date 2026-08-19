@@ -8,8 +8,6 @@ udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 udp://admin.52ywp.com:6969/announce
 
-udp://archive.torrentonline.cc:42069/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://edgev.duckdns.org:6969/announce
@@ -100,7 +98,7 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
-udp://tracker.gmi.gd:6969/announce
+udp://tracker.fnix.net:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
 
@@ -120,8 +118,6 @@ udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
-udp://tracker.plx.im:6969/announce
-
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -130,7 +126,11 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 
@@ -149,6 +149,8 @@ udp://udp.tracker.linvk.com:6969/announce
 udp://v6.vito-tracker.space:6969/announce
 
 udp://whybother.torrentonline.cc:42069/announce
+
+udp://yuptracker-eu.gaijinent.com:27022/announce
 
 udp://zer0day.ch:1337/announce
 
