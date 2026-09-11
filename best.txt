@@ -12,6 +12,8 @@ http://torrentsmd.com:8080/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
+http://tracker.mywaifu.best:6969/announce
+
 http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
@@ -26,9 +28,13 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.7471.top:443/announce
+
+https://tracker.bt4g.com:443/announce
 
 https://tracker.bug38.com:443/announce
 
@@ -40,6 +46,8 @@ https://tracker.nekomi.cn:443/announce
 
 https://tracker.onetracker.net:443/announce
 
+https://tracker.pmman.tech:443/announce
+
 https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
@@ -48,11 +56,9 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://evan.im:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
-udp://explodie.org:6969/announce
-
 udp://ipv6.govt.hu:6969/announce
+
+udp://leet-tracker.moe:1337/announce
 
 udp://mail.segso.net:6969/announce
 
@@ -86,13 +92,13 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://tracker.004430.xyz:1337/announce
-
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.aruku.ovh:8081/announce
 
 udp://tracker.auctor.tv:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -104,7 +110,11 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
+udp://tracker.ducks.party:1984/announce
+
 udp://tracker.farted.net:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -135,6 +145,8 @@ udp://tracker.teambelgium.net:6969/announce
 udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://zer0day.ch:1337/announce
 
