@@ -10,6 +10,8 @@ http://207.241.231.226:6969/announce
 
 http://announce.sktorrent.eu:6969/announce
 
+http://asiatorrent.giize.com:51413/announce
+
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt1.archive.org:6969/announce
@@ -26,7 +28,9 @@ http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tracker.bittor.pw:1337/announce
+http://tr.nyacat.pw:80/announce
+
+http://tracker.23794.top:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -66,6 +70,8 @@ https://1.tracker.eu.org:443/announce
 
 https://1337.abcvg.info:443/announce
 
+https://ht.therarbg.to:443/announce
+
 https://open.ftorrent.com:443/announce
 
 https://pybittrack.retiolus.net:443/announce
@@ -74,7 +80,11 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
+
+https://tr.nyacat.pw:443/announce
 
 https://tracker.7471.top:443/announce
 
@@ -138,6 +148,8 @@ udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
 
+udp://opentracker.lain.moscow:6969/announce
+
 udp://p4p.arenabg.com:1337/announce
 
 udp://rekcart.duckdns.org:15480/announce
@@ -182,8 +194,6 @@ udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.flatuslifir.is:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.govt.hu:6969/announce
@@ -220,6 +230,8 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrents.observer:80/announce
 
+udp://tracker.tryhackx.org:6969/announce
+
 udp://tracker.wildkat.net:6969/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
@@ -235,6 +247,8 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://v6.vito-tracker.space:6969/announce
+
+udp://whybother.torrentonline.cc:42069/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
