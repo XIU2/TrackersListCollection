@@ -40,6 +40,8 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.7471.top:443/announce
@@ -80,11 +82,11 @@ udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
-udp://opentor.org:2710/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -132,13 +134,13 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.peerfect.org:6969/announce
 
+udp://tracker.plx.im:6969/announce
+
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
