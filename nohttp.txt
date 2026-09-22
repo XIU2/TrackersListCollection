@@ -56,8 +56,6 @@ udp://t.overflow.biz:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
 
-udp://tr3.ysagin.top:2715/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -88,11 +86,7 @@ udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.flatuslifir.is:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
-
-udp://tracker.govt.hu:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
 
@@ -102,6 +96,8 @@ udp://tracker.nyaa.net:6969/announce
 
 udp://tracker.nyaa.vc:6969/announce
 
+udp://tracker.opentorrent.top:6969/announce
+
 udp://tracker.opentrackr.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -110,13 +106,13 @@ udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
+udp://tracker.plx.im:6969/announce
+
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
