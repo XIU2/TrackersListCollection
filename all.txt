@@ -28,9 +28,9 @@ http://torrentsmd.com:8080/announce
 
 http://tr.nyacat.pw:80/announce
 
-http://tracker.bittor.pw:1337/announce
+http://tracker.23794.top:6969/announce
 
-http://tracker.bt4g.com:2095/announce
+http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
 
@@ -64,8 +64,6 @@ https://1.tracker.eu.org:443/announce
 
 https://1337.abcvg.info:443/announce
 
-https://ht.therarbg.to:443/announce
-
 https://open.ftorrent.com:443/announce
 
 https://t.213891.xyz:443/announce
@@ -79,8 +77,6 @@ https://tr.burnabyhighstar.com:443/announce
 https://tr.nyacat.pw:443/announce
 
 https://tracker.7471.top:443/announce
-
-https://tracker.bt4g.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -158,6 +154,8 @@ udp://t.overflow.biz:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
 
+udp://tr.btube3.com:2010/announce
+
 udp://tr3.ysagin.top:2715/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
@@ -165,8 +163,6 @@ udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.004430.xyz:1337/announce
-
-udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.aruku.ovh:8081/announce
 
@@ -192,10 +188,6 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
-udp://tracker.fnix.net:6969/announce
-
-udp://tracker.gmi.gd:6969/announce
-
 udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.k.vu:6969/announce
@@ -204,8 +196,6 @@ udp://tracker.nyaa.net:6969/announce
 
 udp://tracker.nyaa.vc:6969/announce
 
-udp://tracker.opentorrent.top:6969/announce
-
 udp://tracker.opentrackr.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -213,8 +203,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
-
-udp://tracker.plx.im:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
