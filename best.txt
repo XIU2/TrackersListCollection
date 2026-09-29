@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
@@ -37,8 +35,6 @@ https://1337.abcvg.info:443/announce
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -139,6 +135,8 @@ udp://tracker.teambelgium.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrents.observer:80/announce
+
+udp://tracker.willy.pro:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
