@@ -14,6 +14,8 @@ http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
@@ -98,8 +100,6 @@ udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
@@ -127,8 +127,6 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
