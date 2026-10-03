@@ -10,13 +10,13 @@ http://nyaa.tracker.wf:7777/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tracker.dhitechnical.com:6969/announce
-
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -55,6 +55,8 @@ udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://evan.im:6969/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -126,7 +128,7 @@ udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
-udp://tracker.teambelgium.net:6969/announce
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
