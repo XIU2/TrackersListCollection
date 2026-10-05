@@ -18,10 +18,6 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
-
-http://tracker.qu.ax:6969/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
@@ -37,8 +33,6 @@ https://1337.abcvg.info:443/announce
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -63,6 +57,8 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://evan.im:6969/announce
 
 udp://explodie.org:6969/announce
+
+udp://kolankoalastree.newtrackon.co.nz:1337/announce
 
 udp://mail.segso.net:6969/announce
 
@@ -106,6 +102,8 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
+udp://tracker.farted.net:6969/announce
+
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
@@ -126,8 +124,6 @@ udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrents.observer:80/announce
@@ -139,6 +135,8 @@ udp://tracker.wildkat.net:6969/announce
 udp://tracker.willy.pro:6969/announce
 
 udp://tracker2.dler.org:80/announce
+
+udp://v2.iperson.xyz:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
