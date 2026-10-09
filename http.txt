@@ -10,8 +10,6 @@ http://207.241.231.226:6969/announce
 
 http://announce.sktorrent.eu:6969/announce
 
-http://asiatorrent.giize.com:51413/announce
-
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt1.archive.org:6969/announce
@@ -66,13 +64,13 @@ https://1.tracker.eu.org:443/announce
 
 https://1337.abcvg.info:443/announce
 
+https://ht.therarbg.to:443/announce
+
 https://open.ftorrent.com:443/announce
 
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -91,6 +89,8 @@ https://tracker.nekomi.cn:443/announce
 https://tracker.pmman.tech:443/announce
 
 https://tracker.qingwapt.org:443/announce
+
+https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
