@@ -12,6 +12,8 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt-tracker.de:6969/announce
 
+udp://edgev.duckdns.org:6969/announce
+
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
@@ -54,8 +56,6 @@ udp://t.overflow.biz:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
 
-udp://tr.btube3.com:2010/announce
-
 udp://tr3.ysagin.top:2715/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
@@ -74,6 +74,8 @@ udp://tracker.cn.nyaa.net:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
 
+udp://tracker.cyberia.is:6969/announce
+
 udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.dler.com:6969/announce
@@ -86,6 +88,8 @@ udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
+udp://tracker.flatuslifir.is:6969/announce
+
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
@@ -97,6 +101,8 @@ udp://tracker.k.vu:6969/announce
 udp://tracker.nyaa.net:6969/announce
 
 udp://tracker.nyaa.vc:6969/announce
+
+udp://tracker.okade.pro:1337/announce
 
 udp://tracker.opentrackr.com:6969/announce
 
@@ -115,6 +121,8 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrents.observer:80/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 

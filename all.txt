@@ -8,6 +8,8 @@ http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
 
+http://94.23.207.177:6969/announce
+
 http://announce.sktorrent.eu:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
@@ -29,6 +31,8 @@ http://t.overflow.biz:6969/announce
 http://torrentsmd.com:8080/announce
 
 http://tr.nyacat.pw:80/announce
+
+http://tracker.bittor.pw:1337/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
@@ -64,19 +68,21 @@ https://1.tracker.eu.org:443/announce
 
 https://1337.abcvg.info:443/announce
 
-https://ht.therarbg.to:443/announce
-
 https://open.ftorrent.com:443/announce
 
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
 
 https://tracker.7471.top:443/announce
+
+https://tracker.bug38.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -89,8 +95,6 @@ https://tracker.nekomi.cn:443/announce
 https://tracker.pmman.tech:443/announce
 
 https://tracker.qingwapt.org:443/announce
-
-https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -107,6 +111,8 @@ udp://admin.52ywp.com:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt-tracker.de:6969/announce
+
+udp://edgev.duckdns.org:6969/announce
 
 udp://evan.im:6969/announce
 
@@ -150,8 +156,6 @@ udp://t.overflow.biz:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
 
-udp://tr.btube3.com:2010/announce
-
 udp://tr3.ysagin.top:2715/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
@@ -170,6 +174,8 @@ udp://tracker.cn.nyaa.net:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
 
+udp://tracker.cyberia.is:6969/announce
+
 udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.dler.com:6969/announce
@@ -182,6 +188,8 @@ udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
+udp://tracker.flatuslifir.is:6969/announce
+
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
@@ -193,6 +201,8 @@ udp://tracker.k.vu:6969/announce
 udp://tracker.nyaa.net:6969/announce
 
 udp://tracker.nyaa.vc:6969/announce
+
+udp://tracker.okade.pro:1337/announce
 
 udp://tracker.opentrackr.com:6969/announce
 
@@ -211,6 +221,8 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrents.observer:80/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 
