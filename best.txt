@@ -14,8 +14,6 @@ http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
 
-http://tracker.dler.org:6969/announce
-
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.mywaifu.best:6969/announce
@@ -34,13 +32,9 @@ https://1.tracker.eu.org:443/announce
 
 https://1337.abcvg.info:443/announce
 
-https://ht.therarbg.to:443/announce
-
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -64,6 +58,8 @@ udp://bt-tracker.de:6969/announce
 
 udp://evan.im:6969/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://explodie.org:6969/announce
 
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
@@ -86,8 +82,6 @@ udp://opentracker.lain.moscow:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
@@ -106,9 +100,9 @@ udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.ducks.party:1984/announce
+udp://tracker.dler.org:6969/announce
 
-udp://tracker.gmi.gd:6969/announce
+udp://tracker.ducks.party:1984/announce
 
 udp://tracker.ilibr.org:6969/announce
 
@@ -129,6 +123,8 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 

@@ -12,6 +12,8 @@ http://94.23.207.177:6969/announce
 
 http://announce.sktorrent.eu:6969/announce
 
+http://asiatorrent.giize.com:51413/announce
+
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt1.archive.org:6969/announce
@@ -75,6 +77,8 @@ https://open.ftorrent.com:443/announce
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
