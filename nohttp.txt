@@ -8,6 +8,8 @@ udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 udp://admin.52ywp.com:6969/announce
 
+udp://archive.torrentonline.cc:42069/announce
+
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt-tracker.de:6969/announce
@@ -65,6 +67,8 @@ udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.004430.xyz:1337/announce
+
+udp://tracker.aruku.ovh:8081/announce
 
 udp://tracker.bittor.pw:1337/announce
 
@@ -135,8 +139,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://v2.iperson.xyz:6969/announce
-
-udp://whybother.torrentonline.cc:42069/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
