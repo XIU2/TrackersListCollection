@@ -32,6 +32,8 @@ http://torrentsmd.com:8080/announce
 
 http://tr.nyacat.pw:80/announce
 
+http://tracker.bittor.pw:1337/announce
+
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
@@ -76,6 +78,8 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -85,8 +89,6 @@ https://tracker.7471.top:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.kuroy.me:443/announce
-
-https://tracker.midnightprogrammer.net:443/announce
 
 https://tracker.nekomi.cn:443/announce
 
@@ -108,6 +110,8 @@ udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 udp://admin.52ywp.com:6969/announce
 
+udp://archive.torrentonline.cc:42069/announce
+
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt-tracker.de:6969/announce
@@ -121,8 +125,6 @@ udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
-
-udp://ipv6.govt.hu:6969/announce
 
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
 
@@ -158,6 +160,8 @@ udp://torrent.tracker.durukanbal.com:6969/announce
 
 udp://tr.btube3.com:2010/announce
 
+udp://tr3.ysagin.top:2715/announce
+
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -182,8 +186,6 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
-udp://tracker.farted.net:6969/announce
-
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
@@ -191,8 +193,6 @@ udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
-
-udp://tracker.k.vu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
@@ -218,6 +218,8 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrents.observer:80/announce
 
+udp://tracker.tryhackx.org:6969/announce
+
 udp://tracker.wildkat.net:6969/announce
 
 udp://tracker.willy.pro:6969/announce
@@ -235,6 +237,8 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://v2.iperson.xyz:6969/announce
+
+udp://whybother.torrentonline.cc:42069/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
