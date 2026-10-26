@@ -24,8 +24,6 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
 
-http://tracker2.dler.org:80/announce
-
 http://www.wareztorrent.com:80/announce
 
 https://004430.xyz:443/announce
@@ -62,10 +60,6 @@ udp://bt-tracker.de:6969/announce
 
 udp://evan.im:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
-udp://explodie.org:6969/announce
-
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
 
 udp://mail.segso.net:6969/announce
@@ -97,8 +91,6 @@ udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.aruku.ovh:8081/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.cn.nyaa.net:6969/announce
 
@@ -139,6 +131,8 @@ udp://tracker.wildkat.net:6969/announce
 udp://tracker.willy.pro:6969/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://v2.iperson.xyz:6969/announce
 
