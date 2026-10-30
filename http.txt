@@ -88,9 +88,9 @@ https://tracker.nekomi.cn:443/announce
 
 https://tracker.pmman.tech:443/announce
 
-https://tracker.puvvadi.net:443/announce
-
 https://tracker.qingwapt.org:443/announce
+
+https://tracker.yume-hatsuyuki.moe:443/announce
 
 https://tracker.zhuqiy.com:443/announce
 
