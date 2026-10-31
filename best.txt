@@ -12,6 +12,8 @@ http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.mywaifu.best:6969/announce
@@ -48,8 +50,6 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.qingwapt.org:443/announce
 
-https://tracker.yume-hatsuyuki.moe:443/announce
-
 https://tracker1.520.jp:443/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
@@ -57,6 +57,8 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://bt-tracker.de:6969/announce
 
 udp://evan.im:6969/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -84,6 +86,8 @@ udp://opentracker.lain.moscow:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://retracker01-msk-virt.corbina.net:80/announce
+
 udp://torrent.tracker.durukanbal.com:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
@@ -97,8 +101,6 @@ udp://tracker.cn.nyaa.net:6969/announce
 udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.dler.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
@@ -124,13 +126,9 @@ udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrents.observer:80/announce
-
-udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 
