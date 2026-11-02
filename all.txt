@@ -8,8 +8,6 @@ http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
 
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
@@ -74,11 +72,15 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
 
 https://tracker.7471.top:443/announce
+
+https://tracker.cangku.moe:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -110,11 +112,9 @@ udp://admin.52ywp.com:6969/announce
 
 udp://anime-tracker.aruku.kro.kr:8081/announce
 
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+udp://archive.torrentonline.cc:42069/announce
 
 udp://bt-tracker.de:6969/announce
-
-udp://edgev.duckdns.org:6969/announce
 
 udp://evan.im:6969/announce
 
@@ -162,10 +162,6 @@ udp://t.overflow.biz:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
 
-udp://tr.btube3.com:2010/announce
-
-udp://tr3.ysagin.top:2715/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -174,13 +170,13 @@ udp://tracker.004430.xyz:1337/announce
 
 udp://tracker.aruku.ovh:8081/announce
 
+udp://tracker.bittor.pw:1337/announce
+
 udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.cn.nyaa.net:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
-
-udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -226,6 +222,8 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrents.observer:80/announce
 
+udp://tracker.transfur.org:6969/announce
+
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
@@ -243,6 +241,8 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://v2.iperson.xyz:6969/announce
+
+udp://whybother.torrentonline.cc:42069/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
