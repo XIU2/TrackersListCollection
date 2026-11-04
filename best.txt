@@ -1,18 +1,20 @@
 http://1337.abcvg.info:80/announce
 
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
 http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://t.overflow.biz:6969/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
@@ -56,11 +58,11 @@ udp://bt-tracker.de:6969/announce
 
 udp://evan.im:6969/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://explodie.org:6969/announce
 
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
-
-udp://mail.segso.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -92,11 +94,17 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
+udp://tracker.004430.xyz:1337/announce
+
+udp://tracker.breizh.pm:6969/announce
+
 udp://tracker.cn.nyaa.net:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.dler.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
@@ -116,19 +124,13 @@ udp://tracker.opentrackr.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker.peerfect.org:6969/announce
-
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrents.observer:80/announce
-
-udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 
