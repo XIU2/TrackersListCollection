@@ -72,19 +72,21 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
 
 https://tracker.7471.top:443/announce
 
+https://tracker.augrains.com:443/announce
+
 https://tracker.cangku.moe:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.kuroy.me:443/announce
-
-https://tracker.midnightprogrammer.net:443/announce
 
 https://tracker.nekomi.cn:443/announce
 
@@ -109,6 +111,8 @@ udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 udp://admin.52ywp.com:6969/announce
 
 udp://anime-tracker.aruku.kro.kr:8081/announce
+
+udp://archive.torrentonline.cc:42069/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -162,6 +166,8 @@ udp://t.overflow.biz:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
 
+udp://tr3.ysagin.top:2715/announce
+
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -186,11 +192,9 @@ udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.flatuslifir.is:6969/announce
-
-udp://tracker.fnix.net:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.k.vu:6969/announce
 
@@ -214,13 +218,13 @@ udp://tracker.sela.st:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrents.observer:80/announce
 
 udp://tracker.transfur.org:6969/announce
-
-udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 
