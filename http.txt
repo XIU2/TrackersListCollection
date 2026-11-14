@@ -20,6 +20,8 @@ http://open.tracker.cl:1337/announce
 
 http://retracker01-msk-virt.corbina.net:80/announce
 
+http://t.overflow.biz:6969/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.nyacat.pw:80/announce
@@ -70,8 +72,6 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -89,8 +89,6 @@ https://tracker.nekomi.cn:443/announce
 https://tracker.pmman.tech:443/announce
 
 https://tracker.qingwapt.org:443/announce
-
-https://tracker.run.place:443/announce
 
 https://tracker.yume-hatsuyuki.moe:443/announce
 

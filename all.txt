@@ -20,6 +20,8 @@ http://open.tracker.cl:1337/announce
 
 http://retracker01-msk-virt.corbina.net:80/announce
 
+http://t.overflow.biz:6969/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.nyacat.pw:80/announce
@@ -70,8 +72,6 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -89,8 +89,6 @@ https://tracker.nekomi.cn:443/announce
 https://tracker.pmman.tech:443/announce
 
 https://tracker.qingwapt.org:443/announce
-
-https://tracker.run.place:443/announce
 
 https://tracker.yume-hatsuyuki.moe:443/announce
 
@@ -110,11 +108,7 @@ udp://admin.52ywp.com:6969/announce
 
 udp://announce.augrains.com:6969/announce
 
-udp://archive.torrentonline.cc:42069/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
-udp://bt-tracker.de:6969/announce
 
 udp://discover.curiousfacts.blog:6969/announce
 
@@ -160,7 +154,11 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://seedpeer.net:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://torrent.tracker.durukanbal.com:6969/announce
+
+udp://tr3.ysagin.top:2715/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -219,8 +217,6 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.sela.st:6969/announce
 
 udp://tracker.skyts.net:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
