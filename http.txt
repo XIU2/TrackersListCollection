@@ -1,14 +1,10 @@
 http://004430.xyz:80/announce
 
-http://107.189.2.131:1337/announce
-
 http://1337.abcvg.info:80/announce
 
 http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
-
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt1.archive.org:6969/announce
 
@@ -28,6 +24,8 @@ http://tr.nyacat.pw:80/announce
 
 http://tracker.23794.top:6969/announce
 
+http://tracker.bittor.pw:1337/announce
+
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
@@ -43,6 +41,8 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -72,8 +72,6 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -91,6 +89,8 @@ https://tracker.nekomi.cn:443/announce
 https://tracker.pmman.tech:443/announce
 
 https://tracker.qingwapt.org:443/announce
+
+https://tracker.vectahosting.eu:443/announce
 
 https://tracker.yume-hatsuyuki.moe:443/announce
 
