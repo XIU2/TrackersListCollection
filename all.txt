@@ -24,6 +24,8 @@ http://tr.nyacat.pw:80/announce
 
 http://tracker.23794.top:6969/announce
 
+http://tracker.bt4g.com:2095/announce
+
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
@@ -72,6 +74,8 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -79,8 +83,6 @@ https://tr.nyacat.pw:443/announce
 https://tracker.7471.top:443/announce
 
 https://tracker.augrains.com:443/announce
-
-https://tracker.cangku.moe:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -146,8 +148,6 @@ udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
 
-udp://opentracker2.lain.moscow:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -166,13 +166,13 @@ udp://t2.itrus.su:1212/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
 
+udp://tr3.ysagin.top:2715/announce
+
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.004430.xyz:1337/announce
-
-udp://tracker.23794.top:6969/announce
 
 udp://tracker.alt.cx:6969/announce
 
@@ -183,6 +183,8 @@ udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.cn.nyaa.net:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -197,8 +199,6 @@ udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
-
-udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -221,6 +221,8 @@ udp://tracker.peerfect.org:6969/announce
 udp://tracker.playground.ru:6969/announce
 
 udp://tracker.qu.ax:6969/announce
+
+udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
