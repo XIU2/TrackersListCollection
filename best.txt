@@ -6,6 +6,8 @@ http://bt2.archive.org:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://open.tracker.cl:1337/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tracker.dhitechnical.com:6969/announce
@@ -21,6 +23,8 @@ http://tracker.renfei.net:8080/announce
 http://tracker.skyts.net:6969/announce
 
 http://tracker.waaa.moe:6969/announce
+
+http://tracker2.dler.org:80/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -40,19 +44,21 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.7471.top:443/announce
 
+https://tracker.augrains.com:443/announce
+
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.kuroy.me:443/announce
 
 https://tracker.nekomi.cn:443/announce
 
-https://tracker.pmman.tech:443/announce
-
 https://tracker.qingwapt.org:443/announce
 
 https://tracker.yume-hatsuyuki.moe:443/announce
 
 https://tracker1.520.jp:443/announce
+
+udp://announce.augrains.com:6969/announce
 
 udp://discover.curiousfacts.blog:6969/announce
 
@@ -76,8 +82,6 @@ udp://open.ftorrent.com:443/announce
 
 udp://open.stealth.si:80/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
@@ -85,8 +89,6 @@ udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
 
@@ -130,19 +132,17 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrents.observer:80/announce
 
 udp://tracker.transfur.org:6969/announce
 
+udp://tracker.tryhackx.org:6969/announce
+
 udp://tracker.wildkat.net:6969/announce
 
 udp://tracker.willy.pro:6969/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://v2.iperson.xyz:6969/announce
 
