@@ -134,8 +134,6 @@ udp://explodie.org:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
-udp://ipv6.govt.hu:6969/announce
-
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
 
 udp://mail.segso.net:6969/announce
@@ -178,13 +176,13 @@ udp://t2.itrus.su:1212/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
 
-udp://tr3.ysagin.top:2715/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.004430.xyz:1337/announce
+
+udp://tracker.23794.top:6969/announce
 
 udp://tracker.alt.cx:6969/announce
 
@@ -208,8 +206,6 @@ udp://tracker.edkj.club:6969/announce
 
 udp://tracker.evergarden.uk:1914/announce
 
-udp://tracker.farted.net:6969/announce
-
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
@@ -219,8 +215,6 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.ixuexi.click:6969/announce
-
-udp://tracker.k.vu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
@@ -271,8 +265,6 @@ udp://tracker4.itzmx.com:2710/announce
 udp://v2.iperson.xyz:6969/announce
 
 udp://whybother.torrentonline.cc:42069/announce
-
-udp://yuptracker-eu.gaijinent.com:27022/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
