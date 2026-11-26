@@ -46,8 +46,6 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.lain.moscow:6969/announce
 
-udp://opentracker2.lain.moscow:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -66,19 +64,21 @@ udp://t2.itrus.su:1212/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
 
+udp://tr3.ysagin.top:2715/announce
+
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.004430.xyz:1337/announce
 
-udp://tracker.23794.top:6969/announce
-
 udp://tracker.alt.cx:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.bluefrog.pw:2710/announce
+
+udp://tracker.bunk.im:6969/announce
 
 udp://tracker.cn.nyaa.net:6969/announce
 
